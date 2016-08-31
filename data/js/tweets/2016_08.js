@@ -1,6 +1,602 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Tue Aug 30 16:54:13 +0000 2016",
+		"id": 770665941520777200,
+		"id_str": "770665941520777217",
+		"text": "Interesting - Londoners and skyscrapers: a mixed picture of acceptance and concern | https://t.co/m6J8i416eD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m6J8i416eD",
+					"expanded_url": "http://bit.ly/2coSLBA",
+					"display_url": "bit.ly/2coSLBA",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282,
+			"friends_count": 253,
+			"listed_count": 26,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 270,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33715,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/726804552159088641/5pd-jNA1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/726804552159088641/5pd-jNA1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1471806021",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 30 16:46:13 +0000 2016",
+		"id": 770663929047617500,
+		"id_str": "770663929047617536",
+		"text": "RT @FT: Brexit and the UK economy: the wisest theory is we're in a phoney war https://t.co/WQYXrB5MPE via @FTLex https://t.co/UfwNYWWpaZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FT",
+					"name": "Financial Times",
+					"id": 18949452,
+					"id_str": "18949452",
+					"indices": [
+						3,
+						6
+					]
+				},
+				{
+					"screen_name": "FTLex",
+					"name": "The Lex Column",
+					"id": 21312378,
+					"id_str": "21312378",
+					"indices": [
+						106,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WQYXrB5MPE",
+					"expanded_url": "http://on.ft.com/2c4UY0l",
+					"display_url": "on.ft.com/2c4UY0l",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 770663477488803800,
+					"id_str": "770663477488803840",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/CrHyWYEWYAAji_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrHyWYEWYAAji_B.jpg",
+					"url": "https://t.co/UfwNYWWpaZ",
+					"display_url": "pic.twitter.com/UfwNYWWpaZ",
+					"expanded_url": "https://twitter.com/FT/status/770663480890359808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 554,
+							"h": 872,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 872,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 432,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 770663480890359800,
+					"source_status_id_str": "770663480890359808",
+					"source_user_id": 18949452,
+					"source_user_id_str": "18949452"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 770663477488803800,
+					"id_str": "770663477488803840",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/CrHyWYEWYAAji_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrHyWYEWYAAji_B.jpg",
+					"url": "https://t.co/UfwNYWWpaZ",
+					"display_url": "pic.twitter.com/UfwNYWWpaZ",
+					"expanded_url": "https://twitter.com/FT/status/770663480890359808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 554,
+							"h": 872,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 872,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 432,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 770663480890359800,
+					"source_status_id_str": "770663480890359808",
+					"source_user_id": 18949452,
+					"source_user_id_str": "18949452"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282,
+			"friends_count": 253,
+			"listed_count": 26,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 270,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33715,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/726804552159088641/5pd-jNA1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/726804552159088641/5pd-jNA1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1471806021",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 30 16:44:26 +0000 2016",
+			"id": 770663480890359800,
+			"id_str": "770663480890359808",
+			"text": "Brexit and the UK economy: the wisest theory is we're in a phoney war https://t.co/WQYXrB5MPE via @FTLex https://t.co/UfwNYWWpaZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "FTLex",
+						"name": "The Lex Column",
+						"id": 21312378,
+						"id_str": "21312378",
+						"indices": [
+							98,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WQYXrB5MPE",
+						"expanded_url": "http://on.ft.com/2c4UY0l",
+						"display_url": "on.ft.com/2c4UY0l",
+						"indices": [
+							70,
+							93
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 770663477488803800,
+						"id_str": "770663477488803840",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/CrHyWYEWYAAji_B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrHyWYEWYAAji_B.jpg",
+						"url": "https://t.co/UfwNYWWpaZ",
+						"display_url": "pic.twitter.com/UfwNYWWpaZ",
+						"expanded_url": "https://twitter.com/FT/status/770663480890359808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 554,
+								"h": 872,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 554,
+								"h": 872,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 432,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 770663477488803800,
+						"id_str": "770663477488803840",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/CrHyWYEWYAAji_B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrHyWYEWYAAji_B.jpg",
+						"url": "https://t.co/UfwNYWWpaZ",
+						"display_url": "pic.twitter.com/UfwNYWWpaZ",
+						"expanded_url": "https://twitter.com/FT/status/770663480890359808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 554,
+								"h": 872,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 554,
+								"h": 872,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 432,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18949452,
+				"id_str": "18949452",
+				"name": "Financial Times",
+				"screen_name": "FT",
+				"location": "London",
+				"description": "News stories, features and updates from the FT. For headlines follow @financialtimes. Our customer service team is @FTcare.",
+				"url": "http://t.co/dnhLQpd9BY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/dnhLQpd9BY",
+								"expanded_url": "http://www.ft.com/",
+								"display_url": "ft.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2465522,
+				"friends_count": 715,
+				"listed_count": 29835,
+				"created_at": "Tue Jan 13 19:28:24 +0000 2009",
+				"favourites_count": 18,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 133330,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF1E0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/234732899/ft-twitter-back.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/234732899/ft-twitter-back.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/466972537704824832/eflEColL_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/466972537704824832/eflEColL_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18949452/1462794252",
+				"profile_link_color": "9E2F50",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E9DECF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 30 06:39:44 +0000 2016",
+		"id": 770511300397002800,
+		"id_str": "770511300397002752",
+		"text": "Surprisingly Little Evidence for the Accepted Wisdom About Teeth - https://t.co/83fCfbgtjK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/83fCfbgtjK",
+					"expanded_url": "http://nyti.ms/2bxGPKT",
+					"display_url": "nyti.ms/2bxGPKT",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282,
+			"friends_count": 253,
+			"listed_count": 26,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 270,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33715,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/726804552159088641/5pd-jNA1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/726804552159088641/5pd-jNA1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1471806021",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 29 20:29:31 +0000 2016",
 		"id": 770357737955917800,
 		"id_str": "770357737955917824",
