@@ -1,6 +1,668 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Wed Aug 31 19:58:56 +0000 2016",
+		"id": 771074816845701100,
+		"id_str": "771074816845701120",
+		"text": "RT @allriot_tshirts: The deadliest predator in the ocean is man-made https://t.co/ogLbkAGxQZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "allriot_tshirts",
+					"name": "Allriot tshirts",
+					"id": 420897126,
+					"id_str": "420897126",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 771070677436760000,
+					"id_str": "771070677436760064",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/CrNksiFWgAAx-_W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrNksiFWgAAx-_W.jpg",
+					"url": "https://t.co/ogLbkAGxQZ",
+					"display_url": "pic.twitter.com/ogLbkAGxQZ",
+					"expanded_url": "https://twitter.com/allriot_tshirts/status/771070698085285888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 512,
+							"h": 419,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 419,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 419,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 771070698085285900,
+					"source_status_id_str": "771070698085285888",
+					"source_user_id": 420897126,
+					"source_user_id_str": "420897126"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 771070677436760000,
+					"id_str": "771070677436760064",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/CrNksiFWgAAx-_W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrNksiFWgAAx-_W.jpg",
+					"url": "https://t.co/ogLbkAGxQZ",
+					"display_url": "pic.twitter.com/ogLbkAGxQZ",
+					"expanded_url": "https://twitter.com/allriot_tshirts/status/771070698085285888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 512,
+							"h": 419,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 419,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 419,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 771070698085285900,
+					"source_status_id_str": "771070698085285888",
+					"source_user_id": 420897126,
+					"source_user_id_str": "420897126"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280,
+			"friends_count": 253,
+			"listed_count": 26,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 270,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33719,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/726804552159088641/5pd-jNA1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/726804552159088641/5pd-jNA1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1471806021",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 31 19:42:34 +0000 2016",
+			"id": 771070698085285900,
+			"id_str": "771070698085285888",
+			"text": "The deadliest predator in the ocean is man-made https://t.co/ogLbkAGxQZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 771070677436760000,
+						"id_str": "771070677436760064",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/CrNksiFWgAAx-_W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrNksiFWgAAx-_W.jpg",
+						"url": "https://t.co/ogLbkAGxQZ",
+						"display_url": "pic.twitter.com/ogLbkAGxQZ",
+						"expanded_url": "https://twitter.com/allriot_tshirts/status/771070698085285888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 512,
+								"h": 419,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 512,
+								"h": 419,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 512,
+								"h": 419,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 771070677436760000,
+						"id_str": "771070677436760064",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/CrNksiFWgAAx-_W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrNksiFWgAAx-_W.jpg",
+						"url": "https://t.co/ogLbkAGxQZ",
+						"display_url": "pic.twitter.com/ogLbkAGxQZ",
+						"expanded_url": "https://twitter.com/allriot_tshirts/status/771070698085285888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 512,
+								"h": 419,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 512,
+								"h": 419,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 512,
+								"h": 419,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 420897126,
+				"id_str": "420897126",
+				"name": "Allriot tshirts",
+				"screen_name": "allriot_tshirts",
+				"location": "London",
+				"description": "ALLRIOT kickass political t-shirts: be a voice not an echo. Sweatshop Free | Free Shipping http://t.co/3hwcGOvR1v",
+				"url": "http://t.co/ZetAt5q5NP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ZetAt5q5NP",
+								"expanded_url": "http://www.allriot.com",
+								"display_url": "allriot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/3hwcGOvR1v",
+								"expanded_url": "http://www.allriot.com/shop",
+								"display_url": "allriot.com/shop",
+								"indices": [
+									91,
+									113
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 52946,
+				"friends_count": 20488,
+				"listed_count": 314,
+				"created_at": "Fri Nov 25 07:20:20 +0000 2011",
+				"favourites_count": 1984,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6424,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/496366191137398784/uBcOxBl5.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/496366191137398784/uBcOxBl5.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/469179330312953859/s8F-U6X0_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/469179330312953859/s8F-U6X0_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/420897126/1400695723",
+				"profile_link_color": "FAAC0F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 31 19:57:29 +0000 2016",
+		"id": 771074449806389200,
+		"id_str": "771074449806389249",
+		"text": "the #CrystalMaze without Richard O’Brien, just isn't right",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CrystalMaze",
+					"indices": [
+						4,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280,
+			"friends_count": 253,
+			"listed_count": 26,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 270,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33719,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/726804552159088641/5pd-jNA1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/726804552159088641/5pd-jNA1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1471806021",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 31 16:57:51 +0000 2016",
+		"id": 771029243841114100,
+		"id_str": "771029243841114116",
+		"text": "@charliejburness I've still got an hour long commute to go 😕",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "charliejburness",
+					"name": "Burnessie",
+					"id": 143071508,
+					"id_str": "143071508",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": 771022861414895600,
+		"in_reply_to_status_id_str": "771022861414895616",
+		"in_reply_to_user_id": 143071508,
+		"in_reply_to_user_id_str": "143071508",
+		"in_reply_to_screen_name": "charliejburness",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280,
+			"friends_count": 253,
+			"listed_count": 26,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 270,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33719,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/726804552159088641/5pd-jNA1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/726804552159088641/5pd-jNA1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1471806021",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 31 06:41:07 +0000 2016",
+		"id": 770874038969331700,
+		"id_str": "770874038969331713",
+		"text": "Brexit divisions emerge as Whitehall draws up leave scenarios https://t.co/L7Oy7NZgJe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L7Oy7NZgJe",
+					"expanded_url": "http://bit.ly/2bUGXDY",
+					"display_url": "bit.ly/2bUGXDY",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280,
+			"friends_count": 253,
+			"listed_count": 26,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 270,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33719,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/726804552159088641/5pd-jNA1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/726804552159088641/5pd-jNA1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1471806021",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 30 16:54:13 +0000 2016",
 		"id": 770665941520777200,
 		"id_str": "770665941520777217",
