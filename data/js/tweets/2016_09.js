@@ -1,6 +1,461 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sun Sep 04 19:22:39 +0000 2016",
+		"id": 772515236574269400,
+		"id_str": "772515236574269440",
+		"text": "Watch #LondonTown burn at 8:30pm https://t.co/XihBGyfVEe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LondonTown",
+					"indices": [
+						6,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XihBGyfVEe",
+					"expanded_url": "https://www.youtube.com/watch?v=o47qgPvXAyU&feature=youtu.be",
+					"display_url": "youtube.com/watch?v=o47qgP…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 253,
+			"listed_count": 25,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 272,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33690,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1471806021",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 04 19:04:16 +0000 2016",
+		"id": 772510610064085000,
+		"id_str": "772510610064084993",
+		"text": "RT @steenfox: 😭 https://t.co/N4HrLKOZNZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "steenfox",
+					"name": "Lil Bougie Vert",
+					"id": 30507516,
+					"id_str": "30507516",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/N4HrLKOZNZ",
+					"expanded_url": "https://vine.co/v/55z5Hr5XtH7",
+					"display_url": "vine.co/v/55z5Hr5XtH7",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 253,
+			"listed_count": 25,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 272,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33690,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1471806021",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 04 15:16:37 +0000 2016",
+			"id": 772453319025438700,
+			"id_str": "772453319025438721",
+			"text": "😭 https://t.co/N4HrLKOZNZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/N4HrLKOZNZ",
+						"expanded_url": "https://vine.co/v/55z5Hr5XtH7",
+						"display_url": "vine.co/v/55z5Hr5XtH7",
+						"indices": [
+							2,
+							25
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tweetlogix.com\" rel=\"nofollow\">Tweetlogix</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30507516,
+				"id_str": "30507516",
+				"name": "Lil Bougie Vert",
+				"screen_name": "steenfox",
+				"location": "Not today. Not ever. ☔️",
+				"description": "Purse snacks aficionado. Swag Surf enthusiast. ENFJ. I've seen Sia with her wig off. I don't like people playing on my phone.",
+				"url": "https://t.co/1GhRyUDgCP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1GhRyUDgCP",
+								"expanded_url": "http://www.clutchmagonline.com/2014/03/sexual-assault-victims-share-wearing-raped/",
+								"display_url": "clutchmagonline.com/2014/03/sexual…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30232,
+				"friends_count": 870,
+				"listed_count": 569,
+				"created_at": "Sat Apr 11 19:32:49 +0000 2009",
+				"favourites_count": 12631,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 218661,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/661616809/78y3oa01ad1szntov7q5.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/661616809/78y3oa01ad1szntov7q5.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/767531642302771200/5LbN2hyC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/767531642302771200/5LbN2hyC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30507516/1459907104",
+				"profile_link_color": "6111BD",
+				"profile_sidebar_border_color": "E9F011",
+				"profile_sidebar_fill_color": "03202B",
+				"profile_text_color": "850A85",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sun Sep 04 11:36:40 +0000 2016",
+		"id": 772397968486006800,
+		"id_str": "772397968486006784",
+		"text": "First proper go at some trail running #Polar #PolarRunning #TeamPolar #MadeToMove #DareToWin… https://t.co/qVQPoMyljl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Polar",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "PolarRunning",
+					"indices": [
+						45,
+						58
+					]
+				},
+				{
+					"text": "TeamPolar",
+					"indices": [
+						59,
+						69
+					]
+				},
+				{
+					"text": "MadeToMove",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"text": "DareToWin",
+					"indices": [
+						82,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qVQPoMyljl",
+					"expanded_url": "https://www.instagram.com/p/BJ7ryzRgFI1/",
+					"display_url": "instagram.com/p/BJ7ryzRgFI1/",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 253,
+			"listed_count": 25,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 272,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33690,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1471806021",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 03 20:53:31 +0000 2016",
 		"id": 772175714707791900,
 		"id_str": "772175714707791872",
