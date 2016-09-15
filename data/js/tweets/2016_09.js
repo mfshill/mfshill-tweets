@@ -1,6 +1,938 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 21:27:59 +0000 2016",
+		"id": 776170654789935100,
+		"id_str": "776170654789935108",
+		"text": "RT @VICE: How one highly fuckable tortoise saved his entire species from extinction: https://t.co/I89f729b0P https://t.co/LV3Tc3Auvz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VICE",
+					"name": "VICE",
+					"id": 23818581,
+					"id_str": "23818581",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/I89f729b0P",
+					"expanded_url": "http://bit.ly/2cnOf6L",
+					"display_url": "bit.ly/2cnOf6L",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 776163704257798100,
+					"id_str": "776163704257798145",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/CsV8xtfWYAEAkrL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsV8xtfWYAEAkrL.jpg",
+					"url": "https://t.co/LV3Tc3Auvz",
+					"display_url": "pic.twitter.com/LV3Tc3Auvz",
+					"expanded_url": "https://twitter.com/VICE/status/776163707147591681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1371,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 776163707147591700,
+					"source_status_id_str": "776163707147591681",
+					"source_user_id": 23818581,
+					"source_user_id_str": "23818581"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 776163704257798100,
+					"id_str": "776163704257798145",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/CsV8xtfWYAEAkrL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsV8xtfWYAEAkrL.jpg",
+					"url": "https://t.co/LV3Tc3Auvz",
+					"display_url": "pic.twitter.com/LV3Tc3Auvz",
+					"expanded_url": "https://twitter.com/VICE/status/776163707147591681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1371,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 776163707147591700,
+					"source_status_id_str": "776163707147591681",
+					"source_user_id": 23818581,
+					"source_user_id_str": "23818581"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 255,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 275,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33742,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1473795460",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 14 21:00:22 +0000 2016",
+			"id": 776163707147591700,
+			"id_str": "776163707147591681",
+			"text": "How one highly fuckable tortoise saved his entire species from extinction: https://t.co/I89f729b0P https://t.co/LV3Tc3Auvz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/I89f729b0P",
+						"expanded_url": "http://bit.ly/2cnOf6L",
+						"display_url": "bit.ly/2cnOf6L",
+						"indices": [
+							75,
+							98
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 776163704257798100,
+						"id_str": "776163704257798145",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/CsV8xtfWYAEAkrL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsV8xtfWYAEAkrL.jpg",
+						"url": "https://t.co/LV3Tc3Auvz",
+						"display_url": "pic.twitter.com/LV3Tc3Auvz",
+						"expanded_url": "https://twitter.com/VICE/status/776163707147591681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 803,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 455,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1371,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 776163704257798100,
+						"id_str": "776163704257798145",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/CsV8xtfWYAEAkrL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsV8xtfWYAEAkrL.jpg",
+						"url": "https://t.co/LV3Tc3Auvz",
+						"display_url": "pic.twitter.com/LV3Tc3Auvz",
+						"expanded_url": "https://twitter.com/VICE/status/776163707147591681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 803,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 455,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1371,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23818581,
+				"id_str": "23818581",
+				"name": "VICE",
+				"screen_name": "VICE",
+				"location": "Brooklyn, NY",
+				"description": "The definitive guide to enlightening information.",
+				"url": "http://t.co/ynuk0xrVyG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ynuk0xrVyG",
+								"expanded_url": "http://www.vice.com",
+								"display_url": "vice.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1593899,
+				"friends_count": 13003,
+				"listed_count": 15428,
+				"created_at": "Wed Mar 11 20:00:38 +0000 2009",
+				"favourites_count": 657,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 67340,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/681263517/5560e6fa257be5ef1408b3d6295390a5.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/681263517/5560e6fa257be5ef1408b3d6295390a5.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/672036189273120768/4_Esv2H4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/672036189273120768/4_Esv2H4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23818581/1469999634",
+				"profile_link_color": "077AC0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F7F3F2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 503,
+			"favorite_count": 650,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 503,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 14 19:52:22 +0000 2016",
+		"id": 776146593150038000,
+		"id_str": "776146593150038020",
+		"text": "RT @paddypower: LIKE for Spurs making a comeback and beating Monaco.\n\nRT for that scene in Uncle Buck with the drill. https://t.co/uNu47DYg…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paddypower",
+					"name": "Paddy Power",
+					"id": 14387275,
+					"id_str": "14387275",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 776144337403011100,
+					"id_str": "776144337403011072",
+					"indices": [
+						118,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CsVrKaVWYAAdo-E.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CsVrKaVWYAAdo-E.jpg",
+					"url": "https://t.co/uNu47DYgnD",
+					"display_url": "pic.twitter.com/uNu47DYgnD",
+					"expanded_url": "https://twitter.com/paddypower/status/776144735597654017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 303,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 172,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 776144735597654000,
+					"source_status_id_str": "776144735597654017",
+					"source_user_id": 14387275,
+					"source_user_id_str": "14387275"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 776144337403011100,
+					"id_str": "776144337403011072",
+					"indices": [
+						118,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CsVrKaVWYAAdo-E.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CsVrKaVWYAAdo-E.jpg",
+					"url": "https://t.co/uNu47DYgnD",
+					"display_url": "pic.twitter.com/uNu47DYgnD",
+					"expanded_url": "https://twitter.com/paddypower/status/776144735597654017/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 303,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 172,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 776144735597654000,
+					"source_status_id_str": "776144735597654017",
+					"source_user_id": 14387275,
+					"source_user_id_str": "14387275",
+					"video_info": {
+						"aspect_ratio": [
+							350,
+							177
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CsVrKaVWYAAdo-E.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 255,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 275,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33742,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1473795460",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 14 19:44:59 +0000 2016",
+			"id": 776144735597654000,
+			"id_str": "776144735597654017",
+			"text": "LIKE for Spurs making a comeback and beating Monaco.\n\nRT for that scene in Uncle Buck with the drill. https://t.co/uNu47DYgnD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 776144337403011100,
+						"id_str": "776144337403011072",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CsVrKaVWYAAdo-E.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CsVrKaVWYAAdo-E.jpg",
+						"url": "https://t.co/uNu47DYgnD",
+						"display_url": "pic.twitter.com/uNu47DYgnD",
+						"expanded_url": "https://twitter.com/paddypower/status/776144735597654017/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 700,
+								"h": 354,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 303,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 172,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 776144337403011100,
+						"id_str": "776144337403011072",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CsVrKaVWYAAdo-E.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CsVrKaVWYAAdo-E.jpg",
+						"url": "https://t.co/uNu47DYgnD",
+						"display_url": "pic.twitter.com/uNu47DYgnD",
+						"expanded_url": "https://twitter.com/paddypower/status/776144735597654017/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 700,
+								"h": 354,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 303,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 172,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								350,
+								177
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://pbs.twimg.com/tweet_video/CsVrKaVWYAAdo-E.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14387275,
+				"id_str": "14387275",
+				"name": "Paddy Power",
+				"screen_name": "paddypower",
+				"location": "Bet Now ",
+				"description": "Betting and sports news, served with a side of mischief. @AskPaddyPower for queries & assistance! Followers must be 18+.   Snapchat: thepaddypower",
+				"url": "http://t.co/EXE94MgsH8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/EXE94MgsH8",
+								"expanded_url": "http://pdy.pr/XREwqw",
+								"display_url": "pdy.pr/XREwqw",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 601250,
+				"friends_count": 3197,
+				"listed_count": 2079,
+				"created_at": "Mon Apr 14 16:36:55 +0000 2008",
+				"favourites_count": 8507,
+				"utc_offset": 3600,
+				"time_zone": "Dublin",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 157603,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "006600",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/577486347784474625/F2DNTJey.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/577486347784474625/F2DNTJey.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/628581334362005506/LPXthglL_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/628581334362005506/LPXthglL_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14387275/1468854211",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 308,
+			"favorite_count": 120,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 308,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 14 19:36:32 +0000 2016",
+		"id": 776142606602559500,
+		"id_str": "776142606602559488",
+		"text": "#work https://t.co/rur8v556yk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "work",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 776142598167822300,
+					"id_str": "776142598167822336",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/CsVplLLXgAAHXzT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsVplLLXgAAHXzT.jpg",
+					"url": "https://t.co/rur8v556yk",
+					"display_url": "pic.twitter.com/rur8v556yk",
+					"expanded_url": "https://twitter.com/mfshill/status/776142606602559488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 212,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 776142598167822300,
+					"id_str": "776142598167822336",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/CsVplLLXgAAHXzT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsVplLLXgAAHXzT.jpg",
+					"url": "https://t.co/rur8v556yk",
+					"display_url": "pic.twitter.com/rur8v556yk",
+					"expanded_url": "https://twitter.com/mfshill/status/776142606602559488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 212,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 255,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 275,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33742,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1473795460",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue Sep 13 20:25:04 +0000 2016",
 		"id": 775792432294355000,
 		"id_str": "775792432294354944",
