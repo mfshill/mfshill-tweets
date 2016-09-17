@@ -1,6 +1,1476 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 14:59:36 +0000 2016",
+		"id": 776797692659990500,
+		"id_str": "776797692659990529",
+		"text": "RT @newscientist: What you eat when you’re sick may determine if you’ll get better https://t.co/PHW0nyIOxa https://t.co/78Pkh3K8vK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "newscientist",
+					"name": "New Scientist",
+					"id": 19658826,
+					"id_str": "19658826",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PHW0nyIOxa",
+					"expanded_url": "http://bit.ly/2cBMBMA",
+					"display_url": "bit.ly/2cBMBMA",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 776789018411409400,
+					"id_str": "776789018411409409",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Cse1fyPWIAEEUdm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cse1fyPWIAEEUdm.jpg",
+					"url": "https://t.co/78Pkh3K8vK",
+					"display_url": "pic.twitter.com/78Pkh3K8vK",
+					"expanded_url": "https://twitter.com/newscientist/status/776789020605050880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 776789020605050900,
+					"source_status_id_str": "776789020605050880",
+					"source_user_id": 19658826,
+					"source_user_id_str": "19658826"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 776789018411409400,
+					"id_str": "776789018411409409",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Cse1fyPWIAEEUdm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cse1fyPWIAEEUdm.jpg",
+					"url": "https://t.co/78Pkh3K8vK",
+					"display_url": "pic.twitter.com/78Pkh3K8vK",
+					"expanded_url": "https://twitter.com/newscientist/status/776789020605050880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 776789020605050900,
+					"source_status_id_str": "776789020605050880",
+					"source_user_id": 19658826,
+					"source_user_id_str": "19658826"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 255,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 275,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1473795460",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 16 14:25:09 +0000 2016",
+			"id": 776789020605050900,
+			"id_str": "776789020605050880",
+			"text": "What you eat when you’re sick may determine if you’ll get better https://t.co/PHW0nyIOxa https://t.co/78Pkh3K8vK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PHW0nyIOxa",
+						"expanded_url": "http://bit.ly/2cBMBMA",
+						"display_url": "bit.ly/2cBMBMA",
+						"indices": [
+							65,
+							88
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 776789018411409400,
+						"id_str": "776789018411409409",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/Cse1fyPWIAEEUdm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cse1fyPWIAEEUdm.jpg",
+						"url": "https://t.co/78Pkh3K8vK",
+						"display_url": "pic.twitter.com/78Pkh3K8vK",
+						"expanded_url": "https://twitter.com/newscientist/status/776789020605050880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 776789018411409400,
+						"id_str": "776789018411409409",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/Cse1fyPWIAEEUdm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cse1fyPWIAEEUdm.jpg",
+						"url": "https://t.co/78Pkh3K8vK",
+						"display_url": "pic.twitter.com/78Pkh3K8vK",
+						"expanded_url": "https://twitter.com/newscientist/status/776789020605050880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://secure.echoboxapp.com\" rel=\"nofollow\">Echobox Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19658826,
+				"id_str": "19658826",
+				"name": "New Scientist",
+				"screen_name": "newscientist",
+				"location": "Worldwide",
+				"description": "The best place to find out what’s new in science – and why it matters. To subscribe go to: https://t.co/nsC9MjQzmh",
+				"url": "http://t.co/6LpUpVcVZt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/6LpUpVcVZt",
+								"expanded_url": "http://www.newscientist.com",
+								"display_url": "newscientist.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nsC9MjQzmh",
+								"expanded_url": "http://bit.ly/1oRKZ3H",
+								"display_url": "bit.ly/1oRKZ3H",
+								"indices": [
+									91,
+									114
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2223067,
+				"friends_count": 56,
+				"listed_count": 32084,
+				"created_at": "Wed Jan 28 16:05:49 +0000 2009",
+				"favourites_count": 14593,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 32674,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000152251610/2hsomJrk.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000152251610/2hsomJrk.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/464088830509731840/e92TpMR9_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/464088830509731840/e92TpMR9_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19658826/1399482279",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 54,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 16 14:52:44 +0000 2016",
+		"id": 776795964908724200,
+		"id_str": "776795964908724225",
+		"text": "now that is impressive! #COYG https://t.co/xZ4LLXMSOr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COYG",
+					"indices": [
+						24,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xZ4LLXMSOr",
+					"expanded_url": "https://twitter.com/Lexus7Sanchez/status/776694857502982144",
+					"display_url": "twitter.com/Lexus7Sanchez/…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 255,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 275,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1473795460",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 776694857502982100,
+		"quoted_status_id_str": "776694857502982144",
+		"quoted_status": {
+			"created_at": "Fri Sep 16 08:10:58 +0000 2016",
+			"id": 776694857502982100,
+			"id_str": "776694857502982144",
+			"text": "The Wenger era compared to Arsenal prior to his appointment [in the League]. (via: @behnisch) https://t.co/n2bY5EQ3g9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "behnisch",
+						"name": "AB",
+						"id": 6324882,
+						"id_str": "6324882",
+						"indices": [
+							83,
+							92
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 776694844404170800,
+						"id_str": "776694844404170752",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/Csdf2IuWgAAuro0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Csdf2IuWgAAuro0.jpg",
+						"url": "https://t.co/n2bY5EQ3g9",
+						"display_url": "pic.twitter.com/n2bY5EQ3g9",
+						"expanded_url": "https://twitter.com/Lexus7Sanchez/status/776694857502982144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 622,
+								"h": 730,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 622,
+								"h": 730,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 579,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 776694844404170800,
+						"id_str": "776694844404170752",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/Csdf2IuWgAAuro0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Csdf2IuWgAAuro0.jpg",
+						"url": "https://t.co/n2bY5EQ3g9",
+						"display_url": "pic.twitter.com/n2bY5EQ3g9",
+						"expanded_url": "https://twitter.com/Lexus7Sanchez/status/776694857502982144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 622,
+								"h": 730,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 622,
+								"h": 730,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 579,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 776667967744577500,
+			"in_reply_to_status_id_str": "776667967744577536",
+			"in_reply_to_user_id": 168209032,
+			"in_reply_to_user_id_str": "168209032",
+			"in_reply_to_screen_name": "Lexus7Sanchez",
+			"user": {
+				"id": 168209032,
+				"id_str": "168209032",
+				"name": "Arsènic",
+				"screen_name": "Lexus7Sanchez",
+				"location": "Crayford, London",
+				"description": "Arsenal through thick and thin. #IsYoursGold? #OneArsèneWenger - founder of @TheAFCBeII",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13406,
+				"friends_count": 845,
+				"listed_count": 228,
+				"created_at": "Sun Jul 18 18:19:00 +0000 2010",
+				"favourites_count": 490,
+				"utc_offset": 10800,
+				"time_zone": "Baghdad",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25207,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/772186068/d753a5ad460863313fac655db4b97488.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/772186068/d753a5ad460863313fac655db4b97488.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/776828155223040001/_jWEHgoF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/776828155223040001/_jWEHgoF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/168209032/1473444479",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 105,
+			"favorite_count": 87,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 16 14:50:42 +0000 2016",
+		"id": 776795451186155500,
+		"id_str": "776795451186155520",
+		"text": "RT @NetworkRailEUS: Martin Frobisher on plans to recover railway after #Watford landslip @LondonMidland @VirginTrains https://t.co/iZmJz49B…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Watford",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NetworkRailEUS",
+					"name": "London Euston",
+					"id": 581807264,
+					"id_str": "581807264",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "LondonMidland",
+					"name": "London Midland",
+					"id": 20977121,
+					"id_str": "20977121",
+					"indices": [
+						89,
+						103
+					]
+				},
+				{
+					"screen_name": "VirginTrains",
+					"name": "Virgin Trains",
+					"id": 63681020,
+					"id_str": "63681020",
+					"indices": [
+						104,
+						117
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 776776607029747700,
+					"id_str": "776776607029747712",
+					"indices": [
+						118,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/776776607029747712/pu/img/T5Crt2bkV43bxokr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/776776607029747712/pu/img/T5Crt2bkV43bxokr.jpg",
+					"url": "https://t.co/iZmJz49Br1",
+					"display_url": "pic.twitter.com/iZmJz49Br1",
+					"expanded_url": "https://twitter.com/NetworkRailEUS/status/776776954913689600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 776776954913689600,
+					"source_status_id_str": "776776954913689600",
+					"source_user_id": 581807264,
+					"source_user_id_str": "581807264"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 776776607029747700,
+					"id_str": "776776607029747712",
+					"indices": [
+						118,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/776776607029747712/pu/img/T5Crt2bkV43bxokr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/776776607029747712/pu/img/T5Crt2bkV43bxokr.jpg",
+					"url": "https://t.co/iZmJz49Br1",
+					"display_url": "pic.twitter.com/iZmJz49Br1",
+					"expanded_url": "https://twitter.com/NetworkRailEUS/status/776776954913689600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 776776954913689600,
+					"source_status_id_str": "776776954913689600",
+					"source_user_id": 581807264,
+					"source_user_id_str": "581807264",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 24567,
+						"variants": [
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/ext_tw_video/776776607029747712/pu/pl/TyXbBUp79zQWimWd.mpd"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/776776607029747712/pu/vid/1280x720/7UU-lMsGc7frmQVT.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/776776607029747712/pu/pl/TyXbBUp79zQWimWd.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/776776607029747712/pu/vid/640x360/2wKVYQiW7GFjoqXy.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/776776607029747712/pu/vid/320x180/8De-ys-o8X4VSSzC.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 581807264,
+							"id_str": "581807264",
+							"name": "London Euston",
+							"screen_name": "NetworkRailEUS",
+							"location": "",
+							"description": "London Euston is a busy railway station owned and managed by Network Rail. Feed manned Mon to Fri 0900-1700.",
+							"url": "https://t.co/NT7Jp8wkl4",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/NT7Jp8wkl4",
+											"expanded_url": "http://networkrail.co.uk/EUS",
+											"display_url": "networkrail.co.uk/EUS",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3166,
+							"friends_count": 257,
+							"listed_count": 56,
+							"created_at": "Wed May 16 12:50:09 +0000 2012",
+							"favourites_count": 432,
+							"utc_offset": 7200,
+							"time_zone": "Amsterdam",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 6042,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "323232",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/553423793/EUStwitter.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/553423793/EUStwitter.jpg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/378800000438079142/0a5a23d87e49036bc28698c559127e08_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000438079142/0a5a23d87e49036bc28698c559127e08_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/581807264/1380895549",
+							"profile_link_color": "0480A6",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 255,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 275,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1473795460",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 16 13:37:12 +0000 2016",
+			"id": 776776954913689600,
+			"id_str": "776776954913689600",
+			"text": "Martin Frobisher on plans to recover railway after #Watford landslip @LondonMidland @VirginTrains https://t.co/iZmJz49Br1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Watford",
+						"indices": [
+							51,
+							59
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LondonMidland",
+						"name": "London Midland",
+						"id": 20977121,
+						"id_str": "20977121",
+						"indices": [
+							69,
+							83
+						]
+					},
+					{
+						"screen_name": "VirginTrains",
+						"name": "Virgin Trains",
+						"id": 63681020,
+						"id_str": "63681020",
+						"indices": [
+							84,
+							97
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 776776607029747700,
+						"id_str": "776776607029747712",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/776776607029747712/pu/img/T5Crt2bkV43bxokr.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/776776607029747712/pu/img/T5Crt2bkV43bxokr.jpg",
+						"url": "https://t.co/iZmJz49Br1",
+						"display_url": "pic.twitter.com/iZmJz49Br1",
+						"expanded_url": "https://twitter.com/NetworkRailEUS/status/776776954913689600/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 776776607029747700,
+						"id_str": "776776607029747712",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/776776607029747712/pu/img/T5Crt2bkV43bxokr.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/776776607029747712/pu/img/T5Crt2bkV43bxokr.jpg",
+						"url": "https://t.co/iZmJz49Br1",
+						"display_url": "pic.twitter.com/iZmJz49Br1",
+						"expanded_url": "https://twitter.com/NetworkRailEUS/status/776776954913689600/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 24567,
+							"variants": [
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/776776607029747712/pu/pl/TyXbBUp79zQWimWd.mpd"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/776776607029747712/pu/vid/1280x720/7UU-lMsGc7frmQVT.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/776776607029747712/pu/pl/TyXbBUp79zQWimWd.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/776776607029747712/pu/vid/640x360/2wKVYQiW7GFjoqXy.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/776776607029747712/pu/vid/320x180/8De-ys-o8X4VSSzC.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 581807264,
+				"id_str": "581807264",
+				"name": "London Euston",
+				"screen_name": "NetworkRailEUS",
+				"location": "",
+				"description": "London Euston is a busy railway station owned and managed by Network Rail. Feed manned Mon to Fri 0900-1700.",
+				"url": "https://t.co/NT7Jp8wkl4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NT7Jp8wkl4",
+								"expanded_url": "http://networkrail.co.uk/EUS",
+								"display_url": "networkrail.co.uk/EUS",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3166,
+				"friends_count": 257,
+				"listed_count": 56,
+				"created_at": "Wed May 16 12:50:09 +0000 2012",
+				"favourites_count": 432,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6042,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "323232",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/553423793/EUStwitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/553423793/EUStwitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000438079142/0a5a23d87e49036bc28698c559127e08_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000438079142/0a5a23d87e49036bc28698c559127e08_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/581807264/1380895549",
+				"profile_link_color": "0480A6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 16 14:40:00 +0000 2016",
+		"id": 776792760699478000,
+		"id_str": "776792760699478020",
+		"text": "what the tube map actually looks like https://t.co/EviYM4NjDV https://t.co/QaugCmX6Hj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EviYM4NjDV",
+					"expanded_url": "https://www.whatdotheyknow.com/request/175555/response/438758/attach/3/LU%20Track%20Map.pdf",
+					"display_url": "whatdotheyknow.com/request/175555…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 776792692193919000,
+					"id_str": "776792692193918976",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/Cse41oJWgAAddWJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cse41oJWgAAddWJ.jpg",
+					"url": "https://t.co/QaugCmX6Hj",
+					"display_url": "pic.twitter.com/QaugCmX6Hj",
+					"expanded_url": "https://twitter.com/mfshill/status/776792760699478020/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 851,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1453,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 776792692193919000,
+					"id_str": "776792692193918976",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/Cse41oJWgAAddWJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cse41oJWgAAddWJ.jpg",
+					"url": "https://t.co/QaugCmX6Hj",
+					"display_url": "pic.twitter.com/QaugCmX6Hj",
+					"expanded_url": "https://twitter.com/mfshill/status/776792760699478020/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 851,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1453,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 255,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 275,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1473795460",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 16 07:06:07 +0000 2016",
+		"id": 776678534089769000,
+		"id_str": "776678534089768960",
+		"text": "working from home due to a train derailment that was caused by a landslide, looks like autumn is back with with a vengeance",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 255,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 275,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1473795460",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 15 16:56:01 +0000 2016",
 		"id": 776464602259398700,
 		"id_str": "776464602259398660",
