@@ -1,6 +1,614 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Thu Sep 22 18:41:57 +0000 2016",
+		"id": 779027973525700600,
+		"id_str": "779027973525700610",
+		"text": "black man gets killed under dodgy circumstances, ppl go out on the streets to protest, police come out in force, then the army #America",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "America",
+					"indices": [
+						127,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 254,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 281,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33810,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1473795460",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 22 17:00:36 +0000 2016",
+		"id": 779002468214636500,
+		"id_str": "779002468214636544",
+		"text": "RT @FT: Will an alarming suicide rate drive macho men on building sites to talk more? https://t.co/5ItsUPqDLy https://t.co/zUaEjoaJyE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FT",
+					"name": "Financial Times",
+					"id": 18949452,
+					"id_str": "18949452",
+					"indices": [
+						3,
+						6
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5ItsUPqDLy",
+					"expanded_url": "http://on.ft.com/2cNVtBo",
+					"display_url": "on.ft.com/2cNVtBo",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 778997839758254100,
+					"id_str": "778997839758254080",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/778997839758254080/img/17P9skqjkj3JGmTc.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/778997839758254080/img/17P9skqjkj3JGmTc.jpg",
+					"url": "https://t.co/zUaEjoaJyE",
+					"display_url": "pic.twitter.com/zUaEjoaJyE",
+					"expanded_url": "https://twitter.com/FT/status/779000822868750337/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 779000822868750300,
+					"source_status_id_str": "779000822868750337",
+					"source_user_id": 18949452,
+					"source_user_id_str": "18949452"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 778997839758254100,
+					"id_str": "778997839758254080",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/778997839758254080/img/17P9skqjkj3JGmTc.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/778997839758254080/img/17P9skqjkj3JGmTc.jpg",
+					"url": "https://t.co/zUaEjoaJyE",
+					"display_url": "pic.twitter.com/zUaEjoaJyE",
+					"expanded_url": "https://twitter.com/FT/status/779000822868750337/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 779000822868750300,
+					"source_status_id_str": "779000822868750337",
+					"source_user_id": 18949452,
+					"source_user_id_str": "18949452",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 311040,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/778997839758254080/pl/v-1fpdYmW8nHG4KF.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/778997839758254080/vid/640x360/RsgK3vMH7-f0bKNl.mp4"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/amplify_video/778997839758254080/pl/v-1fpdYmW8nHG4KF.mpd"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/778997839758254080/vid/1280x720/ZMBdyp44c85-xn94.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/778997839758254080/vid/320x180/3PXwPxW8ZIxZ0iyW.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Builders work to bolster inner wellbeing",
+						"description": "The construction sector has made advances in reducing the risk of physical injury. But faced with a startling suicide rate among workers, it has turned its attention to alleviating mental pressures",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 18949452,
+							"id_str": "18949452",
+							"name": "Financial Times",
+							"screen_name": "FT",
+							"location": "London",
+							"description": "News stories, features and updates from the FT. For headlines follow @financialtimes. Our customer service team is @FTcare.",
+							"url": "http://t.co/dnhLQpd9BY",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/dnhLQpd9BY",
+											"expanded_url": "http://www.ft.com/",
+											"display_url": "ft.com",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2486087,
+							"friends_count": 714,
+							"listed_count": 29975,
+							"created_at": "Tue Jan 13 19:28:24 +0000 2009",
+							"favourites_count": 18,
+							"utc_offset": 3600,
+							"time_zone": "London",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 135688,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFF1E0",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/234732899/ft-twitter-back.gif",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/234732899/ft-twitter-back.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/466972537704824832/eflEColL_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/466972537704824832/eflEColL_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/18949452/1462794252",
+							"profile_link_color": "9E2F50",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "E9DECF",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "#LondonTown",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 254,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 281,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33810,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771805406310043648/krKlpxSh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1473795460",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 22 16:54:03 +0000 2016",
+			"id": 779000822868750300,
+			"id_str": "779000822868750337",
+			"text": "Will an alarming suicide rate drive macho men on building sites to talk more? https://t.co/5ItsUPqDLy https://t.co/zUaEjoaJyE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5ItsUPqDLy",
+						"expanded_url": "http://on.ft.com/2cNVtBo",
+						"display_url": "on.ft.com/2cNVtBo",
+						"indices": [
+							78,
+							101
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 778997839758254100,
+						"id_str": "778997839758254080",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/778997839758254080/img/17P9skqjkj3JGmTc.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/778997839758254080/img/17P9skqjkj3JGmTc.jpg",
+						"url": "https://t.co/zUaEjoaJyE",
+						"display_url": "pic.twitter.com/zUaEjoaJyE",
+						"expanded_url": "https://twitter.com/FT/status/779000822868750337/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 778997839758254100,
+						"id_str": "778997839758254080",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/778997839758254080/img/17P9skqjkj3JGmTc.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/778997839758254080/img/17P9skqjkj3JGmTc.jpg",
+						"url": "https://t.co/zUaEjoaJyE",
+						"display_url": "pic.twitter.com/zUaEjoaJyE",
+						"expanded_url": "https://twitter.com/FT/status/779000822868750337/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 311040,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/778997839758254080/pl/v-1fpdYmW8nHG4KF.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/778997839758254080/vid/640x360/RsgK3vMH7-f0bKNl.mp4"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/amplify_video/778997839758254080/pl/v-1fpdYmW8nHG4KF.mpd"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/778997839758254080/vid/1280x720/ZMBdyp44c85-xn94.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/778997839758254080/vid/320x180/3PXwPxW8ZIxZ0iyW.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Builders work to bolster inner wellbeing",
+							"description": "The construction sector has made advances in reducing the risk of physical injury. But faced with a startling suicide rate among workers, it has turned its attention to alleviating mental pressures",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18949452,
+				"id_str": "18949452",
+				"name": "Financial Times",
+				"screen_name": "FT",
+				"location": "London",
+				"description": "News stories, features and updates from the FT. For headlines follow @financialtimes. Our customer service team is @FTcare.",
+				"url": "http://t.co/dnhLQpd9BY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/dnhLQpd9BY",
+								"expanded_url": "http://www.ft.com/",
+								"display_url": "ft.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2486087,
+				"friends_count": 714,
+				"listed_count": 29975,
+				"created_at": "Tue Jan 13 19:28:24 +0000 2009",
+				"favourites_count": 18,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 135688,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF1E0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/234732899/ft-twitter-back.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/234732899/ft-twitter-back.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/466972537704824832/eflEColL_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/466972537704824832/eflEColL_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18949452/1462794252",
+				"profile_link_color": "9E2F50",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E9DECF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 21 21:35:31 +0000 2016",
 		"id": 778709267939414000,
 		"id_str": "778709267939414017",
