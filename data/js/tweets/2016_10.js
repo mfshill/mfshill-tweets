@@ -1,6 +1,1329 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 20 20:31:13 +0000 2016",
+		"id": 789202334232567800,
+		"id_str": "789202334232567808",
+		"text": "can't use a calculator.... amazing #TheApprentice",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheApprentice",
+					"indices": [
+						35,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 291,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33989,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781952406473076736/lVCUZXxb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781952406473076736/lVCUZXxb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1475426801",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 20 20:28:04 +0000 2016",
+		"id": 789201538279350300,
+		"id_str": "789201538279350276",
+		"text": "trying to watch #theapprentice again, it's painful",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "theapprentice",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 291,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33989,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781952406473076736/lVCUZXxb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781952406473076736/lVCUZXxb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1475426801",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 20 19:04:39 +0000 2016",
+		"id": 789180547155173400,
+		"id_str": "789180547155173376",
+		"text": "RT @double_cupp_me: We gone sit here and act like Hillary Clinton ain't been representing Death Row Records at all 3 debates? https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "double_cupp_me",
+					"name": "NetflixNextDoor",
+					"id": 2175089826,
+					"id_str": "2175089826",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 291,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33989,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781952406473076736/lVCUZXxb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781952406473076736/lVCUZXxb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1475426801",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 20 12:57:13 +0000 2016",
+			"id": 789088080426831900,
+			"id_str": "789088080426831872",
+			"text": "We gone sit here and act like Hillary Clinton ain't been representing Death Row Records at all 3 debates? https://t.co/z6ZWzQJ6O6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 789088072008949800,
+						"id_str": "789088072008949760",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/CvNna7SXYAAheV4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvNna7SXYAAheV4.jpg",
+						"url": "https://t.co/z6ZWzQJ6O6",
+						"display_url": "pic.twitter.com/z6ZWzQJ6O6",
+						"expanded_url": "https://twitter.com/double_cupp_me/status/789088080426831872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1936,
+								"h": 1936,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 789088072008949800,
+						"id_str": "789088072008949760",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/CvNna7SXYAAheV4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvNna7SXYAAheV4.jpg",
+						"url": "https://t.co/z6ZWzQJ6O6",
+						"display_url": "pic.twitter.com/z6ZWzQJ6O6",
+						"expanded_url": "https://twitter.com/double_cupp_me/status/789088080426831872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1936,
+								"h": 1936,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 789088071954423800,
+						"id_str": "789088071954423808",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/CvNna7FXYAA5El3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvNna7FXYAA5El3.jpg",
+						"url": "https://t.co/z6ZWzQJ6O6",
+						"display_url": "pic.twitter.com/z6ZWzQJ6O6",
+						"expanded_url": "https://twitter.com/double_cupp_me/status/789088080426831872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 744,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 527,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 744,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 789088072008921100,
+						"id_str": "789088072008921088",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/CvNna7SW8AA1E8O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvNna7SW8AA1E8O.jpg",
+						"url": "https://t.co/z6ZWzQJ6O6",
+						"display_url": "pic.twitter.com/z6ZWzQJ6O6",
+						"expanded_url": "https://twitter.com/double_cupp_me/status/789088080426831872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 789088072004755500,
+						"id_str": "789088072004755457",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/CvNna7RXYAETeEI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvNna7RXYAETeEI.jpg",
+						"url": "https://t.co/z6ZWzQJ6O6",
+						"display_url": "pic.twitter.com/z6ZWzQJ6O6",
+						"expanded_url": "https://twitter.com/double_cupp_me/status/789088080426831872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1936,
+								"h": 1936,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2175089826,
+				"id_str": "2175089826",
+				"name": "NetflixNextDoor",
+				"screen_name": "double_cupp_me",
+				"location": "Forrest Chill Drive, AR",
+				"description": "somebody RT'd me then you saw my fye ass avi and creeped my page. you might as well follow now. aye add me on snap too tho doublecuppme 👻",
+				"url": "https://t.co/RU0e0ACH6b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RU0e0ACH6b",
+								"expanded_url": "http://blackgoldluxury.com",
+								"display_url": "blackgoldluxury.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3248,
+				"friends_count": 1335,
+				"listed_count": 30,
+				"created_at": "Tue Nov 05 01:22:59 +0000 2013",
+				"favourites_count": 1734,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 84083,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784051447440605184/ApZpkPyU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784051447440605184/ApZpkPyU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2175089826/1462052122",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54899,
+			"favorite_count": 69407,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 54899,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 20 19:02:20 +0000 2016",
+		"id": 789179963941326800,
+		"id_str": "789179963941326848",
+		"text": "RT @Channel4News: Gun-loving, god-fearing, and the greatest country in the world?\n \nThis is what America would look like if it were a natio…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Channel4News",
+					"name": "Channel 4 News",
+					"id": 14569869,
+					"id_str": "14569869",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 291,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33989,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781952406473076736/lVCUZXxb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781952406473076736/lVCUZXxb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1475426801",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 20 19:00:06 +0000 2016",
+			"id": 789179403523674100,
+			"id_str": "789179403523674114",
+			"text": "Gun-loving, god-fearing, and the greatest country in the world?\n \nThis is what America would look like if it were a… https://t.co/0esbJAV47O",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0esbJAV47O",
+						"expanded_url": "https://twitter.com/i/web/status/789179403523674114",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14569869,
+				"id_str": "14569869",
+				"name": "Channel 4 News",
+				"screen_name": "Channel4News",
+				"location": "",
+				"description": "Stories that reveal and inspire, challenging expectations. Watch our best video: https://t.co/VTHFBL5J3A",
+				"url": "http://t.co/YO0ZZvoyrC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YO0ZZvoyrC",
+								"expanded_url": "http://www.channel4.com/news",
+								"display_url": "channel4.com/news",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VTHFBL5J3A",
+								"expanded_url": "http://j.mp/4NewsYoutube",
+								"display_url": "j.mp/4NewsYoutube",
+								"indices": [
+									81,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1235999,
+				"friends_count": 3258,
+				"listed_count": 8013,
+				"created_at": "Mon Apr 28 14:29:37 +0000 2008",
+				"favourites_count": 394,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 82562,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2C1C36",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/648955077240164352/qBTtGdoJ.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/648955077240164352/qBTtGdoJ.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/670009107924037634/D7bwdn6Q_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/670009107924037634/D7bwdn6Q_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14569869/1464103587",
+				"profile_link_color": "3C105E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FAF0F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 113,
+			"favorite_count": 101,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 20 18:28:47 +0000 2016",
+		"id": 789171522300629000,
+		"id_str": "789171522300628994",
+		"text": "RT @BigSportGB: Ronnie O'Sullivan not understanding how virtual reality works is our favourite thing right now... \nhttps://t.co/HyGVygfcWl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BigSportGB",
+					"name": "BigSport",
+					"id": 267084551,
+					"id_str": "267084551",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 788689173062582300,
+					"id_str": "788689173062582272",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/788689173062582272/pu/img/3LhE2ZTszrL08z9H.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/788689173062582272/pu/img/3LhE2ZTszrL08z9H.jpg",
+					"url": "https://t.co/HyGVygfcWl",
+					"display_url": "pic.twitter.com/HyGVygfcWl",
+					"expanded_url": "https://twitter.com/JohnConway30/status/788689469742383104/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788689469742383100,
+					"source_status_id_str": "788689469742383104",
+					"source_user_id": 3548150236,
+					"source_user_id_str": "3548150236"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 788689173062582300,
+					"id_str": "788689173062582272",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/788689173062582272/pu/img/3LhE2ZTszrL08z9H.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/788689173062582272/pu/img/3LhE2ZTszrL08z9H.jpg",
+					"url": "https://t.co/HyGVygfcWl",
+					"display_url": "pic.twitter.com/HyGVygfcWl",
+					"expanded_url": "https://twitter.com/JohnConway30/status/788689469742383104/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788689469742383100,
+					"source_status_id_str": "788689469742383104",
+					"source_user_id": 3548150236,
+					"source_user_id_str": "3548150236",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 17000,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/788689173062582272/pu/vid/320x180/DSWWFBCCRvYeUZz0.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/788689173062582272/pu/vid/1280x720/cNfGSgm_xjWNm4sn.mp4"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/ext_tw_video/788689173062582272/pu/pl/VdFn3W8ctZuyyZFd.mpd"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/788689173062582272/pu/vid/640x360/Z6QfaA4OW64oKiDE.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/788689173062582272/pu/pl/VdFn3W8ctZuyyZFd.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3548150236,
+							"id_str": "3548150236",
+							"name": "John",
+							"screen_name": "JohnConway30",
+							"location": "London, England",
+							"description": "Please note: this is a parody and has no affiliation to the real John Conway whatsoever.\n\nChelsea.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 304,
+							"friends_count": 107,
+							"listed_count": 6,
+							"created_at": "Fri Sep 04 20:10:34 +0000 2015",
+							"favourites_count": 1077,
+							"utc_offset": -25200,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 2037,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/778508011572695040/o4_KG0wp_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/778508011572695040/o4_KG0wp_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3548150236/1474024503",
+							"profile_link_color": "ABB8C2",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 291,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33989,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781952406473076736/lVCUZXxb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781952406473076736/lVCUZXxb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1475426801",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 20 18:00:04 +0000 2016",
+			"id": 789164293870661600,
+			"id_str": "789164293870661633",
+			"text": "Ronnie O'Sullivan not understanding how virtual reality works is our favourite thing right now... \nhttps://t.co/HyGVygfcWl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 788689173062582300,
+						"id_str": "788689173062582272",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/788689173062582272/pu/img/3LhE2ZTszrL08z9H.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/788689173062582272/pu/img/3LhE2ZTszrL08z9H.jpg",
+						"url": "https://t.co/HyGVygfcWl",
+						"display_url": "pic.twitter.com/HyGVygfcWl",
+						"expanded_url": "https://twitter.com/JohnConway30/status/788689469742383104/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 788689469742383100,
+						"source_status_id_str": "788689469742383104",
+						"source_user_id": 3548150236,
+						"source_user_id_str": "3548150236"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 788689173062582300,
+						"id_str": "788689173062582272",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/788689173062582272/pu/img/3LhE2ZTszrL08z9H.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/788689173062582272/pu/img/3LhE2ZTszrL08z9H.jpg",
+						"url": "https://t.co/HyGVygfcWl",
+						"display_url": "pic.twitter.com/HyGVygfcWl",
+						"expanded_url": "https://twitter.com/JohnConway30/status/788689469742383104/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 788689469742383100,
+						"source_status_id_str": "788689469742383104",
+						"source_user_id": 3548150236,
+						"source_user_id_str": "3548150236",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 17000,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/788689173062582272/pu/vid/320x180/DSWWFBCCRvYeUZz0.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/788689173062582272/pu/vid/1280x720/cNfGSgm_xjWNm4sn.mp4"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/788689173062582272/pu/pl/VdFn3W8ctZuyyZFd.mpd"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/788689173062582272/pu/vid/640x360/Z6QfaA4OW64oKiDE.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/788689173062582272/pu/pl/VdFn3W8ctZuyyZFd.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 3548150236,
+								"id_str": "3548150236",
+								"name": "John",
+								"screen_name": "JohnConway30",
+								"location": "London, England",
+								"description": "Please note: this is a parody and has no affiliation to the real John Conway whatsoever.\n\nChelsea.",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 304,
+								"friends_count": 107,
+								"listed_count": 6,
+								"created_at": "Fri Sep 04 20:10:34 +0000 2015",
+								"favourites_count": 1077,
+								"utc_offset": -25200,
+								"time_zone": "Pacific Time (US & Canada)",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 2037,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/778508011572695040/o4_KG0wp_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/778508011572695040/o4_KG0wp_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/3548150236/1474024503",
+								"profile_link_color": "ABB8C2",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 267084551,
+				"id_str": "267084551",
+				"name": "BigSport",
+				"screen_name": "BigSportGB",
+				"location": "",
+				"description": "All sport! All the time! ⚽️🏉🏀🏈🎾⛳️Follow us on: https://t.co/RGaNtl4IiF https://t.co/hGBDxQPc6C",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RGaNtl4IiF",
+								"expanded_url": "http://instagram.com/bigsportgb",
+								"display_url": "instagram.com/bigsportgb",
+								"indices": [
+									47,
+									70
+								]
+							},
+							{
+								"url": "https://t.co/hGBDxQPc6C",
+								"expanded_url": "http://facebook.com/bigsportgb",
+								"display_url": "facebook.com/bigsportgb",
+								"indices": [
+									71,
+									94
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 79600,
+				"friends_count": 1174,
+				"listed_count": 373,
+				"created_at": "Wed Mar 16 09:15:31 +0000 2011",
+				"favourites_count": 9307,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 999,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/763867436303155201/2oG3H2a3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/763867436303155201/2oG3H2a3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/267084551/1476710740",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6031,
+			"favorite_count": 4887,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6031,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 19 20:28:54 +0000 2016",
 		"id": 788839362683437000,
 		"id_str": "788839362683437056",
