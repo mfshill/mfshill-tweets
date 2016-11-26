@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Fri Nov 25 22:07:43 +0000 2016",
+		"id": 802272580170379300,
+		"id_str": "802272580170379264",
+		"text": "2nd episode of #TheGrandTour is the worst episode of TopGear I've had the misfortune of seeing. only finished it because I've paid for prime",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheGrandTour",
+					"indices": [
+						15,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 259,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 326,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34308,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1477226299",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 25 08:17:41 +0000 2016",
+		"id": 802063696457564200,
+		"id_str": "802063696457564164",
+		"text": "RT @DeeperShades: The Deeper Shades Of House podcast is now available on Google Play Music! https://t.co/YsQDs0W0sU https://t.co/HhEhAW5kWD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DeeperShades",
+					"name": "Deeper Shades #DSOH",
+					"id": 18571538,
+					"id_str": "18571538",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YsQDs0W0sU",
+					"expanded_url": "https://play.google.com/music/m/Iyrihbe2j3obxiq7tr3hh5f2gbi?t=Deeper_Shades_of_House_-_Deep_House_Podcast_with_Lars_Behrenroth",
+					"display_url": "play.google.com/music/m/Iyrihb…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 802062534429655000,
+					"id_str": "802062534429655040",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/CyF_oCRUQAArFE-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CyF_oCRUQAArFE-.jpg",
+					"url": "https://t.co/HhEhAW5kWD",
+					"display_url": "pic.twitter.com/HhEhAW5kWD",
+					"expanded_url": "https://twitter.com/DeeperShades/status/802062537416003584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 802062537416003600,
+					"source_status_id_str": "802062537416003584",
+					"source_user_id": 18571538,
+					"source_user_id_str": "18571538"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 802062534429655000,
+					"id_str": "802062534429655040",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/CyF_oCRUQAArFE-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CyF_oCRUQAArFE-.jpg",
+					"url": "https://t.co/HhEhAW5kWD",
+					"display_url": "pic.twitter.com/HhEhAW5kWD",
+					"expanded_url": "https://twitter.com/DeeperShades/status/802062537416003584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 802062537416003600,
+					"source_status_id_str": "802062537416003584",
+					"source_user_id": 18571538,
+					"source_user_id_str": "18571538"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 259,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 326,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34308,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1477226299",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 25 08:13:05 +0000 2016",
+			"id": 802062537416003600,
+			"id_str": "802062537416003584",
+			"text": "The Deeper Shades Of House podcast is now available on Google Play Music! https://t.co/YsQDs0W0sU https://t.co/HhEhAW5kWD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YsQDs0W0sU",
+						"expanded_url": "https://play.google.com/music/m/Iyrihbe2j3obxiq7tr3hh5f2gbi?t=Deeper_Shades_of_House_-_Deep_House_Podcast_with_Lars_Behrenroth",
+						"display_url": "play.google.com/music/m/Iyrihb…",
+						"indices": [
+							74,
+							97
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 802062534429655000,
+						"id_str": "802062534429655040",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/CyF_oCRUQAArFE-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyF_oCRUQAArFE-.jpg",
+						"url": "https://t.co/HhEhAW5kWD",
+						"display_url": "pic.twitter.com/HhEhAW5kWD",
+						"expanded_url": "https://twitter.com/DeeperShades/status/802062537416003584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 802062534429655000,
+						"id_str": "802062534429655040",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/CyF_oCRUQAArFE-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyF_oCRUQAArFE-.jpg",
+						"url": "https://t.co/HhEhAW5kWD",
+						"display_url": "pic.twitter.com/HhEhAW5kWD",
+						"expanded_url": "https://twitter.com/DeeperShades/status/802062537416003584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.deepershades.net\" rel=\"nofollow\">Deeper Shades Site</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18571538,
+				"id_str": "18571538",
+				"name": "Deeper Shades #DSOH",
+				"screen_name": "DeeperShades",
+				"location": "Los Angeles, CA",
+				"description": "Deeper Shades T-Shirts available at https://t.co/dfV4nUaNjj -- New Deeper Shades Of House Radio show at https://t.co/91ucwBMM15",
+				"url": "https://t.co/wDSxv5YuF0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wDSxv5YuF0",
+								"expanded_url": "http://www.deepershades.net",
+								"display_url": "deepershades.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dfV4nUaNjj",
+								"expanded_url": "http://shirts.deepershades.net",
+								"display_url": "shirts.deepershades.net",
+								"indices": [
+									36,
+									59
+								]
+							},
+							{
+								"url": "https://t.co/91ucwBMM15",
+								"expanded_url": "http://deepershades.net/549",
+								"display_url": "deepershades.net/549",
+								"indices": [
+									104,
+									127
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 44221,
+				"friends_count": 74,
+				"listed_count": 299,
+				"created_at": "Sat Jan 03 03:08:25 +0000 2009",
+				"favourites_count": 174,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 41112,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/69412835/DSR_Square312_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/69412835/DSR_Square312_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18571538/1403474704",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "969696",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 23 22:27:47 +0000 2016",
 		"id": 801552855652061200,
 		"id_str": "801552855652061186",
