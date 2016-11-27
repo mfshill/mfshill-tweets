@@ -1,6 +1,995 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sun Nov 27 01:11:53 +0000 2016",
+		"id": 802681317221613600,
+		"id_str": "802681317221613568",
+		"text": "#HolidayHole https://t.co/sQ8dmXBaNr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HolidayHole",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sQ8dmXBaNr",
+					"expanded_url": "https://holidayhole.com/",
+					"display_url": "holidayhole.com",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 259,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 327,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34313,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1477226299",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sat Nov 26 22:31:01 +0000 2016",
+		"id": 802640834474680300,
+		"id_str": "802640834474680320",
+		"text": "RT @Pinkbaby020304: https://t.co/RrZ1Vsl4fV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Pinkbaby020304",
+					"name": "pinkbaby020304",
+					"id": 396938775,
+					"id_str": "396938775",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 802464654291243000,
+					"id_str": "802464654291243008",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CyLtWffWEAAUPBj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CyLtWffWEAAUPBj.jpg",
+					"url": "https://t.co/RrZ1Vsl4fV",
+					"display_url": "pic.twitter.com/RrZ1Vsl4fV",
+					"expanded_url": "https://twitter.com/Pinkbaby020304/status/802464696846716928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 802464696846716900,
+					"source_status_id_str": "802464696846716928",
+					"source_user_id": 396938775,
+					"source_user_id_str": "396938775"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 802464654291243000,
+					"id_str": "802464654291243008",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CyLtWffWEAAUPBj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CyLtWffWEAAUPBj.jpg",
+					"url": "https://t.co/RrZ1Vsl4fV",
+					"display_url": "pic.twitter.com/RrZ1Vsl4fV",
+					"expanded_url": "https://twitter.com/Pinkbaby020304/status/802464696846716928/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 802464696846716900,
+					"source_status_id_str": "802464696846716928",
+					"source_user_id": 396938775,
+					"source_user_id_str": "396938775",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CyLtWffWEAAUPBj.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 259,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 327,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34313,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1477226299",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 26 10:51:07 +0000 2016",
+			"id": 802464696846716900,
+			"id_str": "802464696846716928",
+			"text": "https://t.co/RrZ1Vsl4fV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 802464654291243000,
+						"id_str": "802464654291243008",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CyLtWffWEAAUPBj.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CyLtWffWEAAUPBj.jpg",
+						"url": "https://t.co/RrZ1Vsl4fV",
+						"display_url": "pic.twitter.com/RrZ1Vsl4fV",
+						"expanded_url": "https://twitter.com/Pinkbaby020304/status/802464696846716928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 360,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 360,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 802464654291243000,
+						"id_str": "802464654291243008",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CyLtWffWEAAUPBj.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CyLtWffWEAAUPBj.jpg",
+						"url": "https://t.co/RrZ1Vsl4fV",
+						"display_url": "pic.twitter.com/RrZ1Vsl4fV",
+						"expanded_url": "https://twitter.com/Pinkbaby020304/status/802464696846716928/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 360,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 360,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://pbs.twimg.com/tweet_video/CyLtWffWEAAUPBj.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 396938775,
+				"id_str": "396938775",
+				"name": "pinkbaby020304",
+				"screen_name": "Pinkbaby020304",
+				"location": "London, England",
+				"description": "ᴰᴵᴱ ᴮᴱᶠᴼᴿᴱ ᵞᴼᵁ ᴰᴵᴱ ᴸıᵛᴱ ᴬˢ ıᶠ ᵞᴼᵁ'ᵛᴱ ᴺᴱᵛᴱᴿ ᴮᴱᴱᴺ ᴮᴼᴿᴺ☕️🍷🎭 ART🎨, SURREALISM, Black&White, WINE lover, femininity, Solipsism, PERFUME, Photography, TRANCE🎼🎹",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2182,
+				"friends_count": 1967,
+				"listed_count": 65,
+				"created_at": "Mon Oct 24 00:32:26 +0000 2011",
+				"favourites_count": 2601,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4391,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/802224121585238016/KC6uLHXM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/802224121585238016/KC6uLHXM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/396938775/1480207864",
+				"profile_link_color": "FF00C4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 24,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sat Nov 26 22:29:09 +0000 2016",
+		"id": 802640361265004500,
+		"id_str": "802640361265004544",
+		"text": "Terence Conran is a bit of a legend #Artsnight",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Artsnight",
+					"indices": [
+						36,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 259,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 327,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34313,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1477226299",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 26 22:15:45 +0000 2016",
+		"id": 802636990407643100,
+		"id_str": "802636990407643137",
+		"text": "Watching #Artsnight on BBC2. they're showcasing Brits that designed the modern world. WHY THE FUCK IS https://t.co/OWO4ByNRFg ON THIS?!!!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Artsnight",
+					"indices": [
+						9,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OWO4ByNRFg",
+					"expanded_url": "http://WILL.I.AM",
+					"display_url": "WILL.I.AM",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 259,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 327,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34313,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1477226299",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 26 17:54:35 +0000 2016",
+		"id": 802571264082714600,
+		"id_str": "802571264082714624",
+		"text": "Here’s what cities can learn from 461 Dean, the world’s tallest modular building https://t.co/QKkexs0J70",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QKkexs0J70",
+					"expanded_url": "https://www.wired.com/2016/11/cities-can-learn-worlds-tallest-modular-building/",
+					"display_url": "wired.com/2016/11/cities…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 259,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 327,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34313,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1477226299",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 26 13:52:48 +0000 2016",
+		"id": 802510418866356200,
+		"id_str": "802510418866356224",
+		"text": "@Jamie_Dodger_ you lot v Chelsea is going to be interesting",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jamie_Dodger_",
+					"name": "Jamie_Dodger_",
+					"id": 27925847,
+					"id_str": "27925847",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": 802492712628998100,
+		"in_reply_to_status_id_str": "802492712628998144",
+		"in_reply_to_user_id": 27925847,
+		"in_reply_to_user_id_str": "27925847",
+		"in_reply_to_screen_name": "Jamie_Dodger_",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 259,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 327,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34313,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1477226299",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 26 13:51:57 +0000 2016",
+		"id": 802510203149226000,
+		"id_str": "802510203149225984",
+		"text": "@Jamie_Dodger_ nice selection, some good odds as well.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jamie_Dodger_",
+					"name": "Jamie_Dodger_",
+					"id": 27925847,
+					"id_str": "27925847",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": 802492689044435000,
+		"in_reply_to_status_id_str": "802492689044434944",
+		"in_reply_to_user_id": 27925847,
+		"in_reply_to_user_id_str": "27925847",
+		"in_reply_to_screen_name": "Jamie_Dodger_",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 259,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 327,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34313,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1477226299",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 25 22:07:43 +0000 2016",
 		"id": 802272580170379300,
 		"id_str": "802272580170379264",
