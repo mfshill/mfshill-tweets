@@ -1,6 +1,1429 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Mon Dec 05 21:42:34 +0000 2016",
+		"id": 805890130657607700,
+		"id_str": "805890130657607680",
+		"text": "RT @djboptics: A rare photo of The Flat Earth Society doing maintenance on the Moon. Most likely replacement of the light bulb. https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "djboptics",
+					"name": "djb",
+					"id": 2276844320,
+					"id_str": "2276844320",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 339,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34393,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1477226299",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 05 11:30:16 +0000 2016",
+			"id": 805736038786363400,
+			"id_str": "805736038786363393",
+			"text": "A rare photo of The Flat Earth Society doing maintenance on the Moon. Most likely replacement of the light bulb. https://t.co/mDkxSClGOC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 805736030863237100,
+						"id_str": "805736030863237120",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/Cy6Mpq5WIAA8XNA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cy6Mpq5WIAA8XNA.jpg",
+						"url": "https://t.co/mDkxSClGOC",
+						"display_url": "pic.twitter.com/mDkxSClGOC",
+						"expanded_url": "https://twitter.com/djboptics/status/805736038786363393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 667,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 667,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 805736030863237100,
+						"id_str": "805736030863237120",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/Cy6Mpq5WIAA8XNA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cy6Mpq5WIAA8XNA.jpg",
+						"url": "https://t.co/mDkxSClGOC",
+						"display_url": "pic.twitter.com/mDkxSClGOC",
+						"expanded_url": "https://twitter.com/djboptics/status/805736038786363393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 667,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 667,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2276844320,
+				"id_str": "2276844320",
+				"name": "djb",
+				"screen_name": "djboptics",
+				"location": "Myrtle Beach, SC ",
+				"description": "-Originally from Pittsburgh, Pa. (Baldwin)\n-Science (astronomy)\n-Proud atheist\n-Nature lover\n-Love reading\n-Metal Head!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 972,
+				"friends_count": 957,
+				"listed_count": 31,
+				"created_at": "Sun Jan 05 00:37:57 +0000 2014",
+				"favourites_count": 15012,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19702,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/801445137486401546/GWaRQP4Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/801445137486401546/GWaRQP4Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2276844320/1472938211",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 698,
+			"favorite_count": 1014,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 698,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Dec 05 19:08:27 +0000 2016",
+		"id": 805851346956091400,
+		"id_str": "805851346956091396",
+		"text": "RT @VICE: So, let's talk about that 'Westworld' finale: https://t.co/Vi3qc9zdyq https://t.co/qj1UsOnxSq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VICE",
+					"name": "VICE",
+					"id": 23818581,
+					"id_str": "23818581",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Vi3qc9zdyq",
+					"expanded_url": "http://bit.ly/2gYWqo6",
+					"display_url": "bit.ly/2gYWqo6",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 805848839865274400,
+					"id_str": "805848839865274368",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Cy7zQBLUkAANV8T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cy7zQBLUkAANV8T.jpg",
+					"url": "https://t.co/qj1UsOnxSq",
+					"display_url": "pic.twitter.com/qj1UsOnxSq",
+					"expanded_url": "https://twitter.com/VICE/status/805848842310746113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 805848842310746100,
+					"source_status_id_str": "805848842310746113",
+					"source_user_id": 23818581,
+					"source_user_id_str": "23818581"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 805848839865274400,
+					"id_str": "805848839865274368",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Cy7zQBLUkAANV8T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cy7zQBLUkAANV8T.jpg",
+					"url": "https://t.co/qj1UsOnxSq",
+					"display_url": "pic.twitter.com/qj1UsOnxSq",
+					"expanded_url": "https://twitter.com/VICE/status/805848842310746113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 805848842310746100,
+					"source_status_id_str": "805848842310746113",
+					"source_user_id": 23818581,
+					"source_user_id_str": "23818581"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 339,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34393,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1477226299",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 05 18:58:30 +0000 2016",
+			"id": 805848842310746100,
+			"id_str": "805848842310746113",
+			"text": "So, let's talk about that 'Westworld' finale: https://t.co/Vi3qc9zdyq https://t.co/qj1UsOnxSq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Vi3qc9zdyq",
+						"expanded_url": "http://bit.ly/2gYWqo6",
+						"display_url": "bit.ly/2gYWqo6",
+						"indices": [
+							46,
+							69
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 805848839865274400,
+						"id_str": "805848839865274368",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/Cy7zQBLUkAANV8T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cy7zQBLUkAANV8T.jpg",
+						"url": "https://t.co/qj1UsOnxSq",
+						"display_url": "pic.twitter.com/qj1UsOnxSq",
+						"expanded_url": "https://twitter.com/VICE/status/805848842310746113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 666,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 666,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 805848839865274400,
+						"id_str": "805848839865274368",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/Cy7zQBLUkAANV8T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cy7zQBLUkAANV8T.jpg",
+						"url": "https://t.co/qj1UsOnxSq",
+						"display_url": "pic.twitter.com/qj1UsOnxSq",
+						"expanded_url": "https://twitter.com/VICE/status/805848842310746113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 666,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 666,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23818581,
+				"id_str": "23818581",
+				"name": "VICE",
+				"screen_name": "VICE",
+				"location": "Brooklyn, NY",
+				"description": "The definitive guide to enlightening information.",
+				"url": "http://t.co/ynuk0xrVyG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ynuk0xrVyG",
+								"expanded_url": "http://www.vice.com",
+								"display_url": "vice.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1646788,
+				"friends_count": 13018,
+				"listed_count": 15747,
+				"created_at": "Wed Mar 11 20:00:38 +0000 2009",
+				"favourites_count": 1448,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 72868,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/681263517/5560e6fa257be5ef1408b3d6295390a5.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/681263517/5560e6fa257be5ef1408b3d6295390a5.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/672036189273120768/4_Esv2H4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/672036189273120768/4_Esv2H4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23818581/1474319432",
+				"profile_link_color": "077AC0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F7F3F2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 101,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Dec 05 18:10:44 +0000 2016",
+		"id": 805836820328149000,
+		"id_str": "805836820328148992",
+		"text": "'It's gonna be alright Teddy, I understand now. This world doesn't belong to them, it belongs to us' #Westworld",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Westworld",
+					"indices": [
+						101,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 339,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34393,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1477226299",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Dec 05 18:09:54 +0000 2016",
+		"id": 805836612882104300,
+		"id_str": "805836612882104320",
+		"text": "#Westworld is definitely the best thing I've seen in 2016,movie or TV show.Great plot, stellar acting (especially Hopkins) just sublime 8/10",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Westworld",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 339,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34393,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1477226299",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Dec 05 17:23:01 +0000 2016",
+		"id": 805824810605543400,
+		"id_str": "805824810605543424",
+		"text": "'time undoes even the mightiest of creatures, just look what it's done to you' #Westworld",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Westworld",
+					"indices": [
+						79,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 339,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34393,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1477226299",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Dec 05 17:15:02 +0000 2016",
+		"id": 805822803035521000,
+		"id_str": "805822803035521024",
+		"text": "OMG! the stories are coming together so well. William is bad ass #Westworld",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Westworld",
+					"indices": [
+						65,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 339,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34393,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1477226299",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Dec 05 16:47:25 +0000 2016",
+		"id": 805815854722064400,
+		"id_str": "805815854722064385",
+		"text": "#Westworld time! actually looking forward to the series finale",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Westworld",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 339,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34393,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1477226299",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Dec 05 16:13:49 +0000 2016",
+		"id": 805807398237651000,
+		"id_str": "805807398237650944",
+		"text": "'Settling' via XKCD https://t.co/q7pLZt2Gup",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 805807392810266600,
+					"id_str": "805807392810266624",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/Cy7Nje3W8AAAnQH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cy7Nje3W8AAAnQH.jpg",
+					"url": "https://t.co/q7pLZt2Gup",
+					"display_url": "pic.twitter.com/q7pLZt2Gup",
+					"expanded_url": "https://twitter.com/mfshill/status/805807398237650944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 318,
+							"h": 285,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 318,
+							"h": 285,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 318,
+							"h": 285,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 805807392810266600,
+					"id_str": "805807392810266624",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/Cy7Nje3W8AAAnQH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cy7Nje3W8AAAnQH.jpg",
+					"url": "https://t.co/q7pLZt2Gup",
+					"display_url": "pic.twitter.com/q7pLZt2Gup",
+					"expanded_url": "https://twitter.com/mfshill/status/805807398237650944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 318,
+							"h": 285,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 318,
+							"h": 285,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 318,
+							"h": 285,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 339,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34393,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1477226299",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "cs"
+	},
+	{
+		"created_at": "Mon Dec 05 12:28:50 +0000 2016",
+		"id": 805750778350669800,
+		"id_str": "805750778350669825",
+		"text": "Winter really is one of my favourite times to run. #Polar #PolarRunning #TeamPolar #MadeToMove… https://t.co/VBX3HHwmkw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Polar",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "PolarRunning",
+					"indices": [
+						58,
+						71
+					]
+				},
+				{
+					"text": "TeamPolar",
+					"indices": [
+						72,
+						82
+					]
+				},
+				{
+					"text": "MadeToMove",
+					"indices": [
+						83,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VBX3HHwmkw",
+					"expanded_url": "https://www.instagram.com/p/BNoq5UWgmcq/",
+					"display_url": "instagram.com/p/BNoq5UWgmcq/",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "",
+			"description": "endeavouring to keep the art of coquetry alive, oenophile, dance music fanatic.",
+			"url": "http://t.co/k4hFF5ZqJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/k4hFF5ZqJA",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 339,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34393,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791660505689645057/T2A3vnU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1477226299",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Dec 05 00:25:43 +0000 2016",
 		"id": 805568800443760600,
 		"id_str": "805568800443760641",
