@@ -1,6 +1,1048 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Fri Jan 13 20:39:38 +0000 2017",
+		"id": 820007419438895100,
+		"id_str": "820007419438895108",
+		"text": "ran a quick 15k and now rewarding myself with a bacon sandwich, #winning at Friday!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "winning",
+					"indices": [
+						64,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 264,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 370,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34699,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/818352106092503040/kNLqGoQZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/818352106092503040/kNLqGoQZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1483903047",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 13 11:26:03 +0000 2017",
+		"id": 819868106654892000,
+		"id_str": "819868106654892034",
+		"text": "RT @TimeOutLondon: A London pub is hosting a 'Trumpageddon' party on Inauguration Day. https://t.co/4lhh7wKOlP https://t.co/U9ZJhAPwpK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TimeOutLondon",
+					"name": "Time Out London",
+					"id": 22906929,
+					"id_str": "22906929",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4lhh7wKOlP",
+					"expanded_url": "http://www.timeout.com/london/blog/a-london-pub-is-hosting-a-trumpageddon-party-on-inauguration-day-011217",
+					"display_url": "timeout.com/london/blog/a-…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 819600704419561500,
+					"id_str": "819600704419561472",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/C1_Of4yWgAAZeUe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1_Of4yWgAAZeUe.jpg",
+					"url": "https://t.co/U9ZJhAPwpK",
+					"display_url": "pic.twitter.com/U9ZJhAPwpK",
+					"expanded_url": "https://twitter.com/TimeOutLondon/status/819862308369272833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 422,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 422,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 819862308369272800,
+					"source_status_id_str": "819862308369272833",
+					"source_user_id": 22906929,
+					"source_user_id_str": "22906929"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 819600704419561500,
+					"id_str": "819600704419561472",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/C1_Of4yWgAAZeUe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1_Of4yWgAAZeUe.jpg",
+					"url": "https://t.co/U9ZJhAPwpK",
+					"display_url": "pic.twitter.com/U9ZJhAPwpK",
+					"expanded_url": "https://twitter.com/TimeOutLondon/status/819862308369272833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 422,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 422,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 819862308369272800,
+					"source_status_id_str": "819862308369272833",
+					"source_user_id": 22906929,
+					"source_user_id_str": "22906929"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 264,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 370,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34699,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/818352106092503040/kNLqGoQZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/818352106092503040/kNLqGoQZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1483903047",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 13 11:03:01 +0000 2017",
+			"id": 819862308369272800,
+			"id_str": "819862308369272833",
+			"text": "A London pub is hosting a 'Trumpageddon' party on Inauguration Day. https://t.co/4lhh7wKOlP https://t.co/U9ZJhAPwpK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4lhh7wKOlP",
+						"expanded_url": "http://www.timeout.com/london/blog/a-london-pub-is-hosting-a-trumpageddon-party-on-inauguration-day-011217",
+						"display_url": "timeout.com/london/blog/a-…",
+						"indices": [
+							68,
+							91
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 819600704419561500,
+						"id_str": "819600704419561472",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/C1_Of4yWgAAZeUe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1_Of4yWgAAZeUe.jpg",
+						"url": "https://t.co/U9ZJhAPwpK",
+						"display_url": "pic.twitter.com/U9ZJhAPwpK",
+						"expanded_url": "https://twitter.com/TimeOutLondon/status/819862308369272833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 422,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 422,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 819600704419561500,
+						"id_str": "819600704419561472",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/C1_Of4yWgAAZeUe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1_Of4yWgAAZeUe.jpg",
+						"url": "https://t.co/U9ZJhAPwpK",
+						"display_url": "pic.twitter.com/U9ZJhAPwpK",
+						"expanded_url": "https://twitter.com/TimeOutLondon/status/819862308369272833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 422,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 422,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22906929,
+				"id_str": "22906929",
+				"name": "Time Out London",
+				"screen_name": "TimeOutLondon",
+				"location": "London",
+				"description": "Finding the best of London culture, daily. For in-depth coverage of your favourite topic, follow one of our section accounts here:  https://t.co/SrVN9ngEy0",
+				"url": "https://t.co/TgZkfEFBhZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TgZkfEFBhZ",
+								"expanded_url": "http://www.timeout.com/london",
+								"display_url": "timeout.com/london",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/SrVN9ngEy0",
+								"expanded_url": "https://twitter.com/TimeOutLondon/lists/time-out-tweeters",
+								"display_url": "twitter.com/TimeOutLondon/…",
+								"indices": [
+									132,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1245005,
+				"friends_count": 5309,
+				"listed_count": 7177,
+				"created_at": "Thu Mar 05 11:02:33 +0000 2009",
+				"favourites_count": 11984,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 30205,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ED1B24",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438718971311689728/lEvVQ22u.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438718971311689728/lEvVQ22u.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/712601590587400193/sI615Rqu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/712601590587400193/sI615Rqu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22906929/1456751242",
+				"profile_link_color": "E1192C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 13 11:25:39 +0000 2017",
+		"id": 819868005073096700,
+		"id_str": "819868005073096705",
+		"text": "RT @QueenofCobden: CAT WEARING A HI-VIS https://t.co/nUqpz940P4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "QueenofCobden",
+					"name": "Raquel Blackburn",
+					"id": 2388307004,
+					"id_str": "2388307004",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 819789385826603000,
+					"id_str": "819789385826603008",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/C2B6GlzUkAAn0G0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2B6GlzUkAAn0G0.jpg",
+					"url": "https://t.co/nUqpz940P4",
+					"display_url": "pic.twitter.com/nUqpz940P4",
+					"expanded_url": "https://twitter.com/QueenofCobden/status/819789389676937217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 650,
+							"h": 648,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 650,
+							"h": 648,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 648,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 819789389676937200,
+					"source_status_id_str": "819789389676937217",
+					"source_user_id": 2388307004,
+					"source_user_id_str": "2388307004"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 819789385826603000,
+					"id_str": "819789385826603008",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/C2B6GlzUkAAn0G0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2B6GlzUkAAn0G0.jpg",
+					"url": "https://t.co/nUqpz940P4",
+					"display_url": "pic.twitter.com/nUqpz940P4",
+					"expanded_url": "https://twitter.com/QueenofCobden/status/819789389676937217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 650,
+							"h": 648,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 650,
+							"h": 648,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 648,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 819789389676937200,
+					"source_status_id_str": "819789389676937217",
+					"source_user_id": 2388307004,
+					"source_user_id_str": "2388307004"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 264,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 370,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34699,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/818352106092503040/kNLqGoQZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/818352106092503040/kNLqGoQZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1483903047",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 13 06:13:16 +0000 2017",
+			"id": 819789389676937200,
+			"id_str": "819789389676937217",
+			"text": "CAT WEARING A HI-VIS https://t.co/nUqpz940P4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 819789385826603000,
+						"id_str": "819789385826603008",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/C2B6GlzUkAAn0G0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2B6GlzUkAAn0G0.jpg",
+						"url": "https://t.co/nUqpz940P4",
+						"display_url": "pic.twitter.com/nUqpz940P4",
+						"expanded_url": "https://twitter.com/QueenofCobden/status/819789389676937217/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 650,
+								"h": 648,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 650,
+								"h": 648,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 650,
+								"h": 648,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 819789385826603000,
+						"id_str": "819789385826603008",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/C2B6GlzUkAAn0G0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2B6GlzUkAAn0G0.jpg",
+						"url": "https://t.co/nUqpz940P4",
+						"display_url": "pic.twitter.com/nUqpz940P4",
+						"expanded_url": "https://twitter.com/QueenofCobden/status/819789389676937217/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 650,
+								"h": 648,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 650,
+								"h": 648,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 650,
+								"h": 648,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2388307004,
+				"id_str": "2388307004",
+				"name": "Raquel Blackburn",
+				"screen_name": "QueenofCobden",
+				"location": "Somewhere on an island",
+				"description": "More is more",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 333,
+				"friends_count": 426,
+				"listed_count": 19,
+				"created_at": "Fri Mar 14 03:16:02 +0000 2014",
+				"favourites_count": 9714,
+				"utc_offset": 46800,
+				"time_zone": "Wellington",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17736,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/723424246974685185/ZTfOfXK5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/723424246974685185/ZTfOfXK5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2388307004/1394785188",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3952,
+			"favorite_count": 8329,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3952,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 13 11:24:37 +0000 2017",
+		"id": 819867743361073200,
+		"id_str": "819867743361073154",
+		"text": "@bethmjames Migration is great, much less jazzy than his previous ones",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bethmjames",
+					"name": "Beth",
+					"id": 161423316,
+					"id_str": "161423316",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 161423316,
+		"in_reply_to_user_id_str": "161423316",
+		"in_reply_to_screen_name": "bethmjames",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 264,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 370,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34699,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/818352106092503040/kNLqGoQZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/818352106092503040/kNLqGoQZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1483903047",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 13 09:22:32 +0000 2017",
+		"id": 819837022328279000,
+		"id_str": "819837022328279040",
+		"text": "One day @sqwirral... One day - Running on snow: the gear, the technique, the slipping over https://t.co/DOAe8NaJTo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sqwirral",
+					"name": "sqwirräl",
+					"id": 14524990,
+					"id_str": "14524990",
+					"indices": [
+						8,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DOAe8NaJTo",
+					"expanded_url": "http://bit.ly/2ijF892",
+					"display_url": "bit.ly/2ijF892",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 264,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 370,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34699,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/818352106092503040/kNLqGoQZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/818352106092503040/kNLqGoQZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1483903047",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 12 20:12:30 +0000 2017",
 		"id": 819638204601159700,
 		"id_str": "819638204601159680",
