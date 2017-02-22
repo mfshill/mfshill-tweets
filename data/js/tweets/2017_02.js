@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Tue Feb 21 21:28:26 +0000 2017",
+		"id": 834152827282919400,
+		"id_str": "834152827282919426",
+		"text": "RT @jannism: Get Magna Carter https://t.co/tHyGfrX9dO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jannism",
+					"name": "jannism",
+					"id": 21866468,
+					"id_str": "21866468",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 834151954699939800,
+					"id_str": "834151954699939840",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/C5OAyISWcAAi9Ls.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5OAyISWcAAi9Ls.jpg",
+					"url": "https://t.co/tHyGfrX9dO",
+					"display_url": "pic.twitter.com/tHyGfrX9dO",
+					"expanded_url": "https://twitter.com/jannism/status/834151956516044805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 893,
+							"h": 601,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 893,
+							"h": 601,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 834151956516044800,
+					"source_status_id_str": "834151956516044805",
+					"source_user_id": 21866468,
+					"source_user_id_str": "21866468"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 834151954699939800,
+					"id_str": "834151954699939840",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/C5OAyISWcAAi9Ls.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5OAyISWcAAi9Ls.jpg",
+					"url": "https://t.co/tHyGfrX9dO",
+					"display_url": "pic.twitter.com/tHyGfrX9dO",
+					"expanded_url": "https://twitter.com/jannism/status/834151956516044805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 893,
+							"h": 601,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 893,
+							"h": 601,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 834151956516044800,
+					"source_status_id_str": "834151956516044805",
+					"source_user_id": 21866468,
+					"source_user_id_str": "21866468"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 267,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 392,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826201072763023361/qbEAnIup_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826201072763023361/qbEAnIup_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1483903047",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 21 21:24:58 +0000 2017",
+			"id": 834151956516044800,
+			"id_str": "834151956516044805",
+			"text": "Get Magna Carter https://t.co/tHyGfrX9dO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 834151954699939800,
+						"id_str": "834151954699939840",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/C5OAyISWcAAi9Ls.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5OAyISWcAAi9Ls.jpg",
+						"url": "https://t.co/tHyGfrX9dO",
+						"display_url": "pic.twitter.com/tHyGfrX9dO",
+						"expanded_url": "https://twitter.com/jannism/status/834151956516044805/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 893,
+								"h": 601,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 893,
+								"h": 601,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 458,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 834151954699939800,
+						"id_str": "834151954699939840",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/C5OAyISWcAAi9Ls.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5OAyISWcAAi9Ls.jpg",
+						"url": "https://t.co/tHyGfrX9dO",
+						"display_url": "pic.twitter.com/tHyGfrX9dO",
+						"expanded_url": "https://twitter.com/jannism/status/834151956516044805/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 893,
+								"h": 601,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 893,
+								"h": 601,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 458,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21866468,
+				"id_str": "21866468",
+				"name": "jannism",
+				"screen_name": "jannism",
+				"location": "Somerset",
+				"description": "Flaneur",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1554,
+				"friends_count": 427,
+				"listed_count": 43,
+				"created_at": "Wed Feb 25 13:46:23 +0000 2009",
+				"favourites_count": 560,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 68833,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/12996274/field.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/12996274/field.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/724982605330927618/mE7Agdrr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/724982605330927618/mE7Agdrr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21866468/1478129103",
+				"profile_link_color": "325075",
+				"profile_sidebar_border_color": "95A2B1",
+				"profile_sidebar_fill_color": "CCDDFF",
+				"profile_text_color": "282D34",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 20 21:10:56 +0000 2017",
 		"id": 833786034387349500,
 		"id_str": "833786034387349505",
