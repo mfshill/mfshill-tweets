@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Thu Mar 16 21:22:36 +0000 2017",
+		"id": 842486280160231400,
+		"id_str": "842486280160231424",
+		"text": "@charliejburness this HAS to be TOP of the list https://t.co/37VgJEx09X",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "charliejburness",
+					"name": "Burnessie",
+					"id": 143071508,
+					"id_str": "143071508",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/37VgJEx09X",
+					"expanded_url": "https://www.youtube.com/watch?v=Kr0tTbTbmVA",
+					"display_url": "youtube.com/watch?v=Kr0tTb…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 842388921879261200,
+		"in_reply_to_status_id_str": "842388921879261184",
+		"in_reply_to_user_id": 143071508,
+		"in_reply_to_user_id_str": "143071508",
+		"in_reply_to_screen_name": "charliejburness",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 271,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 410,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1483903047",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 16 17:19:08 +0000 2017",
+		"id": 842425007854743600,
+		"id_str": "842425007854743552",
+		"text": "RT @TheEconomist: Our quote of the day is from American politician and sociologist Daniel Patrick Moynihan https://t.co/AjVN6JbumT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheEconomist",
+					"name": "The Economist",
+					"id": 5988062,
+					"id_str": "5988062",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 842424282470850600,
+					"id_str": "842424282470850562",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/C7Dka-rWoAIp2pV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7Dka-rWoAIp2pV.jpg",
+					"url": "https://t.co/AjVN6JbumT",
+					"display_url": "pic.twitter.com/AjVN6JbumT",
+					"expanded_url": "https://twitter.com/TheEconomist/status/842424285696262144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1911,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 678,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 842424285696262100,
+					"source_status_id_str": "842424285696262144",
+					"source_user_id": 5988062,
+					"source_user_id_str": "5988062"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 842424282470850600,
+					"id_str": "842424282470850562",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/C7Dka-rWoAIp2pV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7Dka-rWoAIp2pV.jpg",
+					"url": "https://t.co/AjVN6JbumT",
+					"display_url": "pic.twitter.com/AjVN6JbumT",
+					"expanded_url": "https://twitter.com/TheEconomist/status/842424285696262144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1911,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 678,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 842424285696262100,
+					"source_status_id_str": "842424285696262144",
+					"source_user_id": 5988062,
+					"source_user_id_str": "5988062"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 271,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 410,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1483903047",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 16 17:16:15 +0000 2017",
+			"id": 842424285696262100,
+			"id_str": "842424285696262144",
+			"text": "Our quote of the day is from American politician and sociologist Daniel Patrick Moynihan https://t.co/AjVN6JbumT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 842424282470850600,
+						"id_str": "842424282470850562",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/C7Dka-rWoAIp2pV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7Dka-rWoAIp2pV.jpg",
+						"url": "https://t.co/AjVN6JbumT",
+						"display_url": "pic.twitter.com/AjVN6JbumT",
+						"expanded_url": "https://twitter.com/TheEconomist/status/842424285696262144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1911,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 678,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 842424282470850600,
+						"id_str": "842424282470850562",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/C7Dka-rWoAIp2pV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7Dka-rWoAIp2pV.jpg",
+						"url": "https://t.co/AjVN6JbumT",
+						"display_url": "pic.twitter.com/AjVN6JbumT",
+						"expanded_url": "https://twitter.com/TheEconomist/status/842424285696262144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1911,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 678,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5988062,
+				"id_str": "5988062",
+				"name": "The Economist",
+				"screen_name": "TheEconomist",
+				"location": "London",
+				"description": "News and analysis with a global perspective.  Subscribe here: https://t.co/owztJzwlmm",
+				"url": "https://t.co/pN0OAmG4SP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pN0OAmG4SP",
+								"expanded_url": "http://www.economist.com",
+								"display_url": "economist.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/owztJzwlmm",
+								"expanded_url": "http://econ.st/2eqtp7o",
+								"display_url": "econ.st/2eqtp7o",
+								"indices": [
+									62,
+									85
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 19297170,
+				"friends_count": 158,
+				"listed_count": 0,
+				"created_at": "Sat May 12 13:04:50 +0000 2007",
+				"favourites_count": 291,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 100555,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "DFDFDF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/845392952/963b46728d3607fe369457e527b9d62e.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/845392952/963b46728d3607fe369457e527b9d62e.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/461499742950678528/2JnpHjUo_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/461499742950678528/2JnpHjUo_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5988062/1489663376",
+				"profile_link_color": "313331",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "2C2E2D",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 932,
+			"favorite_count": 1021,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 932,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 15 21:30:17 +0000 2017",
 		"id": 842125824769830900,
 		"id_str": "842125824769830919",
