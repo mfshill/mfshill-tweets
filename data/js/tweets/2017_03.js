@@ -1,6 +1,764 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Mon Mar 20 21:50:44 +0000 2017",
+		"id": 843942911259697200,
+		"id_str": "843942911259697152",
+		"text": "this is a next level of drunk https://t.co/r0xqVCHJ74",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r0xqVCHJ74",
+					"expanded_url": "https://twitter.com/thumpthump/status/843932273510662144",
+					"display_url": "twitter.com/thumpthump/sta…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 272,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 414,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1483903047",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 843932273510662100,
+		"quoted_status_id_str": "843932273510662144",
+		"quoted_status": {
+			"created_at": "Mon Mar 20 21:08:28 +0000 2017",
+			"id": 843932273510662100,
+			"id_str": "843932273510662144",
+			"text": "Some guy got so drunk this weekend he passed out in a urinal: https://t.co/ZUVdI2O6Wq https://t.co/i3zNioXTLd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZUVdI2O6Wq",
+						"expanded_url": "http://bit.ly/2nfxBJG",
+						"display_url": "bit.ly/2nfxBJG",
+						"indices": [
+							62,
+							85
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 843932260957130800,
+						"id_str": "843932260957130752",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/C7Y_64TXkAAYIim.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7Y_64TXkAAYIim.jpg",
+						"url": "https://t.co/i3zNioXTLd",
+						"display_url": "pic.twitter.com/i3zNioXTLd",
+						"expanded_url": "https://twitter.com/thumpthump/status/843932273510662144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 843932260957130800,
+						"id_str": "843932260957130752",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/C7Y_64TXkAAYIim.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7Y_64TXkAAYIim.jpg",
+						"url": "https://t.co/i3zNioXTLd",
+						"display_url": "pic.twitter.com/i3zNioXTLd",
+						"expanded_url": "https://twitter.com/thumpthump/status/843932273510662144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1201710146,
+				"id_str": "1201710146",
+				"name": "THUMP",
+				"screen_name": "thumpthump",
+				"location": "",
+				"description": "The electronic music and culture channel from @VICE.",
+				"url": "https://t.co/kSJxSWjDtz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kSJxSWjDtz",
+								"expanded_url": "http://thu.mp",
+								"display_url": "thu.mp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 62348,
+				"friends_count": 1617,
+				"listed_count": 994,
+				"created_at": "Wed Feb 20 17:43:21 +0000 2013",
+				"favourites_count": 4208,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 33866,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715977971455148032/sD4swRGJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715977971455148032/sD4swRGJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1201710146/1483457299",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 143,
+			"favorite_count": 195,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Mar 20 20:18:53 +0000 2017",
+		"id": 843919796223852500,
+		"id_str": "843919796223852548",
+		"text": "#Nexus is a really enjoyable sci-fi thriller based in the near future. #RamezNaam has used his… https://t.co/ZOhxHtGWga",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Nexus",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "RamezNaam",
+					"indices": [
+						71,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZOhxHtGWga",
+					"expanded_url": "https://www.instagram.com/p/BR34J28gGw5/",
+					"display_url": "instagram.com/p/BR34J28gGw5/",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 272,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 414,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1483903047",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Mar 20 19:40:49 +0000 2017",
+		"id": 843910217532366800,
+		"id_str": "843910217532366848",
+		"text": "bit late but, HAPPY SPRING EQUINOX Y'ALL!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 272,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 414,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1483903047",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Mar 20 15:43:39 +0000 2017",
+		"id": 843850531454025700,
+		"id_str": "843850531454025728",
+		"text": "RT @SkySportsNewsHQ: Is this the season Tottenham finally finish above Arsenal? We'll look back at the last time they did it in 1995! https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SkySportsNewsHQ",
+					"name": "Sky Sports News HQ",
+					"id": 108568373,
+					"id_str": "108568373",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 272,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 414,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1483903047",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 20 15:43:16 +0000 2017",
+			"id": 843850436004188200,
+			"id_str": "843850436004188160",
+			"text": "Is this the season Tottenham finally finish above Arsenal? We'll look back at the last time they did it in 1995! https://t.co/Izz72WDEMT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 843850428307722200,
+						"id_str": "843850428307722240",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/C7X1fl7X0AAX5fg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7X1fl7X0AAX5fg.jpg",
+						"url": "https://t.co/Izz72WDEMT",
+						"display_url": "pic.twitter.com/Izz72WDEMT",
+						"expanded_url": "https://twitter.com/SkySportsNewsHQ/status/843850436004188160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 782,
+								"h": 598,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 520,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 782,
+								"h": 598,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 843850428307722200,
+						"id_str": "843850428307722240",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/C7X1fl7X0AAX5fg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7X1fl7X0AAX5fg.jpg",
+						"url": "https://t.co/Izz72WDEMT",
+						"display_url": "pic.twitter.com/Izz72WDEMT",
+						"expanded_url": "https://twitter.com/SkySportsNewsHQ/status/843850436004188160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 782,
+								"h": 598,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 520,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 782,
+								"h": 598,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 108568373,
+				"id_str": "108568373",
+				"name": "Sky Sports News HQ",
+				"screen_name": "SkySportsNewsHQ",
+				"location": "England",
+				"description": "The official Twitter account for Sky Sports News HQ. Your home of sports news.",
+				"url": "https://t.co/i3loOasFrc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/i3loOasFrc",
+								"expanded_url": "http://www.skysports.com/skysportsnewshq",
+								"display_url": "skysports.com/skysportsnewshq",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5202848,
+				"friends_count": 126,
+				"listed_count": 12875,
+				"created_at": "Tue Jan 26 10:22:29 +0000 2010",
+				"favourites_count": 280,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 63153,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/508919874899292160/i0cQPaBd.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/508919874899292160/i0cQPaBd.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/502491052243038208/gKEvCXwg_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/502491052243038208/gKEvCXwg_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/108568373/1487090122",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 117,
+			"favorite_count": 220,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Mar 19 21:12:05 +0000 2017",
 		"id": 843570795884482600,
 		"id_str": "843570795884482560",
