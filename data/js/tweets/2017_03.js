@@ -1,6 +1,792 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Tue Mar 28 21:34:23 +0000 2017",
+		"id": 846837899085725700,
+		"id_str": "846837899085725697",
+		"text": "RT @putthetellyon: THE LETTER HAS BEEN SIGNED! #BrexitEve https://t.co/cUlAwLbqEI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BrexitEve",
+					"indices": [
+						47,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "putthetellyon",
+					"name": "Put The Telly On 📺",
+					"id": 82761242,
+					"id_str": "82761242",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 846829858261028900,
+					"id_str": "846829858261028865",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C8CLRPbX0AEknaG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C8CLRPbX0AEknaG.jpg",
+					"url": "https://t.co/cUlAwLbqEI",
+					"display_url": "pic.twitter.com/cUlAwLbqEI",
+					"expanded_url": "https://twitter.com/putthetellyon/status/846829871665963010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 236,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 236,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 846829871665963000,
+					"source_status_id_str": "846829871665963010",
+					"source_user_id": 82761242,
+					"source_user_id_str": "82761242"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 846829858261028900,
+					"id_str": "846829858261028865",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C8CLRPbX0AEknaG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C8CLRPbX0AEknaG.jpg",
+					"url": "https://t.co/cUlAwLbqEI",
+					"display_url": "pic.twitter.com/cUlAwLbqEI",
+					"expanded_url": "https://twitter.com/putthetellyon/status/846829871665963010/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 236,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 236,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 846829871665963000,
+					"source_status_id_str": "846829871665963010",
+					"source_user_id": 82761242,
+					"source_user_id_str": "82761242",
+					"video_info": {
+						"aspect_ratio": [
+							105,
+							59
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C8CLRPbX0AEknaG.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 275,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 416,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35150,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1490386361",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 28 21:02:29 +0000 2017",
+			"id": 846829871665963000,
+			"id_str": "846829871665963010",
+			"text": "THE LETTER HAS BEEN SIGNED! #BrexitEve https://t.co/cUlAwLbqEI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BrexitEve",
+						"indices": [
+							28,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 846829858261028900,
+						"id_str": "846829858261028865",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C8CLRPbX0AEknaG.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C8CLRPbX0AEknaG.jpg",
+						"url": "https://t.co/cUlAwLbqEI",
+						"display_url": "pic.twitter.com/cUlAwLbqEI",
+						"expanded_url": "https://twitter.com/putthetellyon/status/846829871665963010/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 420,
+								"h": 236,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 420,
+								"h": 236,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 846829858261028900,
+						"id_str": "846829858261028865",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C8CLRPbX0AEknaG.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C8CLRPbX0AEknaG.jpg",
+						"url": "https://t.co/cUlAwLbqEI",
+						"display_url": "pic.twitter.com/cUlAwLbqEI",
+						"expanded_url": "https://twitter.com/putthetellyon/status/846829871665963010/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 420,
+								"h": 236,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 420,
+								"h": 236,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								105,
+								59
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C8CLRPbX0AEknaG.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 82761242,
+				"id_str": "82761242",
+				"name": "Put The Telly On 📺",
+				"screen_name": "putthetellyon",
+				"location": "Ending transmission August '17",
+				"description": "Pretend UK telly critic; created/uploaded videos & Saturday morning bits to YouTube since 2007. Spotify profile: https://t.co/wFZMXtcAtV",
+				"url": "https://t.co/KXarMIrsdF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KXarMIrsdF",
+								"expanded_url": "http://www.youtube.com/putthetellyon1",
+								"display_url": "youtube.com/putthetellyon1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wFZMXtcAtV",
+								"expanded_url": "http://open.spotify.com/user/putthetellyon",
+								"display_url": "open.spotify.com/user/putthetel…",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1173,
+				"friends_count": 2358,
+				"listed_count": 19,
+				"created_at": "Fri Oct 16 01:09:09 +0000 2009",
+				"favourites_count": 3356,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8751,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0B092B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/550802743711891456/-u7IcaVJ.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/550802743711891456/-u7IcaVJ.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/837117705606033411/aPHZrc1r_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/837117705606033411/aPHZrc1r_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/82761242/1490458866",
+				"profile_link_color": "DAA520",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "B4A7D6",
+				"profile_text_color": "18006E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 62,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 28 16:43:33 +0000 2017",
+		"id": 846764708799696900,
+		"id_str": "846764708799696896",
+		"text": "RT @thumpthump: Creator of 'Trainspotting' to write new TV show about acid house: https://t.co/m4AZQL8AEi https://t.co/4iM41c946s",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thumpthump",
+					"name": "THUMP",
+					"id": 1201710146,
+					"id_str": "1201710146",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m4AZQL8AEi",
+					"expanded_url": "http://bit.ly/2odwrMD",
+					"display_url": "bit.ly/2odwrMD",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 846759266845384700,
+					"id_str": "846759266845384705",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/C8BLER6W4AEA4QZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8BLER6W4AEA4QZ.jpg",
+					"url": "https://t.co/4iM41c946s",
+					"display_url": "pic.twitter.com/4iM41c946s",
+					"expanded_url": "https://twitter.com/thumpthump/status/846759339796893697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 846759339796893700,
+					"source_status_id_str": "846759339796893697",
+					"source_user_id": 1201710146,
+					"source_user_id_str": "1201710146"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 846759266845384700,
+					"id_str": "846759266845384705",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/C8BLER6W4AEA4QZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8BLER6W4AEA4QZ.jpg",
+					"url": "https://t.co/4iM41c946s",
+					"display_url": "pic.twitter.com/4iM41c946s",
+					"expanded_url": "https://twitter.com/thumpthump/status/846759339796893697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 846759339796893700,
+					"source_status_id_str": "846759339796893697",
+					"source_user_id": 1201710146,
+					"source_user_id_str": "1201710146"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 275,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 416,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35150,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1490386361",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 28 16:22:13 +0000 2017",
+			"id": 846759339796893700,
+			"id_str": "846759339796893697",
+			"text": "Creator of 'Trainspotting' to write new TV show about acid house: https://t.co/m4AZQL8AEi https://t.co/4iM41c946s",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/m4AZQL8AEi",
+						"expanded_url": "http://bit.ly/2odwrMD",
+						"display_url": "bit.ly/2odwrMD",
+						"indices": [
+							66,
+							89
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 846759266845384700,
+						"id_str": "846759266845384705",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/C8BLER6W4AEA4QZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8BLER6W4AEA4QZ.jpg",
+						"url": "https://t.co/4iM41c946s",
+						"display_url": "pic.twitter.com/4iM41c946s",
+						"expanded_url": "https://twitter.com/thumpthump/status/846759339796893697/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 846759266845384700,
+						"id_str": "846759266845384705",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/C8BLER6W4AEA4QZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8BLER6W4AEA4QZ.jpg",
+						"url": "https://t.co/4iM41c946s",
+						"display_url": "pic.twitter.com/4iM41c946s",
+						"expanded_url": "https://twitter.com/thumpthump/status/846759339796893697/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1201710146,
+				"id_str": "1201710146",
+				"name": "THUMP",
+				"screen_name": "thumpthump",
+				"location": "",
+				"description": "The electronic music and culture channel from @VICE.",
+				"url": "https://t.co/kSJxSWjDtz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kSJxSWjDtz",
+								"expanded_url": "http://thu.mp",
+								"display_url": "thu.mp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 62570,
+				"friends_count": 1617,
+				"listed_count": 996,
+				"created_at": "Wed Feb 20 17:43:21 +0000 2013",
+				"favourites_count": 4257,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 34122,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715977971455148032/sD4swRGJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715977971455148032/sD4swRGJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1201710146/1483457299",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61,
+			"favorite_count": 189,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Mar 27 21:44:14 +0000 2017",
 		"id": 846477990401855500,
 		"id_str": "846477990401855490",
