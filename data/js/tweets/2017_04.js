@@ -1,6 +1,1185 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 12 20:51:31 +0000 2017",
+		"id": 852262931639173100,
+		"id_str": "852262931639173120",
+		"text": "absolutely amazing what the cabbies can do #TheKnowledge",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheKnowledge",
+					"indices": [
+						43,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 276,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 422,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1490386361",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 12 20:09:24 +0000 2017",
+		"id": 852252333224415200,
+		"id_str": "852252333224415232",
+		"text": "Mimicking an impact on Earth’s early atmosphere yields all four RNA bases https://t.co/wuOhTIX32X",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wuOhTIX32X",
+					"expanded_url": "https://arstechnica.co.uk/?post_type=post&p=201377",
+					"display_url": "arstechnica.co.uk/?post_type=pos…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 276,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 422,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1490386361",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 12 19:45:03 +0000 2017",
+		"id": 852246202758422500,
+		"id_str": "852246202758422530",
+		"text": "@bethmjames *now",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bethmjames",
+					"name": "Beth",
+					"id": 161423316,
+					"id_str": "161423316",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 852245220158844900,
+		"in_reply_to_status_id_str": "852245220158844928",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 276,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 422,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1490386361",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Wed Apr 12 19:41:53 +0000 2017",
+		"id": 852245406222356500,
+		"id_str": "852245406222356480",
+		"text": "RT @robbingham: @jannism For me the fact that he doesn't look like a pop star compounds the awfulness of the music. His success is inexplic…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "robbingham",
+					"name": "robbingham",
+					"id": 14745870,
+					"id_str": "14745870",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "jannism",
+					"name": "jannism",
+					"id": 21866468,
+					"id_str": "21866468",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 276,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 422,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1490386361",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 12 14:04:27 +0000 2017",
+			"id": 852160487945105400,
+			"id_str": "852160487945105409",
+			"text": "@jannism For me the fact that he doesn't look like a pop star compounds the awfulness of the music. His success is inexplicable.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jannism",
+						"name": "jannism",
+						"id": 21866468,
+						"id_str": "21866468",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 852157617631887400,
+			"in_reply_to_status_id_str": "852157617631887362",
+			"in_reply_to_user_id": 21866468,
+			"in_reply_to_user_id_str": "21866468",
+			"in_reply_to_screen_name": "jannism",
+			"user": {
+				"id": 14745870,
+				"id_str": "14745870",
+				"name": "robbingham",
+				"screen_name": "robbingham",
+				"location": "London",
+				"description": "The wrong words make you listen.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1288,
+				"friends_count": 986,
+				"listed_count": 56,
+				"created_at": "Mon May 12 16:15:57 +0000 2008",
+				"favourites_count": 7159,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 65496,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/432900752701276160/KfmwFTL3.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/432900752701276160/KfmwFTL3.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/541024492861280257/rrBOCvAE_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/541024492861280257/rrBOCvAE_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14745870/1489240078",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 12 19:41:09 +0000 2017",
+		"id": 852245220158844900,
+		"id_str": "852245220158844928",
+		"text": "@bethmjames no means you can work from home!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bethmjames",
+					"name": "Beth",
+					"id": 161423316,
+					"id_str": "161423316",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 852122593087934500,
+		"in_reply_to_status_id_str": "852122593087934464",
+		"in_reply_to_user_id": 161423316,
+		"in_reply_to_user_id_str": "161423316",
+		"in_reply_to_screen_name": "bethmjames",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 276,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 422,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1490386361",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 12 08:35:56 +0000 2017",
+		"id": 852077816275501000,
+		"id_str": "852077816275501056",
+		"text": "RT @business: Why unseating Syrian President Bashar Assad risks unleashing even more chaos https://t.co/0ALqEnfnGs https://t.co/LQvoPVnUeN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "business",
+					"name": "Bloomberg",
+					"id": 34713362,
+					"id_str": "34713362",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0ALqEnfnGs",
+					"expanded_url": "https://bloom.bg/2p6HCai",
+					"display_url": "bloom.bg/2p6HCai",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 852076299610935300,
+					"id_str": "852076299610935297",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/C9Mu4UfW0AE684w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9Mu4UfW0AE684w.jpg",
+					"url": "https://t.co/LQvoPVnUeN",
+					"display_url": "pic.twitter.com/LQvoPVnUeN",
+					"expanded_url": "https://twitter.com/business/status/852076302878355456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 466,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 822,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1028,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852076302878355500,
+					"source_status_id_str": "852076302878355456",
+					"source_user_id": 34713362,
+					"source_user_id_str": "34713362"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 852076299610935300,
+					"id_str": "852076299610935297",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/C9Mu4UfW0AE684w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9Mu4UfW0AE684w.jpg",
+					"url": "https://t.co/LQvoPVnUeN",
+					"display_url": "pic.twitter.com/LQvoPVnUeN",
+					"expanded_url": "https://twitter.com/business/status/852076302878355456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 466,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 822,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1028,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 852076302878355500,
+					"source_status_id_str": "852076302878355456",
+					"source_user_id": 34713362,
+					"source_user_id_str": "34713362"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 276,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 422,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1490386361",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 12 08:29:56 +0000 2017",
+			"id": 852076302878355500,
+			"id_str": "852076302878355456",
+			"text": "Why unseating Syrian President Bashar Assad risks unleashing even more chaos https://t.co/0ALqEnfnGs https://t.co/LQvoPVnUeN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0ALqEnfnGs",
+						"expanded_url": "https://bloom.bg/2p6HCai",
+						"display_url": "bloom.bg/2p6HCai",
+						"indices": [
+							77,
+							100
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 852076299610935300,
+						"id_str": "852076299610935297",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/C9Mu4UfW0AE684w.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9Mu4UfW0AE684w.jpg",
+						"url": "https://t.co/LQvoPVnUeN",
+						"display_url": "pic.twitter.com/LQvoPVnUeN",
+						"expanded_url": "https://twitter.com/business/status/852076302878355456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 466,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 822,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1028,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 852076299610935300,
+						"id_str": "852076299610935297",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/C9Mu4UfW0AE684w.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9Mu4UfW0AE684w.jpg",
+						"url": "https://t.co/LQvoPVnUeN",
+						"display_url": "pic.twitter.com/LQvoPVnUeN",
+						"expanded_url": "https://twitter.com/business/status/852076302878355456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 466,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 822,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1028,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34713362,
+				"id_str": "34713362",
+				"name": "Bloomberg",
+				"screen_name": "business",
+				"location": "New York and the World",
+				"description": "The first word in business news.",
+				"url": "http://t.co/YFISwy1upH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YFISwy1upH",
+								"expanded_url": "http://www.bloomberg.com",
+								"display_url": "bloomberg.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3864405,
+				"friends_count": 961,
+				"listed_count": 43784,
+				"created_at": "Thu Apr 23 20:05:17 +0000 2009",
+				"favourites_count": 319,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 227138,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "101112",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/544322097833467904/1fjpNCr9.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/544322097833467904/1fjpNCr9.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/714946924105883648/4fgNVF4H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/714946924105883648/4fgNVF4H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34713362/1472058483",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "DADADA",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 12 06:33:49 +0000 2017",
+		"id": 852047082210730000,
+		"id_str": "852047082210729987",
+		"text": "RT @davidplotz: Your periodic reminder that there is a massive, abandoned temple shaped like a chicken in the Indonesian jungle. https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davidplotz",
+					"name": "David Plotz",
+					"id": 36171004,
+					"id_str": "36171004",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 276,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 422,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1490386361",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 11 12:23:29 +0000 2017",
+			"id": 851772690918768600,
+			"id_str": "851772690918768641",
+			"text": "Your periodic reminder that there is a massive, abandoned temple shaped like a chicken in the Indonesian jungle.… https://t.co/zJehVYyw8M",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zJehVYyw8M",
+						"expanded_url": "https://twitter.com/i/web/status/851772690918768641",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36171004,
+				"id_str": "36171004",
+				"name": "David Plotz",
+				"screen_name": "davidplotz",
+				"location": "",
+				"description": "CEO of @AtlasObscura, host @SlateGabfest, former @Slate EIC.",
+				"url": "http://t.co/rDwuKjOkAY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/rDwuKjOkAY",
+								"expanded_url": "http://www.AtlasObscura.com",
+								"display_url": "AtlasObscura.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41915,
+				"friends_count": 724,
+				"listed_count": 1208,
+				"created_at": "Tue Apr 28 20:21:56 +0000 2009",
+				"favourites_count": 3024,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10694,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/796485865363140608/zPhMByZo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796485865363140608/zPhMByZo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36171004/1425996864",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7268,
+			"favorite_count": 13035,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7268,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 11 20:59:31 +0000 2017",
 		"id": 851902554602688500,
 		"id_str": "851902554602688518",
