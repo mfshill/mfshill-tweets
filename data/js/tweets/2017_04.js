@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Fri Apr 14 19:43:21 +0000 2017",
+		"id": 852970553044598800,
+		"id_str": "852970553044598787",
+		"text": "Sorry, Running Doesn't Make You Live Longer\n https://t.co/2hDxE9AC6O via @dailytonic",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dailytonic",
+					"name": "TONIC",
+					"id": 780498564661252100,
+					"id_str": "780498564661252102",
+					"indices": [
+						73,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2hDxE9AC6O",
+					"expanded_url": "https://tonic.vice.com/en_us/article/sorry-running-doesnt-make-you-live-longer?utm_source=tonictwitterus",
+					"display_url": "tonic.vice.com/en_us/article/…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 276,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 422,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1492198619",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 14 17:52:14 +0000 2017",
+		"id": 852942589120655400,
+		"id_str": "852942589120655360",
+		"text": "RT @DannyDutch: Everyone should be aware of this footage. Nic Cage losing his shit, a masterclass in acting from an acting TITAN! https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DannyDutch",
+					"name": "Daniel Holland",
+					"id": 20857273,
+					"id_str": "20857273",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 276,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 422,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841378177779957761/0uV087zy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1492198619",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 13 19:00:29 +0000 2017",
+			"id": 852597376732844000,
+			"id_str": "852597376732844033",
+			"text": "Everyone should be aware of this footage. Nic Cage losing his shit, a masterclass in acting from an acting TITAN! https://t.co/Eqzth2SwgE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 852596962088161300,
+						"id_str": "852596962088161280",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852596962088161280/pu/img/pU8D6-5va3GVbhfP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852596962088161280/pu/img/pU8D6-5va3GVbhfP.jpg",
+						"url": "https://t.co/Eqzth2SwgE",
+						"display_url": "pic.twitter.com/Eqzth2SwgE",
+						"expanded_url": "https://twitter.com/DannyDutch/status/852597376732844033/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 852596962088161300,
+						"id_str": "852596962088161280",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/852596962088161280/pu/img/pU8D6-5va3GVbhfP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/852596962088161280/pu/img/pU8D6-5va3GVbhfP.jpg",
+						"url": "https://t.co/Eqzth2SwgE",
+						"display_url": "pic.twitter.com/Eqzth2SwgE",
+						"expanded_url": "https://twitter.com/DannyDutch/status/852597376732844033/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 133280,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/852596962088161280/pu/pl/kc7j4DRs60vU3Tzc.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/852596962088161280/pu/vid/640x360/lohBithvF5jSmWGJ.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/852596962088161280/pu/vid/1280x720/dkFiLj-rgrHo2obQ.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/852596962088161280/pu/vid/320x180/YH38nOOrQTcWJ1Pl.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20857273,
+				"id_str": "20857273",
+				"name": "Daniel Holland",
+				"screen_name": "DannyDutch",
+				"location": "United Kingdom",
+				"description": "A Social Media bod. Likes a good heist, a squeaky bit of Halloumi and a bit of photography. Instagram - https://t.co/UysYo6bfhC",
+				"url": "https://t.co/9BN0q5zVpT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9BN0q5zVpT",
+								"expanded_url": "https://www.dannydutchphotography.com/",
+								"display_url": "dannydutchphotography.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UysYo6bfhC",
+								"expanded_url": "http://ow.ly/Vtmz309bnG1",
+								"display_url": "ow.ly/Vtmz309bnG1",
+								"indices": [
+									104,
+									127
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 17012,
+				"friends_count": 1420,
+				"listed_count": 262,
+				"created_at": "Sat Feb 14 16:52:47 +0000 2009",
+				"favourites_count": 18703,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 58762,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/832616083/38ff541537aa34ed231a1fc810653e32.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/832616083/38ff541537aa34ed231a1fc810653e32.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/825437968315871234/bkIEMEcs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/825437968315871234/bkIEMEcs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20857273/1484903321",
+				"profile_link_color": "11A0D4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 13 06:32:51 +0000 2017",
 		"id": 852409227356364800,
 		"id_str": "852409227356364801",
