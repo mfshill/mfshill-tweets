@@ -1,6 +1,1177 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Fri Apr 21 18:57:10 +0000 2017",
+		"id": 855495642642305000,
+		"id_str": "855495642642305025",
+		"text": "RT @AGT79: Know a Prince fan?\nI'm giving this print to a follower at 11pm.\nTo enter;\n- RT\n- Follow me\nNice one https://t.co/rZ4dedl5eD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AGT79",
+					"name": "Arwyn Thomas",
+					"id": 88431467,
+					"id_str": "88431467",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 855480310674452500,
+					"id_str": "855480310674452483",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/C99Gz14XcAMO-dV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C99Gz14XcAMO-dV.jpg",
+					"url": "https://t.co/rZ4dedl5eD",
+					"display_url": "pic.twitter.com/rZ4dedl5eD",
+					"expanded_url": "https://twitter.com/AGT79/status/855480338893680641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 855480338893680600,
+					"source_status_id_str": "855480338893680641",
+					"source_user_id": 88431467,
+					"source_user_id_str": "88431467"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 855480310674452500,
+					"id_str": "855480310674452483",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/C99Gz14XcAMO-dV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C99Gz14XcAMO-dV.jpg",
+					"url": "https://t.co/rZ4dedl5eD",
+					"display_url": "pic.twitter.com/rZ4dedl5eD",
+					"expanded_url": "https://twitter.com/AGT79/status/855480338893680641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 855480338893680600,
+					"source_status_id_str": "855480338893680641",
+					"source_user_id": 88431467,
+					"source_user_id_str": "88431467"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 281,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 424,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35295,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854056551983833090/mWRS4_t-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854056551983833090/mWRS4_t-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1492198619",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 21 17:56:21 +0000 2017",
+			"id": 855480338893680600,
+			"id_str": "855480338893680641",
+			"text": "Know a Prince fan?\nI'm giving this print to a follower at 11pm.\nTo enter;\n- RT\n- Follow me\nNice one https://t.co/rZ4dedl5eD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 855480310674452500,
+						"id_str": "855480310674452483",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/C99Gz14XcAMO-dV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C99Gz14XcAMO-dV.jpg",
+						"url": "https://t.co/rZ4dedl5eD",
+						"display_url": "pic.twitter.com/rZ4dedl5eD",
+						"expanded_url": "https://twitter.com/AGT79/status/855480338893680641/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 855480310674452500,
+						"id_str": "855480310674452483",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/C99Gz14XcAMO-dV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C99Gz14XcAMO-dV.jpg",
+						"url": "https://t.co/rZ4dedl5eD",
+						"display_url": "pic.twitter.com/rZ4dedl5eD",
+						"expanded_url": "https://twitter.com/AGT79/status/855480338893680641/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 88431467,
+				"id_str": "88431467",
+				"name": "Arwyn Thomas",
+				"screen_name": "AGT79",
+				"location": "St Julians, Newport",
+				"description": "If you have a request it's cheaper than you'd imagine visit https://t.co/h8R496NYZO , tweet me or Email @ arwyn79@gmail.com  - Someone wins something every night",
+				"url": "https://t.co/4wt87csoFy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4wt87csoFy",
+								"expanded_url": "https://agt79.myshopify.com/",
+								"display_url": "agt79.myshopify.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/h8R496NYZO",
+								"expanded_url": "http://www.arwynthomas.co.uk",
+								"display_url": "arwynthomas.co.uk",
+								"indices": [
+									60,
+									83
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 32942,
+				"friends_count": 2050,
+				"listed_count": 53,
+				"created_at": "Sun Nov 08 14:41:11 +0000 2009",
+				"favourites_count": 7574,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 53356,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/472111643401654272/kuynLt2j_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/472111643401654272/kuynLt2j_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/88431467/1486073208",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 326,
+			"favorite_count": 85,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 326,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 21 18:06:27 +0000 2017",
+		"id": 855482878762917900,
+		"id_str": "855482878762917888",
+		"text": "RT @DJCkay: The MixTape SHOW starts at 9pm (UK) on @RamJamRadio\n\n#dnb #UKGarage #DEEPhouse \n\nhttps://t.co/YkXZq2kUUH  #DJ https://t.co/Zcjp…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dnb",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "UKGarage",
+					"indices": [
+						70,
+						79
+					]
+				},
+				{
+					"text": "DEEPhouse",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "DJ",
+					"indices": [
+						118,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DJCkay",
+					"name": "DJC-kay",
+					"id": 35250036,
+					"id_str": "35250036",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "Ramjamradio",
+					"name": "Ramjam Radio",
+					"id": 87192655,
+					"id_str": "87192655",
+					"indices": [
+						51,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YkXZq2kUUH",
+					"expanded_url": "http://tunein.com/radio/Ramjam-Radio-s113329/",
+					"display_url": "tunein.com/radio/Ramjam-R…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 281,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 424,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35295,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854056551983833090/mWRS4_t-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854056551983833090/mWRS4_t-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1492198619",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 21 18:01:31 +0000 2017",
+			"id": 855481638867914800,
+			"id_str": "855481638867914752",
+			"text": "The MixTape SHOW starts at 9pm (UK) on @RamJamRadio\n\n#dnb #UKGarage #DEEPhouse \n\nhttps://t.co/YkXZq2kUUH  #DJ https://t.co/ZcjpPIrMkM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "dnb",
+						"indices": [
+							53,
+							57
+						]
+					},
+					{
+						"text": "UKGarage",
+						"indices": [
+							58,
+							67
+						]
+					},
+					{
+						"text": "DEEPhouse",
+						"indices": [
+							68,
+							78
+						]
+					},
+					{
+						"text": "DJ",
+						"indices": [
+							106,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Ramjamradio",
+						"name": "Ramjam Radio",
+						"id": 87192655,
+						"id_str": "87192655",
+						"indices": [
+							39,
+							51
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YkXZq2kUUH",
+						"expanded_url": "http://tunein.com/radio/Ramjam-Radio-s113329/",
+						"display_url": "tunein.com/radio/Ramjam-R…",
+						"indices": [
+							81,
+							104
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 855481627828420600,
+						"id_str": "855481627828420608",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/C99IAgqWAAAcly4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C99IAgqWAAAcly4.jpg",
+						"url": "https://t.co/ZcjpPIrMkM",
+						"display_url": "pic.twitter.com/ZcjpPIrMkM",
+						"expanded_url": "https://twitter.com/DJCkay/status/855481638867914752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1774,
+								"h": 1774,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 855481627828420600,
+						"id_str": "855481627828420608",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/C99IAgqWAAAcly4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C99IAgqWAAAcly4.jpg",
+						"url": "https://t.co/ZcjpPIrMkM",
+						"display_url": "pic.twitter.com/ZcjpPIrMkM",
+						"expanded_url": "https://twitter.com/DJCkay/status/855481638867914752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1774,
+								"h": 1774,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35250036,
+				"id_str": "35250036",
+				"name": "DJC-kay",
+				"screen_name": "DJCkay",
+				"location": "London, UK",
+				"description": "DJ/Londoner/Martian - Mixtape Show every Friday Night at 9pm (UK) & Sats @ 11am (UK) on @RamJamRadio #dnb #House #UKGarage / Street Art Photographer",
+				"url": "https://t.co/Frwmfls6yo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Frwmfls6yo",
+								"expanded_url": "http://soundcloud.com/djc-kay",
+								"display_url": "soundcloud.com/djc-kay",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2033,
+				"friends_count": 1838,
+				"listed_count": 125,
+				"created_at": "Sat Apr 25 16:34:06 +0000 2009",
+				"favourites_count": 2903,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 66847,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "010D06",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000123613898/d0a1d8854ab6d213400fda825090b8e7.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000123613898/d0a1d8854ab6d213400fda825090b8e7.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2882143470/92d3f72acf1a7b2c614da37b3a0442fe_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2882143470/92d3f72acf1a7b2c614da37b3a0442fe_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35250036/1389998324",
+				"profile_link_color": "36A0C7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "35353B",
+				"profile_text_color": "C9D6C7",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 21 17:48:00 +0000 2017",
+		"id": 855478237912322000,
+		"id_str": "855478237912322048",
+		"text": "RT @brunchproblems: Nice try, 100 spiders working together to operate a keyboard. https://t.co/7FXgF1P088",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brunchproblems",
+					"name": "Carly",
+					"id": 793217623,
+					"id_str": "793217623",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 855118361545523200,
+					"id_str": "855118361545523200",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/C939noTVwAAkVwj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C939noTVwAAkVwj.jpg",
+					"url": "https://t.co/7FXgF1P088",
+					"display_url": "pic.twitter.com/7FXgF1P088",
+					"expanded_url": "https://twitter.com/brunchproblems/status/855118485386481664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 477,
+							"h": 304,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 477,
+							"h": 304,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 477,
+							"h": 304,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 855118485386481700,
+					"source_status_id_str": "855118485386481664",
+					"source_user_id": 793217623,
+					"source_user_id_str": "793217623"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 855118361545523200,
+					"id_str": "855118361545523200",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/C939noTVwAAkVwj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C939noTVwAAkVwj.jpg",
+					"url": "https://t.co/7FXgF1P088",
+					"display_url": "pic.twitter.com/7FXgF1P088",
+					"expanded_url": "https://twitter.com/brunchproblems/status/855118485386481664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 477,
+							"h": 304,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 477,
+							"h": 304,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 477,
+							"h": 304,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 855118485386481700,
+					"source_status_id_str": "855118485386481664",
+					"source_user_id": 793217623,
+					"source_user_id_str": "793217623"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 281,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 424,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35295,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854056551983833090/mWRS4_t-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854056551983833090/mWRS4_t-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1492198619",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 20 17:58:28 +0000 2017",
+			"id": 855118485386481700,
+			"id_str": "855118485386481664",
+			"text": "Nice try, 100 spiders working together to operate a keyboard. https://t.co/7FXgF1P088",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 855118361545523200,
+						"id_str": "855118361545523200",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C939noTVwAAkVwj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C939noTVwAAkVwj.jpg",
+						"url": "https://t.co/7FXgF1P088",
+						"display_url": "pic.twitter.com/7FXgF1P088",
+						"expanded_url": "https://twitter.com/brunchproblems/status/855118485386481664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 477,
+								"h": 304,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 477,
+								"h": 304,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 477,
+								"h": 304,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 855118361545523200,
+						"id_str": "855118361545523200",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C939noTVwAAkVwj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C939noTVwAAkVwj.jpg",
+						"url": "https://t.co/7FXgF1P088",
+						"display_url": "pic.twitter.com/7FXgF1P088",
+						"expanded_url": "https://twitter.com/brunchproblems/status/855118485386481664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 477,
+								"h": 304,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 477,
+								"h": 304,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 477,
+								"h": 304,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 793217623,
+				"id_str": "793217623",
+				"name": "Carly",
+				"screen_name": "brunchproblems",
+				"location": "",
+				"description": "I don't watch Game of Thrones.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 364,
+				"friends_count": 343,
+				"listed_count": 10,
+				"created_at": "Fri Aug 31 06:15:37 +0000 2012",
+				"favourites_count": 5829,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 902,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000117751734/b980a58b10d1bedb34b827e735264a33.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000117751734/b980a58b10d1bedb34b827e735264a33.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/855300165401362434/uZp-mD1z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/855300165401362434/uZp-mD1z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/793217623/1393036429",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12754,
+			"favorite_count": 31627,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12754,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 21 17:43:18 +0000 2017",
+		"id": 855477055491899400,
+		"id_str": "855477055491899393",
+		"text": "McCluskey voted in with 12% turnout.... ringing endorsement right there",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 281,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 424,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35295,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854056551983833090/mWRS4_t-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854056551983833090/mWRS4_t-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1492198619",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 20 20:43:33 +0000 2017",
 		"id": 855160028109713400,
 		"id_str": "855160028109713408",
