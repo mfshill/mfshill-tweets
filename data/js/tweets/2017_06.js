@@ -1,6 +1,725 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Wed Jun 07 19:01:03 +0000 2017",
+		"id": 872528849426362400,
+		"id_str": "872528849426362374",
+		"text": "RT @okayplayer: Today is #PrinceDay what better way to honor His Purple Majesty by listening to this amazing mix from @AlvinAl3978. https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PrinceDay",
+					"indices": [
+						25,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "okayplayer",
+					"name": "Okayplayer",
+					"id": 23978727,
+					"id_str": "23978727",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "AlvinAl3978",
+					"name": "AlvinAl3978",
+					"id": 153453124,
+					"id_str": "153453124",
+					"indices": [
+						118,
+						130
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 471,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35616,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/857684948257517568/naPpZDFI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/857684948257517568/naPpZDFI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1492198619",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 07 18:15:01 +0000 2017",
+			"id": 872517265748627500,
+			"id_str": "872517265748627456",
+			"text": "Today is #PrinceDay what better way to honor His Purple Majesty by listening to this amazing mix from @AlvinAl3978.… https://t.co/3PafiT1CH0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PrinceDay",
+						"indices": [
+							9,
+							19
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AlvinAl3978",
+						"name": "AlvinAl3978",
+						"id": 153453124,
+						"id_str": "153453124",
+						"indices": [
+							102,
+							114
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3PafiT1CH0",
+						"expanded_url": "https://twitter.com/i/web/status/872517265748627456",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23978727,
+				"id_str": "23978727",
+				"name": "Okayplayer",
+				"screen_name": "okayplayer",
+				"location": "Brooklyn, NY",
+				"description": "True notes since 1987. Merch: @okpshop",
+				"url": "https://t.co/HwQjLK8JpP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HwQjLK8JpP",
+								"expanded_url": "http://www.okayplayer.com",
+								"display_url": "okayplayer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 85222,
+				"friends_count": 4830,
+				"listed_count": 2126,
+				"created_at": "Thu Mar 12 16:33:34 +0000 2009",
+				"favourites_count": 9883,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 66672,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/671436065249607680/76ydWbKo.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/671436065249607680/76ydWbKo.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/856506717861031936/7hx7vO5-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/856506717861031936/7hx7vO5-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23978727/1496838441",
+				"profile_link_color": "320279",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 07 18:54:16 +0000 2017",
+		"id": 872527144588632000,
+		"id_str": "872527144588632064",
+		"text": "RT @heyadam: My bike ride in AR. (Unity + ARKit + Mapbox + Strava) https://t.co/g2uVwVlM3h",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heyadam",
+					"name": "Adam Debreczeni",
+					"id": 6876902,
+					"id_str": "6876902",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 872278650305085400,
+					"id_str": "872278650305085444",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/872278650305085444/pu/img/ChCr-3CAtmmDK-uH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/872278650305085444/pu/img/ChCr-3CAtmmDK-uH.jpg",
+					"url": "https://t.co/g2uVwVlM3h",
+					"display_url": "pic.twitter.com/g2uVwVlM3h",
+					"expanded_url": "https://twitter.com/heyadam/status/872278723700994048/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 872278723700994000,
+					"source_status_id_str": "872278723700994048",
+					"source_user_id": 6876902,
+					"source_user_id_str": "6876902"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 872278650305085400,
+					"id_str": "872278650305085444",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/872278650305085444/pu/img/ChCr-3CAtmmDK-uH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/872278650305085444/pu/img/ChCr-3CAtmmDK-uH.jpg",
+					"url": "https://t.co/g2uVwVlM3h",
+					"display_url": "pic.twitter.com/g2uVwVlM3h",
+					"expanded_url": "https://twitter.com/heyadam/status/872278723700994048/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 872278723700994000,
+					"source_status_id_str": "872278723700994048",
+					"source_user_id": 6876902,
+					"source_user_id_str": "6876902",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 19767,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/872278650305085444/pu/vid/360x640/iU6mqy2Fry_YACK6.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/872278650305085444/pu/vid/720x1280/aZd2PddCdV5N76H0.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/872278650305085444/pu/pl/0itoLa8D4gZd59RG.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/872278650305085444/pu/vid/180x320/nS9EL1YjwuHRHz8P.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 6876902,
+							"id_str": "6876902",
+							"name": "Adam Debreczeni",
+							"screen_name": "heyadam",
+							"location": "Racing bicycles around SF.",
+							"description": "Co-founder: @velo. Past work: Material Design, GV, Form (co-founder, acquired by Google), RelativeWave, Lady Gaga. Investor: @clearbit.",
+							"url": "https://t.co/RcbQSw20xf",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/RcbQSw20xf",
+											"expanded_url": "http://heyadam.com",
+											"display_url": "heyadam.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 4223,
+							"friends_count": 651,
+							"listed_count": 196,
+							"created_at": "Sun Jun 17 21:35:51 +0000 2007",
+							"favourites_count": 19910,
+							"utc_offset": -25200,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 725,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/785698069/0a2590681492fbadaf051bb29afdda38.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/785698069/0a2590681492fbadaf051bb29afdda38.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/829914274843619328/GJM_r1N8_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/829914274843619328/GJM_r1N8_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/6876902/1465067664",
+							"profile_link_color": "178ABF",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "F2FDFF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 471,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35616,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/857684948257517568/naPpZDFI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/857684948257517568/naPpZDFI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1492198619",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 07 02:27:08 +0000 2017",
+			"id": 872278723700994000,
+			"id_str": "872278723700994048",
+			"text": "My bike ride in AR. (Unity + ARKit + Mapbox + Strava) https://t.co/g2uVwVlM3h",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 872278650305085400,
+						"id_str": "872278650305085444",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/872278650305085444/pu/img/ChCr-3CAtmmDK-uH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/872278650305085444/pu/img/ChCr-3CAtmmDK-uH.jpg",
+						"url": "https://t.co/g2uVwVlM3h",
+						"display_url": "pic.twitter.com/g2uVwVlM3h",
+						"expanded_url": "https://twitter.com/heyadam/status/872278723700994048/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 872278650305085400,
+						"id_str": "872278650305085444",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/872278650305085444/pu/img/ChCr-3CAtmmDK-uH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/872278650305085444/pu/img/ChCr-3CAtmmDK-uH.jpg",
+						"url": "https://t.co/g2uVwVlM3h",
+						"display_url": "pic.twitter.com/g2uVwVlM3h",
+						"expanded_url": "https://twitter.com/heyadam/status/872278723700994048/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 19767,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/872278650305085444/pu/vid/360x640/iU6mqy2Fry_YACK6.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/872278650305085444/pu/vid/720x1280/aZd2PddCdV5N76H0.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/872278650305085444/pu/pl/0itoLa8D4gZd59RG.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/872278650305085444/pu/vid/180x320/nS9EL1YjwuHRHz8P.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6876902,
+				"id_str": "6876902",
+				"name": "Adam Debreczeni",
+				"screen_name": "heyadam",
+				"location": "Racing bicycles around SF.",
+				"description": "Co-founder: @velo. Past work: Material Design, GV, Form (co-founder, acquired by Google), RelativeWave, Lady Gaga. Investor: @clearbit.",
+				"url": "https://t.co/RcbQSw20xf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RcbQSw20xf",
+								"expanded_url": "http://heyadam.com",
+								"display_url": "heyadam.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4223,
+				"friends_count": 651,
+				"listed_count": 196,
+				"created_at": "Sun Jun 17 21:35:51 +0000 2007",
+				"favourites_count": 19910,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 725,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/785698069/0a2590681492fbadaf051bb29afdda38.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/785698069/0a2590681492fbadaf051bb29afdda38.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/829914274843619328/GJM_r1N8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/829914274843619328/GJM_r1N8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6876902/1465067664",
+				"profile_link_color": "178ABF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F2FDFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2296,
+			"favorite_count": 5653,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2296,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 06 22:08:07 +0000 2017",
 		"id": 872213540995813400,
 		"id_str": "872213540995813378",
