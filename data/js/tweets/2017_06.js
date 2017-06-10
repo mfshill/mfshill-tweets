@@ -1,6 +1,573 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Fri Jun 09 12:23:30 +0000 2017",
+		"id": 873153580177526800,
+		"id_str": "873153580177526784",
+		"text": "@sarahsmega wish i could retweet that",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sarahsmega",
+					"name": "flugalpop",
+					"id": 93031151,
+					"id_str": "93031151",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 873145930635137000,
+		"in_reply_to_status_id_str": "873145930635137024",
+		"in_reply_to_user_id": 93031151,
+		"in_reply_to_user_id_str": "93031151",
+		"in_reply_to_screen_name": "sarahsmega",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 472,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35636,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1492198619",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 09 12:19:26 +0000 2017",
+		"id": 873152556989640700,
+		"id_str": "873152556989640704",
+		"text": "Andrew Neil really needs to stop dying his hair #GE2017",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GE2017",
+					"indices": [
+						48,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 472,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35636,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1492198619",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 09 09:52:35 +0000 2017",
+		"id": 873115601849405400,
+		"id_str": "873115601849405441",
+		"text": "RT @AdrianEdmondson: I have decided to retire my drunken rascist oaf character with immediate effect!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdrianEdmondson",
+					"name": "Adrian Edmondson",
+					"id": 225420563,
+					"id_str": "225420563",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 472,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35636,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1492198619",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 09 09:45:10 +0000 2017",
+			"id": 873113734176059400,
+			"id_str": "873113734176059392",
+			"text": "I have decided to retire my drunken rascist oaf character with immediate effect!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 225420563,
+				"id_str": "225420563",
+				"name": "Adrian Edmondson",
+				"screen_name": "AdrianEdmondson",
+				"location": "",
+				"description": "Tilly & the Time Machine.   https://t.co/rgCHdy4tup",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rgCHdy4tup",
+								"expanded_url": "http://po.st/TimeMachineBook",
+								"display_url": "po.st/TimeMachineBook",
+								"indices": [
+									28,
+									51
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 196039,
+				"friends_count": 139,
+				"listed_count": 1127,
+				"created_at": "Sat Dec 11 14:23:43 +0000 2010",
+				"favourites_count": 368,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1452,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2478712616/image_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2478712616/image_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/225420563/1373045996",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 728,
+			"favorite_count": 2220,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 728,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 09 09:50:16 +0000 2017",
+		"id": 873115015695302700,
+		"id_str": "873115015695302658",
+		"text": "just imagine May &amp; Corbyn pacing up to the penalty spot to decide the future of the country... who the hell would w… https://t.co/Bdwdw0COqq",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bdwdw0COqq",
+					"expanded_url": "https://twitter.com/i/web/status/873115015695302658",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 260,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 472,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35636,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1492198619",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 873013726106071000,
+		"quoted_status_id_str": "873013726106071040",
+		"quoted_status": {
+			"created_at": "Fri Jun 09 03:07:46 +0000 2017",
+			"id": 873013726106071000,
+			"id_str": "873013726106071040",
+			"text": "This just lends to my argument that everything should be decided with penalties.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14524990,
+				"id_str": "14524990",
+				"name": "sqwirräl",
+				"screen_name": "sqwirral",
+				"location": "EVERYDAY PON",
+				"description": "ダ ダ ダ ダ　インベーダー #teamsabine #teamdafne #teamtate #teamkjt #ynwa",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 133,
+				"friends_count": 80,
+				"listed_count": 8,
+				"created_at": "Fri Apr 25 10:56:04 +0000 2008",
+				"favourites_count": 1316,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17758,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/601434805356531715/WD4KNgXq.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/601434805356531715/WD4KNgXq.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/819181954520285184/jenAbRi5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/819181954520285184/jenAbRi5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14524990/1411762809",
+				"profile_link_color": "997A2E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "D6D6D6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 08 22:05:33 +0000 2017",
 		"id": 872937669508116500,
 		"id_str": "872937669508116480",
