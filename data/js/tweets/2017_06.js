@@ -1,6 +1,1373 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Tue Jun 13 19:58:20 +0000 2017",
+		"id": 874717593998942200,
+		"id_str": "874717593998942210",
+		"text": "Aphex Twin Live at Field Day 2017 https://t.co/vX3HZYBT6v via @YouTube",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						62,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vX3HZYBT6v",
+					"expanded_url": "https://youtu.be/nzvLiwUK3R8",
+					"display_url": "youtu.be/nzvLiwUK3R8",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 261,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 476,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1492198619",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 13 19:54:09 +0000 2017",
+		"id": 874716539462746100,
+		"id_str": "874716539462746112",
+		"text": "RT @TC_Cornesto: You: Aaawwww that's cute\n\nMe (an intellectual): This is a flagrant violation of health &amp; safety protocols set up to protec…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 261,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 476,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1492198619",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 13 11:55:56 +0000 2017",
+			"id": 874596195544567800,
+			"id_str": "874596195544567808",
+			"text": "You: Aaawwww that's cute\n\nMe (an intellectual): This is a flagrant violation of health &amp; safety protocols set up to… https://t.co/MA3voTqbt2",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MA3voTqbt2",
+						"expanded_url": "https://twitter.com/i/web/status/874596195544567808",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19991214,
+				"id_str": "19991214",
+				"name": "TC",
+				"screen_name": "TC_Cornesto",
+				"location": "",
+				"description": "Rascal",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1249,
+				"friends_count": 1269,
+				"listed_count": 66,
+				"created_at": "Tue Feb 03 18:28:43 +0000 2009",
+				"favourites_count": 16087,
+				"utc_offset": 3600,
+				"time_zone": "Europe/London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 62290,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000177079054/PXvUAQKr.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000177079054/PXvUAQKr.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/831504955752185858/mYmqHi-Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/831504955752185858/mYmqHi-Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19991214/1487081397",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 13 19:53:24 +0000 2017",
+		"id": 874716353445453800,
+		"id_str": "874716353445453824",
+		"text": "LEGO-Inspired Kits Let You Produce Pixelated Cat Sculptures to Roam Your Home @Caroline_Em_S https://t.co/HBvmpdehmJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Caroline_Em_S",
+					"name": "Caroline Stephens",
+					"id": 619383986,
+					"id_str": "619383986",
+					"indices": [
+						78,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HBvmpdehmJ",
+					"expanded_url": "http://mymodernmet.com/cat-lego-art-jekca-hong-kong/",
+					"display_url": "mymodernmet.com/cat-lego-art-j…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 261,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 476,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1492198619",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 13 15:55:23 +0000 2017",
+		"id": 874656452161523700,
+		"id_str": "874656452161523712",
+		"text": "RT @VICE: Sex, drugs, and music are all the same to your brain: https://t.co/j6rIJwWqqa https://t.co/fJqUaVvUVT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VICE",
+					"name": "VICE",
+					"id": 23818581,
+					"id_str": "23818581",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j6rIJwWqqa",
+					"expanded_url": "http://bit.ly/2sUOZ6F",
+					"display_url": "bit.ly/2sUOZ6F",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 874574576767729700,
+					"id_str": "874574576767729665",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/DCMc8aHUAAEMOAK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCMc8aHUAAEMOAK.jpg",
+					"url": "https://t.co/fJqUaVvUVT",
+					"display_url": "pic.twitter.com/fJqUaVvUVT",
+					"expanded_url": "https://twitter.com/VICE/status/874574579292831745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 809,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 874574579292831700,
+					"source_status_id_str": "874574579292831745",
+					"source_user_id": 23818581,
+					"source_user_id_str": "23818581"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 874574576767729700,
+					"id_str": "874574576767729665",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/DCMc8aHUAAEMOAK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCMc8aHUAAEMOAK.jpg",
+					"url": "https://t.co/fJqUaVvUVT",
+					"display_url": "pic.twitter.com/fJqUaVvUVT",
+					"expanded_url": "https://twitter.com/VICE/status/874574579292831745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 809,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 874574579292831700,
+					"source_status_id_str": "874574579292831745",
+					"source_user_id": 23818581,
+					"source_user_id_str": "23818581"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 261,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 476,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1492198619",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 13 10:30:03 +0000 2017",
+			"id": 874574579292831700,
+			"id_str": "874574579292831745",
+			"text": "Sex, drugs, and music are all the same to your brain: https://t.co/j6rIJwWqqa https://t.co/fJqUaVvUVT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/j6rIJwWqqa",
+						"expanded_url": "http://bit.ly/2sUOZ6F",
+						"display_url": "bit.ly/2sUOZ6F",
+						"indices": [
+							54,
+							77
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 874574576767729700,
+						"id_str": "874574576767729665",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DCMc8aHUAAEMOAK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCMc8aHUAAEMOAK.jpg",
+						"url": "https://t.co/fJqUaVvUVT",
+						"display_url": "pic.twitter.com/fJqUaVvUVT",
+						"expanded_url": "https://twitter.com/VICE/status/874574579292831745/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 809,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 874574576767729700,
+						"id_str": "874574576767729665",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DCMc8aHUAAEMOAK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCMc8aHUAAEMOAK.jpg",
+						"url": "https://t.co/fJqUaVvUVT",
+						"display_url": "pic.twitter.com/fJqUaVvUVT",
+						"expanded_url": "https://twitter.com/VICE/status/874574579292831745/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 809,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23818581,
+				"id_str": "23818581",
+				"name": "VICE",
+				"screen_name": "VICE",
+				"location": "Brooklyn, NY",
+				"description": "The definitive guide to enlightening information.",
+				"url": "http://t.co/ynuk0xrVyG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ynuk0xrVyG",
+								"expanded_url": "http://www.vice.com",
+								"display_url": "vice.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1749296,
+				"friends_count": 11299,
+				"listed_count": 16399,
+				"created_at": "Wed Mar 11 20:00:38 +0000 2009",
+				"favourites_count": 2882,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 85193,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/681263517/5560e6fa257be5ef1408b3d6295390a5.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/681263517/5560e6fa257be5ef1408b3d6295390a5.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/672036189273120768/4_Esv2H4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/672036189273120768/4_Esv2H4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23818581/1490887881",
+				"profile_link_color": "077AC0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F7F3F2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 99,
+			"favorite_count": 254,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 13 15:51:29 +0000 2017",
+		"id": 874655470077829100,
+		"id_str": "874655470077829120",
+		"text": "RT @SteveShea: Lord Buckethead to negotiate Brexit: https://t.co/t1pAs9PvJA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SteveShea",
+					"name": "Steve Shea",
+					"id": 20401460,
+					"id_str": "20401460",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/t1pAs9PvJA",
+					"expanded_url": "https://youtu.be/lbTKggpdr-g",
+					"display_url": "youtu.be/lbTKggpdr-g",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 261,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 476,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1492198619",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 13 15:14:39 +0000 2017",
+			"id": 874646203606204400,
+			"id_str": "874646203606204416",
+			"text": "Lord Buckethead to negotiate Brexit: https://t.co/t1pAs9PvJA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/t1pAs9PvJA",
+						"expanded_url": "https://youtu.be/lbTKggpdr-g",
+						"display_url": "youtu.be/lbTKggpdr-g",
+						"indices": [
+							37,
+							60
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20401460,
+				"id_str": "20401460",
+				"name": "Steve Shea",
+				"screen_name": "SteveShea",
+				"location": "High Wycombe, England.",
+				"description": "I reject absolutely revenge, aggression, and retaliation. The foundation of such a method... is love.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 435,
+				"friends_count": 1067,
+				"listed_count": 20,
+				"created_at": "Sun Feb 08 23:30:33 +0000 2009",
+				"favourites_count": 1774,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 60768,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/460384038423785472/q0R1FC7m.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/460384038423785472/q0R1FC7m.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/625039740836933632/AtuZVckh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/625039740836933632/AtuZVckh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20401460/1437861373",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 13 12:40:13 +0000 2017",
+		"id": 874607338866581500,
+		"id_str": "874607338866581504",
+		"text": "RT @VICE: Nightmare hellface generator is cutting-edge machine learning: https://t.co/xpNkXHuu4q https://t.co/5F9OYWJCds",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VICE",
+					"name": "VICE",
+					"id": 23818581,
+					"id_str": "23818581",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xpNkXHuu4q",
+					"expanded_url": "http://bit.ly/2sVm0zH",
+					"display_url": "bit.ly/2sVm0zH",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 874604777979560000,
+					"id_str": "874604777979559936",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DCM4aWZUwAALO11.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCM4aWZUwAALO11.jpg",
+					"url": "https://t.co/5F9OYWJCds",
+					"display_url": "pic.twitter.com/5F9OYWJCds",
+					"expanded_url": "https://twitter.com/VICE/status/874604780760567808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 810,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 874604780760567800,
+					"source_status_id_str": "874604780760567808",
+					"source_user_id": 23818581,
+					"source_user_id_str": "23818581"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 874604777979560000,
+					"id_str": "874604777979559936",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DCM4aWZUwAALO11.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCM4aWZUwAALO11.jpg",
+					"url": "https://t.co/5F9OYWJCds",
+					"display_url": "pic.twitter.com/5F9OYWJCds",
+					"expanded_url": "https://twitter.com/VICE/status/874604780760567808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 810,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 874604780760567800,
+					"source_status_id_str": "874604780760567808",
+					"source_user_id": 23818581,
+					"source_user_id_str": "23818581"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 261,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 476,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35674,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/872937008569757697/1sf11Y9P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1492198619",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 13 12:30:03 +0000 2017",
+			"id": 874604780760567800,
+			"id_str": "874604780760567808",
+			"text": "Nightmare hellface generator is cutting-edge machine learning: https://t.co/xpNkXHuu4q https://t.co/5F9OYWJCds",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xpNkXHuu4q",
+						"expanded_url": "http://bit.ly/2sVm0zH",
+						"display_url": "bit.ly/2sVm0zH",
+						"indices": [
+							63,
+							86
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 874604777979560000,
+						"id_str": "874604777979559936",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DCM4aWZUwAALO11.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCM4aWZUwAALO11.jpg",
+						"url": "https://t.co/5F9OYWJCds",
+						"display_url": "pic.twitter.com/5F9OYWJCds",
+						"expanded_url": "https://twitter.com/VICE/status/874604780760567808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 810,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 874604777979560000,
+						"id_str": "874604777979559936",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DCM4aWZUwAALO11.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCM4aWZUwAALO11.jpg",
+						"url": "https://t.co/5F9OYWJCds",
+						"display_url": "pic.twitter.com/5F9OYWJCds",
+						"expanded_url": "https://twitter.com/VICE/status/874604780760567808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 810,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23818581,
+				"id_str": "23818581",
+				"name": "VICE",
+				"screen_name": "VICE",
+				"location": "Brooklyn, NY",
+				"description": "The definitive guide to enlightening information.",
+				"url": "http://t.co/ynuk0xrVyG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ynuk0xrVyG",
+								"expanded_url": "http://www.vice.com",
+								"display_url": "vice.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1749296,
+				"friends_count": 11299,
+				"listed_count": 16399,
+				"created_at": "Wed Mar 11 20:00:38 +0000 2009",
+				"favourites_count": 2882,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 85193,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/681263517/5560e6fa257be5ef1408b3d6295390a5.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/681263517/5560e6fa257be5ef1408b3d6295390a5.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/672036189273120768/4_Esv2H4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/672036189273120768/4_Esv2H4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23818581/1490887881",
+				"profile_link_color": "077AC0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F7F3F2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 209,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 12 21:00:35 +0000 2017",
 		"id": 874370872026509300,
 		"id_str": "874370872026509314",
