@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sun Jul 09 19:12:13 +0000 2017",
+		"id": 884128070814371800,
+		"id_str": "884128070814371840",
+		"text": "RT @christopherward: Seats Michael Howard gained in 2005: 33\nVerdict: Failure. Resigns.\n\nSeats Corbyn gained in 2017: 30\nVerdict: OMG WE WO…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "christopherward",
+					"name": "Chris Ward",
+					"id": 17616581,
+					"id_str": "17616581",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 262,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 495,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35837,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 09 18:14:33 +0000 2017",
+			"id": 884113558727995400,
+			"id_str": "884113558727995392",
+			"text": "Seats Michael Howard gained in 2005: 33\nVerdict: Failure. Resigns.\n\nSeats Corbyn gained in 2017: 30\nVerdict: OMG WE WON THE ELECTION!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17616581,
+				"id_str": "17616581",
+				"name": "Chris Ward",
+				"screen_name": "christopherward",
+				"location": "Covent Garden, London",
+				"description": "Chair @LGBTHumanistsUK. Feminist. Senior Android Dev. LGBT/secularist campaigner. Nearly-husband: @joshuagladwin. Escaping Brexit to Berlin.",
+				"url": "https://t.co/XGnjuC5EPC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XGnjuC5EPC",
+								"expanded_url": "http://www.christopherward.org.uk",
+								"display_url": "christopherward.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6823,
+				"friends_count": 6917,
+				"listed_count": 118,
+				"created_at": "Tue Nov 25 10:11:43 +0000 2008",
+				"favourites_count": 6529,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11001,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882150231185477634/Tut2zf6P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882150231185477634/Tut2zf6P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17616581/1497110568",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 09 19:03:50 +0000 2017",
+		"id": 884125961570177000,
+		"id_str": "884125961570177024",
+		"text": "RT @TheAzzo: An owl having the most Kate Bush moment ever. https://t.co/mXAV1xDg0p",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheAzzo",
+					"name": "Suze Azzopardi",
+					"id": 19390623,
+					"id_str": "19390623",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 884106416356773900,
+					"id_str": "884106416356773889",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DET6GfqW0AEfHan.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DET6GfqW0AEfHan.jpg",
+					"url": "https://t.co/mXAV1xDg0p",
+					"display_url": "pic.twitter.com/mXAV1xDg0p",
+					"expanded_url": "https://twitter.com/TheAzzo/status/884106422467915776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 564,
+							"h": 564,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 564,
+							"h": 564,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 564,
+							"h": 564,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 884106422467915800,
+					"source_status_id_str": "884106422467915776",
+					"source_user_id": 19390623,
+					"source_user_id_str": "19390623"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 884106416356773900,
+					"id_str": "884106416356773889",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DET6GfqW0AEfHan.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DET6GfqW0AEfHan.jpg",
+					"url": "https://t.co/mXAV1xDg0p",
+					"display_url": "pic.twitter.com/mXAV1xDg0p",
+					"expanded_url": "https://twitter.com/TheAzzo/status/884106422467915776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 564,
+							"h": 564,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 564,
+							"h": 564,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 564,
+							"h": 564,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 884106422467915800,
+					"source_status_id_str": "884106422467915776",
+					"source_user_id": 19390623,
+					"source_user_id_str": "19390623"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 262,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 495,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35837,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 09 17:46:11 +0000 2017",
+			"id": 884106422467915800,
+			"id_str": "884106422467915776",
+			"text": "An owl having the most Kate Bush moment ever. https://t.co/mXAV1xDg0p",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 884106416356773900,
+						"id_str": "884106416356773889",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DET6GfqW0AEfHan.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DET6GfqW0AEfHan.jpg",
+						"url": "https://t.co/mXAV1xDg0p",
+						"display_url": "pic.twitter.com/mXAV1xDg0p",
+						"expanded_url": "https://twitter.com/TheAzzo/status/884106422467915776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 564,
+								"h": 564,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 564,
+								"h": 564,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 564,
+								"h": 564,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 884106416356773900,
+						"id_str": "884106416356773889",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DET6GfqW0AEfHan.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DET6GfqW0AEfHan.jpg",
+						"url": "https://t.co/mXAV1xDg0p",
+						"display_url": "pic.twitter.com/mXAV1xDg0p",
+						"expanded_url": "https://twitter.com/TheAzzo/status/884106422467915776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 564,
+								"h": 564,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 564,
+								"h": 564,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 564,
+								"h": 564,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19390623,
+				"id_str": "19390623",
+				"name": "Suze Azzopardi",
+				"screen_name": "TheAzzo",
+				"location": "Haringey, London",
+				"description": "My name is not Susan, like Whitney said. Exec Producer, Digital @FremantleMedia | Producer @litdeathmatch | Insta: @theAzzo | Flatmate's Insta @FigaroCatface",
+				"url": "https://t.co/9yz2PlDrzX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9yz2PlDrzX",
+								"expanded_url": "http://theazzo.wordpress.com",
+								"display_url": "theazzo.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4519,
+				"friends_count": 2100,
+				"listed_count": 102,
+				"created_at": "Fri Jan 23 11:32:05 +0000 2009",
+				"favourites_count": 15156,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 74881,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "170B3B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000002603839/e3ff7c2cb765786ab4bc6513ad31d165.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000002603839/e3ff7c2cb765786ab4bc6513ad31d165.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875474811664961536/J7RxO0Ya_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875474811664961536/J7RxO0Ya_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19390623/1407588312",
+				"profile_link_color": "AD307B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "473947",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3305,
+			"favorite_count": 12534,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3305,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 08 14:25:43 +0000 2017",
 		"id": 883693584670654500,
 		"id_str": "883693584670654464",
