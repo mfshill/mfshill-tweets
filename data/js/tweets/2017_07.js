@@ -1,6 +1,679 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Mon Jul 10 07:16:30 +0000 2017",
+		"id": 884310345598341100,
+		"id_str": "884310345598341120",
+		"text": "RT @JulesSunbeam: Socialism in a nutshell. It has never worked, it can never work: https://t.co/LlgZERnlLT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JulesSunbeam",
+					"name": "Julia 🇬🇧",
+					"id": 232383294,
+					"id_str": "232383294",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 883994666106064900,
+					"id_str": "883994666106064896",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DESUdxiXkAAVwMs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DESUdxiXkAAVwMs.jpg",
+					"url": "https://t.co/LlgZERnlLT",
+					"display_url": "pic.twitter.com/LlgZERnlLT",
+					"expanded_url": "https://twitter.com/JulesSunbeam/status/883994675291541506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 883994675291541500,
+					"source_status_id_str": "883994675291541506",
+					"source_user_id": 232383294,
+					"source_user_id_str": "232383294"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 883994666106064900,
+					"id_str": "883994666106064896",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DESUdxiXkAAVwMs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DESUdxiXkAAVwMs.jpg",
+					"url": "https://t.co/LlgZERnlLT",
+					"display_url": "pic.twitter.com/LlgZERnlLT",
+					"expanded_url": "https://twitter.com/JulesSunbeam/status/883994675291541506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 883994675291541500,
+					"source_status_id_str": "883994675291541506",
+					"source_user_id": 232383294,
+					"source_user_id_str": "232383294"
+				},
+				{
+					"id": 883994666110263300,
+					"id_str": "883994666110263296",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DESUdxjXoAApiSf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DESUdxjXoAApiSf.jpg",
+					"url": "https://t.co/LlgZERnlLT",
+					"display_url": "pic.twitter.com/LlgZERnlLT",
+					"expanded_url": "https://twitter.com/JulesSunbeam/status/883994675291541506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 883994675291541500,
+					"source_status_id_str": "883994675291541506",
+					"source_user_id": 232383294,
+					"source_user_id_str": "232383294"
+				},
+				{
+					"id": 883994666097619000,
+					"id_str": "883994666097618946",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DESUdxgWsAILC_k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DESUdxgWsAILC_k.jpg",
+					"url": "https://t.co/LlgZERnlLT",
+					"display_url": "pic.twitter.com/LlgZERnlLT",
+					"expanded_url": "https://twitter.com/JulesSunbeam/status/883994675291541506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 883994675291541500,
+					"source_status_id_str": "883994675291541506",
+					"source_user_id": 232383294,
+					"source_user_id_str": "232383294"
+				},
+				{
+					"id": 883994666101862400,
+					"id_str": "883994666101862400",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DESUdxhXcAAzSV1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DESUdxhXcAAzSV1.jpg",
+					"url": "https://t.co/LlgZERnlLT",
+					"display_url": "pic.twitter.com/LlgZERnlLT",
+					"expanded_url": "https://twitter.com/JulesSunbeam/status/883994675291541506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 883994675291541500,
+					"source_status_id_str": "883994675291541506",
+					"source_user_id": 232383294,
+					"source_user_id_str": "232383294"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 262,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 495,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35839,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 09 10:22:09 +0000 2017",
+			"id": 883994675291541500,
+			"id_str": "883994675291541506",
+			"text": "Socialism in a nutshell. It has never worked, it can never work: https://t.co/LlgZERnlLT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 883994666106064900,
+						"id_str": "883994666106064896",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DESUdxiXkAAVwMs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DESUdxiXkAAVwMs.jpg",
+						"url": "https://t.co/LlgZERnlLT",
+						"display_url": "pic.twitter.com/LlgZERnlLT",
+						"expanded_url": "https://twitter.com/JulesSunbeam/status/883994675291541506/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 883994666106064900,
+						"id_str": "883994666106064896",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DESUdxiXkAAVwMs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DESUdxiXkAAVwMs.jpg",
+						"url": "https://t.co/LlgZERnlLT",
+						"display_url": "pic.twitter.com/LlgZERnlLT",
+						"expanded_url": "https://twitter.com/JulesSunbeam/status/883994675291541506/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 883994666110263300,
+						"id_str": "883994666110263296",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DESUdxjXoAApiSf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DESUdxjXoAApiSf.jpg",
+						"url": "https://t.co/LlgZERnlLT",
+						"display_url": "pic.twitter.com/LlgZERnlLT",
+						"expanded_url": "https://twitter.com/JulesSunbeam/status/883994675291541506/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 883994666097619000,
+						"id_str": "883994666097618946",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DESUdxgWsAILC_k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DESUdxgWsAILC_k.jpg",
+						"url": "https://t.co/LlgZERnlLT",
+						"display_url": "pic.twitter.com/LlgZERnlLT",
+						"expanded_url": "https://twitter.com/JulesSunbeam/status/883994675291541506/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 883994666101862400,
+						"id_str": "883994666101862400",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DESUdxhXcAAzSV1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DESUdxhXcAAzSV1.jpg",
+						"url": "https://t.co/LlgZERnlLT",
+						"display_url": "pic.twitter.com/LlgZERnlLT",
+						"expanded_url": "https://twitter.com/JulesSunbeam/status/883994675291541506/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 232383294,
+				"id_str": "232383294",
+				"name": "Julia 🇬🇧",
+				"screen_name": "JulesSunbeam",
+				"location": "Londoner by the seaside 🏖",
+				"description": "Love my country, proud of our Armed Forces, love planes, hate flying. Love Europe, hate the EU. Thrilled about #Brexit #Tory #GSTQ",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7116,
+				"friends_count": 5813,
+				"listed_count": 102,
+				"created_at": "Fri Dec 31 00:45:49 +0000 2010",
+				"favourites_count": 48791,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 178551,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876225266762252289/c0_T0V8O_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876225266762252289/c0_T0V8O_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/232383294/1499025326",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 261,
+			"favorite_count": 319,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 261,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jul 10 06:35:02 +0000 2017",
+		"id": 884299908240560100,
+		"id_str": "884299908240560128",
+		"text": "Messy, always late and swear like a sailor? It just means you’re super smart. https://t.co/M4pLiM0tS3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M4pLiM0tS3",
+					"expanded_url": "http://google.com/newsstand/s/CBIwodPi5Dk",
+					"display_url": "google.com/newsstand/s/CB…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 262,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 495,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35839,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jul 09 19:12:13 +0000 2017",
 		"id": 884128070814371800,
 		"id_str": "884128070814371840",
