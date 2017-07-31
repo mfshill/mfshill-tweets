@@ -1,6 +1,2209 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sun Jul 30 18:36:39 +0000 2017",
+		"id": 891729266207010800,
+		"id_str": "891729266207010816",
+		"text": "DC taken out with a shin to the face, fight seemed pretty even up till then #CORMIERvJONES #UFC214",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CORMIERvJONES",
+					"indices": [
+						76,
+						90
+					]
+				},
+				{
+					"text": "UFC214",
+					"indices": [
+						91,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 263,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 503,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 30 18:03:22 +0000 2017",
+		"id": 891720891209482200,
+		"id_str": "891720891209482241",
+		"text": "Tyron really doesn't like getting taken down #WOODLEYvMAIA  #UFC214",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WOODLEYvMAIA",
+					"indices": [
+						45,
+						58
+					]
+				},
+				{
+					"text": "UFC214",
+					"indices": [
+						60,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 263,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 503,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 30 17:33:34 +0000 2017",
+		"id": 891713391798235100,
+		"id_str": "891713391798235136",
+		"text": "surprised that lasted 3 rounds #CYBORGvEVINGER #UFC214",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CYBORGvEVINGER",
+					"indices": [
+						31,
+						46
+					]
+				},
+				{
+					"text": "UFC214",
+					"indices": [
+						47,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 263,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 503,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 30 15:26:59 +0000 2017",
+		"id": 891681537456042000,
+		"id_str": "891681537456041984",
+		"text": "RT @SharkticCircle: This is still the most relevant clip of our time, from a show made in 1995 https://t.co/NELl0qpUXx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SharkticCircle",
+					"name": "Sharktic",
+					"id": 131583784,
+					"id_str": "131583784",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 891170137587335200,
+					"id_str": "891170137587335168",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/891170137587335168/pu/img/k8GqzOZHq_2FaFN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/891170137587335168/pu/img/k8GqzOZHq_2FaFN7.jpg",
+					"url": "https://t.co/NELl0qpUXx",
+					"display_url": "pic.twitter.com/NELl0qpUXx",
+					"expanded_url": "https://twitter.com/SharkticCircle/status/891170199952601088/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 891170199952601100,
+					"source_status_id_str": "891170199952601088",
+					"source_user_id": 131583784,
+					"source_user_id_str": "131583784"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 891170137587335200,
+					"id_str": "891170137587335168",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/891170137587335168/pu/img/k8GqzOZHq_2FaFN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/891170137587335168/pu/img/k8GqzOZHq_2FaFN7.jpg",
+					"url": "https://t.co/NELl0qpUXx",
+					"display_url": "pic.twitter.com/NELl0qpUXx",
+					"expanded_url": "https://twitter.com/SharkticCircle/status/891170199952601088/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 891170199952601100,
+					"source_status_id_str": "891170199952601088",
+					"source_user_id": 131583784,
+					"source_user_id_str": "131583784",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 8383,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/891170137587335168/pu/vid/1280x720/iilBJ-fJENAE5UJr.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/891170137587335168/pu/pl/NRNIlMANwJjQ2Wl1.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/891170137587335168/pu/vid/320x180/Vfqj_NsNbsOyQvzU.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/891170137587335168/pu/vid/640x360/VIbXzf_D7EJp3Vi3.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 131583784,
+							"id_str": "131583784",
+							"name": "Sharktic",
+							"screen_name": "SharkticCircle",
+							"location": "Willmar, MN",
+							"description": "25/Shark/Non-Binary/Super Nerd/ Discord: Sharktic#5749",
+							"url": "https://t.co/HAE2plva2k",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/HAE2plva2k",
+											"expanded_url": "http://greatwhitesharktic.tumblr.com/",
+											"display_url": "greatwhitesharktic.tumblr.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 266,
+							"friends_count": 336,
+							"listed_count": 5,
+							"created_at": "Sat Apr 10 18:21:40 +0000 2010",
+							"favourites_count": 2805,
+							"utc_offset": -18000,
+							"time_zone": "Central Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 3117,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/118531138/Abstract_Wallpaper_by_PL0.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/118531138/Abstract_Wallpaper_by_PL0.jpg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/887113451172003840/eyNJPar1_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/887113451172003840/eyNJPar1_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/131583784/1492089943",
+							"profile_link_color": "19CF86",
+							"profile_sidebar_border_color": "EEEEEE",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 263,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 503,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 29 05:35:07 +0000 2017",
+			"id": 891170199952601100,
+			"id_str": "891170199952601088",
+			"text": "This is still the most relevant clip of our time, from a show made in 1995 https://t.co/NELl0qpUXx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 891170137587335200,
+						"id_str": "891170137587335168",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/891170137587335168/pu/img/k8GqzOZHq_2FaFN7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/891170137587335168/pu/img/k8GqzOZHq_2FaFN7.jpg",
+						"url": "https://t.co/NELl0qpUXx",
+						"display_url": "pic.twitter.com/NELl0qpUXx",
+						"expanded_url": "https://twitter.com/SharkticCircle/status/891170199952601088/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 891170137587335200,
+						"id_str": "891170137587335168",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/891170137587335168/pu/img/k8GqzOZHq_2FaFN7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/891170137587335168/pu/img/k8GqzOZHq_2FaFN7.jpg",
+						"url": "https://t.co/NELl0qpUXx",
+						"display_url": "pic.twitter.com/NELl0qpUXx",
+						"expanded_url": "https://twitter.com/SharkticCircle/status/891170199952601088/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 8383,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/891170137587335168/pu/vid/1280x720/iilBJ-fJENAE5UJr.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/891170137587335168/pu/pl/NRNIlMANwJjQ2Wl1.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/891170137587335168/pu/vid/320x180/Vfqj_NsNbsOyQvzU.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/891170137587335168/pu/vid/640x360/VIbXzf_D7EJp3Vi3.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 131583784,
+				"id_str": "131583784",
+				"name": "Sharktic",
+				"screen_name": "SharkticCircle",
+				"location": "Willmar, MN",
+				"description": "25/Shark/Non-Binary/Super Nerd/ Discord: Sharktic#5749",
+				"url": "https://t.co/HAE2plva2k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HAE2plva2k",
+								"expanded_url": "http://greatwhitesharktic.tumblr.com/",
+								"display_url": "greatwhitesharktic.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 266,
+				"friends_count": 336,
+				"listed_count": 5,
+				"created_at": "Sat Apr 10 18:21:40 +0000 2010",
+				"favourites_count": 2805,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3117,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/118531138/Abstract_Wallpaper_by_PL0.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/118531138/Abstract_Wallpaper_by_PL0.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/887113451172003840/eyNJPar1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/887113451172003840/eyNJPar1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/131583784/1492089943",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12250,
+			"favorite_count": 21755,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12250,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 30 15:24:19 +0000 2017",
+		"id": 891680864270266400,
+		"id_str": "891680864270266368",
+		"text": "where the hell did this come from?! #HungarianGP #F1 https://t.co/I78fwEJBVm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HungarianGP",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"text": "F1",
+					"indices": [
+						49,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I78fwEJBVm",
+					"expanded_url": "https://twitter.com/F1/status/891671108608565248",
+					"display_url": "twitter.com/F1/status/8916…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 263,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 503,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 891671108608565200,
+		"quoted_status_id_str": "891671108608565248",
+		"quoted_status": {
+			"created_at": "Sun Jul 30 14:45:33 +0000 2017",
+			"id": 891671108608565200,
+			"id_str": "891671108608565248",
+			"text": "DHL FASTEST LAP AWARD\n\nNice work, @alo_oficial 👌🏻\n\n#HungarianGP 🇭🇺 #F1 https://t.co/LPM6Hj0W6m",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HungarianGP",
+						"indices": [
+							51,
+							63
+						]
+					},
+					{
+						"text": "F1",
+						"indices": [
+							67,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "alo_oficial",
+						"name": "Fernando Alonso",
+						"id": 507672047,
+						"id_str": "507672047",
+						"indices": [
+							34,
+							46
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 891670190286671900,
+						"id_str": "891670190286671872",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DF_ZUFTXkAAKzEo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DF_ZUFTXkAAKzEo.jpg",
+						"url": "https://t.co/LPM6Hj0W6m",
+						"display_url": "pic.twitter.com/LPM6Hj0W6m",
+						"expanded_url": "https://twitter.com/F1/status/891671108608565248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 891670190286671900,
+						"id_str": "891670190286671872",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DF_ZUFTXkAAKzEo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DF_ZUFTXkAAKzEo.jpg",
+						"url": "https://t.co/LPM6Hj0W6m",
+						"display_url": "pic.twitter.com/LPM6Hj0W6m",
+						"expanded_url": "https://twitter.com/F1/status/891671108608565248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 69008563,
+				"id_str": "69008563",
+				"name": "Formula 1",
+				"screen_name": "F1",
+				"location": "Great Britain",
+				"description": "The Official Formula 1® Account. Download the Official F1® App and never miss a moment: https://t.co/Si7N00nOe6",
+				"url": "http://t.co/7dAxQYnn2K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/7dAxQYnn2K",
+								"expanded_url": "http://www.Formula1.com",
+								"display_url": "Formula1.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Si7N00nOe6",
+								"expanded_url": "http://f1.com/2017App",
+								"display_url": "f1.com/2017App",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3005246,
+				"friends_count": 57,
+				"listed_count": 19326,
+				"created_at": "Wed Aug 26 15:19:37 +0000 2009",
+				"favourites_count": 919,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 34158,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/874612302/f73043741bfceae73f6cf2a3327e0394.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/874612302/f73043741bfceae73f6cf2a3327e0394.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/574499541212270592/FpXDipiC_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/574499541212270592/FpXDipiC_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/69008563/1501430913",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "CCCCCC",
+				"profile_text_color": "222222",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3634,
+			"favorite_count": 10522,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 30 15:09:44 +0000 2017",
+		"id": 891677195948744700,
+		"id_str": "891677195948744704",
+		"text": "hopefully #LAWLERvCERRONE will be as action packed #UFC214",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LAWLERvCERRONE",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"text": "UFC214",
+					"indices": [
+						51,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 263,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 503,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 30 15:07:08 +0000 2017",
+		"id": 891676539552751600,
+		"id_str": "891676539552751620",
+		"text": "well that was quick!!! #MANUWAvOEZDEMIR #UFC214",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MANUWAvOEZDEMIR",
+					"indices": [
+						23,
+						39
+					]
+				},
+				{
+					"text": "UFC214",
+					"indices": [
+						40,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 263,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 503,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 30 15:05:22 +0000 2017",
+		"id": 891676097590513700,
+		"id_str": "891676097590513665",
+		"text": "time to catchup with #UFC214, first up #MANUWAvOEZDEMIR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UFC214",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"text": "MANUWAvOEZDEMIR",
+					"indices": [
+						39,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 263,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 503,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 30 13:45:09 +0000 2017",
+		"id": 891655909780443100,
+		"id_str": "891655909780443136",
+		"text": "great work by @LewisHamilton to let @ValtteriBottas through on the last corner. #HungarianGP #F1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HungarianGP",
+					"indices": [
+						80,
+						92
+					]
+				},
+				{
+					"text": "F1",
+					"indices": [
+						93,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LewisHamilton",
+					"name": "Lewis Hamilton",
+					"id": 213969309,
+					"id_str": "213969309",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "ValtteriBottas",
+					"name": "Valtteri Bottas",
+					"id": 1143472657,
+					"id_str": "1143472657",
+					"indices": [
+						36,
+						51
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 263,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 503,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 30 13:13:01 +0000 2017",
+		"id": 891647821212000300,
+		"id_str": "891647821212000256",
+		"text": "come on @LewisHamilton! got to catch and pass Kimi in 3-5 laps #HungarianGP #F1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HungarianGP",
+					"indices": [
+						63,
+						75
+					]
+				},
+				{
+					"text": "F1",
+					"indices": [
+						76,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LewisHamilton",
+					"name": "Lewis Hamilton",
+					"id": 213969309,
+					"id_str": "213969309",
+					"indices": [
+						8,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 263,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 503,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 30 12:58:12 +0000 2017",
+		"id": 891644093226524700,
+		"id_str": "891644093226524672",
+		"text": "great to see @McLarenF1 being competitive again, possibility of both finishing in the points #HungarianGP #F1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HungarianGP",
+					"indices": [
+						93,
+						105
+					]
+				},
+				{
+					"text": "F1",
+					"indices": [
+						106,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "McLarenF1",
+					"name": "McLaren",
+					"id": 24871896,
+					"id_str": "24871896",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 263,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 503,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 30 12:48:56 +0000 2017",
+		"id": 891641761969451000,
+		"id_str": "891641761969451008",
+		"text": "come on Kimi! #HungarianGP #F1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HungarianGP",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"text": "F1",
+					"indices": [
+						27,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 263,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 503,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 30 12:20:47 +0000 2017",
+		"id": 891634677387153400,
+		"id_str": "891634677387153409",
+		"text": "@bethmjames gabba techno...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bethmjames",
+					"name": "Beth",
+					"id": 161423316,
+					"id_str": "161423316",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 891529364378091500,
+		"in_reply_to_status_id_str": "891529364378091520",
+		"in_reply_to_user_id": 161423316,
+		"in_reply_to_user_id_str": "161423316",
+		"in_reply_to_screen_name": "bethmjames",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 263,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 503,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "lt"
+	},
+	{
+		"created_at": "Sun Jul 30 12:17:09 +0000 2017",
+		"id": 891633763830161400,
+		"id_str": "891633763830161408",
+		"text": "interesting 1st lap but i bet the rest of this race ends up being a procession #HungarianGP #F1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HungarianGP",
+					"indices": [
+						79,
+						91
+					]
+				},
+				{
+					"text": "F1",
+					"indices": [
+						92,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 263,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 503,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 30 12:16:06 +0000 2017",
+		"id": 891633496929837000,
+		"id_str": "891633496929837056",
+		"text": "@TC_Cornesto is that a dino in your coffee?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 891542924378476500,
+		"in_reply_to_status_id_str": "891542924378476545",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 263,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 503,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 29 20:45:10 +0000 2017",
 		"id": 891399222502862800,
 		"id_str": "891399222502862852",
