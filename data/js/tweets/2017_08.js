@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 17 09:03:21 +0000 2017",
+		"id": 898107973536559100,
+		"id_str": "898107973536559104",
+		"text": "RT @newscientist: Netflix vegan hit What the Health serves up lots of bad science https://t.co/eCgxA6vFIO https://t.co/CeSC2wrR6j",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "newscientist",
+					"name": "New Scientist",
+					"id": 19658826,
+					"id_str": "19658826",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eCgxA6vFIO",
+					"expanded_url": "http://bit.ly/2i7HWpS",
+					"display_url": "bit.ly/2i7HWpS",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 898107168750219300,
+					"id_str": "898107168750219264",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DHa3tiuWsAAf7Vm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHa3tiuWsAAf7Vm.jpg",
+					"url": "https://t.co/CeSC2wrR6j",
+					"display_url": "pic.twitter.com/CeSC2wrR6j",
+					"expanded_url": "https://twitter.com/newscientist/status/898107171589718016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 898107171589718000,
+					"source_status_id_str": "898107171589718016",
+					"source_user_id": 19658826,
+					"source_user_id_str": "19658826"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 898107168750219300,
+					"id_str": "898107168750219264",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DHa3tiuWsAAf7Vm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHa3tiuWsAAf7Vm.jpg",
+					"url": "https://t.co/CeSC2wrR6j",
+					"display_url": "pic.twitter.com/CeSC2wrR6j",
+					"expanded_url": "https://twitter.com/newscientist/status/898107171589718016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 898107171589718000,
+					"source_status_id_str": "898107171589718016",
+					"source_user_id": 19658826,
+					"source_user_id_str": "19658826"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 264,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 509,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36086,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 17 09:00:10 +0000 2017",
+			"id": 898107171589718000,
+			"id_str": "898107171589718016",
+			"text": "Netflix vegan hit What the Health serves up lots of bad science https://t.co/eCgxA6vFIO https://t.co/CeSC2wrR6j",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eCgxA6vFIO",
+						"expanded_url": "http://bit.ly/2i7HWpS",
+						"display_url": "bit.ly/2i7HWpS",
+						"indices": [
+							64,
+							87
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 898107168750219300,
+						"id_str": "898107168750219264",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DHa3tiuWsAAf7Vm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHa3tiuWsAAf7Vm.jpg",
+						"url": "https://t.co/CeSC2wrR6j",
+						"display_url": "pic.twitter.com/CeSC2wrR6j",
+						"expanded_url": "https://twitter.com/newscientist/status/898107171589718016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 898107168750219300,
+						"id_str": "898107168750219264",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DHa3tiuWsAAf7Vm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHa3tiuWsAAf7Vm.jpg",
+						"url": "https://t.co/CeSC2wrR6j",
+						"display_url": "pic.twitter.com/CeSC2wrR6j",
+						"expanded_url": "https://twitter.com/newscientist/status/898107171589718016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://secure.echoboxapp.com\" rel=\"nofollow\">Echobox Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19658826,
+				"id_str": "19658826",
+				"name": "New Scientist",
+				"screen_name": "newscientist",
+				"location": "Worldwide",
+				"description": "The best place to find out what’s new in science – and why it matters. To subscribe go to: https://t.co/nsC9MjQzmh",
+				"url": "http://t.co/6LpUpVcVZt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/6LpUpVcVZt",
+								"expanded_url": "http://www.newscientist.com",
+								"display_url": "newscientist.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nsC9MjQzmh",
+								"expanded_url": "http://bit.ly/1oRKZ3H",
+								"display_url": "bit.ly/1oRKZ3H",
+								"indices": [
+									91,
+									114
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3067654,
+				"friends_count": 73,
+				"listed_count": 33078,
+				"created_at": "Wed Jan 28 16:05:49 +0000 2009",
+				"favourites_count": 15958,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 42310,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000152251610/2hsomJrk.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000152251610/2hsomJrk.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/843789564074496001/m34mTHmg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/843789564074496001/m34mTHmg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19658826/1399482279",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 93,
+			"favorite_count": 132,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 16 20:25:27 +0000 2017",
 		"id": 897917239608746000,
 		"id_str": "897917239608745984",
