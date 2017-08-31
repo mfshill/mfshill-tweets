@@ -1,6 +1,987 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 30 22:46:27 +0000 2017",
+		"id": 903026154835243000,
+		"id_str": "903026154835243009",
+		"text": "RT @NickVann1987: @IanWright0 saying we are in crisis with Kronke &amp; Wenger to blame. I couldn't agree more Wrighty https://t.co/DVC5Yv3rNJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NickVann1987",
+					"name": "Gooner Nick",
+					"id": 795350226706059300,
+					"id_str": "795350226706059264",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "IanWright0",
+					"name": "Ian Wright",
+					"id": 410811457,
+					"id_str": "410811457",
+					"indices": [
+						18,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 902987386455552000,
+					"id_str": "902987386455552000",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/902987386455552000/pu/img/BQkXn_mkIZQ9kzQc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/902987386455552000/pu/img/BQkXn_mkIZQ9kzQc.jpg",
+					"url": "https://t.co/DVC5Yv3rNJ",
+					"display_url": "pic.twitter.com/DVC5Yv3rNJ",
+					"expanded_url": "https://twitter.com/NickVann1987/status/902988225010073600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 902988225010073600,
+					"source_status_id_str": "902988225010073600",
+					"source_user_id": 795350226706059300,
+					"source_user_id_str": "795350226706059264"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 902987386455552000,
+					"id_str": "902987386455552000",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/902987386455552000/pu/img/BQkXn_mkIZQ9kzQc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/902987386455552000/pu/img/BQkXn_mkIZQ9kzQc.jpg",
+					"url": "https://t.co/DVC5Yv3rNJ",
+					"display_url": "pic.twitter.com/DVC5Yv3rNJ",
+					"expanded_url": "https://twitter.com/NickVann1987/status/902988225010073600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 902988225010073600,
+					"source_status_id_str": "902988225010073600",
+					"source_user_id": 795350226706059300,
+					"source_user_id_str": "795350226706059264",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 138567,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/902987386455552000/pu/vid/320x180/YjUG5QbSPRlQmWGj.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/902987386455552000/pu/vid/1280x720/ddSX3NC6K3wmpW9h.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/902987386455552000/pu/pl/Zl0r2s8riCR53e0T.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/902987386455552000/pu/vid/640x360/vlrrClr8PCizmyAs.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 795350226706059300,
+							"id_str": "795350226706059264",
+							"name": "Gooner Nick",
+							"screen_name": "NickVann1987",
+							"location": "London, England",
+							"description": "I ❤️ Arsenal with a passion, I post videos of Arsenal, Dennis Bergkamp will always be the best & I love talking about Arsenal 🔴⚪️",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3199,
+							"friends_count": 158,
+							"listed_count": 21,
+							"created_at": "Sun Nov 06 19:40:45 +0000 2016",
+							"favourites_count": 15643,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 2181,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/844208434593615873/8pxTmOl7_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/844208434593615873/8pxTmOl7_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/795350226706059264/1493155377",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 264,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 525,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 30 20:15:44 +0000 2017",
+			"id": 902988225010073600,
+			"id_str": "902988225010073600",
+			"text": "@IanWright0 saying we are in crisis with Kronke &amp; Wenger to blame. I couldn't agree more Wrighty https://t.co/DVC5Yv3rNJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "IanWright0",
+						"name": "Ian Wright",
+						"id": 410811457,
+						"id_str": "410811457",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 902987386455552000,
+						"id_str": "902987386455552000",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/902987386455552000/pu/img/BQkXn_mkIZQ9kzQc.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/902987386455552000/pu/img/BQkXn_mkIZQ9kzQc.jpg",
+						"url": "https://t.co/DVC5Yv3rNJ",
+						"display_url": "pic.twitter.com/DVC5Yv3rNJ",
+						"expanded_url": "https://twitter.com/NickVann1987/status/902988225010073600/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 902987386455552000,
+						"id_str": "902987386455552000",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/902987386455552000/pu/img/BQkXn_mkIZQ9kzQc.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/902987386455552000/pu/img/BQkXn_mkIZQ9kzQc.jpg",
+						"url": "https://t.co/DVC5Yv3rNJ",
+						"display_url": "pic.twitter.com/DVC5Yv3rNJ",
+						"expanded_url": "https://twitter.com/NickVann1987/status/902988225010073600/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 138567,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/902987386455552000/pu/vid/320x180/YjUG5QbSPRlQmWGj.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/902987386455552000/pu/vid/1280x720/ddSX3NC6K3wmpW9h.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/902987386455552000/pu/pl/Zl0r2s8riCR53e0T.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/902987386455552000/pu/vid/640x360/vlrrClr8PCizmyAs.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 410811457,
+			"in_reply_to_user_id_str": "410811457",
+			"in_reply_to_screen_name": "IanWright0",
+			"user": {
+				"id": 795350226706059300,
+				"id_str": "795350226706059264",
+				"name": "Gooner Nick",
+				"screen_name": "NickVann1987",
+				"location": "London, England",
+				"description": "I ❤️ Arsenal with a passion, I post videos of Arsenal, Dennis Bergkamp will always be the best & I love talking about Arsenal 🔴⚪️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3199,
+				"friends_count": 158,
+				"listed_count": 21,
+				"created_at": "Sun Nov 06 19:40:45 +0000 2016",
+				"favourites_count": 15643,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2181,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844208434593615873/8pxTmOl7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844208434593615873/8pxTmOl7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/795350226706059264/1493155377",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 140,
+			"favorite_count": 211,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 140,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 30 22:41:42 +0000 2017",
+		"id": 903024961228558300,
+		"id_str": "903024961228558337",
+		"text": "RT @ashfurrow: logging onto twitter dot com https://t.co/qjy8MkPoPE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ashfurrow",
+					"name": "the javascript lover",
+					"id": 15536268,
+					"id_str": "15536268",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 902718119650656300,
+					"id_str": "902718119650656256",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DIcZWNYWAAAENPQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DIcZWNYWAAAENPQ.jpg",
+					"url": "https://t.co/qjy8MkPoPE",
+					"display_url": "pic.twitter.com/qjy8MkPoPE",
+					"expanded_url": "https://twitter.com/ashfurrow/status/902718165402222593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 304,
+							"h": 144,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 304,
+							"h": 144,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 304,
+							"h": 144,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 144,
+							"h": 144,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 902718165402222600,
+					"source_status_id_str": "902718165402222593",
+					"source_user_id": 15536268,
+					"source_user_id_str": "15536268"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 902718119650656300,
+					"id_str": "902718119650656256",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DIcZWNYWAAAENPQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DIcZWNYWAAAENPQ.jpg",
+					"url": "https://t.co/qjy8MkPoPE",
+					"display_url": "pic.twitter.com/qjy8MkPoPE",
+					"expanded_url": "https://twitter.com/ashfurrow/status/902718165402222593/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 304,
+							"h": 144,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 304,
+							"h": 144,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 304,
+							"h": 144,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 144,
+							"h": 144,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 902718165402222600,
+					"source_status_id_str": "902718165402222593",
+					"source_user_id": 15536268,
+					"source_user_id_str": "15536268",
+					"video_info": {
+						"aspect_ratio": [
+							19,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DIcZWNYWAAAENPQ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 264,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 525,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 30 02:22:36 +0000 2017",
+			"id": 902718165402222600,
+			"id_str": "902718165402222593",
+			"text": "logging onto twitter dot com https://t.co/qjy8MkPoPE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 902718119650656300,
+						"id_str": "902718119650656256",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DIcZWNYWAAAENPQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DIcZWNYWAAAENPQ.jpg",
+						"url": "https://t.co/qjy8MkPoPE",
+						"display_url": "pic.twitter.com/qjy8MkPoPE",
+						"expanded_url": "https://twitter.com/ashfurrow/status/902718165402222593/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 304,
+								"h": 144,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 304,
+								"h": 144,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 304,
+								"h": 144,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 144,
+								"h": 144,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 902718119650656300,
+						"id_str": "902718119650656256",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DIcZWNYWAAAENPQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DIcZWNYWAAAENPQ.jpg",
+						"url": "https://t.co/qjy8MkPoPE",
+						"display_url": "pic.twitter.com/qjy8MkPoPE",
+						"expanded_url": "https://twitter.com/ashfurrow/status/902718165402222593/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 304,
+								"h": 144,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 304,
+								"h": 144,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 304,
+								"h": 144,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 144,
+								"h": 144,
+								"resize": "crop"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								19,
+								9
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DIcZWNYWAAAENPQ.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15536268,
+				"id_str": "15536268",
+				"name": "the javascript lover",
+				"screen_name": "ashfurrow",
+				"location": "New York",
+				"description": "Compassionate software developer with @ArtsyOpenSource.",
+				"url": "https://t.co/SnkBaQ3U2R",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SnkBaQ3U2R",
+								"expanded_url": "https://ashfurrow.com/",
+								"display_url": "ashfurrow.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14063,
+				"friends_count": 796,
+				"listed_count": 696,
+				"created_at": "Tue Jul 22 19:57:40 +0000 2008",
+				"favourites_count": 10322,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 65621,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "020001",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/706815569/86f4c2397325bcd6305c75abc235ece3.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/706815569/86f4c2397325bcd6305c75abc235ece3.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880077097787699201/ww4Vm-Jg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880077097787699201/ww4Vm-Jg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15536268/1471981217",
+				"profile_link_color": "398CCC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "5426d7cf98cf4bd4",
+				"url": "https://api.twitter.com/1.1/geo/id/5426d7cf98cf4bd4.json",
+				"place_type": "neighborhood",
+				"name": "East Village",
+				"full_name": "East Village, Manhattan",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-73.991877,
+								40.718971
+							],
+							[
+								-73.9719855,
+								40.718971
+							],
+							[
+								-73.9719855,
+								40.734425
+							],
+							[
+								-73.991877,
+								40.734425
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2987,
+			"favorite_count": 6624,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2987,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 30 18:49:21 +0000 2017",
+		"id": 902966488142946300,
+		"id_str": "902966488142946305",
+		"text": "sitting here wondering just how bad Arsenal's season will get.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island ",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 264,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 525,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1497892198",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 29 20:24:58 +0000 2017",
 		"id": 902628163196465200,
 		"id_str": "902628163196465152",
