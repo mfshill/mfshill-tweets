@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Fri Sep 15 10:29:33 +0000 2017",
+		"id": 908638914004635600,
+		"id_str": "908638914004635649",
+		"text": "RT @newscientist: Cats can be considered liquids due to their ability to adopt the shape of their container https://t.co/u6gWhdzzSz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "newscientist",
+					"name": "New Scientist",
+					"id": 19658826,
+					"id_str": "19658826",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 908633535036186600,
+					"id_str": "908633535036186624",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/908633535036186624/pu/img/jdjvbN2klYbXbFYu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/908633535036186624/pu/img/jdjvbN2klYbXbFYu.jpg",
+					"url": "https://t.co/u6gWhdzzSz",
+					"display_url": "pic.twitter.com/u6gWhdzzSz",
+					"expanded_url": "https://twitter.com/newscientist/status/908633679278301184/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 908633679278301200,
+					"source_status_id_str": "908633679278301184",
+					"source_user_id": 19658826,
+					"source_user_id_str": "19658826"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 908633535036186600,
+					"id_str": "908633535036186624",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/908633535036186624/pu/img/jdjvbN2klYbXbFYu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/908633535036186624/pu/img/jdjvbN2klYbXbFYu.jpg",
+					"url": "https://t.co/u6gWhdzzSz",
+					"display_url": "pic.twitter.com/u6gWhdzzSz",
+					"expanded_url": "https://twitter.com/newscientist/status/908633679278301184/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 908633679278301200,
+					"source_status_id_str": "908633679278301184",
+					"source_user_id": 19658826,
+					"source_user_id_str": "19658826",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 41507,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/908633535036186624/pu/vid/240x240/w_6YEZyJCGqA0__9.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/908633535036186624/pu/vid/480x480/tZ2Yq9iuU3_-YUzp.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/908633535036186624/pu/pl/gNuKJBvbMG0fRIJr.m3u8"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/908633535036186624/pu/vid/720x720/ep2mdDw0AG68pBKl.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 19658826,
+							"id_str": "19658826",
+							"name": "New Scientist",
+							"screen_name": "newscientist",
+							"location": "Worldwide",
+							"description": "The best place to find out what’s new in science – and why it matters. To subscribe go to: https://t.co/nsC9MjQzmh",
+							"url": "http://t.co/6LpUpVcVZt",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/6LpUpVcVZt",
+											"expanded_url": "http://www.newscientist.com",
+											"display_url": "newscientist.com",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/nsC9MjQzmh",
+											"expanded_url": "http://bit.ly/1oRKZ3H",
+											"display_url": "bit.ly/1oRKZ3H",
+											"indices": [
+												91,
+												114
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 3118074,
+							"friends_count": 76,
+							"listed_count": 33211,
+							"created_at": "Wed Jan 28 16:05:49 +0000 2009",
+							"favourites_count": 15939,
+							"utc_offset": 3600,
+							"time_zone": "London",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 43691,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "333333",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000152251610/2hsomJrk.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000152251610/2hsomJrk.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/843789564074496001/m34mTHmg_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/843789564074496001/m34mTHmg_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/19658826/1399482279",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "FFFFFF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 264,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 520,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36148,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1504274054",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 15 10:08:45 +0000 2017",
+			"id": 908633679278301200,
+			"id_str": "908633679278301184",
+			"text": "Cats can be considered liquids due to their ability to adopt the shape of their container https://t.co/u6gWhdzzSz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 908633535036186600,
+						"id_str": "908633535036186624",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/908633535036186624/pu/img/jdjvbN2klYbXbFYu.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/908633535036186624/pu/img/jdjvbN2klYbXbFYu.jpg",
+						"url": "https://t.co/u6gWhdzzSz",
+						"display_url": "pic.twitter.com/u6gWhdzzSz",
+						"expanded_url": "https://twitter.com/newscientist/status/908633679278301184/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 908633535036186600,
+						"id_str": "908633535036186624",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/908633535036186624/pu/img/jdjvbN2klYbXbFYu.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/908633535036186624/pu/img/jdjvbN2klYbXbFYu.jpg",
+						"url": "https://t.co/u6gWhdzzSz",
+						"display_url": "pic.twitter.com/u6gWhdzzSz",
+						"expanded_url": "https://twitter.com/newscientist/status/908633679278301184/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 41507,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/908633535036186624/pu/vid/240x240/w_6YEZyJCGqA0__9.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/908633535036186624/pu/vid/480x480/tZ2Yq9iuU3_-YUzp.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/908633535036186624/pu/pl/gNuKJBvbMG0fRIJr.m3u8"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/908633535036186624/pu/vid/720x720/ep2mdDw0AG68pBKl.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19658826,
+				"id_str": "19658826",
+				"name": "New Scientist",
+				"screen_name": "newscientist",
+				"location": "Worldwide",
+				"description": "The best place to find out what’s new in science – and why it matters. To subscribe go to: https://t.co/nsC9MjQzmh",
+				"url": "http://t.co/6LpUpVcVZt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/6LpUpVcVZt",
+								"expanded_url": "http://www.newscientist.com",
+								"display_url": "newscientist.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nsC9MjQzmh",
+								"expanded_url": "http://bit.ly/1oRKZ3H",
+								"display_url": "bit.ly/1oRKZ3H",
+								"indices": [
+									91,
+									114
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3118074,
+				"friends_count": 76,
+				"listed_count": 33211,
+				"created_at": "Wed Jan 28 16:05:49 +0000 2009",
+				"favourites_count": 15939,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 43691,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000152251610/2hsomJrk.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000152251610/2hsomJrk.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/843789564074496001/m34mTHmg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/843789564074496001/m34mTHmg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19658826/1399482279",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1490,
+			"favorite_count": 3027,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1490,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 14 06:39:18 +0000 2017",
 		"id": 908218583234367500,
 		"id_str": "908218583234367489",
