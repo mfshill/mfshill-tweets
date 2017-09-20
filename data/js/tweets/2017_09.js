@@ -1,6 +1,761 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 19 20:10:23 +0000 2017",
+		"id": 910234636642594800,
+		"id_str": "910234636642594816",
+		"text": "RT @officialambrjoy: How come when a house is 'haunted' its always a ghost from the 1700s? imagine a ghost from 2007 screaming \"ITS BRITNEY…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "officialambrjoy",
+					"name": "Amber Joy",
+					"id": 3060214898,
+					"id_str": "3060214898",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 264,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 523,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36166,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1504274054",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 18 05:01:31 +0000 2017",
+			"id": 909643525779836900,
+			"id_str": "909643525779836929",
+			"text": "How come when a house is 'haunted' its always a ghost from the 1700s? imagine a ghost from 2007 screaming \"ITS BRITNEY BITCH\" at 3 am.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3060214898,
+				"id_str": "3060214898",
+				"name": "Amber Joy",
+				"screen_name": "officialambrjoy",
+				"location": "Winnipeg, Manitoba",
+				"description": "Professional Couch Potato;\nSnapChat: ambiegirl24;\nUnofficial spokesperson for @TimHortons",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1964,
+				"friends_count": 1797,
+				"listed_count": 15,
+				"created_at": "Tue Mar 03 20:08:17 +0000 2015",
+				"favourites_count": 628,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 405,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874160882728574976/4S7xC2yx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874160882728574976/4S7xC2yx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060214898/1469255749",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23453,
+			"favorite_count": 62965,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 23453,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 19 19:42:37 +0000 2017",
+		"id": 910227648353390600,
+		"id_str": "910227648353390593",
+		"text": "RT @Holbornlolz: Buildings wobble in Mexico city during earthquake\n\nhttps://t.co/QrpjPyoveB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Holbornlolz",
+					"name": "Old Holborn✘",
+					"id": 1957125536,
+					"id_str": "1957125536",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 910219274563842000,
+					"id_str": "910219274563842048",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/910219274563842048/pu/img/12gAZsrtrUPGxVUd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/910219274563842048/pu/img/12gAZsrtrUPGxVUd.jpg",
+					"url": "https://t.co/QrpjPyoveB",
+					"display_url": "pic.twitter.com/QrpjPyoveB",
+					"expanded_url": "https://twitter.com/AlertaChiapas/status/910219781256736768/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 601,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 910219781256736800,
+					"source_status_id_str": "910219781256736768",
+					"source_user_id": 1679981059,
+					"source_user_id_str": "1679981059"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 910219274563842000,
+					"id_str": "910219274563842048",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/910219274563842048/pu/img/12gAZsrtrUPGxVUd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/910219274563842048/pu/img/12gAZsrtrUPGxVUd.jpg",
+					"url": "https://t.co/QrpjPyoveB",
+					"display_url": "pic.twitter.com/QrpjPyoveB",
+					"expanded_url": "https://twitter.com/AlertaChiapas/status/910219781256736768/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 601,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 910219781256736800,
+					"source_status_id_str": "910219781256736768",
+					"source_user_id": 1679981059,
+					"source_user_id_str": "1679981059",
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							53
+						],
+						"duration_millis": 63263,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/910219274563842048/pu/vid/362x640/GzH0chyIK8htMUvl.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/910219274563842048/pu/vid/180x320/QpzjjcIOY-Z06FGO.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/910219274563842048/pu/pl/eKNjjCIpPyEpmAIa.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1679981059,
+							"id_str": "1679981059",
+							"name": "Alerta Chiapas ⚡",
+							"screen_name": "AlertaChiapas",
+							"location": "Chiapas, México",
+							"description": "Noticias en tiempo real, recibe notificaciones a través de la App. iOS: https://t.co/5c5afsyvGx Android: https://t.co/hXTCXD2E3R\n\n☎️ 9612437552",
+							"url": "https://t.co/qqNEbfXCxi",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/qqNEbfXCxi",
+											"expanded_url": "https://www.alertachiapas.com",
+											"display_url": "alertachiapas.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/5c5afsyvGx",
+											"expanded_url": "https://goo.gl/PsceXb",
+											"display_url": "goo.gl/PsceXb",
+											"indices": [
+												72,
+												95
+											]
+										},
+										{
+											"url": "https://t.co/hXTCXD2E3R",
+											"expanded_url": "https://goo.gl/7OVQqX",
+											"display_url": "goo.gl/7OVQqX",
+											"indices": [
+												105,
+												128
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 116395,
+							"friends_count": 427,
+							"listed_count": 197,
+							"created_at": "Sun Aug 18 05:49:06 +0000 2013",
+							"favourites_count": 6384,
+							"utc_offset": -18000,
+							"time_zone": "Mexico City",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 26303,
+							"lang": "es",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "66030B",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000055029832/cad16a67dc0a3466e239174cb2a1a0fb.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000055029832/cad16a67dc0a3466e239174cb2a1a0fb.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/880615656139390977/_4-rS_XI_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/880615656139390977/_4-rS_XI_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1679981059/1503349519",
+							"profile_link_color": "FF0A0A",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 264,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 523,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36166,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1504274054",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 19 19:24:43 +0000 2017",
+			"id": 910223143243001900,
+			"id_str": "910223143243001863",
+			"text": "Buildings wobble in Mexico city during earthquake\n\nhttps://t.co/QrpjPyoveB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 910219274563842000,
+						"id_str": "910219274563842048",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/910219274563842048/pu/img/12gAZsrtrUPGxVUd.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/910219274563842048/pu/img/12gAZsrtrUPGxVUd.jpg",
+						"url": "https://t.co/QrpjPyoveB",
+						"display_url": "pic.twitter.com/QrpjPyoveB",
+						"expanded_url": "https://twitter.com/AlertaChiapas/status/910219781256736768/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 601,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 910219781256736800,
+						"source_status_id_str": "910219781256736768",
+						"source_user_id": 1679981059,
+						"source_user_id_str": "1679981059"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 910219274563842000,
+						"id_str": "910219274563842048",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/910219274563842048/pu/img/12gAZsrtrUPGxVUd.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/910219274563842048/pu/img/12gAZsrtrUPGxVUd.jpg",
+						"url": "https://t.co/QrpjPyoveB",
+						"display_url": "pic.twitter.com/QrpjPyoveB",
+						"expanded_url": "https://twitter.com/AlertaChiapas/status/910219781256736768/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 601,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 910219781256736800,
+						"source_status_id_str": "910219781256736768",
+						"source_user_id": 1679981059,
+						"source_user_id_str": "1679981059",
+						"video_info": {
+							"aspect_ratio": [
+								30,
+								53
+							],
+							"duration_millis": 63263,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/910219274563842048/pu/vid/362x640/GzH0chyIK8htMUvl.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/910219274563842048/pu/vid/180x320/QpzjjcIOY-Z06FGO.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/910219274563842048/pu/pl/eKNjjCIpPyEpmAIa.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1679981059,
+								"id_str": "1679981059",
+								"name": "Alerta Chiapas ⚡",
+								"screen_name": "AlertaChiapas",
+								"location": "Chiapas, México",
+								"description": "Noticias en tiempo real, recibe notificaciones a través de la App. iOS: https://t.co/5c5afsyvGx Android: https://t.co/hXTCXD2E3R\n\n☎️ 9612437552",
+								"url": "https://t.co/qqNEbfXCxi",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/qqNEbfXCxi",
+												"expanded_url": "https://www.alertachiapas.com",
+												"display_url": "alertachiapas.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/5c5afsyvGx",
+												"expanded_url": "https://goo.gl/PsceXb",
+												"display_url": "goo.gl/PsceXb",
+												"indices": [
+													72,
+													95
+												]
+											},
+											{
+												"url": "https://t.co/hXTCXD2E3R",
+												"expanded_url": "https://goo.gl/7OVQqX",
+												"display_url": "goo.gl/7OVQqX",
+												"indices": [
+													105,
+													128
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 116395,
+								"friends_count": 427,
+								"listed_count": 197,
+								"created_at": "Sun Aug 18 05:49:06 +0000 2013",
+								"favourites_count": 6384,
+								"utc_offset": -18000,
+								"time_zone": "Mexico City",
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 26303,
+								"lang": "es",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "66030B",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000055029832/cad16a67dc0a3466e239174cb2a1a0fb.jpeg",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000055029832/cad16a67dc0a3466e239174cb2a1a0fb.jpeg",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/880615656139390977/_4-rS_XI_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/880615656139390977/_4-rS_XI_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1679981059/1503349519",
+								"profile_link_color": "FF0A0A",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "regular"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1957125536,
+				"id_str": "1957125536",
+				"name": "Old Holborn✘",
+				"screen_name": "Holbornlolz",
+				"location": "",
+				"description": "Breaking News. Satire. Humour. Politics. Free Speech. A Libertarian Legend All Tweets expire after 7 days.",
+				"url": "https://t.co/SVqUHYxPM7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SVqUHYxPM7",
+								"expanded_url": "http://bastardoldholborn.blogspot.co.uk/",
+								"display_url": "bastardoldholborn.blogspot.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47424,
+				"friends_count": 1756,
+				"listed_count": 611,
+				"created_at": "Sat Oct 12 17:28:11 +0000 2013",
+				"favourites_count": 5277,
+				"utc_offset": 10800,
+				"time_zone": "Sofia",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 340,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4A913C",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/509052276837609472/GiUtI_YC.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/509052276837609472/GiUtI_YC.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/660590962264121344/KWm791e9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/660590962264121344/KWm791e9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1957125536/1410202796",
+				"profile_link_color": "94D487",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 891,
+			"favorite_count": 592,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 891,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 18 07:01:45 +0000 2017",
 		"id": 909673782142521300,
 		"id_str": "909673782142521344",
