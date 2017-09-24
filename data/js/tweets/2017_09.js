@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sat Sep 23 15:41:19 +0000 2017",
+		"id": 911616476800602100,
+		"id_str": "911616476800602112",
+		"text": "RT @kidd_kong78: This is better than anything at the cinema at the moment. https://t.co/nz1L4nmVje",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kidd_kong78",
+					"name": "Captain Kidd",
+					"id": 308479960,
+					"id_str": "308479960",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 911589127719669800,
+					"id_str": "911589127719669761",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/911589127719669761/pu/img/IavBkDbZIIyjLhab.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/911589127719669761/pu/img/IavBkDbZIIyjLhab.jpg",
+					"url": "https://t.co/nz1L4nmVje",
+					"display_url": "pic.twitter.com/nz1L4nmVje",
+					"expanded_url": "https://twitter.com/kidd_kong78/status/911589213816152064/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 306,
+							"h": 176,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 306,
+							"h": 176,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 306,
+							"h": 176,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 911589213816152000,
+					"source_status_id_str": "911589213816152064",
+					"source_user_id": 308479960,
+					"source_user_id_str": "308479960"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 911589127719669800,
+					"id_str": "911589127719669761",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/911589127719669761/pu/img/IavBkDbZIIyjLhab.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/911589127719669761/pu/img/IavBkDbZIIyjLhab.jpg",
+					"url": "https://t.co/nz1L4nmVje",
+					"display_url": "pic.twitter.com/nz1L4nmVje",
+					"expanded_url": "https://twitter.com/kidd_kong78/status/911589213816152064/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 306,
+							"h": 176,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 306,
+							"h": 176,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 306,
+							"h": 176,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 911589213816152000,
+					"source_status_id_str": "911589213816152064",
+					"source_user_id": 308479960,
+					"source_user_id_str": "308479960",
+					"video_info": {
+						"aspect_ratio": [
+							153,
+							88
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/911589127719669761/pu/vid/306x176/LxXjjGHVnWrQGU2A.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/911589127719669761/pu/pl/KnRVAkzqPrkf3_az.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 308479960,
+							"id_str": "308479960",
+							"name": "Captain Kidd",
+							"screen_name": "kidd_kong78",
+							"location": "",
+							"description": "loads of stuff, far too much stuff, stupid stuff, videos and gifs usually not my own stuff. STUFF. And Ghosts.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 9403,
+							"friends_count": 1180,
+							"listed_count": 146,
+							"created_at": "Tue May 31 13:50:22 +0000 2011",
+							"favourites_count": 49946,
+							"utc_offset": 7200,
+							"time_zone": "Amsterdam",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 113500,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/835128004527460354/LTAZiXFC_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/835128004527460354/LTAZiXFC_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/308479960/1500107352",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 264,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 527,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36179,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883686670297702401/4lkjqnlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1504274054",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 23 13:52:59 +0000 2017",
+			"id": 911589213816152000,
+			"id_str": "911589213816152064",
+			"text": "This is better than anything at the cinema at the moment. https://t.co/nz1L4nmVje",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 911589127719669800,
+						"id_str": "911589127719669761",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/911589127719669761/pu/img/IavBkDbZIIyjLhab.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/911589127719669761/pu/img/IavBkDbZIIyjLhab.jpg",
+						"url": "https://t.co/nz1L4nmVje",
+						"display_url": "pic.twitter.com/nz1L4nmVje",
+						"expanded_url": "https://twitter.com/kidd_kong78/status/911589213816152064/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 306,
+								"h": 176,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 306,
+								"h": 176,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 306,
+								"h": 176,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 911589127719669800,
+						"id_str": "911589127719669761",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/911589127719669761/pu/img/IavBkDbZIIyjLhab.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/911589127719669761/pu/img/IavBkDbZIIyjLhab.jpg",
+						"url": "https://t.co/nz1L4nmVje",
+						"display_url": "pic.twitter.com/nz1L4nmVje",
+						"expanded_url": "https://twitter.com/kidd_kong78/status/911589213816152064/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 306,
+								"h": 176,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 306,
+								"h": 176,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 306,
+								"h": 176,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								153,
+								88
+							],
+							"duration_millis": 45000,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/911589127719669761/pu/vid/306x176/LxXjjGHVnWrQGU2A.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/911589127719669761/pu/pl/KnRVAkzqPrkf3_az.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 308479960,
+				"id_str": "308479960",
+				"name": "Captain Kidd",
+				"screen_name": "kidd_kong78",
+				"location": "",
+				"description": "loads of stuff, far too much stuff, stupid stuff, videos and gifs usually not my own stuff. STUFF. And Ghosts.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9403,
+				"friends_count": 1180,
+				"listed_count": 146,
+				"created_at": "Tue May 31 13:50:22 +0000 2011",
+				"favourites_count": 49946,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 113500,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/835128004527460354/LTAZiXFC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/835128004527460354/LTAZiXFC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/308479960/1500107352",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9205,
+			"favorite_count": 14448,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9205,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 22 22:05:35 +0000 2017",
 		"id": 911350791402750000,
 		"id_str": "911350791402749952",
