@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Mon Oct 02 06:09:14 +0000 2017",
+		"id": 914733998001344500,
+		"id_str": "914733998001344512",
+		"text": "RT @Various_Jams: Still reeling about this https://t.co/8K8qssCG6M",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Various_Jams",
+					"name": "Various Jams",
+					"id": 719884961243885600,
+					"id_str": "719884961243885569",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 914563592753762300,
+					"id_str": "914563592753762306",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DLEuvfaX0AIha2x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLEuvfaX0AIha2x.jpg",
+					"url": "https://t.co/8K8qssCG6M",
+					"display_url": "pic.twitter.com/8K8qssCG6M",
+					"expanded_url": "https://twitter.com/Various_Jams/status/914563599162642438/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 539,
+							"h": 753,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 487,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 539,
+							"h": 753,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 914563599162642400,
+					"source_status_id_str": "914563599162642438",
+					"source_user_id": 719884961243885600,
+					"source_user_id_str": "719884961243885569"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 914563592753762300,
+					"id_str": "914563592753762306",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DLEuvfaX0AIha2x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLEuvfaX0AIha2x.jpg",
+					"url": "https://t.co/8K8qssCG6M",
+					"display_url": "pic.twitter.com/8K8qssCG6M",
+					"expanded_url": "https://twitter.com/Various_Jams/status/914563599162642438/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 539,
+							"h": 753,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 487,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 539,
+							"h": 753,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 914563599162642400,
+					"source_status_id_str": "914563599162642438",
+					"source_user_id": 719884961243885600,
+					"source_user_id_str": "719884961243885569"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 264,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 533,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36240,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1506455584",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 01 18:52:08 +0000 2017",
+			"id": 914563599162642400,
+			"id_str": "914563599162642438",
+			"text": "Still reeling about this https://t.co/8K8qssCG6M",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 914563592753762300,
+						"id_str": "914563592753762306",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/DLEuvfaX0AIha2x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLEuvfaX0AIha2x.jpg",
+						"url": "https://t.co/8K8qssCG6M",
+						"display_url": "pic.twitter.com/8K8qssCG6M",
+						"expanded_url": "https://twitter.com/Various_Jams/status/914563599162642438/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 539,
+								"h": 753,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 487,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 539,
+								"h": 753,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 914563592753762300,
+						"id_str": "914563592753762306",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/DLEuvfaX0AIha2x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLEuvfaX0AIha2x.jpg",
+						"url": "https://t.co/8K8qssCG6M",
+						"display_url": "pic.twitter.com/8K8qssCG6M",
+						"expanded_url": "https://twitter.com/Various_Jams/status/914563599162642438/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 539,
+								"h": 753,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 487,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 539,
+								"h": 753,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 719884961243885600,
+				"id_str": "719884961243885569",
+				"name": "Various Jams",
+				"screen_name": "Various_Jams",
+				"location": "Amsterdam, The Netherlands",
+				"description": "Pioneer de tweets postmodernes",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1113,
+				"friends_count": 26,
+				"listed_count": 26,
+				"created_at": "Tue Apr 12 13:48:44 +0000 2016",
+				"favourites_count": 22667,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 36344,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/914988610419662853/mmPwFj60_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/914988610419662853/mmPwFj60_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/719884961243885569/1501016484",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "99cdab25eddd6bce",
+				"url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+				"place_type": "city",
+				"name": "Amsterdam",
+				"full_name": "Amsterdam, The Netherlands",
+				"country_code": "NL",
+				"country": "The Netherlands",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								4.7288999,
+								52.2782266
+							],
+							[
+								5.0792072,
+								52.2782266
+							],
+							[
+								5.0792072,
+								52.4312289
+							],
+							[
+								4.7288999,
+								52.4312289
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 493,
+			"favorite_count": 1112,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 493,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 01 19:18:28 +0000 2017",
 		"id": 914570227698081800,
 		"id_str": "914570227698081792",
