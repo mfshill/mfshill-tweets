@@ -1,6 +1,1198 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Fri Oct 06 19:18:03 +0000 2017",
+		"id": 916382062713671700,
+		"id_str": "916382062713671680",
+		"text": "@charliejburness im going to have an easy October and then start marathon training 😩",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "charliejburness",
+					"name": "Burnessie",
+					"id": 143071508,
+					"id_str": "143071508",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 916378943623704600,
+		"in_reply_to_status_id_str": "916378943623704576",
+		"in_reply_to_user_id": 143071508,
+		"in_reply_to_user_id_str": "143071508",
+		"in_reply_to_screen_name": "charliejburness",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 264,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 535,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1506455584",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 06 19:04:25 +0000 2017",
+		"id": 916378629558472700,
+		"id_str": "916378629558472705",
+		"text": "RT @VICE_Video: This is how you eat the best mango in the world: https://t.co/04xIBU284O https://t.co/BXdJTFZRO4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VICE_Video",
+					"name": "VICE Video",
+					"id": 15691038,
+					"id_str": "15691038",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/04xIBU284O",
+					"expanded_url": "http://bit.ly/2fXlHmt",
+					"display_url": "bit.ly/2fXlHmt",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 916324531614175200,
+					"id_str": "916324531614175232",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/DLd4KXjXcAE50si.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLd4KXjXcAE50si.jpg",
+					"url": "https://t.co/BXdJTFZRO4",
+					"display_url": "pic.twitter.com/BXdJTFZRO4",
+					"expanded_url": "https://twitter.com/VICE_Video/status/916353637269434368/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 872,
+							"h": 872,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 872,
+							"h": 872,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 916353637269434400,
+					"source_status_id_str": "916353637269434368",
+					"source_user_id": 15691038,
+					"source_user_id_str": "15691038"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 916324531614175200,
+					"id_str": "916324531614175232",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/DLd4KXjXcAE50si.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLd4KXjXcAE50si.jpg",
+					"url": "https://t.co/BXdJTFZRO4",
+					"display_url": "pic.twitter.com/BXdJTFZRO4",
+					"expanded_url": "https://twitter.com/VICE_Video/status/916353637269434368/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 872,
+							"h": 872,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 872,
+							"h": 872,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 916353637269434400,
+					"source_status_id_str": "916353637269434368",
+					"source_user_id": 15691038,
+					"source_user_id_str": "15691038",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 101560,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/916324531614175232/vid/720x720/DbQZaABIt_bpe14l.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/916324531614175232/pl/LwA2dpcq0x1Yvu5B.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/916324531614175232/vid/480x480/JM-W7P3NYX6KcgOX.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/916324531614175232/vid/240x240/pS1IBkcRd7kUnJyq.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "How to Eat the \"World's Best Mango\"",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.vice.com/en_us/article/jmke3k/freakshakes-hype-food-london-molly-bakes?utm_source=vicevideotwitter"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true,
+						"source_user": {
+							"id": 15691038,
+							"id_str": "15691038",
+							"name": "VICE Video",
+							"screen_name": "VICE_Video",
+							"location": "Brooklyn, NY 11201",
+							"description": "The best original videos, documentaries, and underground news from around the world.",
+							"url": "https://t.co/L3cZptGiIW",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/L3cZptGiIW",
+											"expanded_url": "http://video.vice.com",
+											"display_url": "video.vice.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 23961,
+							"friends_count": 523,
+							"listed_count": 526,
+							"created_at": "Fri Aug 01 16:32:08 +0000 2008",
+							"favourites_count": 778,
+							"utc_offset": -18000,
+							"time_zone": "Quito",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 4362,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/10447541/Picture_5.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/10447541/Picture_5.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/701851548834361344/HsbwlLKd_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/701851548834361344/HsbwlLKd_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/15691038/1492439338",
+							"profile_link_color": "666A6D",
+							"profile_sidebar_border_color": "BDDCAD",
+							"profile_sidebar_fill_color": "484A4B",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 264,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 535,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1506455584",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 06 17:25:06 +0000 2017",
+			"id": 916353637269434400,
+			"id_str": "916353637269434368",
+			"text": "This is how you eat the best mango in the world: https://t.co/04xIBU284O https://t.co/BXdJTFZRO4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/04xIBU284O",
+						"expanded_url": "http://bit.ly/2fXlHmt",
+						"display_url": "bit.ly/2fXlHmt",
+						"indices": [
+							49,
+							72
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 916324531614175200,
+						"id_str": "916324531614175232",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DLd4KXjXcAE50si.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLd4KXjXcAE50si.jpg",
+						"url": "https://t.co/BXdJTFZRO4",
+						"display_url": "pic.twitter.com/BXdJTFZRO4",
+						"expanded_url": "https://twitter.com/VICE_Video/status/916353637269434368/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 872,
+								"h": 872,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 872,
+								"h": 872,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 916324531614175200,
+						"id_str": "916324531614175232",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DLd4KXjXcAE50si.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLd4KXjXcAE50si.jpg",
+						"url": "https://t.co/BXdJTFZRO4",
+						"display_url": "pic.twitter.com/BXdJTFZRO4",
+						"expanded_url": "https://twitter.com/VICE_Video/status/916353637269434368/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 872,
+								"h": 872,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 872,
+								"h": 872,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 101560,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/916324531614175232/vid/720x720/DbQZaABIt_bpe14l.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/916324531614175232/pl/LwA2dpcq0x1Yvu5B.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/916324531614175232/vid/480x480/JM-W7P3NYX6KcgOX.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/916324531614175232/vid/240x240/pS1IBkcRd7kUnJyq.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "How to Eat the \"World's Best Mango\"",
+							"description": "",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://www.vice.com/en_us/article/jmke3k/freakshakes-hype-food-london-molly-bakes?utm_source=vicevideotwitter"
+								}
+							},
+							"embeddable": true,
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15691038,
+				"id_str": "15691038",
+				"name": "VICE Video",
+				"screen_name": "VICE_Video",
+				"location": "Brooklyn, NY 11201",
+				"description": "The best original videos, documentaries, and underground news from around the world.",
+				"url": "https://t.co/L3cZptGiIW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L3cZptGiIW",
+								"expanded_url": "http://video.vice.com",
+								"display_url": "video.vice.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23961,
+				"friends_count": 523,
+				"listed_count": 526,
+				"created_at": "Fri Aug 01 16:32:08 +0000 2008",
+				"favourites_count": 778,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4362,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/10447541/Picture_5.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/10447541/Picture_5.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/701851548834361344/HsbwlLKd_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/701851548834361344/HsbwlLKd_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15691038/1492439338",
+				"profile_link_color": "666A6D",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "484A4B",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 158,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 06 19:02:37 +0000 2017",
+		"id": 916378177534087200,
+		"id_str": "916378177534087168",
+		"text": "@charliejburness nice, i always forget to apply for those. I'm doing the Shoreditch 10k, short, sweet and followed by beer!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "charliejburness",
+					"name": "Burnessie",
+					"id": 143071508,
+					"id_str": "143071508",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 916377530944417800,
+		"in_reply_to_status_id_str": "916377530944417793",
+		"in_reply_to_user_id": 143071508,
+		"in_reply_to_user_id_str": "143071508",
+		"in_reply_to_screen_name": "charliejburness",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 264,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 535,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1506455584",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 06 18:51:34 +0000 2017",
+		"id": 916375397218086900,
+		"id_str": "916375397218086912",
+		"text": "@charliejburness which race are you doing on Sunday?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "charliejburness",
+					"name": "Burnessie",
+					"id": 143071508,
+					"id_str": "143071508",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 916362411837481000,
+		"in_reply_to_status_id_str": "916362411837480960",
+		"in_reply_to_user_id": 143071508,
+		"in_reply_to_user_id_str": "143071508",
+		"in_reply_to_screen_name": "charliejburness",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 264,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 535,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1506455584",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 06 11:12:19 +0000 2017",
+		"id": 916259821774663700,
+		"id_str": "916259821774663680",
+		"text": "RT @FromTStands: An England fan managed to score with a paper plane and it got the biggest reaction of the night!👏😂\n\n🎥:  @AndyHoust\n\nhttps:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FromTStands",
+					"name": "FTS Football",
+					"id": 4691919164,
+					"id_str": "4691919164",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "AndyHoust",
+					"name": "Andy Houston",
+					"id": 2330966311,
+					"id_str": "2330966311",
+					"indices": [
+						121,
+						131
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 264,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 535,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1506455584",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 05 21:25:45 +0000 2017",
+			"id": 916051809151737900,
+			"id_str": "916051809151737857",
+			"text": "An England fan managed to score with a paper plane and it got the biggest reaction of the night!👏😂\n\n🎥:  @AndyHoust\n\nhttps://t.co/i5pTCjU8uB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AndyHoust",
+						"name": "Andy Houston",
+						"id": 2330966311,
+						"id_str": "2330966311",
+						"indices": [
+							104,
+							114
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 916042651027337200,
+						"id_str": "916042651027337218",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/916042651027337218/pu/img/69lPRV1TQE0urx7d.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/916042651027337218/pu/img/69lPRV1TQE0urx7d.jpg",
+						"url": "https://t.co/i5pTCjU8uB",
+						"display_url": "pic.twitter.com/i5pTCjU8uB",
+						"expanded_url": "https://twitter.com/AndyHoust/status/916042889062436866/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 425,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 750,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 900,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 916042889062436900,
+						"source_status_id_str": "916042889062436866",
+						"source_user_id": 2330966311,
+						"source_user_id_str": "2330966311"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 916042651027337200,
+						"id_str": "916042651027337218",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/916042651027337218/pu/img/69lPRV1TQE0urx7d.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/916042651027337218/pu/img/69lPRV1TQE0urx7d.jpg",
+						"url": "https://t.co/i5pTCjU8uB",
+						"display_url": "pic.twitter.com/i5pTCjU8uB",
+						"expanded_url": "https://twitter.com/AndyHoust/status/916042889062436866/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 425,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 750,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 900,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 916042889062436900,
+						"source_status_id_str": "916042889062436866",
+						"source_user_id": 2330966311,
+						"source_user_id_str": "2330966311",
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 24750,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/916042651027337218/pu/vid/256x320/Qq_w2Ei2n9tDuC22.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/916042651027337218/pu/pl/Ljj0iMlls2NPu60F.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/916042651027337218/pu/vid/512x640/Giqre1EPzyJswyYy.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2330966311,
+								"id_str": "2330966311",
+								"name": "Andy Houston",
+								"screen_name": "AndyHoust",
+								"location": "North West, England",
+								"description": "",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 512,
+								"friends_count": 400,
+								"listed_count": 17,
+								"created_at": "Thu Feb 06 22:56:25 +0000 2014",
+								"favourites_count": 2791,
+								"utc_offset": 3600,
+								"time_zone": "Casablanca",
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 3865,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "131516",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/916045573505060865/B1D3HUhk_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/916045573505060865/B1D3HUhk_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2330966311/1451341702",
+								"profile_link_color": "ABB8C2",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4691919164,
+				"id_str": "4691919164",
+				"name": "FTS Football",
+				"screen_name": "FromTStands",
+				"location": "contact@fromthestands.co.uk",
+				"description": "Football coverage by fans, for fans. Tweeting news, statistics and more. | Est. 2016. We do not claim to own any content we post.",
+				"url": "https://t.co/hT17yeOZb8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hT17yeOZb8",
+								"expanded_url": "http://www.fromthestands.co.uk",
+								"display_url": "fromthestands.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34617,
+				"friends_count": 375,
+				"listed_count": 240,
+				"created_at": "Fri Jan 01 21:43:46 +0000 2016",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13245,
+				"lang": "en-GB",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/863710365707849728/RgME7THb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/863710365707849728/RgME7THb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4691919164/1506858300",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1772,
+			"favorite_count": 2955,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1772,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 05 20:19:37 +0000 2017",
 		"id": 916035167206166500,
 		"id_str": "916035167206166529",
