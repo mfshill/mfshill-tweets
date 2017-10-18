@@ -1,6 +1,584 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Tue Oct 17 19:48:29 +0000 2017",
+		"id": 920375986675486700,
+		"id_str": "920375986675486720",
+		"text": "RT @TheNewsAtGlenn: Arguably the greatest song of all time. https://t.co/BxleEmDCf4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheNewsAtGlenn",
+					"name": "Glenn Moore",
+					"id": 218438862,
+					"id_str": "218438862",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 920366694798909400,
+					"id_str": "920366694798909440",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/920366694798909440/pu/img/dq-gy8aHHrMCp1I8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/920366694798909440/pu/img/dq-gy8aHHrMCp1I8.jpg",
+					"url": "https://t.co/BxleEmDCf4",
+					"display_url": "pic.twitter.com/BxleEmDCf4",
+					"expanded_url": "https://twitter.com/TheNewsAtGlenn/status/920367584310169601/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 920367584310169600,
+					"source_status_id_str": "920367584310169601",
+					"source_user_id": 218438862,
+					"source_user_id_str": "218438862"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 920366694798909400,
+					"id_str": "920366694798909440",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/920366694798909440/pu/img/dq-gy8aHHrMCp1I8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/920366694798909440/pu/img/dq-gy8aHHrMCp1I8.jpg",
+					"url": "https://t.co/BxleEmDCf4",
+					"display_url": "pic.twitter.com/BxleEmDCf4",
+					"expanded_url": "https://twitter.com/TheNewsAtGlenn/status/920367584310169601/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 920367584310169600,
+					"source_status_id_str": "920367584310169601",
+					"source_user_id": 218438862,
+					"source_user_id_str": "218438862",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 90123,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/920366694798909440/pu/pl/jWomSMiQsBFNpolN.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/920366694798909440/pu/vid/180x320/UzNIuJqpwim0OTDN.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/920366694798909440/pu/vid/720x1280/pQnKgTQBTEv1tzi3.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/920366694798909440/pu/vid/360x640/ChdDmphR2AQEQmF6.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 218438862,
+							"id_str": "218438862",
+							"name": "Glenn Moore",
+							"screen_name": "TheNewsAtGlenn",
+							"location": "London, England",
+							"description": "Comedian, TV writer, and newsreader. Enquiries: catherineg@avalonuk.com",
+							"url": "https://t.co/oETVMMkgca",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/oETVMMkgca",
+											"expanded_url": "http://favstar.fm/users/thenewsatglenn",
+											"display_url": "favstar.fm/users/thenewsa…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 13001,
+							"friends_count": 896,
+							"listed_count": 142,
+							"created_at": "Mon Nov 22 10:42:33 +0000 2010",
+							"favourites_count": 4971,
+							"utc_offset": 3600,
+							"time_zone": "London",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 5670,
+							"lang": "en-gb",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "ACDED6",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/3493628716/86603b3486828980976cba5be9328656_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/3493628716/86603b3486828980976cba5be9328656_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/218438862/1467493852",
+							"profile_link_color": "038543",
+							"profile_sidebar_border_color": "EEEEEE",
+							"profile_sidebar_fill_color": "F6F6F6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 273,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 542,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36309,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 17 19:15:06 +0000 2017",
+			"id": 920367584310169600,
+			"id_str": "920367584310169601",
+			"text": "Arguably the greatest song of all time. https://t.co/BxleEmDCf4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 920366694798909400,
+						"id_str": "920366694798909440",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/920366694798909440/pu/img/dq-gy8aHHrMCp1I8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/920366694798909440/pu/img/dq-gy8aHHrMCp1I8.jpg",
+						"url": "https://t.co/BxleEmDCf4",
+						"display_url": "pic.twitter.com/BxleEmDCf4",
+						"expanded_url": "https://twitter.com/TheNewsAtGlenn/status/920367584310169601/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 920366694798909400,
+						"id_str": "920366694798909440",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/920366694798909440/pu/img/dq-gy8aHHrMCp1I8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/920366694798909440/pu/img/dq-gy8aHHrMCp1I8.jpg",
+						"url": "https://t.co/BxleEmDCf4",
+						"display_url": "pic.twitter.com/BxleEmDCf4",
+						"expanded_url": "https://twitter.com/TheNewsAtGlenn/status/920367584310169601/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 90123,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/920366694798909440/pu/pl/jWomSMiQsBFNpolN.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/920366694798909440/pu/vid/180x320/UzNIuJqpwim0OTDN.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/920366694798909440/pu/vid/720x1280/pQnKgTQBTEv1tzi3.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/920366694798909440/pu/vid/360x640/ChdDmphR2AQEQmF6.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 218438862,
+				"id_str": "218438862",
+				"name": "Glenn Moore",
+				"screen_name": "TheNewsAtGlenn",
+				"location": "London, England",
+				"description": "Comedian, TV writer, and newsreader. Enquiries: catherineg@avalonuk.com",
+				"url": "https://t.co/oETVMMkgca",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oETVMMkgca",
+								"expanded_url": "http://favstar.fm/users/thenewsatglenn",
+								"display_url": "favstar.fm/users/thenewsa…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13001,
+				"friends_count": 896,
+				"listed_count": 142,
+				"created_at": "Mon Nov 22 10:42:33 +0000 2010",
+				"favourites_count": 4971,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5670,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3493628716/86603b3486828980976cba5be9328656_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3493628716/86603b3486828980976cba5be9328656_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/218438862/1467493852",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 106,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 17 19:25:41 +0000 2017",
+		"id": 920370246778835000,
+		"id_str": "920370246778834945",
+		"text": "back late, Liverpool are way ahead and Spurs are beating Real... time for #GBBO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GBBO",
+					"indices": [
+						74,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 273,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 542,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36309,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Oct 16 21:18:39 +0000 2017",
 		"id": 920036289205981200,
 		"id_str": "920036289205981185",
