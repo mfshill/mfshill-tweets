@@ -1,6 +1,1298 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Thu Oct 19 21:29:36 +0000 2017",
+		"id": 921126207688728600,
+		"id_str": "921126207688728577",
+		"text": "gutted we lost him - \"Best Iain Banks Books \" by @vocal_creators https://t.co/f1Kcr9u5AJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vocal_Creators",
+					"name": "Vocal",
+					"id": 775750338917855200,
+					"id_str": "775750338917855235",
+					"indices": [
+						49,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/f1Kcr9u5AJ",
+					"expanded_url": "http://futurism.media/best-iain-banks-books",
+					"display_url": "futurism.media/best-iain-bank…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 274,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 543,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36319,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 20:25:56 +0000 2017",
+		"id": 921110185644609500,
+		"id_str": "921110185644609536",
+		"text": "'Democide' - \"the murder of any person or people by their government, including genocide, politicide and mass murde… https://t.co/7SqKqKnB4f",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7SqKqKnB4f",
+					"expanded_url": "https://twitter.com/i/web/status/921110185644609536",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 274,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 543,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36319,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 19:51:08 +0000 2017",
+		"id": 921101427581255700,
+		"id_str": "921101427581255680",
+		"text": "RT @btsportfootball: The turn and pass from Wilshere 🔥\nThe finish from Giroud 😳\n\nWhat a goal from Arsenal 👏 https://t.co/jVYnzVmeMd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "btsportfootball",
+					"name": "BT Sport Football",
+					"id": 2319121626,
+					"id_str": "2319121626",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 921086151234080800,
+					"id_str": "921086151234080769",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DMha93cWkAAYauI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMha93cWkAAYauI.jpg",
+					"url": "https://t.co/jVYnzVmeMd",
+					"display_url": "pic.twitter.com/jVYnzVmeMd",
+					"expanded_url": "https://twitter.com/btsportfootball/status/921086455488884736/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921086455488884700,
+					"source_status_id_str": "921086455488884736",
+					"source_user_id": 2319121626,
+					"source_user_id_str": "2319121626"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 921086151234080800,
+					"id_str": "921086151234080769",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DMha93cWkAAYauI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMha93cWkAAYauI.jpg",
+					"url": "https://t.co/jVYnzVmeMd",
+					"display_url": "pic.twitter.com/jVYnzVmeMd",
+					"expanded_url": "https://twitter.com/btsportfootball/status/921086455488884736/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921086455488884700,
+					"source_status_id_str": "921086455488884736",
+					"source_user_id": 2319121626,
+					"source_user_id_str": "2319121626",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 43442,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/921086151234080769/pu/vid/1280x720/j06nn3mnb_vE-2do.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/921086151234080769/pu/vid/320x180/sr5t-wqXEioCyXYy.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/921086151234080769/pu/vid/640x360/qgPqRK329bdcePhu.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/921086151234080769/pu/pl/tft0QpxJPAZUrsTa.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Watch Arsenal live in the Europa League all season on BT Sport",
+						"description": "Olivier Giroud finishes off a wonderful Arsenal move to put them in front against Red Star Belgrade.",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://btsport.com"
+							}
+						},
+						"monetizable": true,
+						"source_user": {
+							"id": 2319121626,
+							"id_str": "2319121626",
+							"name": "BT Sport Football",
+							"screen_name": "btsportfootball",
+							"location": "",
+							"description": "At the heart of football...",
+							"url": "https://t.co/mYYbDWJidD",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/mYYbDWJidD",
+											"expanded_url": "http://btsport.com/football",
+											"display_url": "btsport.com/football",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 445466,
+							"friends_count": 735,
+							"listed_count": 1879,
+							"created_at": "Thu Jan 30 15:49:13 +0000 2014",
+							"favourites_count": 716,
+							"utc_offset": 3600,
+							"time_zone": "London",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 24899,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/501377703124017152/F2df3R-B.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/501377703124017152/F2df3R-B.jpeg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/900734212424249345/Zvjd2jlv_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/900734212424249345/Zvjd2jlv_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2319121626/1501845384",
+							"profile_link_color": "3B94D9",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 274,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 543,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36319,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 19 18:51:38 +0000 2017",
+			"id": 921086455488884700,
+			"id_str": "921086455488884736",
+			"text": "The turn and pass from Wilshere 🔥\nThe finish from Giroud 😳\n\nWhat a goal from Arsenal 👏 https://t.co/jVYnzVmeMd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 921086151234080800,
+						"id_str": "921086151234080769",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DMha93cWkAAYauI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMha93cWkAAYauI.jpg",
+						"url": "https://t.co/jVYnzVmeMd",
+						"display_url": "pic.twitter.com/jVYnzVmeMd",
+						"expanded_url": "https://twitter.com/btsportfootball/status/921086455488884736/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 921086151234080800,
+						"id_str": "921086151234080769",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DMha93cWkAAYauI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMha93cWkAAYauI.jpg",
+						"url": "https://t.co/jVYnzVmeMd",
+						"display_url": "pic.twitter.com/jVYnzVmeMd",
+						"expanded_url": "https://twitter.com/btsportfootball/status/921086455488884736/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 43442,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/921086151234080769/pu/vid/1280x720/j06nn3mnb_vE-2do.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/921086151234080769/pu/vid/320x180/sr5t-wqXEioCyXYy.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/921086151234080769/pu/vid/640x360/qgPqRK329bdcePhu.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/921086151234080769/pu/pl/tft0QpxJPAZUrsTa.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Watch Arsenal live in the Europa League all season on BT Sport",
+							"description": "Olivier Giroud finishes off a wonderful Arsenal move to put them in front against Red Star Belgrade.",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "http://btsport.com"
+								}
+							},
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2319121626,
+				"id_str": "2319121626",
+				"name": "BT Sport Football",
+				"screen_name": "btsportfootball",
+				"location": "",
+				"description": "At the heart of football...",
+				"url": "https://t.co/mYYbDWJidD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mYYbDWJidD",
+								"expanded_url": "http://btsport.com/football",
+								"display_url": "btsport.com/football",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 445466,
+				"friends_count": 735,
+				"listed_count": 1879,
+				"created_at": "Thu Jan 30 15:49:13 +0000 2014",
+				"favourites_count": 716,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 24899,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/501377703124017152/F2df3R-B.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/501377703124017152/F2df3R-B.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/900734212424249345/Zvjd2jlv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/900734212424249345/Zvjd2jlv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2319121626/1501845384",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7154,
+			"favorite_count": 11768,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7154,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 19:36:39 +0000 2017",
+		"id": 921097784568238100,
+		"id_str": "921097784568238080",
+		"text": "RT @franticplanet: @MrKenShabby Drew this a few years ago https://t.co/iY7doTd9AT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "franticplanet",
+					"name": "Stuart Millard",
+					"id": 17661270,
+					"id_str": "17661270",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "MrKenShabby",
+					"name": "John Rain🔹",
+					"id": 49031126,
+					"id_str": "49031126",
+					"indices": [
+						19,
+						31
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 921093273153925100,
+					"id_str": "921093273153925123",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/DMhhc6dXcAMqHpm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMhhc6dXcAMqHpm.jpg",
+					"url": "https://t.co/iY7doTd9AT",
+					"display_url": "pic.twitter.com/iY7doTd9AT",
+					"expanded_url": "https://twitter.com/franticplanet/status/921093290258202625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 522,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 782,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 782,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921093290258202600,
+					"source_status_id_str": "921093290258202625",
+					"source_user_id": 17661270,
+					"source_user_id_str": "17661270"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 921093273153925100,
+					"id_str": "921093273153925123",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/DMhhc6dXcAMqHpm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMhhc6dXcAMqHpm.jpg",
+					"url": "https://t.co/iY7doTd9AT",
+					"display_url": "pic.twitter.com/iY7doTd9AT",
+					"expanded_url": "https://twitter.com/franticplanet/status/921093290258202625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 522,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 782,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 782,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921093290258202600,
+					"source_status_id_str": "921093290258202625",
+					"source_user_id": 17661270,
+					"source_user_id_str": "17661270"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 274,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 543,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36319,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 19 19:18:48 +0000 2017",
+			"id": 921093290258202600,
+			"id_str": "921093290258202625",
+			"text": "@MrKenShabby Drew this a few years ago https://t.co/iY7doTd9AT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MrKenShabby",
+						"name": "John Rain🔹",
+						"id": 49031126,
+						"id_str": "49031126",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 921093273153925100,
+						"id_str": "921093273153925123",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DMhhc6dXcAMqHpm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMhhc6dXcAMqHpm.jpg",
+						"url": "https://t.co/iY7doTd9AT",
+						"display_url": "pic.twitter.com/iY7doTd9AT",
+						"expanded_url": "https://twitter.com/franticplanet/status/921093290258202625/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 522,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 782,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 782,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 921093273153925100,
+						"id_str": "921093273153925123",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DMhhc6dXcAMqHpm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMhhc6dXcAMqHpm.jpg",
+						"url": "https://t.co/iY7doTd9AT",
+						"display_url": "pic.twitter.com/iY7doTd9AT",
+						"expanded_url": "https://twitter.com/franticplanet/status/921093290258202625/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 522,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 782,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 782,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 921092781879291900,
+			"in_reply_to_status_id_str": "921092781879291904",
+			"in_reply_to_user_id": 49031126,
+			"in_reply_to_user_id_str": "49031126",
+			"in_reply_to_screen_name": "MrKenShabby",
+			"user": {
+				"id": 17661270,
+				"id_str": "17661270",
+				"name": "Stuart Millard",
+				"screen_name": "franticplanet",
+				"location": "Parts Unknown",
+				"description": "World's Deadliest Man. Master of the Dim Mak. Writer.",
+				"url": "http://t.co/RSu7Mu7PnN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RSu7Mu7PnN",
+								"expanded_url": "http://www.franticplanet.com",
+								"display_url": "franticplanet.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1123,
+				"friends_count": 1289,
+				"listed_count": 40,
+				"created_at": "Wed Nov 26 22:14:18 +0000 2008",
+				"favourites_count": 4353,
+				"utc_offset": 3600,
+				"time_zone": "Lisbon",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 26669,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/171787630/eatbeard.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/171787630/eatbeard.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859391731225305089/L_gcVRYK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859391731225305089/L_gcVRYK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17661270/1493811419",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 18:44:53 +0000 2017",
+		"id": 921084757856997400,
+		"id_str": "921084757856997376",
+		"text": "saved by @_OlivierGiroud_, great goal 0-1 #RSBvAFC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RSBvAFC",
+					"indices": [
+						42,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_OlivierGiroud_",
+					"name": "Olivier Giroud",
+					"id": 620034505,
+					"id_str": "620034505",
+					"indices": [
+						9,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 274,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 543,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36319,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 18:33:24 +0000 2017",
+		"id": 921081868480647200,
+		"id_str": "921081868480647169",
+		"text": "not sure what i was expecting, but it was better than this 0-0 #RSBvAFC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RSBvAFC",
+					"indices": [
+						63,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 274,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 543,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36319,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 18 20:52:11 +0000 2017",
 		"id": 920754403933638700,
 		"id_str": "920754403933638657",
