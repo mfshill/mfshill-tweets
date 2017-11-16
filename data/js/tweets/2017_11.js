@@ -1,6 +1,564 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 15 07:36:59 +0000 2017",
+		"id": 930701144200007700,
+		"id_str": "930701144200007682",
+		"text": "RT @DrBChristian: https://t.co/4N1RoxOgUA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrBChristian",
+					"name": "Bob Christian (Aspie Poet)",
+					"id": 441058819,
+					"id_str": "441058819",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 930430865880027100,
+					"id_str": "930430865880027136",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/DOmN8WDWkAAZ3Mx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOmN8WDWkAAZ3Mx.jpg",
+					"url": "https://t.co/4N1RoxOgUA",
+					"display_url": "pic.twitter.com/4N1RoxOgUA",
+					"expanded_url": "https://twitter.com/DrBChristian/status/930430872494452737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 552,
+							"h": 765,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 552,
+							"h": 765,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 491,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 930430872494452700,
+					"source_status_id_str": "930430872494452737",
+					"source_user_id": 441058819,
+					"source_user_id_str": "441058819"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 930430865880027100,
+					"id_str": "930430865880027136",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/DOmN8WDWkAAZ3Mx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOmN8WDWkAAZ3Mx.jpg",
+					"url": "https://t.co/4N1RoxOgUA",
+					"display_url": "pic.twitter.com/4N1RoxOgUA",
+					"expanded_url": "https://twitter.com/DrBChristian/status/930430872494452737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 552,
+							"h": 765,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 552,
+							"h": 765,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 491,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 930430872494452700,
+					"source_status_id_str": "930430872494452737",
+					"source_user_id": 441058819,
+					"source_user_id_str": "441058819"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 277,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 574,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36532,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 14 13:43:01 +0000 2017",
+			"id": 930430872494452700,
+			"id_str": "930430872494452737",
+			"text": "https://t.co/4N1RoxOgUA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 930430865880027100,
+						"id_str": "930430865880027136",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DOmN8WDWkAAZ3Mx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOmN8WDWkAAZ3Mx.jpg",
+						"url": "https://t.co/4N1RoxOgUA",
+						"display_url": "pic.twitter.com/4N1RoxOgUA",
+						"expanded_url": "https://twitter.com/DrBChristian/status/930430872494452737/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 552,
+								"h": 765,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 552,
+								"h": 765,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 491,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 930430865880027100,
+						"id_str": "930430865880027136",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DOmN8WDWkAAZ3Mx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOmN8WDWkAAZ3Mx.jpg",
+						"url": "https://t.co/4N1RoxOgUA",
+						"display_url": "pic.twitter.com/4N1RoxOgUA",
+						"expanded_url": "https://twitter.com/DrBChristian/status/930430872494452737/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 552,
+								"h": 765,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 552,
+								"h": 765,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 491,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 441058819,
+				"id_str": "441058819",
+				"name": "Bob Christian (Aspie Poet)",
+				"screen_name": "DrBChristian",
+				"location": "South West",
+				"description": "Lyricist, Blogger, author of 'Behind the Mask' & 'You had to be there’ Raising awareness of Aspergers and Autism one tweet at a time. #MentalMovement AF&AM",
+				"url": "https://t.co/9uh8jLMapR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9uh8jLMapR",
+								"expanded_url": "http://bob-christian.com",
+								"display_url": "bob-christian.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8763,
+				"friends_count": 729,
+				"listed_count": 27,
+				"created_at": "Mon Dec 19 18:03:18 +0000 2011",
+				"favourites_count": 7402,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10609,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/700494450/ae5a0b7194f52d3bc667f34356c2d31f.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/700494450/ae5a0b7194f52d3bc667f34356c2d31f.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/929023238935597056/fxyyotl__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/929023238935597056/fxyyotl__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/441058819/1510666564",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Wed Nov 15 07:30:20 +0000 2017",
+		"id": 930699473537429500,
+		"id_str": "930699473537429504",
+		"text": "RT @DJBillyBunter: Morning All. I'm from an era when you listened to DJs during the week from tapes or pirate radio. It hurt though when th…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DJBillyBunter",
+					"name": "BILLY DANIEL BUNTER",
+					"id": 31364219,
+					"id_str": "31364219",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 277,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 574,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36532,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 15 07:20:25 +0000 2017",
+			"id": 930696975258996700,
+			"id_str": "930696975258996736",
+			"text": "Morning All. I'm from an era when you listened to DJs during the week from tapes or pirate radio. It hurt though wh… https://t.co/UVdg4n0jG5",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UVdg4n0jG5",
+						"expanded_url": "https://twitter.com/i/web/status/930696975258996736",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31364219,
+				"id_str": "31364219",
+				"name": "BILLY DANIEL BUNTER",
+				"screen_name": "DJBillyBunter",
+				"location": "",
+				"description": "Multi award winning rave & festival DJ .... Oh, and author, publisher, promoter, producer, broadcaster and full time piss head!",
+				"url": "https://t.co/etbugDev16",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/etbugDev16",
+								"expanded_url": "http://www.musicmondays.co.uk",
+								"display_url": "musicmondays.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16487,
+				"friends_count": 1058,
+				"listed_count": 128,
+				"created_at": "Wed Apr 15 07:44:54 +0000 2009",
+				"favourites_count": 3,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 65929,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/17893768/ravebreakz_final.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/17893768/ravebreakz_final.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/474282790113247232/4BAbtlSH_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/474282790113247232/4BAbtlSH_normal.jpeg",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 81,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 14 23:30:26 +0000 2017",
 		"id": 930578699799457800,
 		"id_str": "930578699799457792",
