@@ -1,6 +1,591 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 22 18:07:35 +0000 2017",
+		"id": 933396558732808200,
+		"id_str": "933396558732808193",
+		"text": "RT @mitsurutenma: our love story in four pictures https://t.co/5qtH00JYUL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mitsurutenma",
+					"name": "elle",
+					"id": 1350964746,
+					"id_str": "1350964746",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 933363443930947600,
+					"id_str": "933363443930947584",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DPP5G2nW4AAHghm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPP5G2nW4AAHghm.jpg",
+					"url": "https://t.co/5qtH00JYUL",
+					"display_url": "pic.twitter.com/5qtH00JYUL",
+					"expanded_url": "https://twitter.com/mitsurutenma/status/933363456161583109/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 598,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 598,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 542,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 933363456161583100,
+					"source_status_id_str": "933363456161583109",
+					"source_user_id": 1350964746,
+					"source_user_id_str": "1350964746"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 933363443930947600,
+					"id_str": "933363443930947584",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DPP5G2nW4AAHghm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPP5G2nW4AAHghm.jpg",
+					"url": "https://t.co/5qtH00JYUL",
+					"display_url": "pic.twitter.com/5qtH00JYUL",
+					"expanded_url": "https://twitter.com/mitsurutenma/status/933363456161583109/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 598,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 598,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 542,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 933363456161583100,
+					"source_status_id_str": "933363456161583109",
+					"source_user_id": 1350964746,
+					"source_user_id_str": "1350964746"
+				},
+				{
+					"id": 933363444362960900,
+					"id_str": "933363444362960897",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DPP5G4OW4AErT_Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPP5G4OW4AErT_Q.jpg",
+					"url": "https://t.co/5qtH00JYUL",
+					"display_url": "pic.twitter.com/5qtH00JYUL",
+					"expanded_url": "https://twitter.com/mitsurutenma/status/933363456161583109/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 995,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 995,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 933363456161583100,
+					"source_status_id_str": "933363456161583109",
+					"source_user_id": 1350964746,
+					"source_user_id_str": "1350964746"
+				},
+				{
+					"id": 933363444358762500,
+					"id_str": "933363444358762498",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DPP5G4NW0AIvCeW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPP5G4NW0AIvCeW.jpg",
+					"url": "https://t.co/5qtH00JYUL",
+					"display_url": "pic.twitter.com/5qtH00JYUL",
+					"expanded_url": "https://twitter.com/mitsurutenma/status/933363456161583109/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 933363456161583100,
+					"source_status_id_str": "933363456161583109",
+					"source_user_id": 1350964746,
+					"source_user_id_str": "1350964746"
+				},
+				{
+					"id": 933363444341989400,
+					"id_str": "933363444341989376",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DPP5G4JW4AASJ43.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPP5G4JW4AASJ43.jpg",
+					"url": "https://t.co/5qtH00JYUL",
+					"display_url": "pic.twitter.com/5qtH00JYUL",
+					"expanded_url": "https://twitter.com/mitsurutenma/status/933363456161583109/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 933363456161583100,
+					"source_status_id_str": "933363456161583109",
+					"source_user_id": 1350964746,
+					"source_user_id_str": "1350964746"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 277,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 581,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36570,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 22 15:56:03 +0000 2017",
+			"id": 933363456161583100,
+			"id_str": "933363456161583109",
+			"text": "our love story in four pictures https://t.co/5qtH00JYUL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 933363443930947600,
+						"id_str": "933363443930947584",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/DPP5G2nW4AAHghm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPP5G2nW4AAHghm.jpg",
+						"url": "https://t.co/5qtH00JYUL",
+						"display_url": "pic.twitter.com/5qtH00JYUL",
+						"expanded_url": "https://twitter.com/mitsurutenma/status/933363456161583109/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 750,
+								"h": 598,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 598,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 542,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 933363443930947600,
+						"id_str": "933363443930947584",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/DPP5G2nW4AAHghm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPP5G2nW4AAHghm.jpg",
+						"url": "https://t.co/5qtH00JYUL",
+						"display_url": "pic.twitter.com/5qtH00JYUL",
+						"expanded_url": "https://twitter.com/mitsurutenma/status/933363456161583109/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 750,
+								"h": 598,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 598,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 542,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 933363444362960900,
+						"id_str": "933363444362960897",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/DPP5G4OW4AErT_Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPP5G4OW4AErT_Q.jpg",
+						"url": "https://t.co/5qtH00JYUL",
+						"display_url": "pic.twitter.com/5qtH00JYUL",
+						"expanded_url": "https://twitter.com/mitsurutenma/status/933363456161583109/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 513,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 995,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 995,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 933363444358762500,
+						"id_str": "933363444358762498",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/DPP5G4NW0AIvCeW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPP5G4NW0AIvCeW.jpg",
+						"url": "https://t.co/5qtH00JYUL",
+						"display_url": "pic.twitter.com/5qtH00JYUL",
+						"expanded_url": "https://twitter.com/mitsurutenma/status/933363456161583109/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 462,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 933363444341989400,
+						"id_str": "933363444341989376",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/DPP5G4JW4AASJ43.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPP5G4JW4AASJ43.jpg",
+						"url": "https://t.co/5qtH00JYUL",
+						"display_url": "pic.twitter.com/5qtH00JYUL",
+						"expanded_url": "https://twitter.com/mitsurutenma/status/933363456161583109/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1350964746,
+				"id_str": "1350964746",
+				"name": "elle, gundam girl",
+				"screen_name": "mitsurutenma",
+				"location": "",
+				"description": "26 | she/her | libra | gundam guy💍",
+				"url": "https://t.co/azpeUz0mDT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/azpeUz0mDT",
+								"expanded_url": "http://Instagram.com/ellehowley",
+								"display_url": "Instagram.com/ellehowley",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2005,
+				"friends_count": 255,
+				"listed_count": 32,
+				"created_at": "Sun Apr 14 04:37:09 +0000 2013",
+				"favourites_count": 6102,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26520,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAD9C0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/867853686/4ccde9e69073f62d4c45e0b8ca001700.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/867853686/4ccde9e69073f62d4c45e0b8ca001700.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/931691082861240320/85X0FZx6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/931691082861240320/85X0FZx6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1350964746/1510967439",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52952,
+			"favorite_count": 154838,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 52952,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 21 22:21:50 +0000 2017",
 		"id": 933098153699508200,
 		"id_str": "933098153699508224",
