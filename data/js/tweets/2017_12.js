@@ -1,6 +1,549 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sun Dec 17 20:23:44 +0000 2017",
+		"id": 942490515001561100,
+		"id_str": "942490515001561090",
+		"text": "RT @StephenJMills1: https://t.co/m0M0O86Q1U",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StephenJMills1",
+					"name": "🎄Stephen🎄✝️🙏🐕🐈💕",
+					"id": 3331590850,
+					"id_str": "3331590850",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 942460472779034600,
+					"id_str": "942460472779034627",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/942460472779034627/pu/img/gNx2vyYNu5KsBFkS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/942460472779034627/pu/img/gNx2vyYNu5KsBFkS.jpg",
+					"url": "https://t.co/m0M0O86Q1U",
+					"display_url": "pic.twitter.com/m0M0O86Q1U",
+					"expanded_url": "https://twitter.com/StephenJMills1/status/942461016834760710/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 942461016834760700,
+					"source_status_id_str": "942461016834760710",
+					"source_user_id": 3331590850,
+					"source_user_id_str": "3331590850"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 942460472779034600,
+					"id_str": "942460472779034627",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/942460472779034627/pu/img/gNx2vyYNu5KsBFkS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/942460472779034627/pu/img/gNx2vyYNu5KsBFkS.jpg",
+					"url": "https://t.co/m0M0O86Q1U",
+					"display_url": "pic.twitter.com/m0M0O86Q1U",
+					"expanded_url": "https://twitter.com/StephenJMills1/status/942461016834760710/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 942461016834760700,
+					"source_status_id_str": "942461016834760710",
+					"source_user_id": 3331590850,
+					"source_user_id_str": "3331590850",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 120280,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/942460472779034627/pu/pl/t5mubPCqUQkeJ-1V.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/942460472779034627/pu/vid/240x240/zvlLy0DUCQDsTA2p.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3331590850,
+							"id_str": "3331590850",
+							"name": "🎄Stephen🎄✝️🙏🐕🐈💕",
+							"screen_name": "StephenJMills1",
+							"location": "West Sussex UK",
+							"description": "My Best FurBuddy Is My Dog Finn 🐕\n\nI Make Mistakes, I Learn, I Am Human ✝🙏\nTotally In Love With My Beautiful Soulmate ,💕☮️✌️🍃",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 8295,
+							"friends_count": 379,
+							"listed_count": 131,
+							"created_at": "Wed Jun 17 17:29:24 +0000 2015",
+							"favourites_count": 100557,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 99822,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/940087176712171520/SlYl8Ge4_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/940087176712171520/SlYl8Ge4_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3331590850/1511552532",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 276,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 598,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36677,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 17 18:26:31 +0000 2017",
+			"id": 942461016834760700,
+			"id_str": "942461016834760710",
+			"text": "https://t.co/m0M0O86Q1U",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 942460472779034600,
+						"id_str": "942460472779034627",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/942460472779034627/pu/img/gNx2vyYNu5KsBFkS.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/942460472779034627/pu/img/gNx2vyYNu5KsBFkS.jpg",
+						"url": "https://t.co/m0M0O86Q1U",
+						"display_url": "pic.twitter.com/m0M0O86Q1U",
+						"expanded_url": "https://twitter.com/StephenJMills1/status/942461016834760710/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 942460472779034600,
+						"id_str": "942460472779034627",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/942460472779034627/pu/img/gNx2vyYNu5KsBFkS.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/942460472779034627/pu/img/gNx2vyYNu5KsBFkS.jpg",
+						"url": "https://t.co/m0M0O86Q1U",
+						"display_url": "pic.twitter.com/m0M0O86Q1U",
+						"expanded_url": "https://twitter.com/StephenJMills1/status/942461016834760710/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 120280,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/942460472779034627/pu/pl/t5mubPCqUQkeJ-1V.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/942460472779034627/pu/vid/240x240/zvlLy0DUCQDsTA2p.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3331590850,
+				"id_str": "3331590850",
+				"name": "🎄Stephen🎄✝️🙏🐕🐈💕",
+				"screen_name": "StephenJMills1",
+				"location": "West Sussex UK",
+				"description": "My Best FurBuddy Is My Dog Finn 🐕\n\nI Make Mistakes, I Learn, I Am Human ✝🙏\nTotally In Love With My Beautiful Soulmate ,💕☮️✌️🍃",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8295,
+				"friends_count": 379,
+				"listed_count": 131,
+				"created_at": "Wed Jun 17 17:29:24 +0000 2015",
+				"favourites_count": 100557,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 99822,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/940087176712171520/SlYl8Ge4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/940087176712171520/SlYl8Ge4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3331590850/1511552532",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 583,
+			"favorite_count": 388,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 583,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sun Dec 17 17:08:42 +0000 2017",
+		"id": 942441437051879400,
+		"id_str": "942441437051879426",
+		"text": "#DieHard is on at 10pm on @Channel4 people... officially starting the TV lead up to xmas",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DieHard",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Channel4",
+					"name": "Channel 4",
+					"id": 183585551,
+					"id_str": "183585551",
+					"indices": [
+						26,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 276,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 598,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36677,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Dec 17 00:14:40 +0000 2017",
 		"id": 942186245874176000,
 		"id_str": "942186245874176000",
