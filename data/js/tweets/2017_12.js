@@ -1,6 +1,597 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Wed Dec 20 11:11:14 +0000 2017",
+		"id": 943438640822341600,
+		"id_str": "943438640822341633",
+		"text": "@bethmjames ooh, not in the bit envious! Can't use chill dipping sauce?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bethmjames",
+					"name": "Beth",
+					"id": 161423316,
+					"id_str": "161423316",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": 943434395330871300,
+		"in_reply_to_status_id_str": "943434395330871301",
+		"in_reply_to_user_id": 161423316,
+		"in_reply_to_user_id_str": "161423316",
+		"in_reply_to_screen_name": "bethmjames",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 277,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 599,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36689,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 20 10:12:54 +0000 2017",
+		"id": 943423960515039200,
+		"id_str": "943423960515039232",
+		"text": "@bethmjames .....?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bethmjames",
+					"name": "Beth",
+					"id": 161423316,
+					"id_str": "161423316",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": 943421801870139400,
+		"in_reply_to_status_id_str": "943421801870139392",
+		"in_reply_to_user_id": 161423316,
+		"in_reply_to_user_id_str": "161423316",
+		"in_reply_to_screen_name": "bethmjames",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 277,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 599,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36689,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Wed Dec 20 10:12:39 +0000 2017",
+		"id": 943423897147510800,
+		"id_str": "943423897147510784",
+		"text": "RT @bethmjames: Missing hummus xx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bethmjames",
+					"name": "Beth",
+					"id": 161423316,
+					"id_str": "161423316",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 277,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 599,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36689,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 20 10:04:20 +0000 2017",
+			"id": 943421801870139400,
+			"id_str": "943421801870139392",
+			"text": "Missing hummus xx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 161423316,
+				"id_str": "161423316",
+				"name": "Beth",
+				"screen_name": "bethmjames",
+				"location": "Bristol, England",
+				"description": "Shit tweeter/egg. https://t.co/T63JCAmRB8",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/T63JCAmRB8",
+								"expanded_url": "http://bit.ly/kDq9T7",
+								"display_url": "bit.ly/kDq9T7",
+								"indices": [
+									18,
+									41
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 268,
+				"friends_count": 331,
+				"listed_count": 3,
+				"created_at": "Wed Jun 30 20:30:59 +0000 2010",
+				"favourites_count": 10502,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31095,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/601632799/pv3rtkqas9qv8zazqf3g.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/601632799/pv3rtkqas9qv8zazqf3g.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/504022300501762048/oQoKXmOK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/504022300501762048/oQoKXmOK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/161423316/1387117337",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 20 10:12:20 +0000 2017",
+		"id": 943423817283752000,
+		"id_str": "943423817283751937",
+		"text": "@TC_Cornesto was so tempted when the laptop died and a little puff of smoke curled off it.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "T-Crizzle",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": 943417070993231900,
+		"in_reply_to_status_id_str": "943417070993231872",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 277,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 599,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36689,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 20 09:43:09 +0000 2017",
+		"id": 943416474286379000,
+		"id_str": "943416474286379008",
+		"text": "So far today;\n- 3.5hrs sleep after the Arsenal match last night\n- taxi 20mins late \n- 1st train cancelled\n- 2nd tra… https://t.co/84L1T6ySo2",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/84L1T6ySo2",
+					"expanded_url": "https://twitter.com/i/web/status/943416474286379008",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 277,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 599,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36689,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 19 19:58:32 +0000 2017",
 		"id": 943208952619262000,
 		"id_str": "943208952619261953",
