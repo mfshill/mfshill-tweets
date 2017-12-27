@@ -1,6 +1,948 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Tue Dec 26 22:00:52 +0000 2017",
+		"id": 945776450082410500,
+		"id_str": "945776450082410502",
+		"text": "RT @wolfyneyda: she was like “well i’ve come this far\" https://t.co/RpJbcVNUXn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wolfyneyda",
+					"name": "lovrgirl🌹",
+					"id": 3708221542,
+					"id_str": "3708221542",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 945134140080513000,
+					"id_str": "945134140080513024",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DR3KfiyX4AAlHga.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DR3KfiyX4AAlHga.jpg",
+					"url": "https://t.co/RpJbcVNUXn",
+					"display_url": "pic.twitter.com/RpJbcVNUXn",
+					"expanded_url": "https://twitter.com/wolfyneyda/status/945134147005304833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1707,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945134147005304800,
+					"source_status_id_str": "945134147005304833",
+					"source_user_id": 3708221542,
+					"source_user_id_str": "3708221542"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 945134140080513000,
+					"id_str": "945134140080513024",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DR3KfiyX4AAlHga.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DR3KfiyX4AAlHga.jpg",
+					"url": "https://t.co/RpJbcVNUXn",
+					"display_url": "pic.twitter.com/RpJbcVNUXn",
+					"expanded_url": "https://twitter.com/wolfyneyda/status/945134147005304833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1707,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945134147005304800,
+					"source_status_id_str": "945134147005304833",
+					"source_user_id": 3708221542,
+					"source_user_id_str": "3708221542"
+				},
+				{
+					"id": 945134140072054800,
+					"id_str": "945134140072054784",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DR3KfiwW0AA83Qh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DR3KfiwW0AA83Qh.jpg",
+					"url": "https://t.co/RpJbcVNUXn",
+					"display_url": "pic.twitter.com/RpJbcVNUXn",
+					"expanded_url": "https://twitter.com/wolfyneyda/status/945134147005304833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1707,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945134147005304800,
+					"source_status_id_str": "945134147005304833",
+					"source_user_id": 3708221542,
+					"source_user_id_str": "3708221542"
+				},
+				{
+					"id": 945134140080390100,
+					"id_str": "945134140080390144",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DR3KfiyWAAALynq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DR3KfiyWAAALynq.jpg",
+					"url": "https://t.co/RpJbcVNUXn",
+					"display_url": "pic.twitter.com/RpJbcVNUXn",
+					"expanded_url": "https://twitter.com/wolfyneyda/status/945134147005304833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1707,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945134147005304800,
+					"source_status_id_str": "945134147005304833",
+					"source_user_id": 3708221542,
+					"source_user_id_str": "3708221542"
+				},
+				{
+					"id": 945134140076298200,
+					"id_str": "945134140076298242",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DR3KfixXkAISNl3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DR3KfixXkAISNl3.jpg",
+					"url": "https://t.co/RpJbcVNUXn",
+					"display_url": "pic.twitter.com/RpJbcVNUXn",
+					"expanded_url": "https://twitter.com/wolfyneyda/status/945134147005304833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1707,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945134147005304800,
+					"source_status_id_str": "945134147005304833",
+					"source_user_id": 3708221542,
+					"source_user_id_str": "3708221542"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 278,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 607,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36726,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 25 03:28:35 +0000 2017",
+			"id": 945134147005304800,
+			"id_str": "945134147005304833",
+			"text": "she was like “well i’ve come this far\" https://t.co/RpJbcVNUXn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 945134140080513000,
+						"id_str": "945134140080513024",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DR3KfiyX4AAlHga.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR3KfiyX4AAlHga.jpg",
+						"url": "https://t.co/RpJbcVNUXn",
+						"display_url": "pic.twitter.com/RpJbcVNUXn",
+						"expanded_url": "https://twitter.com/wolfyneyda/status/945134147005304833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1707,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 945134140080513000,
+						"id_str": "945134140080513024",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DR3KfiyX4AAlHga.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR3KfiyX4AAlHga.jpg",
+						"url": "https://t.co/RpJbcVNUXn",
+						"display_url": "pic.twitter.com/RpJbcVNUXn",
+						"expanded_url": "https://twitter.com/wolfyneyda/status/945134147005304833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1707,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 945134140072054800,
+						"id_str": "945134140072054784",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DR3KfiwW0AA83Qh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR3KfiwW0AA83Qh.jpg",
+						"url": "https://t.co/RpJbcVNUXn",
+						"display_url": "pic.twitter.com/RpJbcVNUXn",
+						"expanded_url": "https://twitter.com/wolfyneyda/status/945134147005304833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1707,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 945134140080390100,
+						"id_str": "945134140080390144",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DR3KfiyWAAALynq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR3KfiyWAAALynq.jpg",
+						"url": "https://t.co/RpJbcVNUXn",
+						"display_url": "pic.twitter.com/RpJbcVNUXn",
+						"expanded_url": "https://twitter.com/wolfyneyda/status/945134147005304833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1707,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 945134140076298200,
+						"id_str": "945134140076298242",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DR3KfixXkAISNl3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR3KfixXkAISNl3.jpg",
+						"url": "https://t.co/RpJbcVNUXn",
+						"display_url": "pic.twitter.com/RpJbcVNUXn",
+						"expanded_url": "https://twitter.com/wolfyneyda/status/945134147005304833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1707,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3708221542,
+				"id_str": "3708221542",
+				"name": "lovrgirl🌹",
+				"screen_name": "wolfyneyda",
+				"location": "Virginia, USA",
+				"description": "🇲🇦🇺🇸",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36660,
+				"friends_count": 111,
+				"listed_count": 503,
+				"created_at": "Sat Sep 19 15:05:06 +0000 2015",
+				"favourites_count": 18222,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10370,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/945666741417410562/Z8t6MPkp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/945666741417410562/Z8t6MPkp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3708221542/1512881736",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "CC3366",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2120,
+			"favorite_count": 6042,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2120,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 26 18:06:16 +0000 2017",
+		"id": 945717413173252100,
+		"id_str": "945717413173252096",
+		"text": "RT @AnchorCake: ONE IN THREE BRITONS WENT TO THE SALES TODAY https://t.co/sr7qt6jLnP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnchorCake",
+					"name": "Is it nearly KristMas?",
+					"id": 822840035426844700,
+					"id_str": "822840035426844672",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 945716994623590400,
+					"id_str": "945716994623590401",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DR_cmJKW0AEDoBL.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DR_cmJKW0AEDoBL.jpg",
+					"url": "https://t.co/sr7qt6jLnP",
+					"display_url": "pic.twitter.com/sr7qt6jLnP",
+					"expanded_url": "https://twitter.com/AnchorCake/status/945717002953510912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945717002953510900,
+					"source_status_id_str": "945717002953510912",
+					"source_user_id": 822840035426844700,
+					"source_user_id_str": "822840035426844672"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 945716994623590400,
+					"id_str": "945716994623590401",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DR_cmJKW0AEDoBL.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DR_cmJKW0AEDoBL.jpg",
+					"url": "https://t.co/sr7qt6jLnP",
+					"display_url": "pic.twitter.com/sr7qt6jLnP",
+					"expanded_url": "https://twitter.com/AnchorCake/status/945717002953510912/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945717002953510900,
+					"source_status_id_str": "945717002953510912",
+					"source_user_id": 822840035426844700,
+					"source_user_id_str": "822840035426844672",
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							136
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DR_cmJKW0AEDoBL.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 278,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 607,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36726,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 26 18:04:38 +0000 2017",
+			"id": 945717002953510900,
+			"id_str": "945717002953510912",
+			"text": "ONE IN THREE BRITONS WENT TO THE SALES TODAY https://t.co/sr7qt6jLnP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 945716994623590400,
+						"id_str": "945716994623590401",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DR_cmJKW0AEDoBL.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DR_cmJKW0AEDoBL.jpg",
+						"url": "https://t.co/sr7qt6jLnP",
+						"display_url": "pic.twitter.com/sr7qt6jLnP",
+						"expanded_url": "https://twitter.com/AnchorCake/status/945717002953510912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 498,
+								"h": 272,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 498,
+								"h": 272,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 272,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 945716994623590400,
+						"id_str": "945716994623590401",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DR_cmJKW0AEDoBL.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DR_cmJKW0AEDoBL.jpg",
+						"url": "https://t.co/sr7qt6jLnP",
+						"display_url": "pic.twitter.com/sr7qt6jLnP",
+						"expanded_url": "https://twitter.com/AnchorCake/status/945717002953510912/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 498,
+								"h": 272,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 498,
+								"h": 272,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 272,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								249,
+								136
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DR_cmJKW0AEDoBL.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 822840035426844700,
+				"id_str": "822840035426844672",
+				"name": "Is it nearly KristMas?",
+				"screen_name": "AnchorCake",
+				"location": "Scotland, United Kingdom",
+				"description": "Eh, Sarah, ah really fancy you... Header @bloodynorapam #fife",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 881,
+				"friends_count": 841,
+				"listed_count": 7,
+				"created_at": "Sat Jan 21 16:15:26 +0000 2017",
+				"favourites_count": 11904,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9492,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/945036385265836032/57s1a9EW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/945036385265836032/57s1a9EW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/822840035426844672/1485016072",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Dec 25 23:47:56 +0000 2017",
 		"id": 945441007587479600,
 		"id_str": "945441007587479552",
