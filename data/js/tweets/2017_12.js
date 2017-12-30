@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Fri Dec 29 16:56:30 +0000 2017",
+		"id": 946787017899364400,
+		"id_str": "946787017899364352",
+		"text": "RT @FootballLaw: “Guardiola is breaking records. Mourinho is starting to sound like a broken one.” Via the excellent @Carra23  https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FootballLaw",
+					"name": "Daniel Geey ⚽️",
+					"id": 167105625,
+					"id_str": "167105625",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "Carra23",
+					"name": "Jamie Carragher",
+					"id": 2585396407,
+					"id_str": "2585396407",
+					"indices": [
+						117,
+						125
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 280,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 607,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36742,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 29 16:29:42 +0000 2017",
+			"id": 946780273722699800,
+			"id_str": "946780273722699776",
+			"text": "“Guardiola is breaking records. Mourinho is starting to sound like a broken one.” Via the excellent @Carra23  https://t.co/W1kOGyoXPN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Carra23",
+						"name": "Jamie Carragher",
+						"id": 2585396407,
+						"id_str": "2585396407",
+						"indices": [
+							100,
+							108
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/W1kOGyoXPN",
+						"expanded_url": "http://www.telegraph.co.uk/football/2017/12/29/jose-mourinho-sounds-like-broken-record-pep-guardiola-man/",
+						"display_url": "telegraph.co.uk/football/2017/…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 167105625,
+				"id_str": "167105625",
+				"name": "Daniel Geey ⚽️",
+				"screen_name": "FootballLaw",
+				"location": "London ",
+				"description": "I'm a @sheridansSport lawyer & advise sports/esports clients on competition, commercial, regulatory & broadcasting issues. Chairman of @footballaid.",
+				"url": "https://t.co/XjHjQpgw2i",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XjHjQpgw2i",
+								"expanded_url": "http://www.danielgeey.com/blog",
+								"display_url": "danielgeey.com/blog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20550,
+				"friends_count": 1311,
+				"listed_count": 499,
+				"created_at": "Thu Jul 15 19:33:14 +0000 2010",
+				"favourites_count": 1334,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15181,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "241D1E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/644894364066516992/lyByHVSm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/644894364066516992/lyByHVSm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/167105625/1432738814",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 28 23:20:43 +0000 2017",
 		"id": 946521323660070900,
 		"id_str": "946521323660070912",
