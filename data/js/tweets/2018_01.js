@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 23 22:06:00 +0000 2018",
+		"id": 955924604878499800,
+		"id_str": "955924604878499840",
+		"text": "and goodnight... https://t.co/K14BDD22MI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K14BDD22MI",
+					"expanded_url": "https://twitter.com/davidkbruce/status/955886866473070595",
+					"display_url": "twitter.com/davidkbruce/st…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 287,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 631,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36871,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 955886866473070600,
+		"quoted_status_id_str": "955886866473070595",
+		"quoted_status": {
+			"created_at": "Tue Jan 23 19:36:03 +0000 2018",
+			"id": 955886866473070600,
+			"id_str": "955886866473070595",
+			"text": "Well today has been shit. Here's Bowie pissing into a toaster. https://t.co/XzViGjb5JB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 955886833627533300,
+						"id_str": "955886833627533314",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/DUP-ArvXkAIfwG2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUP-ArvXkAIfwG2.jpg",
+						"url": "https://t.co/XzViGjb5JB",
+						"display_url": "pic.twitter.com/XzViGjb5JB",
+						"expanded_url": "https://twitter.com/davidkbruce/status/955886866473070595/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 955886833627533300,
+						"id_str": "955886833627533314",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/DUP-ArvXkAIfwG2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUP-ArvXkAIfwG2.jpg",
+						"url": "https://t.co/XzViGjb5JB",
+						"display_url": "pic.twitter.com/XzViGjb5JB",
+						"expanded_url": "https://twitter.com/davidkbruce/status/955886866473070595/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 972697482,
+				"id_str": "972697482",
+				"name": "David Bruce",
+				"screen_name": "davidkbruce",
+				"location": "East Durham Riviera",
+				"description": "I always hang in a buffalo stance",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1315,
+				"friends_count": 1492,
+				"listed_count": 11,
+				"created_at": "Mon Nov 26 21:01:08 +0000 2012",
+				"favourites_count": 29166,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12506,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3213365540/0d21fbd0c09bb35e1e368f17da860f55_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3213365540/0d21fbd0c09bb35e1e368f17da860f55_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/972697482/1452331169",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44,
+			"favorite_count": 75,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 23 20:06:30 +0000 2018",
+		"id": 955894531047788500,
+		"id_str": "955894531047788544",
+		"text": "'oh my god, the hammer pulled you off?!' #qotd #ThorRagnarok",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "qotd",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "ThorRagnarok",
+					"indices": [
+						47,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 287,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 631,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36871,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 23 13:37:54 +0000 2018",
+		"id": 955796737473548300,
+		"id_str": "955796737473548291",
+		"text": "RT @StiXXX_: Sanchez and Mkhitaryan have finally changed clubs. Can tell who is happier of the two. https://t.co/sMcJDH8j9h",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StiXXX_",
+					"name": "Imwene",
+					"id": 213001834,
+					"id_str": "213001834",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 955154362170531800,
+					"id_str": "955154362170531840",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DUFj1O7W4AAtkNc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUFj1O7W4AAtkNc.jpg",
+					"url": "https://t.co/sMcJDH8j9h",
+					"display_url": "pic.twitter.com/sMcJDH8j9h",
+					"expanded_url": "https://twitter.com/StiXXX_/status/955154366117367808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 292,
+							"h": 287,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 292,
+							"h": 287,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 292,
+							"h": 287,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 955154366117367800,
+					"source_status_id_str": "955154366117367808",
+					"source_user_id": 213001834,
+					"source_user_id_str": "213001834"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 955154362170531800,
+					"id_str": "955154362170531840",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DUFj1O7W4AAtkNc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUFj1O7W4AAtkNc.jpg",
+					"url": "https://t.co/sMcJDH8j9h",
+					"display_url": "pic.twitter.com/sMcJDH8j9h",
+					"expanded_url": "https://twitter.com/StiXXX_/status/955154366117367808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 292,
+							"h": 287,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 292,
+							"h": 287,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 292,
+							"h": 287,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 955154366117367800,
+					"source_status_id_str": "955154366117367808",
+					"source_user_id": 213001834,
+					"source_user_id_str": "213001834"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 287,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 631,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36871,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 21 19:05:21 +0000 2018",
+			"id": 955154366117367800,
+			"id_str": "955154366117367808",
+			"text": "Sanchez and Mkhitaryan have finally changed clubs. Can tell who is happier of the two. https://t.co/sMcJDH8j9h",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 955154362170531800,
+						"id_str": "955154362170531840",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DUFj1O7W4AAtkNc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUFj1O7W4AAtkNc.jpg",
+						"url": "https://t.co/sMcJDH8j9h",
+						"display_url": "pic.twitter.com/sMcJDH8j9h",
+						"expanded_url": "https://twitter.com/StiXXX_/status/955154366117367808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 292,
+								"h": 287,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 292,
+								"h": 287,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 292,
+								"h": 287,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 955154362170531800,
+						"id_str": "955154362170531840",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DUFj1O7W4AAtkNc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUFj1O7W4AAtkNc.jpg",
+						"url": "https://t.co/sMcJDH8j9h",
+						"display_url": "pic.twitter.com/sMcJDH8j9h",
+						"expanded_url": "https://twitter.com/StiXXX_/status/955154366117367808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 292,
+								"h": 287,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 292,
+								"h": 287,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 292,
+								"h": 287,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 213001834,
+				"id_str": "213001834",
+				"name": "Imwene",
+				"screen_name": "StiXXX_",
+				"location": "Nairobi | Occitian Origin",
+				"description": "Cyber security| ARSENAL| MENTALITY is greater than Ability",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2973,
+				"friends_count": 2886,
+				"listed_count": 13,
+				"created_at": "Sun Nov 07 17:47:21 +0000 2010",
+				"favourites_count": 1017,
+				"utc_offset": 10800,
+				"time_zone": "Nairobi",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15633,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839858484405551104/cRdxL3q3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839858484405551104/cRdxL3q3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/213001834/1396618506",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4305,
+			"favorite_count": 6197,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4305,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 21 21:01:13 +0000 2018",
 		"id": 955183523878658000,
 		"id_str": "955183523878658049",
