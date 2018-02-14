@@ -1,6 +1,889 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Tue Feb 13 22:54:52 +0000 2018",
+		"id": 963547045033365500,
+		"id_str": "963547045033365504",
+		"text": "RT @YesWeCrann: This is the best video you’ll see all week. https://t.co/Dh0065EDd4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YesWeCrann",
+					"name": "Joe Crann",
+					"id": 296168296,
+					"id_str": "296168296",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 961354285899571200,
+					"id_str": "961354285899571201",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/961354285899571201/pu/img/ji_u9DG5qgirTRPQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/961354285899571201/pu/img/ji_u9DG5qgirTRPQ.jpg",
+					"url": "https://t.co/Dh0065EDd4",
+					"display_url": "pic.twitter.com/Dh0065EDd4",
+					"expanded_url": "https://twitter.com/ArturoGCampos/status/961354426375122950/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 961354426375123000,
+					"source_status_id_str": "961354426375122950",
+					"source_user_id": 276034185,
+					"source_user_id_str": "276034185"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 961354285899571200,
+					"id_str": "961354285899571201",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/961354285899571201/pu/img/ji_u9DG5qgirTRPQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/961354285899571201/pu/img/ji_u9DG5qgirTRPQ.jpg",
+					"url": "https://t.co/Dh0065EDd4",
+					"display_url": "pic.twitter.com/Dh0065EDd4",
+					"expanded_url": "https://twitter.com/ArturoGCampos/status/961354426375122950/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 961354426375123000,
+					"source_status_id_str": "961354426375122950",
+					"source_user_id": 276034185,
+					"source_user_id_str": "276034185",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 23933,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/961354285899571201/pu/pl/QDZS2QIf6xx9qTtr.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/961354285899571201/pu/vid/480x480/Skmqa9v8oewmtgqo.mp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/961354285899571201/pu/vid/240x240/cLtxRZB27DSaHHsQ.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 276034185,
+							"id_str": "276034185",
+							"name": "Arturo González-Campos",
+							"screen_name": "ArturoGCampos",
+							"location": "Madrid, España",
+							"description": "Sólo soy un humilde puto amo. @tpoderosos @cinemascopazo",
+							"url": "https://t.co/tWgiEMkhAl",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/tWgiEMkhAl",
+											"expanded_url": "http://youtube.com/cinemascopazo",
+											"display_url": "youtube.com/cinemascopazo",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 82089,
+							"friends_count": 1640,
+							"listed_count": 818,
+							"created_at": "Sat Apr 02 14:22:30 +0000 2011",
+							"favourites_count": 69569,
+							"utc_offset": 3600,
+							"time_zone": "Madrid",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 74135,
+							"lang": "es",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "9AE4E8",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/943491733047914497/OxtGiAIB_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/943491733047914497/OxtGiAIB_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/276034185/1492369782",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "BDDCAD",
+							"profile_sidebar_fill_color": "DDFFCC",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 289,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 639,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36986,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 12 08:08:24 +0000 2018",
+			"id": 962961571403137000,
+			"id_str": "962961571403137029",
+			"text": "This is the best video you’ll see all week. https://t.co/Dh0065EDd4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 961354285899571200,
+						"id_str": "961354285899571201",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/961354285899571201/pu/img/ji_u9DG5qgirTRPQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/961354285899571201/pu/img/ji_u9DG5qgirTRPQ.jpg",
+						"url": "https://t.co/Dh0065EDd4",
+						"display_url": "pic.twitter.com/Dh0065EDd4",
+						"expanded_url": "https://twitter.com/ArturoGCampos/status/961354426375122950/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 961354426375123000,
+						"source_status_id_str": "961354426375122950",
+						"source_user_id": 276034185,
+						"source_user_id_str": "276034185"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 961354285899571200,
+						"id_str": "961354285899571201",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/961354285899571201/pu/img/ji_u9DG5qgirTRPQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/961354285899571201/pu/img/ji_u9DG5qgirTRPQ.jpg",
+						"url": "https://t.co/Dh0065EDd4",
+						"display_url": "pic.twitter.com/Dh0065EDd4",
+						"expanded_url": "https://twitter.com/ArturoGCampos/status/961354426375122950/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 961354426375123000,
+						"source_status_id_str": "961354426375122950",
+						"source_user_id": 276034185,
+						"source_user_id_str": "276034185",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 23933,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/961354285899571201/pu/pl/QDZS2QIf6xx9qTtr.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/961354285899571201/pu/vid/480x480/Skmqa9v8oewmtgqo.mp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/961354285899571201/pu/vid/240x240/cLtxRZB27DSaHHsQ.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 276034185,
+								"id_str": "276034185",
+								"name": "Arturo González-Campos",
+								"screen_name": "ArturoGCampos",
+								"location": "Madrid, España",
+								"description": "Sólo soy un humilde puto amo. @tpoderosos @cinemascopazo",
+								"url": "https://t.co/tWgiEMkhAl",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/tWgiEMkhAl",
+												"expanded_url": "http://youtube.com/cinemascopazo",
+												"display_url": "youtube.com/cinemascopazo",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 82089,
+								"friends_count": 1640,
+								"listed_count": 818,
+								"created_at": "Sat Apr 02 14:22:30 +0000 2011",
+								"favourites_count": 69569,
+								"utc_offset": 3600,
+								"time_zone": "Madrid",
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 74135,
+								"lang": "es",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "9AE4E8",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/943491733047914497/OxtGiAIB_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/943491733047914497/OxtGiAIB_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/276034185/1492369782",
+								"profile_link_color": "0084B4",
+								"profile_sidebar_border_color": "BDDCAD",
+								"profile_sidebar_fill_color": "DDFFCC",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 296168296,
+				"id_str": "296168296",
+				"name": "Joe Crann",
+				"screen_name": "YesWeCrann",
+				"location": "Johannesburg, SA",
+				"description": "Yorkshireman, @Soccer_Laduma journalist⚽️, travel fanatic✈️ and well, general dog's body. Sheffield Wednesday... #UTO Views are my own...",
+				"url": "https://t.co/F1ZJUr9ofg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F1ZJUr9ofg",
+								"expanded_url": "http://www.yeswecrann.co.za",
+								"display_url": "yeswecrann.co.za",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 70531,
+				"friends_count": 1718,
+				"listed_count": 296,
+				"created_at": "Tue May 10 09:36:13 +0000 2011",
+				"favourites_count": 424,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 198266,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "130E9E",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/556780318/IMG_0817.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/556780318/IMG_0817.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/918545279711838209/becAGMPi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/918545279711838209/becAGMPi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/296168296/1466869467",
+				"profile_link_color": "9515EB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3932,
+			"favorite_count": 6716,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3932,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 13 22:53:36 +0000 2018",
+		"id": 963546726249398300,
+		"id_str": "963546726249398287",
+		"text": "RT @jennaaclaire: man I had no idea you could buy this.  I’ve just been using drugs and alcohol https://t.co/RziVhnvoY3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jennaaclaire",
+					"name": "Jenna-Claire",
+					"id": 2973567927,
+					"id_str": "2973567927",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 963095992638718000,
+					"id_str": "963095992638717952",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DV2as93VQAADgqw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DV2as93VQAADgqw.jpg",
+					"url": "https://t.co/RziVhnvoY3",
+					"display_url": "pic.twitter.com/RziVhnvoY3",
+					"expanded_url": "https://twitter.com/jennaaclaire/status/963095999517462529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 724,
+							"h": 612,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 575,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963095999517462500,
+					"source_status_id_str": "963095999517462529",
+					"source_user_id": 2973567927,
+					"source_user_id_str": "2973567927"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 963095992638718000,
+					"id_str": "963095992638717952",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DV2as93VQAADgqw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DV2as93VQAADgqw.jpg",
+					"url": "https://t.co/RziVhnvoY3",
+					"display_url": "pic.twitter.com/RziVhnvoY3",
+					"expanded_url": "https://twitter.com/jennaaclaire/status/963095999517462529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 724,
+							"h": 612,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 575,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963095999517462500,
+					"source_status_id_str": "963095999517462529",
+					"source_user_id": 2973567927,
+					"source_user_id_str": "2973567927"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 289,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 639,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36986,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 12 17:02:34 +0000 2018",
+			"id": 963095999517462500,
+			"id_str": "963095999517462529",
+			"text": "man I had no idea you could buy this.  I’ve just been using drugs and alcohol https://t.co/RziVhnvoY3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 963095992638718000,
+						"id_str": "963095992638717952",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DV2as93VQAADgqw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV2as93VQAADgqw.jpg",
+						"url": "https://t.co/RziVhnvoY3",
+						"display_url": "pic.twitter.com/RziVhnvoY3",
+						"expanded_url": "https://twitter.com/jennaaclaire/status/963095999517462529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 724,
+								"h": 612,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 724,
+								"h": 612,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 575,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 963095992638718000,
+						"id_str": "963095992638717952",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DV2as93VQAADgqw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV2as93VQAADgqw.jpg",
+						"url": "https://t.co/RziVhnvoY3",
+						"display_url": "pic.twitter.com/RziVhnvoY3",
+						"expanded_url": "https://twitter.com/jennaaclaire/status/963095999517462529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 724,
+								"h": 612,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 724,
+								"h": 612,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 575,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2973567927,
+				"id_str": "2973567927",
+				"name": "Jenna-Claire",
+				"screen_name": "jennaaclaire",
+				"location": "",
+				"description": "I'm full of hate, and I love it.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3942,
+				"friends_count": 4985,
+				"listed_count": 85,
+				"created_at": "Sun Jan 11 19:36:12 +0000 2015",
+				"favourites_count": 10671,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7916,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905633225254592513/1r_CKq8Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905633225254592513/1r_CKq8Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2973567927/1503600360",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11786,
+			"favorite_count": 39319,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11786,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 11 21:32:34 +0000 2018",
 		"id": 962801558214897700,
 		"id_str": "962801558214897664",
