@@ -1,6 +1,986 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 23 22:29:26 +0000 2018",
+		"id": 967164526276890600,
+		"id_str": "967164526276890624",
+		"text": "new #QI is so so much better with @sanditoksvig. hopefully this is a permanent change",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "QI",
+					"indices": [
+						4,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sanditoksvig",
+					"name": "Sandi Toksvig",
+					"id": 28680544,
+					"id_str": "28680544",
+					"indices": [
+						34,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 291,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 642,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37014,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 23 22:24:43 +0000 2018",
+		"id": 967163339049750500,
+		"id_str": "967163339049750528",
+		"text": "RT @SittingByTheSea: My wife did something very similar when a gull pulled her pork chop off a bbq on Bryher. https://t.co/5pgggXRk10",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SittingByTheSea",
+					"name": "Tim 🇪🇺",
+					"id": 223632534,
+					"id_str": "223632534",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 967073463117652000,
+					"id_str": "967073463117651972",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DWu8MODVoAQPKLl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DWu8MODVoAQPKLl.jpg",
+					"url": "https://t.co/5pgggXRk10",
+					"display_url": "pic.twitter.com/5pgggXRk10",
+					"expanded_url": "https://twitter.com/helenhousandi/status/967073559527948288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 967073559527948300,
+					"source_status_id_str": "967073559527948288",
+					"source_user_id": 21204689,
+					"source_user_id_str": "21204689"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 967073463117652000,
+					"id_str": "967073463117651972",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DWu8MODVoAQPKLl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DWu8MODVoAQPKLl.jpg",
+					"url": "https://t.co/5pgggXRk10",
+					"display_url": "pic.twitter.com/5pgggXRk10",
+					"expanded_url": "https://twitter.com/helenhousandi/status/967073559527948288/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 967073559527948300,
+					"source_status_id_str": "967073559527948288",
+					"source_user_id": 21204689,
+					"source_user_id_str": "21204689",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DWu8MODVoAQPKLl.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 291,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 642,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37014,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 23 21:22:15 +0000 2018",
+			"id": 967147618991247400,
+			"id_str": "967147618991247361",
+			"text": "My wife did something very similar when a gull pulled her pork chop off a bbq on Bryher. https://t.co/5pgggXRk10",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 967073463117652000,
+						"id_str": "967073463117651972",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DWu8MODVoAQPKLl.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DWu8MODVoAQPKLl.jpg",
+						"url": "https://t.co/5pgggXRk10",
+						"display_url": "pic.twitter.com/5pgggXRk10",
+						"expanded_url": "https://twitter.com/helenhousandi/status/967073559527948288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 400,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 967073559527948300,
+						"source_status_id_str": "967073559527948288",
+						"source_user_id": 21204689,
+						"source_user_id_str": "21204689"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 967073463117652000,
+						"id_str": "967073463117651972",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DWu8MODVoAQPKLl.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DWu8MODVoAQPKLl.jpg",
+						"url": "https://t.co/5pgggXRk10",
+						"display_url": "pic.twitter.com/5pgggXRk10",
+						"expanded_url": "https://twitter.com/helenhousandi/status/967073559527948288/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 400,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 967073559527948300,
+						"source_status_id_str": "967073559527948288",
+						"source_user_id": 21204689,
+						"source_user_id_str": "21204689",
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DWu8MODVoAQPKLl.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 223632534,
+				"id_str": "223632534",
+				"name": "Tim 🇪🇺",
+				"screen_name": "SittingByTheSea",
+				"location": "on a pale blue dot",
+				"description": "Interested by stuff and things. A disclaimer would provide me no legal protection and engender a false sense of security",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1745,
+				"friends_count": 736,
+				"listed_count": 60,
+				"created_at": "Mon Dec 06 22:42:06 +0000 2010",
+				"favourites_count": 8423,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21081,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4D2B4D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/838883086771367936/c3ASj7VD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/838883086771367936/c3ASj7VD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/223632534/1488730883",
+				"profile_link_color": "484DCF",
+				"profile_sidebar_border_color": "1F191F",
+				"profile_sidebar_fill_color": "C6C3E0",
+				"profile_text_color": "451745",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 23 15:14:59 +0000 2018",
+		"id": 967055193857757200,
+		"id_str": "967055193857757184",
+		"text": "RT @liamdutton: ❄️Next week, the UK will have its coldest spell for at least five years with heavy snow - around 30cm possible in the worst…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "liamdutton",
+					"name": "Liam Dutton - Weatherman",
+					"id": 20481072,
+					"id_str": "20481072",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 291,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 642,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37014,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 23 13:00:28 +0000 2018",
+			"id": 967021341059813400,
+			"id_str": "967021341059813376",
+			"text": "❄️Next week, the UK will have its coldest spell for at least five years with heavy snow - around 30cm possible in t… https://t.co/i5GzwExSrk",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/i5GzwExSrk",
+						"expanded_url": "https://twitter.com/i/web/status/967021341059813376",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20481072,
+				"id_str": "20481072",
+				"name": "Liam Dutton - Weatherman",
+				"screen_name": "liamdutton",
+				"location": "London",
+				"description": "Weather Presenter for @Channel4News, formerly @bbcweather. @metoffice qualified meteorologist. Writer. Musician. Tech lover. My views unless otherwise stated.",
+				"url": "https://t.co/AOGeVgGanY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AOGeVgGanY",
+								"expanded_url": "http://www.liamdutton.com",
+								"display_url": "liamdutton.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33049,
+				"friends_count": 498,
+				"listed_count": 495,
+				"created_at": "Tue Feb 10 00:33:07 +0000 2009",
+				"favourites_count": 2404,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 47256,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D1D1D1",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/699073491/bba1146a73097ee7be9e492a2bbd017e.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/699073491/bba1146a73097ee7be9e492a2bbd017e.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/675837736029437953/Nkf3p1tG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/675837736029437953/Nkf3p1tG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20481072/1443639844",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 202,
+			"favorite_count": 270,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 202,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 23 09:39:10 +0000 2018",
+		"id": 966970681605939200,
+		"id_str": "966970681605939200",
+		"text": "RT @LollyStrnks: Hello. I've been writing about some of the British female pioneers of Modernism. https://t.co/eJBLLAg4Ee https://t.co/5cxn…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LollyStrnks",
+					"name": "Lauren",
+					"id": 132503065,
+					"id_str": "132503065",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eJBLLAg4Ee",
+					"expanded_url": "https://architecture.com/knowledge-and-resources/knowledge-landing-page/women-and-modernism",
+					"display_url": "architecture.com/knowledge-and-…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 291,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 642,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37014,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 23 09:18:24 +0000 2018",
+			"id": 966965454572081200,
+			"id_str": "966965454572081153",
+			"text": "Hello. I've been writing about some of the British female pioneers of Modernism. https://t.co/eJBLLAg4Ee https://t.co/5cxnqJbABi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eJBLLAg4Ee",
+						"expanded_url": "https://architecture.com/knowledge-and-resources/knowledge-landing-page/women-and-modernism",
+						"display_url": "architecture.com/knowledge-and-…",
+						"indices": [
+							81,
+							104
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 966965329204318200,
+						"id_str": "966965329204318208",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/DWtZ1_1XkAAADoj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWtZ1_1XkAAADoj.jpg",
+						"url": "https://t.co/5cxnqJbABi",
+						"display_url": "pic.twitter.com/5cxnqJbABi",
+						"expanded_url": "https://twitter.com/LollyStrnks/status/966965454572081153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1465,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 486,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 858,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 966965329204318200,
+						"id_str": "966965329204318208",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/DWtZ1_1XkAAADoj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWtZ1_1XkAAADoj.jpg",
+						"url": "https://t.co/5cxnqJbABi",
+						"display_url": "pic.twitter.com/5cxnqJbABi",
+						"expanded_url": "https://twitter.com/LollyStrnks/status/966965454572081153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1465,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 486,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 858,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 132503065,
+				"id_str": "132503065",
+				"name": "Lauren",
+				"screen_name": "LollyStrnks",
+				"location": "Leigh-on-Sea ",
+				"description": "Digital stuff for architecture. William Morris fangrrl. Occasionally hilarious, frequently hungry. What's a funny way of saying this is not a work account",
+				"url": "https://t.co/ajREijiDcL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ajREijiDcL",
+								"expanded_url": "https://www.instagram.com/littleleighstitchery",
+								"display_url": "instagram.com/littleleighsti…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2857,
+				"friends_count": 1288,
+				"listed_count": 101,
+				"created_at": "Tue Apr 13 12:14:43 +0000 2010",
+				"favourites_count": 4988,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 121353,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/94550969/william_morris.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/94550969/william_morris.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/872149404400144388/soBK0CXP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/872149404400144388/soBK0CXP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/132503065/1494925642",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 22 22:16:14 +0000 2018",
 		"id": 966798816463769600,
 		"id_str": "966798816463769600",
