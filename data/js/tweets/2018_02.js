@@ -1,6 +1,729 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sat Feb 24 13:34:30 +0000 2018",
+		"id": 967392291194392600,
+		"id_str": "967392291194392577",
+		"text": "RT @RIBA: Wilkinson Eyre and Jonathan Tuckey convert King's Cross gasholders into luxury flats @WilkinsonEyre via @dezeen https://t.co/UDfR…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RIBA",
+					"name": "RIBA",
+					"id": 16010685,
+					"id_str": "16010685",
+					"indices": [
+						3,
+						8
+					]
+				},
+				{
+					"screen_name": "WilkinsonEyre",
+					"name": "WilkinsonEyre",
+					"id": 259316918,
+					"id_str": "259316918",
+					"indices": [
+						95,
+						109
+					]
+				},
+				{
+					"screen_name": "dezeen",
+					"name": "Dezeen",
+					"id": 26012202,
+					"id_str": "26012202",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 291,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 643,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37016,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 24 11:05:10 +0000 2018",
+			"id": 967354713422344200,
+			"id_str": "967354713422344192",
+			"text": "Wilkinson Eyre and Jonathan Tuckey convert King's Cross gasholders into luxury flats @WilkinsonEyre via @dezeen… https://t.co/Ut7u4MSZvJ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WilkinsonEyre",
+						"name": "WilkinsonEyre",
+						"id": 259316918,
+						"id_str": "259316918",
+						"indices": [
+							85,
+							99
+						]
+					},
+					{
+						"screen_name": "dezeen",
+						"name": "Dezeen",
+						"id": 26012202,
+						"id_str": "26012202",
+						"indices": [
+							104,
+							111
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Ut7u4MSZvJ",
+						"expanded_url": "https://twitter.com/i/web/status/967354713422344192",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16010685,
+				"id_str": "16010685",
+				"name": "RIBA",
+				"screen_name": "RIBA",
+				"location": "",
+				"description": "News, updates and insight from the Royal Institute of British Architects (RIBA) 🦁 #RIBAAwards #RIBACollections This account is monitored Mon-Fri 9-5pm (UK time)",
+				"url": "https://t.co/QRLuN1Gaws",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QRLuN1Gaws",
+								"expanded_url": "http://Architecture.com",
+								"display_url": "Architecture.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 152779,
+				"friends_count": 12765,
+				"listed_count": 2005,
+				"created_at": "Wed Aug 27 12:12:17 +0000 2008",
+				"favourites_count": 27370,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 24865,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/532935422653902848/0ts3KQ1c_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/532935422653902848/0ts3KQ1c_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16010685/1516294873",
+				"profile_link_color": "287CB8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Feb 24 13:19:07 +0000 2018",
+		"id": 967388419356811300,
+		"id_str": "967388419356811264",
+		"text": "RT @HeidiStea: Ok..I’m officially freaked out! 😳😱🕷\n\n📹 credit via Newsflare https://t.co/tC07KweDNA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HeidiStea",
+					"name": "Heidi",
+					"id": 1395923928,
+					"id_str": "1395923928",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 966655965310283800,
+					"id_str": "966655965310283777",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/966655965310283777/pu/img/PjqHR6JDeYgUo_Jo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/966655965310283777/pu/img/PjqHR6JDeYgUo_Jo.jpg",
+					"url": "https://t.co/tC07KweDNA",
+					"display_url": "pic.twitter.com/tC07KweDNA",
+					"expanded_url": "https://twitter.com/HeidiStea/status/966656130351943680/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966656130351943700,
+					"source_status_id_str": "966656130351943680",
+					"source_user_id": 1395923928,
+					"source_user_id_str": "1395923928"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 966655965310283800,
+					"id_str": "966655965310283777",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/966655965310283777/pu/img/PjqHR6JDeYgUo_Jo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/966655965310283777/pu/img/PjqHR6JDeYgUo_Jo.jpg",
+					"url": "https://t.co/tC07KweDNA",
+					"display_url": "pic.twitter.com/tC07KweDNA",
+					"expanded_url": "https://twitter.com/HeidiStea/status/966656130351943680/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966656130351943700,
+					"source_status_id_str": "966656130351943680",
+					"source_user_id": 1395923928,
+					"source_user_id_str": "1395923928",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 51795,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/966655965310283777/pu/vid/720x720/dnTGmYL-gkA1Gcyp.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/966655965310283777/pu/vid/480x480/dj1NT3k3A_Bx43ui.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/966655965310283777/pu/pl/8kNNIZholvoUW6Jx.m3u8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/966655965310283777/pu/vid/240x240/wuw7XqyJZJ9LWBxT.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1395923928,
+							"id_str": "1395923928",
+							"name": "Heidi",
+							"screen_name": "HeidiStea",
+							"location": "Canada",
+							"description": "Can't choose a bio..guess why? I'm a Libra! Decisions are not my forté! Love Psychics, Humor, Adore Quotes, Kindness Matters, Peace and Love always...no DM pls",
+							"url": "https://t.co/yJrn9t1e7y",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/yJrn9t1e7y",
+											"expanded_url": "http://Instagram.com/heidistea/",
+											"display_url": "Instagram.com/heidistea/",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 145620,
+							"friends_count": 128295,
+							"listed_count": 1409,
+							"created_at": "Thu May 02 01:04:36 +0000 2013",
+							"favourites_count": 270232,
+							"utc_offset": -18000,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 274124,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/956570751225643009/n-DUfH8E_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/956570751225643009/n-DUfH8E_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1395923928/1510591353",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 291,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 643,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37016,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912772577776586752/yr2C1OzM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1507833474",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 22 12:49:15 +0000 2018",
+			"id": 966656130351943700,
+			"id_str": "966656130351943680",
+			"text": "Ok..I’m officially freaked out! 😳😱🕷\n\n📹 credit via Newsflare https://t.co/tC07KweDNA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 966655965310283800,
+						"id_str": "966655965310283777",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/966655965310283777/pu/img/PjqHR6JDeYgUo_Jo.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/966655965310283777/pu/img/PjqHR6JDeYgUo_Jo.jpg",
+						"url": "https://t.co/tC07KweDNA",
+						"display_url": "pic.twitter.com/tC07KweDNA",
+						"expanded_url": "https://twitter.com/HeidiStea/status/966656130351943680/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 966655965310283800,
+						"id_str": "966655965310283777",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/966655965310283777/pu/img/PjqHR6JDeYgUo_Jo.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/966655965310283777/pu/img/PjqHR6JDeYgUo_Jo.jpg",
+						"url": "https://t.co/tC07KweDNA",
+						"display_url": "pic.twitter.com/tC07KweDNA",
+						"expanded_url": "https://twitter.com/HeidiStea/status/966656130351943680/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 51795,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/966655965310283777/pu/vid/720x720/dnTGmYL-gkA1Gcyp.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/966655965310283777/pu/vid/480x480/dj1NT3k3A_Bx43ui.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/966655965310283777/pu/pl/8kNNIZholvoUW6Jx.m3u8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/966655965310283777/pu/vid/240x240/wuw7XqyJZJ9LWBxT.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1395923928,
+				"id_str": "1395923928",
+				"name": "Heidi",
+				"screen_name": "HeidiStea",
+				"location": "Canada",
+				"description": "Can't choose a bio..guess why? I'm a Libra! Decisions are not my forté! Love Psychics, Humor, Adore Quotes, Kindness Matters, Peace and Love always...no DM pls",
+				"url": "https://t.co/yJrn9t1e7y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yJrn9t1e7y",
+								"expanded_url": "http://Instagram.com/heidistea/",
+								"display_url": "Instagram.com/heidistea/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 145620,
+				"friends_count": 128295,
+				"listed_count": 1409,
+				"created_at": "Thu May 02 01:04:36 +0000 2013",
+				"favourites_count": 270232,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 274124,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/956570751225643009/n-DUfH8E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/956570751225643009/n-DUfH8E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1395923928/1510591353",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 634,
+			"favorite_count": 820,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 634,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 23 22:29:26 +0000 2018",
 		"id": 967164526276890600,
 		"id_str": "967164526276890624",
