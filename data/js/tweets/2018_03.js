@@ -1,6 +1,925 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Fri Mar 09 21:39:34 +0000 2018",
+		"id": 972225404432994300,
+		"id_str": "972225404432994306",
+		"text": "the best thing about 'Call Me by Your Name ' is the attitude of the parents. haven't read the book but the films pa… https://t.co/9zcoixAWNj",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9zcoixAWNj",
+					"expanded_url": "https://twitter.com/i/web/status/972225404432994306",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 293,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 659,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969222309205684225/j1oCLFEM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969222309205684225/j1oCLFEM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 09 15:21:09 +0000 2018",
+		"id": 972130172190253000,
+		"id_str": "972130172190253057",
+		"text": "RT @JohnSimpsonNews: All Kim Jong-un ever wanted was attention - to be one of the big boys.  Pres Trump has given him this, before Kim make…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JohnSimpsonNews",
+					"name": "John Simpson",
+					"id": 4894738653,
+					"id_str": "4894738653",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 293,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 659,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969222309205684225/j1oCLFEM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969222309205684225/j1oCLFEM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 12:33:12 +0000 2018",
+			"id": 972087907174568000,
+			"id_str": "972087907174567937",
+			"text": "All Kim Jong-un ever wanted was attention - to be one of the big boys.  Pres Trump has given him this, before Kim makes a single concession",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4894738653,
+				"id_str": "4894738653",
+				"name": "John Simpson",
+				"screen_name": "JohnSimpsonNews",
+				"location": "Live in UK, travel anywhere",
+				"description": "Journalist & author, 52 years at the BBC. Still trying to make sense of a crazy world. Travel's in the blood. Lots of children & grandchildren, too many books.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47397,
+				"friends_count": 222,
+				"listed_count": 377,
+				"created_at": "Wed Feb 10 12:07:31 +0000 2016",
+				"favourites_count": 1206,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1553,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784806133877837825/NLYuDL3G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784806133877837825/NLYuDL3G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4894738653/1475494708",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 712,
+			"favorite_count": 2170,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 712,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 09 15:01:49 +0000 2018",
+		"id": 972125310014632000,
+		"id_str": "972125310014631936",
+		"text": "current mood... 'God Make Me Phunky (The Loft Mix) - Mattei &amp; Omich feat  Ella' https://t.co/DgPP1mnGCx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DgPP1mnGCx",
+					"expanded_url": "https://youtu.be/-TkPfxux12A",
+					"display_url": "youtu.be/-TkPfxux12A",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 293,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 659,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969222309205684225/j1oCLFEM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969222309205684225/j1oCLFEM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 09 09:24:09 +0000 2018",
+		"id": 972040333314969600,
+		"id_str": "972040333314969600",
+		"text": "RT @NOT_MOTD: \"AND WELBECK IS THROUGH ON GOAL....\" https://t.co/TeuDBUKaGe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NOT_MOTD",
+					"name": "Not Match of the Day",
+					"id": 789162432,
+					"id_str": "789162432",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 968167226435096600,
+					"id_str": "968167226435096576",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/968167226435096576/pu/img/tSTgN2Xr0AvOWPfm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/968167226435096576/pu/img/tSTgN2Xr0AvOWPfm.jpg",
+					"url": "https://t.co/TeuDBUKaGe",
+					"display_url": "pic.twitter.com/TeuDBUKaGe",
+					"expanded_url": "https://twitter.com/teqballfrance/status/968167302347874309/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 968167302347874300,
+					"source_status_id_str": "968167302347874309",
+					"source_user_id": 4623446129,
+					"source_user_id_str": "4623446129"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 968167226435096600,
+					"id_str": "968167226435096576",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/968167226435096576/pu/img/tSTgN2Xr0AvOWPfm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/968167226435096576/pu/img/tSTgN2Xr0AvOWPfm.jpg",
+					"url": "https://t.co/TeuDBUKaGe",
+					"display_url": "pic.twitter.com/TeuDBUKaGe",
+					"expanded_url": "https://twitter.com/teqballfrance/status/968167302347874309/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 968167302347874300,
+					"source_status_id_str": "968167302347874309",
+					"source_user_id": 4623446129,
+					"source_user_id_str": "4623446129",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 7826,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/968167226435096576/pu/vid/480x480/PjVajX3e4MwSgMtV.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/968167226435096576/pu/pl/H2sHjAylSACRdBaR.m3u8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/968167226435096576/pu/vid/240x240/nknROQQHjtu97Ajv.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 4623446129,
+							"id_str": "4623446129",
+							"name": "Teqball France ⚽️",
+							"screen_name": "teqballfrance",
+							"location": "Paris, France",
+							"description": "Compte officiel de Teqball 🇫🇷 / Découvrez le Sport du futur : une table et un ⚽️ / contact : info@teqball.fr",
+							"url": "https://t.co/iWaTK0F49l",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/iWaTK0F49l",
+											"expanded_url": "http://www.teqball.fr",
+											"display_url": "teqball.fr",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2485,
+							"friends_count": 583,
+							"listed_count": 11,
+							"created_at": "Sun Dec 27 16:56:14 +0000 2015",
+							"favourites_count": 1418,
+							"utc_offset": -28800,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 1131,
+							"lang": "fr",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/965001380124680195/Zoz1tdWv_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/965001380124680195/Zoz1tdWv_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/4623446129/1518909243",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 293,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 659,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969222309205684225/j1oCLFEM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969222309205684225/j1oCLFEM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 08 18:44:37 +0000 2018",
+			"id": 971818990648594400,
+			"id_str": "971818990648594433",
+			"text": "\"AND WELBECK IS THROUGH ON GOAL....\" https://t.co/TeuDBUKaGe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 968167226435096600,
+						"id_str": "968167226435096576",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/968167226435096576/pu/img/tSTgN2Xr0AvOWPfm.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/968167226435096576/pu/img/tSTgN2Xr0AvOWPfm.jpg",
+						"url": "https://t.co/TeuDBUKaGe",
+						"display_url": "pic.twitter.com/TeuDBUKaGe",
+						"expanded_url": "https://twitter.com/teqballfrance/status/968167302347874309/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 968167302347874300,
+						"source_status_id_str": "968167302347874309",
+						"source_user_id": 4623446129,
+						"source_user_id_str": "4623446129"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 968167226435096600,
+						"id_str": "968167226435096576",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/968167226435096576/pu/img/tSTgN2Xr0AvOWPfm.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/968167226435096576/pu/img/tSTgN2Xr0AvOWPfm.jpg",
+						"url": "https://t.co/TeuDBUKaGe",
+						"display_url": "pic.twitter.com/TeuDBUKaGe",
+						"expanded_url": "https://twitter.com/teqballfrance/status/968167302347874309/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 968167302347874300,
+						"source_status_id_str": "968167302347874309",
+						"source_user_id": 4623446129,
+						"source_user_id_str": "4623446129",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 7826,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/968167226435096576/pu/vid/480x480/PjVajX3e4MwSgMtV.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/968167226435096576/pu/pl/H2sHjAylSACRdBaR.m3u8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/968167226435096576/pu/vid/240x240/nknROQQHjtu97Ajv.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 4623446129,
+								"id_str": "4623446129",
+								"name": "Teqball France ⚽️",
+								"screen_name": "teqballfrance",
+								"location": "Paris, France",
+								"description": "Compte officiel de Teqball 🇫🇷 / Découvrez le Sport du futur : une table et un ⚽️ / contact : info@teqball.fr",
+								"url": "https://t.co/iWaTK0F49l",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/iWaTK0F49l",
+												"expanded_url": "http://www.teqball.fr",
+												"display_url": "teqball.fr",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 2485,
+								"friends_count": 583,
+								"listed_count": 11,
+								"created_at": "Sun Dec 27 16:56:14 +0000 2015",
+								"favourites_count": 1418,
+								"utc_offset": -28800,
+								"time_zone": "Pacific Time (US & Canada)",
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 1131,
+								"lang": "fr",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/965001380124680195/Zoz1tdWv_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/965001380124680195/Zoz1tdWv_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/4623446129/1518909243",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 789162432,
+				"id_str": "789162432",
+				"name": "Not Match of the Day",
+				"screen_name": "NOT_MOTD",
+				"location": "team@thesocialsup.com",
+				"description": "Not the official Twitter feed for MOTD. Parody. 18+.",
+				"url": "https://t.co/dv7AMti5Ep",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dv7AMti5Ep",
+								"expanded_url": "https://www.instagram.com/greatestsportpictures/",
+								"display_url": "instagram.com/greatestsportp…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 182669,
+				"friends_count": 15248,
+				"listed_count": 815,
+				"created_at": "Wed Aug 29 11:47:01 +0000 2012",
+				"favourites_count": 9,
+				"utc_offset": 0,
+				"time_zone": "Casablanca",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22229,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000147282999/-bblwFRJ.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000147282999/-bblwFRJ.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3278907250/f1af147c2364fc538730d26534dd4462_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3278907250/f1af147c2364fc538730d26534dd4462_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/789162432/1489419738",
+				"profile_link_color": "ED0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1342,
+			"favorite_count": 2588,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1342,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 08 22:15:10 +0000 2018",
 		"id": 971871978591281200,
 		"id_str": "971871978591281153",
@@ -521,7 +1440,7 @@ Grailbird.data.tweets_2018_03 =
 		"created_at": "Thu Mar 08 18:05:10 +0000 2018",
 		"id": 971809064287199200,
 		"id_str": "971809064287199232",
-		"text": "RT @cityrunsLDN: Check out this awesome Fulham 10K route preview created by @FitbitUK​ featuring seasoned marathon runner James Poole.\n\nWit…",
+		"text": "RT @cityrunsLDN: Check out this awesome Fulham 10K route preview created by @FitbitUK featuring seasoned marathon runner James Poole.\n\nWit…",
 		"truncated": false,
 		"entities": {
 			"hashtags": [],
@@ -625,7 +1544,7 @@ Grailbird.data.tweets_2018_03 =
 			"created_at": "Thu Mar 08 18:03:00 +0000 2018",
 			"id": 971808517391822800,
 			"id_str": "971808517391822848",
-			"text": "Check out this awesome Fulham 10K route preview created by @FitbitUK​ featuring seasoned marathon runner James Pool… https://t.co/cnKiu71YWq",
+			"text": "Check out this awesome Fulham 10K route preview created by @FitbitUK featuring seasoned marathon runner James Pool… https://t.co/cnKiu71YWq",
 			"truncated": true,
 			"entities": {
 				"hashtags": [],
