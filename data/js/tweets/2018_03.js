@@ -1,6 +1,752 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sun Mar 18 20:26:51 +0000 2018",
+		"id": 975468595466637300,
+		"id_str": "975468595466637313",
+		"text": "RT @montherrat: im telling yall mexican kids are a different type of breed https://t.co/7I2R0aI3W6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "montherrat",
+					"name": "baby almond",
+					"id": 2213331324,
+					"id_str": "2213331324",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 974849337963368400,
+					"id_str": "974849337963368450",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/974849337963368450/pu/img/MdCGcPSbazEBigjo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/974849337963368450/pu/img/MdCGcPSbazEBigjo.jpg",
+					"url": "https://t.co/7I2R0aI3W6",
+					"display_url": "pic.twitter.com/7I2R0aI3W6",
+					"expanded_url": "https://twitter.com/montherrat/status/974849715043905536/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 974849715043905500,
+					"source_status_id_str": "974849715043905536",
+					"source_user_id": 2213331324,
+					"source_user_id_str": "2213331324"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 974849337963368400,
+					"id_str": "974849337963368450",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/974849337963368450/pu/img/MdCGcPSbazEBigjo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/974849337963368450/pu/img/MdCGcPSbazEBigjo.jpg",
+					"url": "https://t.co/7I2R0aI3W6",
+					"display_url": "pic.twitter.com/7I2R0aI3W6",
+					"expanded_url": "https://twitter.com/montherrat/status/974849715043905536/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 974849715043905500,
+					"source_status_id_str": "974849715043905536",
+					"source_user_id": 2213331324,
+					"source_user_id_str": "2213331324",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 80402,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/974849337963368450/pu/vid/180x320/Dp6WzCAvsI7Jre_I.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/974849337963368450/pu/vid/720x1280/MBAz8hXfg2661krc.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/974849337963368450/pu/vid/360x640/dT37siDw1WMsgs-S.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/974849337963368450/pu/pl/pvdgT-pdbcGU3mlP.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2213331324,
+							"id_str": "2213331324",
+							"name": "baby almond",
+							"screen_name": "montherrat",
+							"location": "San Jose",
+							"description": "what r u going to gain from it",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1535,
+							"friends_count": 394,
+							"listed_count": 96,
+							"created_at": "Mon Nov 25 01:30:45 +0000 2013",
+							"favourites_count": 30184,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 28302,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/965156812071747585/XWZVWhoy_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/965156812071747585/XWZVWhoy_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2213331324/1521303532",
+							"profile_link_color": "F58EA8",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 293,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 665,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37136,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969222309205684225/j1oCLFEM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969222309205684225/j1oCLFEM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 17 03:27:38 +0000 2018",
+			"id": 974849715043905500,
+			"id_str": "974849715043905536",
+			"text": "im telling yall mexican kids are a different type of breed https://t.co/7I2R0aI3W6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 974849337963368400,
+						"id_str": "974849337963368450",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/974849337963368450/pu/img/MdCGcPSbazEBigjo.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/974849337963368450/pu/img/MdCGcPSbazEBigjo.jpg",
+						"url": "https://t.co/7I2R0aI3W6",
+						"display_url": "pic.twitter.com/7I2R0aI3W6",
+						"expanded_url": "https://twitter.com/montherrat/status/974849715043905536/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 974849337963368400,
+						"id_str": "974849337963368450",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/974849337963368450/pu/img/MdCGcPSbazEBigjo.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/974849337963368450/pu/img/MdCGcPSbazEBigjo.jpg",
+						"url": "https://t.co/7I2R0aI3W6",
+						"display_url": "pic.twitter.com/7I2R0aI3W6",
+						"expanded_url": "https://twitter.com/montherrat/status/974849715043905536/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 80402,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/974849337963368450/pu/vid/180x320/Dp6WzCAvsI7Jre_I.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/974849337963368450/pu/vid/720x1280/MBAz8hXfg2661krc.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/974849337963368450/pu/vid/360x640/dT37siDw1WMsgs-S.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/974849337963368450/pu/pl/pvdgT-pdbcGU3mlP.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2213331324,
+				"id_str": "2213331324",
+				"name": "baby almond",
+				"screen_name": "montherrat",
+				"location": "San Jose",
+				"description": "what r u going to gain from it",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1535,
+				"friends_count": 394,
+				"listed_count": 96,
+				"created_at": "Mon Nov 25 01:30:45 +0000 2013",
+				"favourites_count": 30184,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28302,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/965156812071747585/XWZVWhoy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/965156812071747585/XWZVWhoy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2213331324/1521303532",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 299567,
+			"favorite_count": 723390,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 299567,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 18 14:00:43 +0000 2018",
+		"id": 975371421508567000,
+		"id_str": "975371421508567044",
+		"text": "unbelievable https://t.co/Nfi4mNgeWC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nfi4mNgeWC",
+					"expanded_url": "https://twitter.com/edcldn/status/975323765541359616",
+					"display_url": "twitter.com/edcldn/status/…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Mikey",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 293,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 665,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37136,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969222309205684225/j1oCLFEM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969222309205684225/j1oCLFEM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 975323765541359600,
+		"quoted_status_id_str": "975323765541359616",
+		"quoted_status": {
+			"created_at": "Sun Mar 18 10:51:21 +0000 2018",
+			"id": 975323765541359600,
+			"id_str": "975323765541359616",
+			"text": "@cityrunsLDN Literally lethal running conditions in Fulham this morning. #TakeChargeLDN #fulham10k #pathetic. https://t.co/aV2q7mf9lA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TakeChargeLDN",
+						"indices": [
+							73,
+							87
+						]
+					},
+					{
+						"text": "fulham10k",
+						"indices": [
+							88,
+							98
+						]
+					},
+					{
+						"text": "pathetic",
+						"indices": [
+							99,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cityrunsLDN",
+						"name": "adidas City Runs",
+						"id": 860160481025286100,
+						"id_str": "860160481025286144",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 975323744376934400,
+						"id_str": "975323744376934401",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DYkLxyyXUAE1PO0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYkLxyyXUAE1PO0.jpg",
+						"url": "https://t.co/aV2q7mf9lA",
+						"display_url": "pic.twitter.com/aV2q7mf9lA",
+						"expanded_url": "https://twitter.com/edcldn/status/975323765541359616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 975323744376934400,
+						"id_str": "975323744376934401",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DYkLxyyXUAE1PO0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYkLxyyXUAE1PO0.jpg",
+						"url": "https://t.co/aV2q7mf9lA",
+						"display_url": "pic.twitter.com/aV2q7mf9lA",
+						"expanded_url": "https://twitter.com/edcldn/status/975323765541359616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 974369438563754000,
+			"in_reply_to_status_id_str": "974369438563753984",
+			"in_reply_to_user_id": 860160481025286100,
+			"in_reply_to_user_id_str": "860160481025286144",
+			"in_reply_to_screen_name": "cityrunsLDN",
+			"user": {
+				"id": 947101307600597000,
+				"id_str": "947101307600596992",
+				"name": "edcldn",
+				"screen_name": "edcldn",
+				"location": "London, England",
+				"description": "30-something. Metro-South. Falafel'r extraordinaire. Instagram: edcldn",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17,
+				"friends_count": 68,
+				"listed_count": 0,
+				"created_at": "Sat Dec 30 13:45:22 +0000 2017",
+				"favourites_count": 137,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 383,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/947116659348828160/xHmtgW3k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947116659348828160/xHmtgW3k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/947101307600596992/1515447197",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 17 13:46:43 +0000 2018",
 		"id": 975005513602818000,
 		"id_str": "975005513602818049",
