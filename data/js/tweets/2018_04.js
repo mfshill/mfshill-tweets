@@ -1,6 +1,1268 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 07 23:45:58 +0000 2018",
+		"id": 982766463923585000,
+		"id_str": "982766463923585025",
+		"text": "both the Guy Ritchie Sherlock films really are most enjoyable. script, acting, cinematography are all spot on,",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 293,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 670,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 07 14:56:33 +0000 2018",
+		"id": 982633232708571100,
+		"id_str": "982633232708571136",
+		"text": "qualy time! #F1 #BahrainGP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "F1",
+					"indices": [
+						12,
+						15
+					]
+				},
+				{
+					"text": "BahrainGP",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 293,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 670,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 07 12:56:06 +0000 2018",
+		"id": 982602919311822800,
+		"id_str": "982602919311822849",
+		"text": "RT @lakeslandlord: If you had one job ... and this time accidentally got it right !! https://t.co/50akLXvdzz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lakeslandlord",
+					"name": "Lakeslandlord",
+					"id": 376718308,
+					"id_str": "376718308",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 982590185958502400,
+					"id_str": "982590185958502401",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DaLckXHXcAExgrI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaLckXHXcAExgrI.jpg",
+					"url": "https://t.co/50akLXvdzz",
+					"display_url": "pic.twitter.com/50akLXvdzz",
+					"expanded_url": "https://twitter.com/lakeslandlord/status/982590193407610880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1067,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982590193407610900,
+					"source_status_id_str": "982590193407610880",
+					"source_user_id": 376718308,
+					"source_user_id_str": "376718308"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 982590185958502400,
+					"id_str": "982590185958502401",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DaLckXHXcAExgrI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaLckXHXcAExgrI.jpg",
+					"url": "https://t.co/50akLXvdzz",
+					"display_url": "pic.twitter.com/50akLXvdzz",
+					"expanded_url": "https://twitter.com/lakeslandlord/status/982590193407610880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1067,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982590193407610900,
+					"source_status_id_str": "982590193407610880",
+					"source_user_id": 376718308,
+					"source_user_id_str": "376718308"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 293,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 670,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 07 12:05:32 +0000 2018",
+			"id": 982590193407610900,
+			"id_str": "982590193407610880",
+			"text": "If you had one job ... and this time accidentally got it right !! https://t.co/50akLXvdzz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 982590185958502400,
+						"id_str": "982590185958502401",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/DaLckXHXcAExgrI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaLckXHXcAExgrI.jpg",
+						"url": "https://t.co/50akLXvdzz",
+						"display_url": "pic.twitter.com/50akLXvdzz",
+						"expanded_url": "https://twitter.com/lakeslandlord/status/982590193407610880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1067,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 645,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 982590185958502400,
+						"id_str": "982590185958502401",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/DaLckXHXcAExgrI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaLckXHXcAExgrI.jpg",
+						"url": "https://t.co/50akLXvdzz",
+						"display_url": "pic.twitter.com/50akLXvdzz",
+						"expanded_url": "https://twitter.com/lakeslandlord/status/982590193407610880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1067,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 645,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 376718308,
+				"id_str": "376718308",
+				"name": "Lakeslandlord",
+				"screen_name": "lakeslandlord",
+				"location": "The Heart of the English Lakes",
+				"description": "Keswick lad born and bred. Living in eternally Sunny Borrowdale , the heart of the universe, enjoying the scenery among other things !!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4082,
+				"friends_count": 1837,
+				"listed_count": 68,
+				"created_at": "Tue Sep 20 11:32:07 +0000 2011",
+				"favourites_count": 5570,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 65248,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/423821314/phone_130.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/423821314/phone_130.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948526908546961413/6vRxsMz8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948526908546961413/6vRxsMz8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/376718308/1514981481",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0cbfb5dccb8131b8",
+				"url": "https://api.twitter.com/1.1/geo/id/0cbfb5dccb8131b8.json",
+				"place_type": "admin",
+				"name": "North West",
+				"full_name": "North West, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-3.64063699761414,
+								52.9471313094526
+							],
+							[
+								-1.90962598338825,
+								52.9471313094526
+							],
+							[
+								-1.90962598338825,
+								55.1888787527094
+							],
+							[
+								-3.64063699761414,
+								55.1888787527094
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 07 12:38:46 +0000 2018",
+		"id": 982598558900727800,
+		"id_str": "982598558900727808",
+		"text": "isn't it a conservation area? how did the planners allow it...? https://t.co/sADHVYLZHX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sADHVYLZHX",
+					"expanded_url": "https://twitter.com/Davidntaylor/status/982567470505627653",
+					"display_url": "twitter.com/Davidntaylor/s…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 293,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 670,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 982567470505627600,
+		"quoted_status_id_str": "982567470505627653",
+		"quoted_status": {
+			"created_at": "Sat Apr 07 10:35:14 +0000 2018",
+			"id": 982567470505627600,
+			"id_str": "982567470505627653",
+			"text": "Bravo to Brighton council for thinking that replacing some of the old street lights along the seafront with this re… https://t.co/2h5hlcFplD",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2h5hlcFplD",
+						"expanded_url": "https://twitter.com/i/web/status/982567470505627653",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24871368,
+				"id_str": "24871368",
+				"name": "David Taylor",
+				"screen_name": "Davidntaylor",
+				"location": "Kemptown. Which is in Brighton",
+				"description": "I write things. Editor of New London Quarterly & of @velo_citymag #cycling. #nlalondon events writer-upper. Author. Freelancer. Husband, father, sports nut.",
+				"url": "https://t.co/cQabCN2oBS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cQabCN2oBS",
+								"expanded_url": "http://www.davidtaylorjournalist.com",
+								"display_url": "davidtaylorjournalist.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3054,
+				"friends_count": 2000,
+				"listed_count": 90,
+				"created_at": "Tue Mar 17 12:01:35 +0000 2009",
+				"favourites_count": 1665,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12424,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/154969468/IMG00320-20100917-1317.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/154969468/IMG00320-20100917-1317.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/956835745729339392/JIf41yZW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/956835745729339392/JIf41yZW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24871368/1375380137",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 07 11:30:21 +0000 2018",
+		"id": 982581341341519900,
+		"id_str": "982581341341519873",
+		"text": "RT @MeredithFrost: So cool: Unearthed footage of Sylvester Stallone/Carl Weathers Choreography for Rocky in 1976 https://t.co/depECkYTak",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MeredithFrost",
+					"name": "Meredith Frost",
+					"id": 26659703,
+					"id_str": "26659703",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 982480105023967200,
+					"id_str": "982480105023967234",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/DaJ7sn7X0AA3x7E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaJ7sn7X0AA3x7E.jpg",
+					"url": "https://t.co/depECkYTak",
+					"display_url": "pic.twitter.com/depECkYTak",
+					"expanded_url": "https://twitter.com/MeredithFrost/status/982484615972737025/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 635,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 635,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982484615972737000,
+					"source_status_id_str": "982484615972737025",
+					"source_user_id": 26659703,
+					"source_user_id_str": "26659703"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 982480105023967200,
+					"id_str": "982480105023967234",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/DaJ7sn7X0AA3x7E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaJ7sn7X0AA3x7E.jpg",
+					"url": "https://t.co/depECkYTak",
+					"display_url": "pic.twitter.com/depECkYTak",
+					"expanded_url": "https://twitter.com/MeredithFrost/status/982484615972737025/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 635,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 635,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982484615972737000,
+					"source_status_id_str": "982484615972737025",
+					"source_user_id": 26659703,
+					"source_user_id_str": "26659703",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 223223,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/982480105023967234/vid/640x360/UFQ6zDQgQl-BAPHA.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/982480105023967234/pl/yL8Psk98qBqZfcLX.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/982480105023967234/vid/320x180/h-qfHu-aa1qG4GIm.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/982480105023967234/vid/1280x720/5g3TqhDQnUU6zKxB.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 26659703,
+							"id_str": "26659703",
+							"name": "Meredith Frost",
+							"screen_name": "MeredithFrost",
+							"location": "New York, NY",
+							"description": "ABC News Producer. Photographer. My favorite superhero is Lois Lane.",
+							"url": "https://t.co/auY794eySG",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/auY794eySG",
+											"expanded_url": "http://www.mfrostyphotography.com",
+											"display_url": "mfrostyphotography.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 124699,
+							"friends_count": 230,
+							"listed_count": 1475,
+							"created_at": "Thu Mar 26 01:55:43 +0000 2009",
+							"favourites_count": 60352,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 18577,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "5B5D63",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/20269059/darwin_love222.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/20269059/darwin_love222.jpg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/963662851956191232/5tqo4i7l_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/963662851956191232/5tqo4i7l_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/26659703/1489514262",
+							"profile_link_color": "C90606",
+							"profile_sidebar_border_color": "09383B",
+							"profile_sidebar_fill_color": "777E85",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 293,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 670,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 07 05:06:00 +0000 2018",
+			"id": 982484615972737000,
+			"id_str": "982484615972737025",
+			"text": "So cool: Unearthed footage of Sylvester Stallone/Carl Weathers Choreography for Rocky in 1976 https://t.co/depECkYTak",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 982480105023967200,
+						"id_str": "982480105023967234",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DaJ7sn7X0AA3x7E.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaJ7sn7X0AA3x7E.jpg",
+						"url": "https://t.co/depECkYTak",
+						"display_url": "pic.twitter.com/depECkYTak",
+						"expanded_url": "https://twitter.com/MeredithFrost/status/982484615972737025/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 635,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 635,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 982480105023967200,
+						"id_str": "982480105023967234",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DaJ7sn7X0AA3x7E.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaJ7sn7X0AA3x7E.jpg",
+						"url": "https://t.co/depECkYTak",
+						"display_url": "pic.twitter.com/depECkYTak",
+						"expanded_url": "https://twitter.com/MeredithFrost/status/982484615972737025/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 635,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 635,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 223223,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/982480105023967234/vid/640x360/UFQ6zDQgQl-BAPHA.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/982480105023967234/pl/yL8Psk98qBqZfcLX.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/982480105023967234/vid/320x180/h-qfHu-aa1qG4GIm.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/982480105023967234/vid/1280x720/5g3TqhDQnUU6zKxB.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26659703,
+				"id_str": "26659703",
+				"name": "Meredith Frost",
+				"screen_name": "MeredithFrost",
+				"location": "New York, NY",
+				"description": "ABC News Producer. Photographer. My favorite superhero is Lois Lane.",
+				"url": "https://t.co/auY794eySG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/auY794eySG",
+								"expanded_url": "http://www.mfrostyphotography.com",
+								"display_url": "mfrostyphotography.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 124699,
+				"friends_count": 230,
+				"listed_count": 1475,
+				"created_at": "Thu Mar 26 01:55:43 +0000 2009",
+				"favourites_count": 60352,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18577,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5B5D63",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/20269059/darwin_love222.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/20269059/darwin_love222.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963662851956191232/5tqo4i7l_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963662851956191232/5tqo4i7l_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26659703/1489514262",
+				"profile_link_color": "C90606",
+				"profile_sidebar_border_color": "09383B",
+				"profile_sidebar_fill_color": "777E85",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28881,
+			"favorite_count": 73888,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 28881,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Apr 06 22:18:05 +0000 2018",
 		"id": 982381959992283100,
 		"id_str": "982381959992283136",
