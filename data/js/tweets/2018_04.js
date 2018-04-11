@@ -1,6 +1,935 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 10 21:53:56 +0000 2018",
+		"id": 983825432209485800,
+		"id_str": "983825432209485824",
+		"text": "RT @Channel4: Pied-off with Pogba or venting at Wenger? It's time to hear from the REAL fans.\n\n@ArsenalFanTV's @MLRobbie hosts The Real Foo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Channel4",
+					"name": "Channel 4",
+					"id": 183585551,
+					"id_str": "183585551",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "ArsenalFanTV",
+					"name": "ArsenalFanTV",
+					"id": 898640923,
+					"id_str": "898640923",
+					"indices": [
+						95,
+						108
+					]
+				},
+				{
+					"screen_name": "MLRobbie",
+					"name": "Man Like Robbie",
+					"id": 721651486598500400,
+					"id_str": "721651486598500352",
+					"indices": [
+						111,
+						120
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 293,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 671,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37216,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 09 13:53:35 +0000 2018",
+			"id": 983342161314897900,
+			"id_str": "983342161314897920",
+			"text": "Pied-off with Pogba or venting at Wenger? It's time to hear from the REAL fans.\n\n@ArsenalFanTV's @MLRobbie hosts Th… https://t.co/VsfpoJQebH",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ArsenalFanTV",
+						"name": "ArsenalFanTV",
+						"id": 898640923,
+						"id_str": "898640923",
+						"indices": [
+							81,
+							94
+						]
+					},
+					{
+						"screen_name": "MLRobbie",
+						"name": "Man Like Robbie",
+						"id": 721651486598500400,
+						"id_str": "721651486598500352",
+						"indices": [
+							97,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VsfpoJQebH",
+						"expanded_url": "https://twitter.com/i/web/status/983342161314897920",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 183585551,
+				"id_str": "183585551",
+				"name": "Channel 4",
+				"screen_name": "Channel4",
+				"location": "United Kingdom",
+				"description": "UK broadcaster since 1982. Publicly owned, funded by adverts. Champions unheard voices, takes bold creative risks, inspires change and stands up for diversity.",
+				"url": "https://t.co/DNjFRv6zDO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DNjFRv6zDO",
+								"expanded_url": "http://www.channel4.com",
+								"display_url": "channel4.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 934603,
+				"friends_count": 8960,
+				"listed_count": 2090,
+				"created_at": "Fri Aug 27 11:07:07 +0000 2010",
+				"favourites_count": 5011,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 44073,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/455750743044026368/w23HlRJm.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/455750743044026368/w23HlRJm.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885464238554308614/UXIoKfRB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885464238554308614/UXIoKfRB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183585551/1523375032",
+				"profile_link_color": "0A0A0A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7E99C2",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1074,
+			"favorite_count": 3093,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1074,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 10 21:25:06 +0000 2018",
+		"id": 983818175769964500,
+		"id_str": "983818175769964544",
+		"text": "RT @washingtonian: Mark Zuckerberg’s chair on Capitol Hill has a nice big extra cushion. https://t.co/cIBN2YmSYv https://t.co/vAPqo9yNBw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "washingtonian",
+					"name": "Washingtonian",
+					"id": 14238142,
+					"id_str": "14238142",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cIBN2YmSYv",
+					"expanded_url": "http://bit.ly/2GNc4Pk",
+					"display_url": "bit.ly/2GNc4Pk",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 983751393205878800,
+					"id_str": "983751393205878784",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Dab8rhNVAAAIF1q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dab8rhNVAAAIF1q.jpg",
+					"url": "https://t.co/vAPqo9yNBw",
+					"display_url": "pic.twitter.com/vAPqo9yNBw",
+					"expanded_url": "https://twitter.com/washingtonian/status/983751441788653568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 983751441788653600,
+					"source_status_id_str": "983751441788653568",
+					"source_user_id": 14238142,
+					"source_user_id_str": "14238142"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 983751393205878800,
+					"id_str": "983751393205878784",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Dab8rhNVAAAIF1q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dab8rhNVAAAIF1q.jpg",
+					"url": "https://t.co/vAPqo9yNBw",
+					"display_url": "pic.twitter.com/vAPqo9yNBw",
+					"expanded_url": "https://twitter.com/washingtonian/status/983751441788653568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 983751441788653600,
+					"source_status_id_str": "983751441788653568",
+					"source_user_id": 14238142,
+					"source_user_id_str": "14238142"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 293,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 671,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37216,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 10 16:59:55 +0000 2018",
+			"id": 983751441788653600,
+			"id_str": "983751441788653568",
+			"text": "Mark Zuckerberg’s chair on Capitol Hill has a nice big extra cushion. https://t.co/cIBN2YmSYv https://t.co/vAPqo9yNBw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cIBN2YmSYv",
+						"expanded_url": "http://bit.ly/2GNc4Pk",
+						"display_url": "bit.ly/2GNc4Pk",
+						"indices": [
+							70,
+							93
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 983751393205878800,
+						"id_str": "983751393205878784",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/Dab8rhNVAAAIF1q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dab8rhNVAAAIF1q.jpg",
+						"url": "https://t.co/vAPqo9yNBw",
+						"display_url": "pic.twitter.com/vAPqo9yNBw",
+						"expanded_url": "https://twitter.com/washingtonian/status/983751441788653568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 983751393205878800,
+						"id_str": "983751393205878784",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/Dab8rhNVAAAIF1q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dab8rhNVAAAIF1q.jpg",
+						"url": "https://t.co/vAPqo9yNBw",
+						"display_url": "pic.twitter.com/vAPqo9yNBw",
+						"expanded_url": "https://twitter.com/washingtonian/status/983751441788653568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14238142,
+				"id_str": "14238142",
+				"name": "Washingtonian",
+				"screen_name": "washingtonian",
+				"location": "Washington, DC",
+				"description": "The Twitter account Washington lives by. Subscribe here! https://t.co/rUNrp957Tw",
+				"url": "https://t.co/6tiQX3aWnW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6tiQX3aWnW",
+								"expanded_url": "http://www.washingtonian.com",
+								"display_url": "washingtonian.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rUNrp957Tw",
+								"expanded_url": "http://subscribe.washingtonian.com",
+								"display_url": "subscribe.washingtonian.com",
+								"indices": [
+									57,
+									80
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 284822,
+				"friends_count": 856,
+				"listed_count": 3944,
+				"created_at": "Thu Mar 27 19:50:07 +0000 2008",
+				"favourites_count": 701,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 47015,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/329382220/twitter_bg_09132011.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/329382220/twitter_bg_09132011.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839863022772432898/NFVQRjxO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839863022772432898/NFVQRjxO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14238142/1488984197",
+				"profile_link_color": "00A0E9",
+				"profile_sidebar_border_color": "A3A3A3",
+				"profile_sidebar_fill_color": "D8D8D8",
+				"profile_text_color": "222222",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 55,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 10 19:57:46 +0000 2018",
+		"id": 983796197747056600,
+		"id_str": "983796197747056641",
+		"text": "think it may all be over... 1-1 #MCFCvLFC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCFCvLFC",
+					"indices": [
+						32,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 293,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 671,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37216,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 10 16:53:11 +0000 2018",
+		"id": 983749744903315500,
+		"id_str": "983749744903315456",
+		"text": "“Beyond the very extreme of fatigue and distress, we may find amounts of ease and power we never dreamed ourselves… https://t.co/RHiLS7XmVD",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RHiLS7XmVD",
+					"expanded_url": "https://twitter.com/i/web/status/983749744903315456",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 293,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 671,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37216,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 10 06:16:21 +0000 2018",
+		"id": 983589483210829800,
+		"id_str": "983589483210829825",
+		"text": "@M0by_Duck a modern day Jaws 🦈",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "M0by_Duck",
+					"name": "Tomas 'the sandwich enjoyer' Shore",
+					"id": 22948138,
+					"id_str": "22948138",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon Android</a>",
+		"in_reply_to_status_id": 983588744245719000,
+		"in_reply_to_status_id_str": "983588744245719040",
+		"in_reply_to_user_id": 22948138,
+		"in_reply_to_user_id_str": "22948138",
+		"in_reply_to_screen_name": "M0by_Duck",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 293,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 671,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37216,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 09 10:35:08 +0000 2018",
 		"id": 983292219489685500,
 		"id_str": "983292219489685504",
