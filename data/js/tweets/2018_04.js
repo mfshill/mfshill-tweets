@@ -1,6 +1,505 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Fri Apr 13 18:48:21 +0000 2018",
+		"id": 984865894278074400,
+		"id_str": "984865894278074368",
+		"text": "@Jazz_Pirate i really enjoyed it...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jazz_Pirate",
+					"name": "Steven Universally Challenged",
+					"id": 153810457,
+					"id_str": "153810457",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 984865250142048300,
+		"in_reply_to_status_id_str": "984865250142048256",
+		"in_reply_to_user_id": 153810457,
+		"in_reply_to_user_id_str": "153810457",
+		"in_reply_to_screen_name": "Jazz_Pirate",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 293,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 671,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 13 16:45:41 +0000 2018",
+		"id": 984835024078954500,
+		"id_str": "984835024078954496",
+		"text": "RT @CrapOnLinkedIn: First issue of @LinkedIn Enthusiast out this week! ;) \nCREDIT: @GuitaristDom https://t.co/uMLonN2n6P",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CrapOnLinkedIn",
+					"name": "Crap On LinkedIn",
+					"id": 790829589400518700,
+					"id_str": "790829589400518657",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "LinkedIn",
+					"name": "LinkedIn",
+					"id": 13058772,
+					"id_str": "13058772",
+					"indices": [
+						35,
+						44
+					]
+				},
+				{
+					"screen_name": "GuitaristDom",
+					"name": "Dom Graham",
+					"id": 29448840,
+					"id_str": "29448840",
+					"indices": [
+						83,
+						96
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 808982838330687500,
+					"id_str": "808982838330687488",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/CzoVmvQWgAAzhIx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CzoVmvQWgAAzhIx.jpg",
+					"url": "https://t.co/uMLonN2n6P",
+					"display_url": "pic.twitter.com/uMLonN2n6P",
+					"expanded_url": "https://twitter.com/CrapOnLinkedIn/status/808983263335292928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 877,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 877,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 808983263335292900,
+					"source_status_id_str": "808983263335292928",
+					"source_user_id": 790829589400518700,
+					"source_user_id_str": "790829589400518657"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 808982838330687500,
+					"id_str": "808982838330687488",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/CzoVmvQWgAAzhIx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CzoVmvQWgAAzhIx.jpg",
+					"url": "https://t.co/uMLonN2n6P",
+					"display_url": "pic.twitter.com/uMLonN2n6P",
+					"expanded_url": "https://twitter.com/CrapOnLinkedIn/status/808983263335292928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 877,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 877,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 808983263335292900,
+					"source_status_id_str": "808983263335292928",
+					"source_user_id": 790829589400518700,
+					"source_user_id_str": "790829589400518657"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 293,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 671,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 14 10:33:34 +0000 2016",
+			"id": 808983263335292900,
+			"id_str": "808983263335292928",
+			"text": "First issue of @LinkedIn Enthusiast out this week! ;) \nCREDIT: @GuitaristDom https://t.co/uMLonN2n6P",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LinkedIn",
+						"name": "LinkedIn",
+						"id": 13058772,
+						"id_str": "13058772",
+						"indices": [
+							15,
+							24
+						]
+					},
+					{
+						"screen_name": "GuitaristDom",
+						"name": "Dom Graham",
+						"id": 29448840,
+						"id_str": "29448840",
+						"indices": [
+							63,
+							76
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 808982838330687500,
+						"id_str": "808982838330687488",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/CzoVmvQWgAAzhIx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzoVmvQWgAAzhIx.jpg",
+						"url": "https://t.co/uMLonN2n6P",
+						"display_url": "pic.twitter.com/uMLonN2n6P",
+						"expanded_url": "https://twitter.com/CrapOnLinkedIn/status/808983263335292928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 877,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 877,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 808982838330687500,
+						"id_str": "808982838330687488",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/CzoVmvQWgAAzhIx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzoVmvQWgAAzhIx.jpg",
+						"url": "https://t.co/uMLonN2n6P",
+						"display_url": "pic.twitter.com/uMLonN2n6P",
+						"expanded_url": "https://twitter.com/CrapOnLinkedIn/status/808983263335292928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 877,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 877,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 790829589400518700,
+				"id_str": "790829589400518657",
+				"name": "Crap On LinkedIn",
+				"screen_name": "CrapOnLinkedIn",
+				"location": "London, England",
+				"description": "A celebration of the narcissism and broetry within our beloved professional network",
+				"url": "https://t.co/3gG68vpoI5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3gG68vpoI5",
+								"expanded_url": "http://www.linkedin.com",
+								"display_url": "linkedin.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1914,
+				"friends_count": 1,
+				"listed_count": 22,
+				"created_at": "Tue Oct 25 08:17:21 +0000 2016",
+				"favourites_count": 456,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 666,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/941712231527575552/v3iHI8Wm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/941712231527575552/v3iHI8Wm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/790829589400518657/1513356560",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Apr 13 00:30:11 +0000 2018",
 		"id": 984589530199097300,
 		"id_str": "984589530199097344",
