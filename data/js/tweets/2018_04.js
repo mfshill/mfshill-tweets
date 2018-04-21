@@ -1,6 +1,1963 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Fri Apr 20 14:31:29 +0000 2018",
+		"id": 987337964853317600,
+		"id_str": "987337964853317637",
+		"text": "RT @OptaJoe: 86 - Arsene Wenger has won the most Champions League matches (86 - excluding qualifiers) without having ever won the competiti…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OptaJoe",
+					"name": "OptaJoe",
+					"id": 44606764,
+					"id_str": "44606764",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 270,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 674,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37254,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 20 09:42:19 +0000 2018",
+			"id": 987265192772988900,
+			"id_str": "987265192772988929",
+			"text": "86 - Arsene Wenger has won the most Champions League matches (86 - excluding qualifiers) without having ever won th… https://t.co/9hxM9QMQ14",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9hxM9QMQ14",
+						"expanded_url": "https://twitter.com/i/web/status/987265192772988929",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44606764,
+				"id_str": "44606764",
+				"name": "OptaJoe",
+				"screen_name": "OptaJoe",
+				"location": "London",
+				"description": "1 - The official Twitter page for Opta Sports' football coverage. Illuminating.  \nNEW book: Outside The Box, out NOW",
+				"url": "https://t.co/TCIk3YLOS0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TCIk3YLOS0",
+								"expanded_url": "http://bit.ly/OptaBook1",
+								"display_url": "bit.ly/OptaBook1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1083207,
+				"friends_count": 23,
+				"listed_count": 9712,
+				"created_at": "Thu Jun 04 12:43:23 +0000 2009",
+				"favourites_count": 32,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 42813,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00AEFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441253544063016961/ll2RcKca.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441253544063016961/ll2RcKca.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/965962029130506240/xWQvGjVW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/965962029130506240/xWQvGjVW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44606764/1519138859",
+				"profile_link_color": "00AEFF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EBEBEB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1181,
+			"favorite_count": 611,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1181,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 20 14:31:12 +0000 2018",
+		"id": 987337895785660400,
+		"id_str": "987337895785660416",
+		"text": "RT @OptaJoe: 124 - Arsene Wenger has faced 124 different opponents as manager of Arsenal, but has only failed to beat 5 of those teams: \n\nF…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OptaJoe",
+					"name": "OptaJoe",
+					"id": 44606764,
+					"id_str": "44606764",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 270,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 674,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37254,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 20 09:47:40 +0000 2018",
+			"id": 987266541761761300,
+			"id_str": "987266541761761282",
+			"text": "124 - Arsene Wenger has faced 124 different opponents as manager of Arsenal, but has only failed to beat 5 of those… https://t.co/d9eV2k0x4s",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/d9eV2k0x4s",
+						"expanded_url": "https://twitter.com/i/web/status/987266541761761282",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44606764,
+				"id_str": "44606764",
+				"name": "OptaJoe",
+				"screen_name": "OptaJoe",
+				"location": "London",
+				"description": "1 - The official Twitter page for Opta Sports' football coverage. Illuminating.  \nNEW book: Outside The Box, out NOW",
+				"url": "https://t.co/TCIk3YLOS0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TCIk3YLOS0",
+								"expanded_url": "http://bit.ly/OptaBook1",
+								"display_url": "bit.ly/OptaBook1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1083207,
+				"friends_count": 23,
+				"listed_count": 9712,
+				"created_at": "Thu Jun 04 12:43:23 +0000 2009",
+				"favourites_count": 32,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 42813,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00AEFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441253544063016961/ll2RcKca.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441253544063016961/ll2RcKca.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/965962029130506240/xWQvGjVW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/965962029130506240/xWQvGjVW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44606764/1519138859",
+				"profile_link_color": "00AEFF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EBEBEB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1663,
+			"favorite_count": 2065,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1663,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 20 14:30:58 +0000 2018",
+		"id": 987337833978490900,
+		"id_str": "987337833978490880",
+		"text": "RT @Squawka: Arsene Wenger has won the FA Cup more times (7) than any other manager in history.\n\n1998 🏆\n2002 🏆\n2003 🏆\n2005 🏆\n2014 🏆\n2015 🏆…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Squawka",
+					"name": "Squawka Football",
+					"id": 385473825,
+					"id_str": "385473825",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 270,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 674,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37254,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 20 09:01:36 +0000 2018",
+			"id": 987254946981703700,
+			"id_str": "987254946981703681",
+			"text": "Arsene Wenger has won the FA Cup more times (7) than any other manager in history.\n\n1998 🏆\n2002 🏆\n2003 🏆\n2005 🏆\n201… https://t.co/pGwoLAst3f",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pGwoLAst3f",
+						"expanded_url": "https://twitter.com/i/web/status/987254946981703681",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 385473825,
+				"id_str": "385473825",
+				"name": "Squawka Football",
+				"screen_name": "Squawka",
+				"location": "",
+				"description": "Use #AskSquawka. Football stats, graphics and analysis on the world's major leagues using Opta data. Follow @SquawkaNews for all the football news.",
+				"url": "https://t.co/Sad6f7T4OC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Sad6f7T4OC",
+								"expanded_url": "http://squawka.com",
+								"display_url": "squawka.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 872393,
+				"friends_count": 498,
+				"listed_count": 6281,
+				"created_at": "Wed Oct 05 15:25:19 +0000 2011",
+				"favourites_count": 174,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 150916,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000163570308/7FYUEzVk.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000163570308/7FYUEzVk.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/803035518078427136/laCadHI9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/803035518078427136/laCadHI9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/385473825/1502729502",
+				"profile_link_color": "ED3F31",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 683,
+			"favorite_count": 939,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 683,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 20 14:30:29 +0000 2018",
+		"id": 987337715241947100,
+		"id_str": "987337715241947137",
+		"text": "RT @brfootball: A Premier League legend 🙌 https://t.co/3ynLbhuY1q",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brfootball",
+					"name": "B/R Football",
+					"id": 1561123663,
+					"id_str": "1561123663",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 987255129182220300,
+					"id_str": "987255129182220288",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DbNvTy2WsAAUJt8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbNvTy2WsAAUJt8.jpg",
+					"url": "https://t.co/3ynLbhuY1q",
+					"display_url": "pic.twitter.com/3ynLbhuY1q",
+					"expanded_url": "https://twitter.com/brfootball/status/987255255619526656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 987255255619526700,
+					"source_status_id_str": "987255255619526656",
+					"source_user_id": 1561123663,
+					"source_user_id_str": "1561123663"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 987255129182220300,
+					"id_str": "987255129182220288",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DbNvTy2WsAAUJt8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbNvTy2WsAAUJt8.jpg",
+					"url": "https://t.co/3ynLbhuY1q",
+					"display_url": "pic.twitter.com/3ynLbhuY1q",
+					"expanded_url": "https://twitter.com/brfootball/status/987255255619526656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 987255255619526700,
+					"source_status_id_str": "987255255619526656",
+					"source_user_id": 1561123663,
+					"source_user_id_str": "1561123663"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 270,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 674,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37254,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 20 09:02:49 +0000 2018",
+			"id": 987255255619526700,
+			"id_str": "987255255619526656",
+			"text": "A Premier League legend 🙌 https://t.co/3ynLbhuY1q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 987255129182220300,
+						"id_str": "987255129182220288",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DbNvTy2WsAAUJt8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbNvTy2WsAAUJt8.jpg",
+						"url": "https://t.co/3ynLbhuY1q",
+						"display_url": "pic.twitter.com/3ynLbhuY1q",
+						"expanded_url": "https://twitter.com/brfootball/status/987255255619526656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 987255129182220300,
+						"id_str": "987255129182220288",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DbNvTy2WsAAUJt8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbNvTy2WsAAUJt8.jpg",
+						"url": "https://t.co/3ynLbhuY1q",
+						"display_url": "pic.twitter.com/3ynLbhuY1q",
+						"expanded_url": "https://twitter.com/brfootball/status/987255255619526656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1561123663,
+				"id_str": "1561123663",
+				"name": "B/R Football",
+				"screen_name": "brfootball",
+				"location": "",
+				"description": "Get the Free B/R App - https://t.co/CFXD5md1KQ",
+				"url": "https://t.co/WIO8aAh4sv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WIO8aAh4sv",
+								"expanded_url": "https://snapchat.com/add/bleacherreport",
+								"display_url": "snapchat.com/add/bleacherre…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/CFXD5md1KQ",
+								"expanded_url": "https://br.app.link/get-the-BR-app",
+								"display_url": "br.app.link/get-the-BR-app",
+								"indices": [
+									23,
+									46
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 575988,
+				"friends_count": 1195,
+				"listed_count": 4171,
+				"created_at": "Mon Jul 01 17:51:17 +0000 2013",
+				"favourites_count": 671,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 74749,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/628164700036050944/xUexB3Jq.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/628164700036050944/xUexB3Jq.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/854433469216296962/iLsIgs88_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/854433469216296962/iLsIgs88_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1561123663/1523215777",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1848,
+			"favorite_count": 3422,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1848,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 20 13:20:54 +0000 2018",
+		"id": 987320202949005300,
+		"id_str": "987320202949005312",
+		"text": "\"My Computer Just Became Self Aware\" https://t.co/xaiuLiYKMd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xaiuLiYKMd",
+					"expanded_url": "https://youtu.be/sPzJjNQaYEA",
+					"display_url": "youtu.be/sPzJjNQaYEA",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 270,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 674,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37254,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 20 13:14:29 +0000 2018",
+		"id": 987318585944133600,
+		"id_str": "987318585944133632",
+		"text": "RT @paddypower: Arsenal are now finalising plans for an Arsene Wenger statue outside the Emirates... https://t.co/6iqeKObLHg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paddypower",
+					"name": "Paddy Power",
+					"id": 14387275,
+					"id_str": "14387275",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 987304030861971500,
+					"id_str": "987304030861971457",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DbObyPzW0AECxRn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbObyPzW0AECxRn.jpg",
+					"url": "https://t.co/6iqeKObLHg",
+					"display_url": "pic.twitter.com/6iqeKObLHg",
+					"expanded_url": "https://twitter.com/paddypower/status/987304069659267072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 985,
+							"h": 965,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 985,
+							"h": 965,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 987304069659267100,
+					"source_status_id_str": "987304069659267072",
+					"source_user_id": 14387275,
+					"source_user_id_str": "14387275"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 987304030861971500,
+					"id_str": "987304030861971457",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DbObyPzW0AECxRn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbObyPzW0AECxRn.jpg",
+					"url": "https://t.co/6iqeKObLHg",
+					"display_url": "pic.twitter.com/6iqeKObLHg",
+					"expanded_url": "https://twitter.com/paddypower/status/987304069659267072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 985,
+							"h": 965,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 985,
+							"h": 965,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 987304069659267100,
+					"source_status_id_str": "987304069659267072",
+					"source_user_id": 14387275,
+					"source_user_id_str": "14387275"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 270,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 674,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37254,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 20 12:16:48 +0000 2018",
+			"id": 987304069659267100,
+			"id_str": "987304069659267072",
+			"text": "Arsenal are now finalising plans for an Arsene Wenger statue outside the Emirates... https://t.co/6iqeKObLHg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 987304030861971500,
+						"id_str": "987304030861971457",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DbObyPzW0AECxRn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbObyPzW0AECxRn.jpg",
+						"url": "https://t.co/6iqeKObLHg",
+						"display_url": "pic.twitter.com/6iqeKObLHg",
+						"expanded_url": "https://twitter.com/paddypower/status/987304069659267072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 985,
+								"h": 965,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 666,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 985,
+								"h": 965,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 987304030861971500,
+						"id_str": "987304030861971457",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DbObyPzW0AECxRn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbObyPzW0AECxRn.jpg",
+						"url": "https://t.co/6iqeKObLHg",
+						"display_url": "pic.twitter.com/6iqeKObLHg",
+						"expanded_url": "https://twitter.com/paddypower/status/987304069659267072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 985,
+								"h": 965,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 666,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 985,
+								"h": 965,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14387275,
+				"id_str": "14387275",
+				"name": "Paddy Power",
+				"screen_name": "paddypower",
+				"location": "Bet Now",
+				"description": "Betting and sports news, served with a side of mischief. @AskPaddyPower for queries. Snapchat: thepaddypower. Followers must be 18+. https://t.co/nQbyjdZUIa",
+				"url": "https://t.co/GzUJgMTzvt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GzUJgMTzvt",
+								"expanded_url": "http://pdy.pr/PLIiNp",
+								"display_url": "pdy.pr/PLIiNp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nQbyjdZUIa",
+								"expanded_url": "http://www.begambleaware.org",
+								"display_url": "begambleaware.org",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 647777,
+				"friends_count": 2824,
+				"listed_count": 2597,
+				"created_at": "Mon Apr 14 16:36:55 +0000 2008",
+				"favourites_count": 11412,
+				"utc_offset": 3600,
+				"time_zone": "Dublin",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 201127,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "006600",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/577486347784474625/F2DNTJey.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/577486347784474625/F2DNTJey.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/964533060942299136/XCPfJNxf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/964533060942299136/XCPfJNxf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14387275/1521192504",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 394,
+			"favorite_count": 1557,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 394,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 20 13:14:11 +0000 2018",
+		"id": 987318510907985900,
+		"id_str": "987318510907985920",
+		"text": "RT @premierleague: Where it all began for Arsene Wenger in the #PL... https://t.co/gbhqBu9LTq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PL",
+					"indices": [
+						63,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "premierleague",
+					"name": "Premier League",
+					"id": 343627165,
+					"id_str": "343627165",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 987305392676929500,
+					"id_str": "987305392676929536",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/987305392676929536/pu/img/xXRRG_KR4gp6qA_T.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/987305392676929536/pu/img/xXRRG_KR4gp6qA_T.jpg",
+					"url": "https://t.co/gbhqBu9LTq",
+					"display_url": "pic.twitter.com/gbhqBu9LTq",
+					"expanded_url": "https://twitter.com/premierleague/status/987305506904657921/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 987305506904657900,
+					"source_status_id_str": "987305506904657921",
+					"source_user_id": 343627165,
+					"source_user_id_str": "343627165"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 987305392676929500,
+					"id_str": "987305392676929536",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/987305392676929536/pu/img/xXRRG_KR4gp6qA_T.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/987305392676929536/pu/img/xXRRG_KR4gp6qA_T.jpg",
+					"url": "https://t.co/gbhqBu9LTq",
+					"display_url": "pic.twitter.com/gbhqBu9LTq",
+					"expanded_url": "https://twitter.com/premierleague/status/987305506904657921/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 987305506904657900,
+					"source_status_id_str": "987305506904657921",
+					"source_user_id": 343627165,
+					"source_user_id_str": "343627165",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 69400,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/987305392676929536/pu/vid/1280x720/nbWiLEh0z0fRLUlD.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/987305392676929536/pu/pl/c7eFnuZihZ76eelF.m3u8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/987305392676929536/pu/vid/320x180/yoKKRlMrT5nOrYb_.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/987305392676929536/pu/vid/640x360/zZ2Qav3_Ag8E-XKZ.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 343627165,
+							"id_str": "343627165",
+							"name": "Premier League",
+							"screen_name": "premierleague",
+							"location": "",
+							"description": "Official Twitter account of the Premier League. Download the 2017/18 fixtures to your calendar now: https://t.co/vbICt4NPPq",
+							"url": "https://t.co/mimpL8DWF9",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/mimpL8DWF9",
+											"expanded_url": "http://www.premierleague.com",
+											"display_url": "premierleague.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/vbICt4NPPq",
+											"expanded_url": "http://preml.ge/schedule",
+											"display_url": "preml.ge/schedule",
+											"indices": [
+												100,
+												123
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 17792433,
+							"friends_count": 77,
+							"listed_count": 22851,
+							"created_at": "Wed Jul 27 21:09:32 +0000 2011",
+							"favourites_count": 996,
+							"utc_offset": 3600,
+							"time_zone": "Europe/London",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 91398,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "050528",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000161701914/r0W2wiQt.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000161701914/r0W2wiQt.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/935069409453989888/r-CC4Onj_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/935069409453989888/r-CC4Onj_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/343627165/1524213683",
+							"profile_link_color": "93A644",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "171838",
+							"profile_text_color": "FFFFFF",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/k4hFF5YSU2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4hFF5YSU2",
+							"expanded_url": "http://bit.ly/132cPfC",
+							"display_url": "bit.ly/132cPfC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 270,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 674,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37254,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 20 12:22:30 +0000 2018",
+			"id": 987305506904657900,
+			"id_str": "987305506904657921",
+			"text": "Where it all began for Arsene Wenger in the #PL... https://t.co/gbhqBu9LTq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PL",
+						"indices": [
+							44,
+							47
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 987305392676929500,
+						"id_str": "987305392676929536",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/987305392676929536/pu/img/xXRRG_KR4gp6qA_T.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/987305392676929536/pu/img/xXRRG_KR4gp6qA_T.jpg",
+						"url": "https://t.co/gbhqBu9LTq",
+						"display_url": "pic.twitter.com/gbhqBu9LTq",
+						"expanded_url": "https://twitter.com/premierleague/status/987305506904657921/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 987305392676929500,
+						"id_str": "987305392676929536",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/987305392676929536/pu/img/xXRRG_KR4gp6qA_T.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/987305392676929536/pu/img/xXRRG_KR4gp6qA_T.jpg",
+						"url": "https://t.co/gbhqBu9LTq",
+						"display_url": "pic.twitter.com/gbhqBu9LTq",
+						"expanded_url": "https://twitter.com/premierleague/status/987305506904657921/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 69400,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/987305392676929536/pu/vid/1280x720/nbWiLEh0z0fRLUlD.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/987305392676929536/pu/pl/c7eFnuZihZ76eelF.m3u8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/987305392676929536/pu/vid/320x180/yoKKRlMrT5nOrYb_.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/987305392676929536/pu/vid/640x360/zZ2Qav3_Ag8E-XKZ.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.spredfast.com\" rel=\"nofollow\">Spredfast app</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 343627165,
+				"id_str": "343627165",
+				"name": "Premier League",
+				"screen_name": "premierleague",
+				"location": "",
+				"description": "Official Twitter account of the Premier League. Download the 2017/18 fixtures to your calendar now: https://t.co/vbICt4NPPq",
+				"url": "https://t.co/mimpL8DWF9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mimpL8DWF9",
+								"expanded_url": "http://www.premierleague.com",
+								"display_url": "premierleague.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/vbICt4NPPq",
+								"expanded_url": "http://preml.ge/schedule",
+								"display_url": "preml.ge/schedule",
+								"indices": [
+									100,
+									123
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 17792433,
+				"friends_count": 77,
+				"listed_count": 22851,
+				"created_at": "Wed Jul 27 21:09:32 +0000 2011",
+				"favourites_count": 996,
+				"utc_offset": 3600,
+				"time_zone": "Europe/London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 91398,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "050528",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000161701914/r0W2wiQt.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000161701914/r0W2wiQt.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/935069409453989888/r-CC4Onj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/935069409453989888/r-CC4Onj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/343627165/1524213683",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "171838",
+				"profile_text_color": "FFFFFF",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2012,
+			"favorite_count": 4844,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2012,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 19 21:37:13 +0000 2018",
 		"id": 987082716834418700,
 		"id_str": "987082716834418688",
