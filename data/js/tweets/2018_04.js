@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Fri Apr 27 13:34:30 +0000 2018",
+		"id": 989860338475700200,
+		"id_str": "989860338475700224",
+		"text": "RT @Rural_Office: Temporary bar at Falmouth's school of architecture. https://t.co/fXqjLlSg53",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Rural_Office",
+					"name": "Niall Maxwell",
+					"id": 1243702418,
+					"id_str": "1243702418",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 989533063335088100,
+					"id_str": "989533063335088128",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DbuHFA2XkAANFBI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbuHFA2XkAANFBI.jpg",
+					"url": "https://t.co/fXqjLlSg53",
+					"display_url": "pic.twitter.com/fXqjLlSg53",
+					"expanded_url": "https://twitter.com/Rural_Office/status/989533118653784065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 989533118653784000,
+					"source_status_id_str": "989533118653784065",
+					"source_user_id": 1243702418,
+					"source_user_id_str": "1243702418"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 989533063335088100,
+					"id_str": "989533063335088128",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DbuHFA2XkAANFBI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbuHFA2XkAANFBI.jpg",
+					"url": "https://t.co/fXqjLlSg53",
+					"display_url": "pic.twitter.com/fXqjLlSg53",
+					"expanded_url": "https://twitter.com/Rural_Office/status/989533118653784065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 989533118653784000,
+					"source_status_id_str": "989533118653784065",
+					"source_user_id": 1243702418,
+					"source_user_id_str": "1243702418"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 269,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 686,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37298,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 26 15:54:14 +0000 2018",
+			"id": 989533118653784000,
+			"id_str": "989533118653784065",
+			"text": "Temporary bar at Falmouth's school of architecture. https://t.co/fXqjLlSg53",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 989533063335088100,
+						"id_str": "989533063335088128",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/DbuHFA2XkAANFBI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbuHFA2XkAANFBI.jpg",
+						"url": "https://t.co/fXqjLlSg53",
+						"display_url": "pic.twitter.com/fXqjLlSg53",
+						"expanded_url": "https://twitter.com/Rural_Office/status/989533118653784065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1199,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2047,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 989533063335088100,
+						"id_str": "989533063335088128",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/DbuHFA2XkAANFBI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbuHFA2XkAANFBI.jpg",
+						"url": "https://t.co/fXqjLlSg53",
+						"display_url": "pic.twitter.com/fXqjLlSg53",
+						"expanded_url": "https://twitter.com/Rural_Office/status/989533118653784065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1199,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2047,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1243702418,
+				"id_str": "1243702418",
+				"name": "Niall Maxwell",
+				"screen_name": "Rural_Office",
+				"location": "Wales",
+				"description": "Architect, living in rural Wales, working across the UK. \nWinner of RIBA House of the Year 2017",
+				"url": "http://t.co/DMhFEgBOWf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/DMhFEgBOWf",
+								"expanded_url": "http://www.ruralofficeforarchitecture.co.uk",
+								"display_url": "ruralofficeforarchitecture.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1728,
+				"friends_count": 1085,
+				"listed_count": 38,
+				"created_at": "Tue Mar 05 13:13:26 +0000 2013",
+				"favourites_count": 2205,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2675,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/872145958007693313/8UfJ54iz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/872145958007693313/8UfJ54iz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1243702418/1496771101",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 26 20:57:22 +0000 2018",
 		"id": 989609402247376900,
 		"id_str": "989609402247376896",
