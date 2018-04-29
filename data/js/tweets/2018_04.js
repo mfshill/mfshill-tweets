@@ -1,6 +1,1596 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 28 19:46:42 +0000 2018",
+		"id": 990316396944023600,
+		"id_str": "990316396944023553",
+		"text": "RT @Philip_Ellis: I swear some of you are just getting married and having babies because you ran out of things to blog about.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Philip_Ellis",
+					"name": "Philip Ellis",
+					"id": 222444337,
+					"id_str": "222444337",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 269,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 690,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37303,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 27 14:16:47 +0000 2018",
+			"id": 989870981907910700,
+			"id_str": "989870981907910657",
+			"text": "I swear some of you are just getting married and having babies because you ran out of things to blog about.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 222444337,
+				"id_str": "222444337",
+				"name": "Philip Ellis",
+				"screen_name": "Philip_Ellis",
+				"location": "Birmingham, UK",
+				"description": "Ask me about my gay agenda. Freelance writer and shameless flirt. Bylines: @TeenVogue @ManRepeller @Into @StyleBham @Ogilvy. He/him. #BlackLivesMatter",
+				"url": "https://t.co/Fs9lqWUNoQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Fs9lqWUNoQ",
+								"expanded_url": "http://www.freelancephilip.co.uk",
+								"display_url": "freelancephilip.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7089,
+				"friends_count": 1999,
+				"listed_count": 193,
+				"created_at": "Fri Dec 03 12:52:40 +0000 2010",
+				"favourites_count": 61960,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 61478,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/988008134252867584/WBPS7_bE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/988008134252867584/WBPS7_bE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/222444337/1512226460",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 28 16:51:29 +0000 2018",
+		"id": 990272302104436700,
+		"id_str": "990272302104436738",
+		"text": "RT @20thcenturymarc: Well this is amazing https://t.co/7aRYu6TX5i",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "20thcenturymarc",
+					"name": "Marc Burrows ⚡️",
+					"id": 17866309,
+					"id_str": "17866309",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 989797333499023400,
+					"id_str": "989797333499023360",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/Dbx3bj7WkAAT5Cf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dbx3bj7WkAAT5Cf.jpg",
+					"url": "https://t.co/7aRYu6TX5i",
+					"display_url": "pic.twitter.com/7aRYu6TX5i",
+					"expanded_url": "https://twitter.com/20thcenturymarc/status/989797359092686849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1011,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1011,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 504,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 989797359092686800,
+					"source_status_id_str": "989797359092686849",
+					"source_user_id": 17866309,
+					"source_user_id_str": "17866309"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 989797333499023400,
+					"id_str": "989797333499023360",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/Dbx3bj7WkAAT5Cf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dbx3bj7WkAAT5Cf.jpg",
+					"url": "https://t.co/7aRYu6TX5i",
+					"display_url": "pic.twitter.com/7aRYu6TX5i",
+					"expanded_url": "https://twitter.com/20thcenturymarc/status/989797359092686849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1011,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1011,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 504,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 989797359092686800,
+					"source_status_id_str": "989797359092686849",
+					"source_user_id": 17866309,
+					"source_user_id_str": "17866309"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 269,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 690,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37303,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 27 09:24:14 +0000 2018",
+			"id": 989797359092686800,
+			"id_str": "989797359092686849",
+			"text": "Well this is amazing https://t.co/7aRYu6TX5i",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 989797333499023400,
+						"id_str": "989797333499023360",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/Dbx3bj7WkAAT5Cf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dbx3bj7WkAAT5Cf.jpg",
+						"url": "https://t.co/7aRYu6TX5i",
+						"display_url": "pic.twitter.com/7aRYu6TX5i",
+						"expanded_url": "https://twitter.com/20thcenturymarc/status/989797359092686849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 1011,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 1011,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 504,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 989797333499023400,
+						"id_str": "989797333499023360",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/Dbx3bj7WkAAT5Cf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dbx3bj7WkAAT5Cf.jpg",
+						"url": "https://t.co/7aRYu6TX5i",
+						"display_url": "pic.twitter.com/7aRYu6TX5i",
+						"expanded_url": "https://twitter.com/20thcenturymarc/status/989797359092686849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 1011,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 1011,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 504,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17866309,
+				"id_str": "17866309",
+				"name": "Marc Burrows ⚡️",
+				"screen_name": "20thcenturymarc",
+				"location": "London, UK Channel Boredom",
+				"description": "Comic, musician, writer, critic, socialist. Former @Guardian. Puts out for vinyl. Curator @ukmoments but all views and typos are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3584,
+				"friends_count": 2041,
+				"listed_count": 150,
+				"created_at": "Thu Dec 04 12:32:29 +0000 2008",
+				"favourites_count": 7761,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 51081,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/888341113135824896/2jEskyVD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/888341113135824896/2jEskyVD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17866309/1500633086",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 840,
+			"favorite_count": 1939,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 840,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 28 13:10:13 +0000 2018",
+		"id": 990216615303278600,
+		"id_str": "990216615303278592",
+		"text": "RT @Glenn_Kitson: Bill Clinton, Grooveriders set, Fantazia, Dorset 1992 https://t.co/ZzStSojPym",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Glenn_Kitson",
+					"name": "Glenn Kitson",
+					"id": 58268549,
+					"id_str": "58268549",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 990141611727294500,
+					"id_str": "990141611727294464",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/Db2wjMRWkAAJIR3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Db2wjMRWkAAJIR3.jpg",
+					"url": "https://t.co/ZzStSojPym",
+					"display_url": "pic.twitter.com/ZzStSojPym",
+					"expanded_url": "https://twitter.com/Glenn_Kitson/status/990141625560072192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 449,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 636,
+							"h": 963,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 636,
+							"h": 963,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 990141625560072200,
+					"source_status_id_str": "990141625560072192",
+					"source_user_id": 58268549,
+					"source_user_id_str": "58268549"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 990141611727294500,
+					"id_str": "990141611727294464",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/Db2wjMRWkAAJIR3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Db2wjMRWkAAJIR3.jpg",
+					"url": "https://t.co/ZzStSojPym",
+					"display_url": "pic.twitter.com/ZzStSojPym",
+					"expanded_url": "https://twitter.com/Glenn_Kitson/status/990141625560072192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 449,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 636,
+							"h": 963,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 636,
+							"h": 963,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 990141625560072200,
+					"source_status_id_str": "990141625560072192",
+					"source_user_id": 58268549,
+					"source_user_id_str": "58268549"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 269,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 690,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37303,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 28 08:12:14 +0000 2018",
+			"id": 990141625560072200,
+			"id_str": "990141625560072192",
+			"text": "Bill Clinton, Grooveriders set, Fantazia, Dorset 1992 https://t.co/ZzStSojPym",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 990141611727294500,
+						"id_str": "990141611727294464",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/Db2wjMRWkAAJIR3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Db2wjMRWkAAJIR3.jpg",
+						"url": "https://t.co/ZzStSojPym",
+						"display_url": "pic.twitter.com/ZzStSojPym",
+						"expanded_url": "https://twitter.com/Glenn_Kitson/status/990141625560072192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 449,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 636,
+								"h": 963,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 636,
+								"h": 963,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 990141611727294500,
+						"id_str": "990141611727294464",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/Db2wjMRWkAAJIR3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Db2wjMRWkAAJIR3.jpg",
+						"url": "https://t.co/ZzStSojPym",
+						"display_url": "pic.twitter.com/ZzStSojPym",
+						"expanded_url": "https://twitter.com/Glenn_Kitson/status/990141625560072192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 449,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 636,
+								"h": 963,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 636,
+								"h": 963,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 58268549,
+				"id_str": "58268549",
+				"name": "Glenn Kitson",
+				"screen_name": "Glenn_Kitson",
+				"location": "UK",
+				"description": "Footwear Consumer | \n\nFilms about jackets",
+				"url": "https://t.co/mA08ZLvHCK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mA08ZLvHCK",
+								"expanded_url": "http://www.therigout.com",
+								"display_url": "therigout.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9021,
+				"friends_count": 823,
+				"listed_count": 141,
+				"created_at": "Sun Jul 19 19:10:03 +0000 2009",
+				"favourites_count": 44682,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 40090,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000081058235/70c3bda6cbca72e82291f50f60e98110.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000081058235/70c3bda6cbca72e82291f50f60e98110.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/922937183308263425/IdHewW5y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/922937183308263425/IdHewW5y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/58268549/1508880232",
+				"profile_link_color": "044508",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F2E9F2",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52,
+			"favorite_count": 173,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 28 13:06:19 +0000 2018",
+		"id": 990215636923179000,
+		"id_str": "990215636923179008",
+		"text": "RT @Reuters: German company puts insect burgers on supermarket shelves https://t.co/7I7IbkUeFa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Reuters",
+					"name": "Reuters Top News",
+					"id": 1652541,
+					"id_str": "1652541",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 988435506575769600,
+					"id_str": "988435506575769600",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/988435506575769600/img/ZoLE4X_GbicqLcNc.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/988435506575769600/img/ZoLE4X_GbicqLcNc.jpg",
+					"url": "https://t.co/7I7IbkUeFa",
+					"display_url": "pic.twitter.com/7I7IbkUeFa",
+					"expanded_url": "https://twitter.com/Reuters/status/990183848112619521/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 990183848112619500,
+					"source_status_id_str": "990183848112619521",
+					"source_user_id": 1652541,
+					"source_user_id_str": "1652541"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 988435506575769600,
+					"id_str": "988435506575769600",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/988435506575769600/img/ZoLE4X_GbicqLcNc.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/988435506575769600/img/ZoLE4X_GbicqLcNc.jpg",
+					"url": "https://t.co/7I7IbkUeFa",
+					"display_url": "pic.twitter.com/7I7IbkUeFa",
+					"expanded_url": "https://twitter.com/Reuters/status/990183848112619521/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 990183848112619500,
+					"source_status_id_str": "990183848112619521",
+					"source_user_id": 1652541,
+					"source_user_id_str": "1652541",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45012,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/988435506575769600/vid/320x180/AdLoHjhZAMsmiSrP.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/988435506575769600/vid/640x360/r995np6lEV4f1zvU.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/988435506575769600/pl/H6EDVccA9st8aEFf.m3u8?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/988435506575769600/vid/1280x720/1zkx5uatF2e7g_Xu.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true,
+						"source_user": {
+							"id": 1652541,
+							"id_str": "1652541",
+							"name": "Reuters Top News",
+							"screen_name": "Reuters",
+							"location": "Around the world",
+							"description": "Top and breaking news, pictures, and videos from Reuters.",
+							"url": "http://t.co/BmHxhkm3Mh",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/BmHxhkm3Mh",
+											"expanded_url": "http://www.reuters.com",
+											"display_url": "reuters.com",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 19708631,
+							"friends_count": 1072,
+							"listed_count": 114463,
+							"created_at": "Tue Mar 20 17:46:05 +0000 2007",
+							"favourites_count": 807,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 270350,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "444444",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735542174/340f8869cdcabbcc436096587143cc38.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735542174/340f8869cdcabbcc436096587143cc38.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1473859324",
+							"profile_link_color": "006F97",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "F5F5F5",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 269,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 690,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37303,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 28 11:00:00 +0000 2018",
+			"id": 990183848112619500,
+			"id_str": "990183848112619521",
+			"text": "German company puts insect burgers on supermarket shelves https://t.co/7I7IbkUeFa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 988435506575769600,
+						"id_str": "988435506575769600",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/988435506575769600/img/ZoLE4X_GbicqLcNc.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/988435506575769600/img/ZoLE4X_GbicqLcNc.jpg",
+						"url": "https://t.co/7I7IbkUeFa",
+						"display_url": "pic.twitter.com/7I7IbkUeFa",
+						"expanded_url": "https://twitter.com/Reuters/status/990183848112619521/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 988435506575769600,
+						"id_str": "988435506575769600",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/988435506575769600/img/ZoLE4X_GbicqLcNc.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/988435506575769600/img/ZoLE4X_GbicqLcNc.jpg",
+						"url": "https://t.co/7I7IbkUeFa",
+						"display_url": "pic.twitter.com/7I7IbkUeFa",
+						"expanded_url": "https://twitter.com/Reuters/status/990183848112619521/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 45012,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/988435506575769600/vid/320x180/AdLoHjhZAMsmiSrP.mp4?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/988435506575769600/vid/640x360/r995np6lEV4f1zvU.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/988435506575769600/pl/H6EDVccA9st8aEFf.m3u8?tag=6"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/988435506575769600/vid/1280x720/1zkx5uatF2e7g_Xu.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1652541,
+				"id_str": "1652541",
+				"name": "Reuters Top News",
+				"screen_name": "Reuters",
+				"location": "Around the world",
+				"description": "Top and breaking news, pictures, and videos from Reuters.",
+				"url": "http://t.co/BmHxhkm3Mh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/BmHxhkm3Mh",
+								"expanded_url": "http://www.reuters.com",
+								"display_url": "reuters.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19708631,
+				"friends_count": 1072,
+				"listed_count": 114463,
+				"created_at": "Tue Mar 20 17:46:05 +0000 2007",
+				"favourites_count": 807,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 270350,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "444444",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735542174/340f8869cdcabbcc436096587143cc38.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735542174/340f8869cdcabbcc436096587143cc38.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1473859324",
+				"profile_link_color": "006F97",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F5F5F5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 87,
+			"favorite_count": 124,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 28 12:06:02 +0000 2018",
+		"id": 990200464150089700,
+		"id_str": "990200464150089728",
+		"text": "RT @Dahmerscookpot: My friend &amp; me aged 7\nFriend - I’ve got EVERYTHING Barbie! I even got a Barbie townhouse\nMe - have you got Barbie’s car…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dahmerscookpot",
+					"name": "AKA Dave (not a guy)",
+					"id": 21799430,
+					"id_str": "21799430",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 269,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 690,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37303,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978737290288816129/MH1vsJri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 28 10:16:35 +0000 2018",
+			"id": 990172920428326900,
+			"id_str": "990172920428326912",
+			"text": "My friend &amp; me aged 7\nFriend - I’ve got EVERYTHING Barbie! I even got a Barbie townhouse\nMe - have you got Barbie’s… https://t.co/ixsH2lSIVu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ixsH2lSIVu",
+						"expanded_url": "https://twitter.com/i/web/status/990172920428326912",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21799430,
+				"id_str": "21799430",
+				"name": "AKA Dave (not a guy)",
+				"screen_name": "Dahmerscookpot",
+				"location": "Instagram @a_girl_called_dave",
+				"description": "ahh the countryside The thinly diguised racism the wickerman Oh look here come the villagers with their pitchforks AGAIN https://t.co/AlQZBgqKlW",
+				"url": "https://t.co/K1CY6Dj9li",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/K1CY6Dj9li",
+								"expanded_url": "https://www.etsy.com/uk/shop/LilliputBakery",
+								"display_url": "etsy.com/uk/shop/Lillip…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AlQZBgqKlW",
+								"expanded_url": "http://Favstar.fm/users/Dahmerscookpot",
+								"display_url": "Favstar.fm/users/Dahmersc…",
+								"indices": [
+									121,
+									144
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8755,
+				"friends_count": 9625,
+				"listed_count": 82,
+				"created_at": "Tue Feb 24 21:22:12 +0000 2009",
+				"favourites_count": 42621,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19412,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/178819639/xb44cb98b4281535b5c3b8f1b46f1781.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/178819639/xb44cb98b4281535b5c3b8f1b46f1781.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/985292917198807040/7qaOvgDs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/985292917198807040/7qaOvgDs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21799430/1453818608",
+				"profile_link_color": "A10E11",
+				"profile_sidebar_border_color": "A0EEF5",
+				"profile_sidebar_fill_color": "FBFBFB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Apr 27 13:34:30 +0000 2018",
 		"id": 989860338475700200,
 		"id_str": "989860338475700224",
