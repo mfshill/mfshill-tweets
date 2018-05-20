@@ -1,6 +1,969 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sat May 19 22:26:45 +0000 2018",
+		"id": 997966819708293100,
+		"id_str": "997966819708293126",
+		"text": "RT @WorldofGoodBook: If you mix Megan’s face with Harry’s, it looks like Aphex Twin. https://t.co/CfhCwkY5Vv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WorldofGoodBook",
+					"name": "Gethin Nadin",
+					"id": 1204827302,
+					"id_str": "1204827302",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 997772146054221800,
+					"id_str": "997772146054221824",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DdjMevxXUAAXbX-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdjMevxXUAAXbX-.jpg",
+					"url": "https://t.co/CfhCwkY5Vv",
+					"display_url": "pic.twitter.com/CfhCwkY5Vv",
+					"expanded_url": "https://twitter.com/WorldofGoodBook/status/997772151032827904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 629,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 504,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 629,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 997772151032827900,
+					"source_status_id_str": "997772151032827904",
+					"source_user_id": 1204827302,
+					"source_user_id_str": "1204827302"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 997772146054221800,
+					"id_str": "997772146054221824",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DdjMevxXUAAXbX-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdjMevxXUAAXbX-.jpg",
+					"url": "https://t.co/CfhCwkY5Vv",
+					"display_url": "pic.twitter.com/CfhCwkY5Vv",
+					"expanded_url": "https://twitter.com/WorldofGoodBook/status/997772151032827904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 629,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 504,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 629,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 997772151032827900,
+					"source_status_id_str": "997772151032827904",
+					"source_user_id": 1204827302,
+					"source_user_id_str": "1204827302"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 271,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 705,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37423,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 19 09:33:13 +0000 2018",
+			"id": 997772151032827900,
+			"id_str": "997772151032827904",
+			"text": "If you mix Megan’s face with Harry’s, it looks like Aphex Twin. https://t.co/CfhCwkY5Vv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 997772146054221800,
+						"id_str": "997772146054221824",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DdjMevxXUAAXbX-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdjMevxXUAAXbX-.jpg",
+						"url": "https://t.co/CfhCwkY5Vv",
+						"display_url": "pic.twitter.com/CfhCwkY5Vv",
+						"expanded_url": "https://twitter.com/WorldofGoodBook/status/997772151032827904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 629,
+								"h": 848,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 504,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 629,
+								"h": 848,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 997772146054221800,
+						"id_str": "997772146054221824",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DdjMevxXUAAXbX-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdjMevxXUAAXbX-.jpg",
+						"url": "https://t.co/CfhCwkY5Vv",
+						"display_url": "pic.twitter.com/CfhCwkY5Vv",
+						"expanded_url": "https://twitter.com/WorldofGoodBook/status/997772151032827904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 629,
+								"h": 848,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 504,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 629,
+								"h": 848,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1204827302,
+				"id_str": "1204827302",
+				"name": "Gethin Nadin",
+				"screen_name": "WorldofGoodBook",
+				"location": "United Kingdom",
+				"description": "Author of the #EmployeeExperience bestseller ‘A World of Good’. Dir. Global Partnerships at @hellobenefex #EmployeeWellbeing #FutureofWork",
+				"url": "https://t.co/2EaE8DR5fr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2EaE8DR5fr",
+								"expanded_url": "http://www.aworldofgoodbook.com",
+								"display_url": "aworldofgoodbook.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2736,
+				"friends_count": 1541,
+				"listed_count": 131,
+				"created_at": "Thu Feb 21 13:39:00 +0000 2013",
+				"favourites_count": 12899,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11887,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/983748466248691712/OEWJBTpL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/983748466248691712/OEWJBTpL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1204827302/1521060251",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1810,
+			"favorite_count": 4841,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1810,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 19 13:14:53 +0000 2018",
+		"id": 997827935892590600,
+		"id_str": "997827935892590592",
+		"text": "RT @MarcHilberer: the number of school shootings that have happened since the year 2000 around the world:\n\nENGLAND: 0 \nGREECE: 1 \nNETHERLAN…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarcHilberer",
+					"name": "Marc Hilberer",
+					"id": 733232251677364200,
+					"id_str": "733232251677364224",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 271,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 705,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37423,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 18 17:38:43 +0000 2018",
+			"id": 997531945977475100,
+			"id_str": "997531945977475073",
+			"text": "the number of school shootings that have happened since the year 2000 around the world:\n\nENGLAND: 0 \nGREECE: 1 \nNET… https://t.co/NUdHmsUja0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NUdHmsUja0",
+						"expanded_url": "https://twitter.com/i/web/status/997531945977475073",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 733232251677364200,
+				"id_str": "733232251677364224",
+				"name": "Marc Hilberer",
+				"screen_name": "MarcHilberer",
+				"location": "Offenburg, Deutschland",
+				"description": "🏀@NBA, @warriors • ⚽️@scfreiburg • 🏎@F1, @redbullracing • 🎯@OfficialPDC • 🎧@edsheeran, @lorde • 🎮gaming @MarcHPlays • 📱IT @iRuptus",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 593,
+				"friends_count": 1013,
+				"listed_count": 20,
+				"created_at": "Thu May 19 09:46:06 +0000 2016",
+				"favourites_count": 11060,
+				"utc_offset": -7200,
+				"time_zone": "GMT+2",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3817,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/987976529278795776/RB9Qy51a_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/987976529278795776/RB9Qy51a_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/733232251677364224/1526631694",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "6434de1f17bcb13f",
+				"url": "https://api.twitter.com/1.1/geo/id/6434de1f17bcb13f.json",
+				"place_type": "city",
+				"name": "Offenburg",
+				"full_name": "Offenburg, Germany",
+				"country_code": "DE",
+				"country": "Germany",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								7.8617341,
+								48.396773
+							],
+							[
+								8.028459,
+								48.396773
+							],
+							[
+								8.028459,
+								48.55269
+							],
+							[
+								7.8617341,
+								48.55269
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 143465,
+			"favorite_count": 226451,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 143465,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 19 09:52:23 +0000 2018",
+		"id": 997776977514958800,
+		"id_str": "997776977514958848",
+		"text": "RT @eops: A rare cardboard hippopotamus spotted in Hackney https://t.co/yn23NjYkVz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 997739193009778700,
+					"id_str": "997739193009778690",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DdiugoHVMAIvEgp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdiugoHVMAIvEgp.jpg",
+					"url": "https://t.co/yn23NjYkVz",
+					"display_url": "pic.twitter.com/yn23NjYkVz",
+					"expanded_url": "https://twitter.com/eops/status/997739204296806400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 997739204296806400,
+					"source_status_id_str": "997739204296806400",
+					"source_user_id": 20243240,
+					"source_user_id_str": "20243240"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 997739193009778700,
+					"id_str": "997739193009778690",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DdiugoHVMAIvEgp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdiugoHVMAIvEgp.jpg",
+					"url": "https://t.co/yn23NjYkVz",
+					"display_url": "pic.twitter.com/yn23NjYkVz",
+					"expanded_url": "https://twitter.com/eops/status/997739204296806400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 997739204296806400,
+					"source_status_id_str": "997739204296806400",
+					"source_user_id": 20243240,
+					"source_user_id_str": "20243240"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 271,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 705,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37423,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 19 07:22:18 +0000 2018",
+			"id": 997739204296806400,
+			"id_str": "997739204296806400",
+			"text": "A rare cardboard hippopotamus spotted in Hackney https://t.co/yn23NjYkVz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 997739193009778700,
+						"id_str": "997739193009778690",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DdiugoHVMAIvEgp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdiugoHVMAIvEgp.jpg",
+						"url": "https://t.co/yn23NjYkVz",
+						"display_url": "pic.twitter.com/yn23NjYkVz",
+						"expanded_url": "https://twitter.com/eops/status/997739204296806400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 997739193009778700,
+						"id_str": "997739193009778690",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DdiugoHVMAIvEgp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdiugoHVMAIvEgp.jpg",
+						"url": "https://t.co/yn23NjYkVz",
+						"display_url": "pic.twitter.com/yn23NjYkVz",
+						"expanded_url": "https://twitter.com/eops/status/997739204296806400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20243240,
+				"id_str": "20243240",
+				"name": "BlackWaxSolution",
+				"screen_name": "eops",
+				"location": "LDN /east",
+				"description": "Vinyl only DJ. \nBookings: DJeops@Gmail.com \nhttps://t.co/kEX04FTSgL\nhttps://t.co/bNdWAaZNg4\nhttps://t.co/9LmRMZW6Mi",
+				"url": "https://t.co/QdVzWepwt7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QdVzWepwt7",
+								"expanded_url": "http://www.mixcloud.com/eops",
+								"display_url": "mixcloud.com/eops",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/kEX04FTSgL",
+								"expanded_url": "http://ReelRebelsRadio.com",
+								"display_url": "ReelRebelsRadio.com",
+								"indices": [
+									44,
+									67
+								]
+							},
+							{
+								"url": "https://t.co/bNdWAaZNg4",
+								"expanded_url": "http://Instagram.com/BlackWaxSolution",
+								"display_url": "Instagram.com/BlackWaxSoluti…",
+								"indices": [
+									68,
+									91
+								]
+							},
+							{
+								"url": "https://t.co/9LmRMZW6Mi",
+								"expanded_url": "http://Facebook.com/BlackWaxSolution",
+								"display_url": "Facebook.com/BlackWaxSoluti…",
+								"indices": [
+									92,
+									115
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3164,
+				"friends_count": 3084,
+				"listed_count": 111,
+				"created_at": "Fri Feb 06 15:14:44 +0000 2009",
+				"favourites_count": 16446,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 139640,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000182239867/gWsLi4yl.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000182239867/gWsLi4yl.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/943576421678682113/oz7zJsiZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/943576421678682113/oz7zJsiZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20243240/1357421831",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 75,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 18 21:06:12 +0000 2018",
 		"id": 997584158888267800,
 		"id_str": "997584158888267780",
