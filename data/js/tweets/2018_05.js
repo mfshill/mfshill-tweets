@@ -1,6 +1,488 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Mon May 21 20:32:10 +0000 2018",
+		"id": 998662758689275900,
+		"id_str": "998662758689275905",
+		"text": "RT @btsportmotogp: Every angle of Jakub Kornfeil's barely believable Hollywood moment in Moto3...\n\nJust... HOW?! 😱 https://t.co/j5zN7eF1DL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "btsportmotogp",
+					"name": "MotoGP on BT Sport",
+					"id": 2304484100,
+					"id_str": "2304484100",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 998292389394501600,
+					"id_str": "998292389394501632",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DdqloiIUQAADDce.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdqloiIUQAADDce.jpg",
+					"url": "https://t.co/j5zN7eF1DL",
+					"display_url": "pic.twitter.com/j5zN7eF1DL",
+					"expanded_url": "https://twitter.com/btsportmotogp/status/998292431639531520/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 998292431639531500,
+					"source_status_id_str": "998292431639531520",
+					"source_user_id": 2304484100,
+					"source_user_id_str": "2304484100"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 998292389394501600,
+					"id_str": "998292389394501632",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DdqloiIUQAADDce.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdqloiIUQAADDce.jpg",
+					"url": "https://t.co/j5zN7eF1DL",
+					"display_url": "pic.twitter.com/j5zN7eF1DL",
+					"expanded_url": "https://twitter.com/btsportmotogp/status/998292431639531520/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 998292431639531500,
+					"source_status_id_str": "998292431639531520",
+					"source_user_id": 2304484100,
+					"source_user_id_str": "2304484100",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 22480,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/998292389394501632/pu/vid/720x720/mYzzaZhzYm2RwQjs.mp4?tag=3"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/998292389394501632/pu/vid/240x240/bH8CLgWEyQhVjSGi.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/998292389394501632/pu/pl/e4W0dcVAVOO7JB01.m3u8?tag=3"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/998292389394501632/pu/vid/480x480/xlhvc4gZ_6mchsZG.mp4?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Kornfeil gets big air in Moto3 miracle save",
+						"monetizable": false,
+						"source_user": {
+							"id": 2304484100,
+							"id_str": "2304484100",
+							"name": "MotoGP on BT Sport",
+							"screen_name": "btsportmotogp",
+							"location": "The pit lane",
+							"description": "The home of MotoGP on BT Sport. Watch the #FrenchGP between May 18th and 20th on BT Sport 2 HD.",
+							"url": "https://t.co/NBpX1VvfM0",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/NBpX1VvfM0",
+											"expanded_url": "http://btsport.com/motogp",
+											"display_url": "btsport.com/motogp",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 87087,
+							"friends_count": 317,
+							"listed_count": 649,
+							"created_at": "Wed Jan 22 08:38:36 +0000 2014",
+							"favourites_count": 505,
+							"utc_offset": 3600,
+							"time_zone": "London",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 9071,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/501379230593073153/D6WYhiVN.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/501379230593073153/D6WYhiVN.jpeg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/994924751897407490/dMDBw_FA_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/994924751897407490/dMDBw_FA_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2304484100/1526458235",
+							"profile_link_color": "1B2124",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 271,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 707,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37427,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 20 20:00:37 +0000 2018",
+			"id": 998292431639531500,
+			"id_str": "998292431639531520",
+			"text": "Every angle of Jakub Kornfeil's barely believable Hollywood moment in Moto3...\n\nJust... HOW?! 😱 https://t.co/j5zN7eF1DL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 998292389394501600,
+						"id_str": "998292389394501632",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/DdqloiIUQAADDce.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdqloiIUQAADDce.jpg",
+						"url": "https://t.co/j5zN7eF1DL",
+						"display_url": "pic.twitter.com/j5zN7eF1DL",
+						"expanded_url": "https://twitter.com/btsportmotogp/status/998292431639531520/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 998292389394501600,
+						"id_str": "998292389394501632",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/DdqloiIUQAADDce.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdqloiIUQAADDce.jpg",
+						"url": "https://t.co/j5zN7eF1DL",
+						"display_url": "pic.twitter.com/j5zN7eF1DL",
+						"expanded_url": "https://twitter.com/btsportmotogp/status/998292431639531520/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 22480,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/998292389394501632/pu/vid/720x720/mYzzaZhzYm2RwQjs.mp4?tag=3"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/998292389394501632/pu/vid/240x240/bH8CLgWEyQhVjSGi.mp4?tag=3"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/998292389394501632/pu/pl/e4W0dcVAVOO7JB01.m3u8?tag=3"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/998292389394501632/pu/vid/480x480/xlhvc4gZ_6mchsZG.mp4?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Kornfeil gets big air in Moto3 miracle save",
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2304484100,
+				"id_str": "2304484100",
+				"name": "MotoGP on BT Sport",
+				"screen_name": "btsportmotogp",
+				"location": "The pit lane",
+				"description": "The home of MotoGP on BT Sport. Watch the #FrenchGP between May 18th and 20th on BT Sport 2 HD.",
+				"url": "https://t.co/NBpX1VvfM0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NBpX1VvfM0",
+								"expanded_url": "http://btsport.com/motogp",
+								"display_url": "btsport.com/motogp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 87087,
+				"friends_count": 317,
+				"listed_count": 649,
+				"created_at": "Wed Jan 22 08:38:36 +0000 2014",
+				"favourites_count": 505,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9071,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/501379230593073153/D6WYhiVN.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/501379230593073153/D6WYhiVN.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/994924751897407490/dMDBw_FA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/994924751897407490/dMDBw_FA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2304484100/1526458235",
+				"profile_link_color": "1B2124",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2591,
+			"favorite_count": 5686,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2591,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun May 20 18:08:04 +0000 2018",
 		"id": 998264106527416300,
 		"id_str": "998264106527416321",
