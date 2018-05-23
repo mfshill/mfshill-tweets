@@ -1,6 +1,523 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Tue May 22 21:47:40 +0000 2018",
+		"id": 999044147301535700,
+		"id_str": "999044147301535744",
+		"text": "new Arsenal kit is bloody ugly",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 271,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 707,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37428,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 22 19:47:31 +0000 2018",
+		"id": 999013911717392400,
+		"id_str": "999013911717392389",
+		"text": "RT @eops: My inbox after #GDPR kicks in https://t.co/JrdBVrru0R",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GDPR",
+					"indices": [
+						25,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 999000208154357800,
+					"id_str": "999000208154357760",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dd0pZXmU8AA_sf7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dd0pZXmU8AA_sf7.jpg",
+					"url": "https://t.co/JrdBVrru0R",
+					"display_url": "pic.twitter.com/JrdBVrru0R",
+					"expanded_url": "https://twitter.com/eops/status/999000213590282240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 300,
+							"h": 138,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 138,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 138,
+							"h": 138,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 138,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 999000213590282200,
+					"source_status_id_str": "999000213590282240",
+					"source_user_id": 20243240,
+					"source_user_id_str": "20243240"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 999000208154357800,
+					"id_str": "999000208154357760",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dd0pZXmU8AA_sf7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dd0pZXmU8AA_sf7.jpg",
+					"url": "https://t.co/JrdBVrru0R",
+					"display_url": "pic.twitter.com/JrdBVrru0R",
+					"expanded_url": "https://twitter.com/eops/status/999000213590282240/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 300,
+							"h": 138,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 138,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 138,
+							"h": 138,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 138,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 999000213590282200,
+					"source_status_id_str": "999000213590282240",
+					"source_user_id": 20243240,
+					"source_user_id_str": "20243240",
+					"video_info": {
+						"aspect_ratio": [
+							50,
+							23
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dd0pZXmU8AA_sf7.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 271,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 707,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37428,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168323347/B9N3gVAB.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1519915721",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 22 18:53:06 +0000 2018",
+			"id": 999000213590282200,
+			"id_str": "999000213590282240",
+			"text": "My inbox after #GDPR kicks in https://t.co/JrdBVrru0R",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GDPR",
+						"indices": [
+							15,
+							20
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 999000208154357800,
+						"id_str": "999000208154357760",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dd0pZXmU8AA_sf7.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dd0pZXmU8AA_sf7.jpg",
+						"url": "https://t.co/JrdBVrru0R",
+						"display_url": "pic.twitter.com/JrdBVrru0R",
+						"expanded_url": "https://twitter.com/eops/status/999000213590282240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 300,
+								"h": 138,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 300,
+								"h": 138,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 138,
+								"h": 138,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 300,
+								"h": 138,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 999000208154357800,
+						"id_str": "999000208154357760",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dd0pZXmU8AA_sf7.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dd0pZXmU8AA_sf7.jpg",
+						"url": "https://t.co/JrdBVrru0R",
+						"display_url": "pic.twitter.com/JrdBVrru0R",
+						"expanded_url": "https://twitter.com/eops/status/999000213590282240/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 300,
+								"h": 138,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 300,
+								"h": 138,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 138,
+								"h": 138,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 300,
+								"h": 138,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								50,
+								23
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/Dd0pZXmU8AA_sf7.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20243240,
+				"id_str": "20243240",
+				"name": "BlackWaxSolution",
+				"screen_name": "eops",
+				"location": "LDN /east",
+				"description": "Vinyl only DJ. \nBookings: DJeops@Gmail.com \nhttps://t.co/kEX04FTSgL\nhttps://t.co/bNdWAaZNg4\nhttps://t.co/9LmRMZW6Mi",
+				"url": "https://t.co/QdVzWepwt7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QdVzWepwt7",
+								"expanded_url": "http://www.mixcloud.com/eops",
+								"display_url": "mixcloud.com/eops",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/kEX04FTSgL",
+								"expanded_url": "http://ReelRebelsRadio.com",
+								"display_url": "ReelRebelsRadio.com",
+								"indices": [
+									44,
+									67
+								]
+							},
+							{
+								"url": "https://t.co/bNdWAaZNg4",
+								"expanded_url": "http://Instagram.com/BlackWaxSolution",
+								"display_url": "Instagram.com/BlackWaxSoluti…",
+								"indices": [
+									68,
+									91
+								]
+							},
+							{
+								"url": "https://t.co/9LmRMZW6Mi",
+								"expanded_url": "http://Facebook.com/BlackWaxSolution",
+								"display_url": "Facebook.com/BlackWaxSoluti…",
+								"indices": [
+									92,
+									115
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3167,
+				"friends_count": 3085,
+				"listed_count": 111,
+				"created_at": "Fri Feb 06 15:14:44 +0000 2009",
+				"favourites_count": 16578,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 139728,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000182239867/gWsLi4yl.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000182239867/gWsLi4yl.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/943576421678682113/oz7zJsiZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/943576421678682113/oz7zJsiZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20243240/1357421831",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 21 20:32:10 +0000 2018",
 		"id": 998662758689275900,
 		"id_str": "998662758689275905",
