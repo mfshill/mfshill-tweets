@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Mon May 28 19:38:37 +0000 2018",
+		"id": 1001185996996841500,
+		"id_str": "1001185996996841474",
+		"text": "Jamie has been knocking it out of the park with this new series #QuickAndEasyFood",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "QuickAndEasyFood",
+					"indices": [
+						64,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 271,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 707,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37459,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1527266662",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon May 28 18:23:11 +0000 2018",
+		"id": 1001167012217999400,
+		"id_str": "1001167012217999360",
+		"text": "RT @buntyhoven: https://t.co/BkNYqtwDWz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "buntyhoven",
+					"name": "Milky Bovril",
+					"id": 20129316,
+					"id_str": "20129316",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1001139435055059000,
+					"id_str": "1001139435055058947",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/DeTDAw0XkAMY2fo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeTDAw0XkAMY2fo.jpg",
+					"url": "https://t.co/BkNYqtwDWz",
+					"display_url": "pic.twitter.com/BkNYqtwDWz",
+					"expanded_url": "https://twitter.com/buntyhoven/status/1001139446237028352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 388,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 366,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 388,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1001139446237028400,
+					"source_status_id_str": "1001139446237028352",
+					"source_user_id": 20129316,
+					"source_user_id_str": "20129316"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1001139435055059000,
+					"id_str": "1001139435055058947",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/DeTDAw0XkAMY2fo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeTDAw0XkAMY2fo.jpg",
+					"url": "https://t.co/BkNYqtwDWz",
+					"display_url": "pic.twitter.com/BkNYqtwDWz",
+					"expanded_url": "https://twitter.com/buntyhoven/status/1001139446237028352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 388,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 366,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 388,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1001139446237028400,
+					"source_status_id_str": "1001139446237028352",
+					"source_user_id": 20129316,
+					"source_user_id_str": "20129316"
+				},
+				{
+					"id": 1001139441145143300,
+					"id_str": "1001139441145143297",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/DeTDBHgW4AETG11.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeTDBHgW4AETG11.jpg",
+					"url": "https://t.co/BkNYqtwDWz",
+					"display_url": "pic.twitter.com/BkNYqtwDWz",
+					"expanded_url": "https://twitter.com/buntyhoven/status/1001139446237028352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 710,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 710,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1001139446237028400,
+					"source_status_id_str": "1001139446237028352",
+					"source_user_id": 20129316,
+					"source_user_id_str": "20129316"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 271,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 707,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37459,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1527266662",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 28 16:33:38 +0000 2018",
+			"id": 1001139446237028400,
+			"id_str": "1001139446237028352",
+			"text": "https://t.co/BkNYqtwDWz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1001139435055059000,
+						"id_str": "1001139435055058947",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DeTDAw0XkAMY2fo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeTDAw0XkAMY2fo.jpg",
+						"url": "https://t.co/BkNYqtwDWz",
+						"display_url": "pic.twitter.com/BkNYqtwDWz",
+						"expanded_url": "https://twitter.com/buntyhoven/status/1001139446237028352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 388,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 366,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 388,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1001139435055059000,
+						"id_str": "1001139435055058947",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DeTDAw0XkAMY2fo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeTDAw0XkAMY2fo.jpg",
+						"url": "https://t.co/BkNYqtwDWz",
+						"display_url": "pic.twitter.com/BkNYqtwDWz",
+						"expanded_url": "https://twitter.com/buntyhoven/status/1001139446237028352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 388,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 366,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 388,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1001139441145143300,
+						"id_str": "1001139441145143297",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DeTDBHgW4AETG11.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeTDBHgW4AETG11.jpg",
+						"url": "https://t.co/BkNYqtwDWz",
+						"display_url": "pic.twitter.com/BkNYqtwDWz",
+						"expanded_url": "https://twitter.com/buntyhoven/status/1001139446237028352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 710,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 671,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 710,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20129316,
+				"id_str": "20129316",
+				"name": "Hannah O'Hanrahahanrahan",
+				"screen_name": "buntyhoven",
+				"location": "Norwich",
+				"description": "'Cut her in half and she's Library through & through'\n\nOnwards and upwards. You can only fail.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1821,
+				"friends_count": 2182,
+				"listed_count": 20,
+				"created_at": "Thu Feb 05 08:48:58 +0000 2009",
+				"favourites_count": 44335,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 49709,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/998113973953163264/1WJfAMS-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/998113973953163264/1WJfAMS-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20129316/1527378501",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun May 27 21:16:11 +0000 2018",
 		"id": 1000848163828326400,
 		"id_str": "1000848163828326400",
@@ -340,7 +858,7 @@ Grailbird.data.tweets_2018_05 =
 				"name": "Rachel Wheeley",
 				"screen_name": "RachelWheeley",
 				"location": "Morden, London, UK",
-				"description": "Comedian | Knows where her towel is | 🏳️‍🌈 lg(b)t+ | 📷 @steve_x",
+				"description": "Comedian | Knows where her towel is | 🏳️🌈 lg(b)t+ | 📷 @steve_x",
 				"url": "https://t.co/rY9kEfMu71",
 				"entities": {
 					"url": {
