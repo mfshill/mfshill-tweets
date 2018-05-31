@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Wed May 30 21:44:44 +0000 2018",
+		"id": 1001942512800591900,
+		"id_str": "1001942512800591872",
+		"text": "RT @PDLComics: oceans https://t.co/ktFTH4PGYL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PDLComics",
+					"name": "poorly drawn lines",
+					"id": 193570988,
+					"id_str": "193570988",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1001878398354964500,
+					"id_str": "1001878398354964480",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/DedjGFoVwAAmJ_L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DedjGFoVwAAmJ_L.jpg",
+					"url": "https://t.co/ktFTH4PGYL",
+					"display_url": "pic.twitter.com/ktFTH4PGYL",
+					"expanded_url": "https://twitter.com/PDLComics/status/1001878999163781121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 615,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 615,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 597,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1001878999163781100,
+					"source_status_id_str": "1001878999163781121",
+					"source_user_id": 193570988,
+					"source_user_id_str": "193570988"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1001878398354964500,
+					"id_str": "1001878398354964480",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/DedjGFoVwAAmJ_L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DedjGFoVwAAmJ_L.jpg",
+					"url": "https://t.co/ktFTH4PGYL",
+					"display_url": "pic.twitter.com/ktFTH4PGYL",
+					"expanded_url": "https://twitter.com/PDLComics/status/1001878999163781121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 615,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 615,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 597,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1001878999163781100,
+					"source_status_id_str": "1001878999163781121",
+					"source_user_id": 193570988,
+					"source_user_id_str": "193570988"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 272,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 708,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37466,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1527266662",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 30 17:32:22 +0000 2018",
+			"id": 1001878999163781100,
+			"id_str": "1001878999163781121",
+			"text": "oceans https://t.co/ktFTH4PGYL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1001878398354964500,
+						"id_str": "1001878398354964480",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/media/DedjGFoVwAAmJ_L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DedjGFoVwAAmJ_L.jpg",
+						"url": "https://t.co/ktFTH4PGYL",
+						"display_url": "pic.twitter.com/ktFTH4PGYL",
+						"expanded_url": "https://twitter.com/PDLComics/status/1001878999163781121/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 615,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 615,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 597,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1001878398354964500,
+						"id_str": "1001878398354964480",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/media/DedjGFoVwAAmJ_L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DedjGFoVwAAmJ_L.jpg",
+						"url": "https://t.co/ktFTH4PGYL",
+						"display_url": "pic.twitter.com/ktFTH4PGYL",
+						"expanded_url": "https://twitter.com/PDLComics/status/1001878999163781121/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 615,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 615,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 597,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 193570988,
+				"id_str": "193570988",
+				"name": "poorly drawn lines",
+				"screen_name": "PDLComics",
+				"location": "",
+				"description": "comics by reza",
+				"url": "https://t.co/8Vo8FmMpkh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8Vo8FmMpkh",
+								"expanded_url": "https://poorlydrawnstore.com/",
+								"display_url": "poorlydrawnstore.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 71753,
+				"friends_count": 309,
+				"listed_count": 755,
+				"created_at": "Wed Sep 22 04:15:45 +0000 2010",
+				"favourites_count": 1060,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2519,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/987469732277190656/ezMY-PUA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/987469732277190656/ezMY-PUA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/193570988/1504900745",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 479,
+			"favorite_count": 2073,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 479,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue May 29 09:13:22 +0000 2018",
 		"id": 1001391033874288600,
 		"id_str": "1001391033874288642",
