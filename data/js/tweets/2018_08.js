@@ -1,6 +1,477 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Wed Aug 08 21:34:15 +0000 2018",
+		"id": 1027307023501865000,
+		"id_str": "1027307023501864960",
+		"text": "#HangUps started off well",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HangUps",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 275,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 749,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37811,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1533589011",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 08 20:35:58 +0000 2018",
+		"id": 1027292354070409200,
+		"id_str": "1027292354070409216",
+		"text": "RT @localnotail: Happy  #InternationalCatDay2018\nfrom Ron Purrlman https://t.co/oWCaaJoXQm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InternationalCatDay2018",
+					"indices": [
+						24,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "localnotail",
+					"name": "Jane, Local. #BSTS",
+					"id": 45970216,
+					"id_str": "45970216",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1027263404724170800,
+					"id_str": "1027263404724170756",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DkGSn7lXsAQAYrf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkGSn7lXsAQAYrf.jpg",
+					"url": "https://t.co/oWCaaJoXQm",
+					"display_url": "pic.twitter.com/oWCaaJoXQm",
+					"expanded_url": "https://twitter.com/localnotail/status/1027263416547897344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 378,
+							"h": 435,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 378,
+							"h": 435,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 378,
+							"h": 435,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027263416547897300,
+					"source_status_id_str": "1027263416547897344",
+					"source_user_id": 45970216,
+					"source_user_id_str": "45970216"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1027263404724170800,
+					"id_str": "1027263404724170756",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DkGSn7lXsAQAYrf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkGSn7lXsAQAYrf.jpg",
+					"url": "https://t.co/oWCaaJoXQm",
+					"display_url": "pic.twitter.com/oWCaaJoXQm",
+					"expanded_url": "https://twitter.com/localnotail/status/1027263416547897344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 378,
+							"h": 435,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 378,
+							"h": 435,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 378,
+							"h": 435,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027263416547897300,
+					"source_status_id_str": "1027263416547897344",
+					"source_user_id": 45970216,
+					"source_user_id_str": "45970216"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 275,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 749,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37811,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1533589011",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 08 18:40:58 +0000 2018",
+			"id": 1027263416547897300,
+			"id_str": "1027263416547897344",
+			"text": "Happy  #InternationalCatDay2018\nfrom Ron Purrlman https://t.co/oWCaaJoXQm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InternationalCatDay2018",
+						"indices": [
+							7,
+							31
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1027263404724170800,
+						"id_str": "1027263404724170756",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DkGSn7lXsAQAYrf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkGSn7lXsAQAYrf.jpg",
+						"url": "https://t.co/oWCaaJoXQm",
+						"display_url": "pic.twitter.com/oWCaaJoXQm",
+						"expanded_url": "https://twitter.com/localnotail/status/1027263416547897344/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 378,
+								"h": 435,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 378,
+								"h": 435,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 378,
+								"h": 435,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1027263404724170800,
+						"id_str": "1027263404724170756",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DkGSn7lXsAQAYrf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkGSn7lXsAQAYrf.jpg",
+						"url": "https://t.co/oWCaaJoXQm",
+						"display_url": "pic.twitter.com/oWCaaJoXQm",
+						"expanded_url": "https://twitter.com/localnotail/status/1027263416547897344/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 378,
+								"h": 435,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 378,
+								"h": 435,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 378,
+								"h": 435,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 45970216,
+				"id_str": "45970216",
+				"name": "Jane, Local. #BSTS",
+				"screen_name": "localnotail",
+				"location": "South Central Birmingham (UK)",
+				"description": "Local. A bit Gonzo. Mostly harmless Info Assistant & Mum.\nDon't be a dick on purpose\nDo as you would be done by\n#BrexitConcerns in profile link\n#FinalSay please",
+				"url": "https://t.co/BuFFwMMh4r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BuFFwMMh4r",
+								"expanded_url": "https://twitter.com/localnotail/status/1011574422673739776",
+								"display_url": "twitter.com/localnotail/st…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2464,
+				"friends_count": 725,
+				"listed_count": 37,
+				"created_at": "Tue Jun 09 22:59:27 +0000 2009",
+				"favourites_count": 25715,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 51633,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1765128435/charley_1s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1765128435/charley_1s_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/45970216/1505252663",
+				"profile_link_color": "A6444C",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 338,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 06 21:25:27 +0000 2018",
 		"id": 1026580033144533000,
 		"id_str": "1026580033144532994",
