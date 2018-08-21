@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Mon Aug 20 08:12:26 +0000 2018",
+		"id": 1031453894059208700,
+		"id_str": "1031453894059208704",
+		"text": "RT @jamiesont: Just when I'm about to delete this hellsite it has to go &amp; remind me why it's great https://t.co/o5t2MzQOHf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jamiesont",
+					"name": "tom jamieson",
+					"id": 36941760,
+					"id_str": "36941760",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1031253912827908100,
+					"id_str": "1031253912827908104",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Dk-_-EtW0AgSRXq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dk-_-EtW0AgSRXq.jpg",
+					"url": "https://t.co/o5t2MzQOHf",
+					"display_url": "pic.twitter.com/o5t2MzQOHf",
+					"expanded_url": "https://twitter.com/jamiesont/status/1031253919148724226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 638,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 682,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1031253919148724200,
+					"source_status_id_str": "1031253919148724226",
+					"source_user_id": 36941760,
+					"source_user_id_str": "36941760"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1031253912827908100,
+					"id_str": "1031253912827908104",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Dk-_-EtW0AgSRXq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dk-_-EtW0AgSRXq.jpg",
+					"url": "https://t.co/o5t2MzQOHf",
+					"display_url": "pic.twitter.com/o5t2MzQOHf",
+					"expanded_url": "https://twitter.com/jamiesont/status/1031253919148724226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 638,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 682,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1031253919148724200,
+					"source_status_id_str": "1031253919148724226",
+					"source_user_id": 36941760,
+					"source_user_id_str": "36941760"
+				},
+				{
+					"id": 1031253912798605300,
+					"id_str": "1031253912798605313",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Dk-_-EmXsAESiwN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dk-_-EmXsAESiwN.jpg",
+					"url": "https://t.co/o5t2MzQOHf",
+					"display_url": "pic.twitter.com/o5t2MzQOHf",
+					"expanded_url": "https://twitter.com/jamiesont/status/1031253919148724226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1031253919148724200,
+					"source_status_id_str": "1031253919148724226",
+					"source_user_id": 36941760,
+					"source_user_id_str": "36941760"
+				}
+			]
+		},
+		"source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 275,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1533589011",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 19 18:57:48 +0000 2018",
+			"id": 1031253919148724200,
+			"id_str": "1031253919148724226",
+			"text": "Just when I'm about to delete this hellsite it has to go &amp; remind me why it's great https://t.co/o5t2MzQOHf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1031253912827908100,
+						"id_str": "1031253912827908104",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/Dk-_-EtW0AgSRXq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dk-_-EtW0AgSRXq.jpg",
+						"url": "https://t.co/o5t2MzQOHf",
+						"display_url": "pic.twitter.com/o5t2MzQOHf",
+						"expanded_url": "https://twitter.com/jamiesont/status/1031253919148724226/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 682,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 638,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 682,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1031253912827908100,
+						"id_str": "1031253912827908104",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/Dk-_-EtW0AgSRXq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dk-_-EtW0AgSRXq.jpg",
+						"url": "https://t.co/o5t2MzQOHf",
+						"display_url": "pic.twitter.com/o5t2MzQOHf",
+						"expanded_url": "https://twitter.com/jamiesont/status/1031253919148724226/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 682,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 638,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 682,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1031253912798605300,
+						"id_str": "1031253912798605313",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/Dk-_-EmXsAESiwN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dk-_-EmXsAESiwN.jpg",
+						"url": "https://t.co/o5t2MzQOHf",
+						"display_url": "pic.twitter.com/o5t2MzQOHf",
+						"expanded_url": "https://twitter.com/jamiesont/status/1031253919148724226/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36941760,
+				"id_str": "36941760",
+				"name": "tom jamieson",
+				"screen_name": "jamiesont",
+				"location": "Retweets are not an endorphin",
+				"description": "One of those immigrants you hear about. Writes comedy: Private Eye. Dead Ringers. WUA, Kids books: Big Bad Mood, Sproutzilla (Book 2: 2019). Friendly but tired",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17407,
+				"friends_count": 1388,
+				"listed_count": 342,
+				"created_at": "Fri May 01 13:27:55 +0000 2009",
+				"favourites_count": 13771,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 64269,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/870527146837626880/FqZA_c-S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/870527146837626880/FqZA_c-S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36941760/1496836968",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1264,
+			"favorite_count": 5670,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1264,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 19 22:17:28 +0000 2018",
 		"id": 1031304166998720500,
 		"id_str": "1031304166998720513",
