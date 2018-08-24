@@ -1,6 +1,767 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Thu Aug 23 07:59:03 +0000 2018",
+		"id": 1032537688526733300,
+		"id_str": "1032537688526733313",
+		"text": "RT @ThatsGerard: OK WATCH THIS TILL THE END. MY HEADS FELL OFF HAHAHAHAHA https://t.co/O5GoLcKAsv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThatsGerard",
+					"name": "ThatGed",
+					"id": 975786604399915000,
+					"id_str": "975786604399915008",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1031966275390582800,
+					"id_str": "1031966275390582784",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1031966275390582784/pu/img/As58kCayVofFX7A6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1031966275390582784/pu/img/As58kCayVofFX7A6.jpg",
+					"url": "https://t.co/O5GoLcKAsv",
+					"display_url": "pic.twitter.com/O5GoLcKAsv",
+					"expanded_url": "https://twitter.com/ThatsGerard/status/1031966359360614400/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1031966359360614400,
+					"source_status_id_str": "1031966359360614400",
+					"source_user_id": 975786604399915000,
+					"source_user_id_str": "975786604399915008"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1031966275390582800,
+					"id_str": "1031966275390582784",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1031966275390582784/pu/img/As58kCayVofFX7A6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1031966275390582784/pu/img/As58kCayVofFX7A6.jpg",
+					"url": "https://t.co/O5GoLcKAsv",
+					"display_url": "pic.twitter.com/O5GoLcKAsv",
+					"expanded_url": "https://twitter.com/ThatsGerard/status/1031966359360614400/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1031966359360614400,
+					"source_status_id_str": "1031966359360614400",
+					"source_user_id": 975786604399915000,
+					"source_user_id_str": "975786604399915008",
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							53
+						],
+						"duration_millis": 67037,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1031966275390582784/pu/vid/360x636/Cm_zCQUtB7wtbjUS.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1031966275390582784/pu/pl/b5yfFGgKf-CL9KjC.m3u8?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1031966275390582784/pu/vid/180x318/HIVejH_4MtQzs9m1.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1031966275390582784/pu/vid/480x848/-ufj1Zx9JJxqg5C7.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 975786604399915000,
+							"id_str": "975786604399915008",
+							"name": "ThatGed™️",
+							"screen_name": "ThatsGerard",
+							"location": "Liverpool, England",
+							"description": "🦀",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 4070,
+							"friends_count": 585,
+							"listed_count": 10,
+							"created_at": "Mon Mar 19 17:30:30 +0000 2018",
+							"favourites_count": 3435,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 7221,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1032015774574108673/go8DInGd_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032015774574108673/go8DInGd_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/975786604399915008/1534110689",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 275,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37865,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1533589011",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 21 18:08:47 +0000 2018",
+			"id": 1031966359360614400,
+			"id_str": "1031966359360614400",
+			"text": "OK WATCH THIS TILL THE END. MY HEADS FELL OFF HAHAHAHAHA https://t.co/O5GoLcKAsv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1031966275390582800,
+						"id_str": "1031966275390582784",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1031966275390582784/pu/img/As58kCayVofFX7A6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1031966275390582784/pu/img/As58kCayVofFX7A6.jpg",
+						"url": "https://t.co/O5GoLcKAsv",
+						"display_url": "pic.twitter.com/O5GoLcKAsv",
+						"expanded_url": "https://twitter.com/ThatsGerard/status/1031966359360614400/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 385,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1031966275390582800,
+						"id_str": "1031966275390582784",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1031966275390582784/pu/img/As58kCayVofFX7A6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1031966275390582784/pu/img/As58kCayVofFX7A6.jpg",
+						"url": "https://t.co/O5GoLcKAsv",
+						"display_url": "pic.twitter.com/O5GoLcKAsv",
+						"expanded_url": "https://twitter.com/ThatsGerard/status/1031966359360614400/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 385,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								30,
+								53
+							],
+							"duration_millis": 67037,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1031966275390582784/pu/vid/360x636/Cm_zCQUtB7wtbjUS.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1031966275390582784/pu/pl/b5yfFGgKf-CL9KjC.m3u8?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1031966275390582784/pu/vid/180x318/HIVejH_4MtQzs9m1.mp4?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1031966275390582784/pu/vid/480x848/-ufj1Zx9JJxqg5C7.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 975786604399915000,
+				"id_str": "975786604399915008",
+				"name": "ThatGed™️",
+				"screen_name": "ThatsGerard",
+				"location": "Liverpool, England",
+				"description": "🦀",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4070,
+				"friends_count": 585,
+				"listed_count": 10,
+				"created_at": "Mon Mar 19 17:30:30 +0000 2018",
+				"favourites_count": 3435,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7221,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1032015774574108673/go8DInGd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032015774574108673/go8DInGd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/975786604399915008/1534110689",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47922,
+			"favorite_count": 108357,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 47922,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 23 06:35:29 +0000 2018",
+		"id": 1032516657569325000,
+		"id_str": "1032516657569325056",
+		"text": "RT @LarsLB: Just posted on #dsoh: All Deeper Shades Recordings releases now available for free https://t.co/jZX4y0OhI5 https://t.co/QPnW8YI…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dsoh",
+					"indices": [
+						27,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LarsLB",
+					"name": "Lars Behrenroth",
+					"id": 8353042,
+					"id_str": "8353042",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jZX4y0OhI5",
+					"expanded_url": "https://on.dsoh.net/2o0oTxZ",
+					"display_url": "on.dsoh.net/2o0oTxZ",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 275,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37865,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1533589011",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 23 02:33:46 +0000 2018",
+			"id": 1032455828576653300,
+			"id_str": "1032455828576653312",
+			"text": "Just posted on #dsoh: All Deeper Shades Recordings releases now available for free https://t.co/jZX4y0OhI5 https://t.co/QPnW8YINf0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "dsoh",
+						"indices": [
+							15,
+							20
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jZX4y0OhI5",
+						"expanded_url": "https://on.dsoh.net/2o0oTxZ",
+						"display_url": "on.dsoh.net/2o0oTxZ",
+						"indices": [
+							83,
+							106
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1032455827104428000,
+						"id_str": "1032455827104428032",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DlQFGsTXcAAoiTC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlQFGsTXcAAoiTC.jpg",
+						"url": "https://t.co/QPnW8YINf0",
+						"display_url": "pic.twitter.com/QPnW8YINf0",
+						"expanded_url": "https://twitter.com/LarsLB/status/1032455828576653312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 599,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 599,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 582,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1032455827104428000,
+						"id_str": "1032455827104428032",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DlQFGsTXcAAoiTC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlQFGsTXcAAoiTC.jpg",
+						"url": "https://t.co/QPnW8YINf0",
+						"display_url": "pic.twitter.com/QPnW8YINf0",
+						"expanded_url": "https://twitter.com/LarsLB/status/1032455828576653312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 599,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 599,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 582,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8353042,
+				"id_str": "8353042",
+				"name": "Lars Behrenroth",
+				"screen_name": "LarsLB",
+				"location": "33.839483,-118.380781",
+				"description": "IG📷: LarsLB #DeepHouse DJ, Producer, Remixer & Radio host of weekly show @DeeperShades Of House",
+				"url": "https://t.co/wDSxv5YuF0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wDSxv5YuF0",
+								"expanded_url": "http://www.deepershades.net",
+								"display_url": "deepershades.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 123632,
+				"friends_count": 24818,
+				"listed_count": 948,
+				"created_at": "Wed Aug 22 08:55:09 +0000 2007",
+				"favourites_count": 2931,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 31674,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1005973403801489408/mVP2KuX9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005973403801489408/mVP2KuX9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8353042/1480437179",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "177DB0",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "191919",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 22 08:00:32 +0000 2018",
 		"id": 1032175675644502000,
 		"id_str": "1032175675644502016",
