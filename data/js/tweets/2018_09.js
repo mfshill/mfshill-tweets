@@ -1,6 +1,505 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Mon Sep 10 19:04:47 +0000 2018",
+		"id": 1039228209852821500,
+		"id_str": "1039228209852821505",
+		"text": "RT @Torren___: Estás bien @Llourinho? Pedimos el VAR? https://t.co/UOhfmRTQAt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Torren___",
+					"name": "Tio Torren",
+					"id": 1062160832,
+					"id_str": "1062160832",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "Llourinho",
+					"name": "Llourinho",
+					"id": 261895325,
+					"id_str": "261895325",
+					"indices": [
+						26,
+						36
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1038777436224282600,
+					"id_str": "1038777436224282626",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1038777436224282626/pu/img/0TDPDBJH-Cmriwyy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1038777436224282626/pu/img/0TDPDBJH-Cmriwyy.jpg",
+					"url": "https://t.co/UOhfmRTQAt",
+					"display_url": "pic.twitter.com/UOhfmRTQAt",
+					"expanded_url": "https://twitter.com/Torren___/status/1038777516650049536/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1038777516650049500,
+					"source_status_id_str": "1038777516650049536",
+					"source_user_id": 1062160832,
+					"source_user_id_str": "1062160832"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1038777436224282600,
+					"id_str": "1038777436224282626",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1038777436224282626/pu/img/0TDPDBJH-Cmriwyy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1038777436224282626/pu/img/0TDPDBJH-Cmriwyy.jpg",
+					"url": "https://t.co/UOhfmRTQAt",
+					"display_url": "pic.twitter.com/UOhfmRTQAt",
+					"expanded_url": "https://twitter.com/Torren___/status/1038777516650049536/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1038777516650049500,
+					"source_status_id_str": "1038777516650049536",
+					"source_user_id": 1062160832,
+					"source_user_id_str": "1062160832",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 19163,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1038777436224282626/pu/pl/1y6DBrJXoUkD427D.m3u8?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1038777436224282626/pu/vid/1280x720/x9bzcbK7nJIulI5w.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1038777436224282626/pu/vid/320x180/bDNhqmB5FSMdIU7W.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1038777436224282626/pu/vid/640x360/ILXnO-AyWOiSDBcv.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1062160832,
+							"id_str": "1062160832",
+							"name": "Tio Torren",
+							"screen_name": "Torren___",
+							"location": "",
+							"description": "PARODIA NO OFICIAL. (Fake)",
+							"url": "https://t.co/JtqlR6t4cW",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/JtqlR6t4cW",
+											"expanded_url": "https://www.instagram.com/torren__/",
+											"display_url": "instagram.com/torren__/",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 53378,
+							"friends_count": 256,
+							"listed_count": 166,
+							"created_at": "Sat Jan 05 04:41:20 +0000 2013",
+							"favourites_count": 4112,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 1471,
+							"lang": "es",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/806549931985092609/2gRzZ0tp_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/806549931985092609/2gRzZ0tp_normal.jpg",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 276,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37956,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1533589011",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 09 13:13:54 +0000 2018",
+			"id": 1038777516650049500,
+			"id_str": "1038777516650049536",
+			"text": "Estás bien @Llourinho? Pedimos el VAR? https://t.co/UOhfmRTQAt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Llourinho",
+						"name": "Llourinho",
+						"id": 261895325,
+						"id_str": "261895325",
+						"indices": [
+							11,
+							21
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1038777436224282600,
+						"id_str": "1038777436224282626",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1038777436224282626/pu/img/0TDPDBJH-Cmriwyy.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1038777436224282626/pu/img/0TDPDBJH-Cmriwyy.jpg",
+						"url": "https://t.co/UOhfmRTQAt",
+						"display_url": "pic.twitter.com/UOhfmRTQAt",
+						"expanded_url": "https://twitter.com/Torren___/status/1038777516650049536/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1038777436224282600,
+						"id_str": "1038777436224282626",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1038777436224282626/pu/img/0TDPDBJH-Cmriwyy.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1038777436224282626/pu/img/0TDPDBJH-Cmriwyy.jpg",
+						"url": "https://t.co/UOhfmRTQAt",
+						"display_url": "pic.twitter.com/UOhfmRTQAt",
+						"expanded_url": "https://twitter.com/Torren___/status/1038777516650049536/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 19163,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1038777436224282626/pu/pl/1y6DBrJXoUkD427D.m3u8?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1038777436224282626/pu/vid/1280x720/x9bzcbK7nJIulI5w.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1038777436224282626/pu/vid/320x180/bDNhqmB5FSMdIU7W.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1038777436224282626/pu/vid/640x360/ILXnO-AyWOiSDBcv.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1062160832,
+				"id_str": "1062160832",
+				"name": "Tio Torren",
+				"screen_name": "Torren___",
+				"location": "",
+				"description": "PARODIA NO OFICIAL. (Fake)",
+				"url": "https://t.co/JtqlR6t4cW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JtqlR6t4cW",
+								"expanded_url": "https://www.instagram.com/torren__/",
+								"display_url": "instagram.com/torren__/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53378,
+				"friends_count": 256,
+				"listed_count": 166,
+				"created_at": "Sat Jan 05 04:41:20 +0000 2013",
+				"favourites_count": 4112,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1471,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/806549931985092609/2gRzZ0tp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/806549931985092609/2gRzZ0tp_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3145,
+			"favorite_count": 5680,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3145,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es"
+	},
+	{
 		"created_at": "Sat Sep 08 13:33:42 +0000 2018",
 		"id": 1038420113979002900,
 		"id_str": "1038420113979002881",
