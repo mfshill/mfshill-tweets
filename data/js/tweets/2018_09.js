@@ -1,6 +1,551 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Fri Sep 28 20:15:33 +0000 2018",
+		"id": 1045768997856333800,
+		"id_str": "1045768997856333825",
+		"text": "Nocturnal Grooves, Vol. 6 is pretty good #NowPlaying 'Closer (The Shapeshifters Edit)- Danism, Haze' https://t.co/gkZuJZ0SVh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NowPlaying",
+					"indices": [
+						41,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gkZuJZ0SVh",
+					"expanded_url": "https://youtu.be/3U3z4tBjTsY",
+					"display_url": "youtu.be/3U3z4tBjTsY",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 279,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38038,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1533589011",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 28 16:37:14 +0000 2018",
+		"id": 1045714058345934800,
+		"id_str": "1045714058345934849",
+		"text": "@TC_Cornesto @DJJamieTaylor1 https://t.co/kBdegkGAN4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "DJJamieTaylor1",
+					"name": "DJ Jamie Taylor 🎧",
+					"id": 542586500,
+					"id_str": "542586500",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1045714046383738900,
+					"id_str": "1045714046383738881",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DoMfYn9W0AEtZ4G.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DoMfYn9W0AEtZ4G.jpg",
+					"url": "https://t.co/kBdegkGAN4",
+					"display_url": "pic.twitter.com/kBdegkGAN4",
+					"expanded_url": "https://twitter.com/mfshill/status/1045714058345934849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 460,
+							"h": 246,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 460,
+							"h": 246,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 246,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1045714046383738900,
+					"id_str": "1045714046383738881",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DoMfYn9W0AEtZ4G.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DoMfYn9W0AEtZ4G.jpg",
+					"url": "https://t.co/kBdegkGAN4",
+					"display_url": "pic.twitter.com/kBdegkGAN4",
+					"expanded_url": "https://twitter.com/mfshill/status/1045714058345934849/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 460,
+							"h": 246,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 460,
+							"h": 246,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 246,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							230,
+							123
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DoMfYn9W0AEtZ4G.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1045712492964524000,
+		"in_reply_to_status_id_str": "1045712492964524032",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 279,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38038,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1533589011",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Fri Sep 28 16:10:28 +0000 2018",
+		"id": 1045707320255270900,
+		"id_str": "1045707320255270912",
+		"text": "@TC_Cornesto @DJJamieTaylor1 first of the day/weekend? not all that bad",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "DJJamieTaylor1",
+					"name": "DJ Jamie Taylor 🎧",
+					"id": 542586500,
+					"id_str": "542586500",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1045705620933029900,
+		"in_reply_to_status_id_str": "1045705620933029889",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 279,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38038,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1533589011",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 28 16:08:52 +0000 2018",
+		"id": 1045706917501423600,
+		"id_str": "1045706917501423617",
+		"text": "one for @benjaminmurdoch &amp; @and_armstrong https://t.co/lglgGQ0VtT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benjaminmurdoch",
+					"name": "benjamin murdoch",
+					"id": 75249286,
+					"id_str": "75249286",
+					"indices": [
+						8,
+						24
+					]
+				},
+				{
+					"screen_name": "and_armstrong",
+					"name": "and_",
+					"id": 61477315,
+					"id_str": "61477315",
+					"indices": [
+						31,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lglgGQ0VtT",
+					"expanded_url": "http://kck.st/2Dh2t6i",
+					"display_url": "kck.st/2Dh2t6i",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 279,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38038,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1533589011",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 26 20:44:40 +0000 2018",
 		"id": 1045051549330944000,
 		"id_str": "1045051549330944001",
