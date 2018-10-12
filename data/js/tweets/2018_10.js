@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 11 15:26:25 +0000 2018",
+		"id": 1050407278355120100,
+		"id_str": "1050407278355120130",
+		"full_text": "They're not your average couple...\nIt isn't your average car...\nThis is not your average Sunday Drive... https://t.co/tUlgNJO9g5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1050339554610298900,
+					"id_str": "1050339554610298880",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DpO84iVXgAAcTLS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpO84iVXgAAcTLS.jpg",
+					"url": "https://t.co/tUlgNJO9g5",
+					"display_url": "pic.twitter.com/tUlgNJO9g5",
+					"expanded_url": "https://twitter.com/MercedesAMGF1/status/1050407278355120130/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050339554610298900,
+					"id_str": "1050339554610298880",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DpO84iVXgAAcTLS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpO84iVXgAAcTLS.jpg",
+					"url": "https://t.co/tUlgNJO9g5",
+					"display_url": "pic.twitter.com/tUlgNJO9g5",
+					"expanded_url": "https://twitter.com/MercedesAMGF1/status/1050407278355120130/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 334640,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1050339554610298880/vid/1280x720/M09ZZIBaDTW6-M59.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1050339554610298880/vid/640x360/C2Vq0EeguV0FDgI4.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1050339554610298880/pl/In5Yd24_VXIm6ph6.m3u8?tag=8"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1050339554610298880/vid/320x180/67cvbeEuenbiOSmT.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Susie vs. Toto Wolff - AMG Suzuka Track Battle!",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26235265,
+			"id_str": "26235265",
+			"name": "Mercedes-AMG F1",
+			"screen_name": "MercedesAMGF1",
+			"location": "Brackley, England",
+			"description": "We are Mercedes-AMG Petronas Motorsport. We live and breathe @F1. We are all about the racing. Together with you, we are #DrivenByEachOther...",
+			"url": "https://t.co/htQ0iY71Yo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/htQ0iY71Yo",
+							"expanded_url": "http://www.MercedesAMGF1.com",
+							"display_url": "MercedesAMGF1.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2176252,
+			"friends_count": 4127,
+			"listed_count": 33502,
+			"created_at": "Tue Mar 24 13:24:04 +0000 2009",
+			"favourites_count": 53986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 91738,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1881059795/Star_Carbon_Background_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1881059795/Star_Carbon_Background_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26235265/1538985125",
+			"profile_link_color": "00A19C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDEDED",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 970,
+		"favorite_count": 4867,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "They're not your average couple...\nIt isn't your average car...\nThis is not your average Sunday Drive... https://t.co/tUlgNJO9g5"
+	},
+	{
 		"created_at": "Tue Oct 09 20:22:26 +0000 2018",
 		"id": 1049756997921464300,
 		"id_str": "1049756997921464320",
