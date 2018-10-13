@@ -1,6 +1,520 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 12 21:24:56 +0000 2018",
+		"id": 1050859890309308400,
+		"id_str": "1050859890309308417",
+		"full_text": "#KanyeWest https://t.co/IOz4l3xH9X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KanyeWest",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IOz4l3xH9X",
+					"expanded_url": "https://youtu.be/NN6JJqOqoew?t=68",
+					"display_url": "youtu.be/NN6JJqOqoew?t=…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 279,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1538321491",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#KanyeWest https://t.co/IOz4l3xH9X"
+	},
+	{
+		"created_at": "Thu Oct 11 14:21:58 +0000 2018",
+		"id": 1050391061284184000,
+		"id_str": "1050391061284184066",
+		"full_text": "Best resting phone bitch face... https://t.co/UEnPlthzFh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1050390910171840500,
+					"id_str": "1050390910171840512",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1050390910171840512/pu/img/2aiu4eu_NkrQmFX4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1050390910171840512/pu/img/2aiu4eu_NkrQmFX4.jpg",
+					"url": "https://t.co/UEnPlthzFh",
+					"display_url": "pic.twitter.com/UEnPlthzFh",
+					"expanded_url": "https://twitter.com/Eponine3193/status/1050391061284184066/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050390910171840500,
+					"id_str": "1050390910171840512",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1050390910171840512/pu/img/2aiu4eu_NkrQmFX4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1050390910171840512/pu/img/2aiu4eu_NkrQmFX4.jpg",
+					"url": "https://t.co/UEnPlthzFh",
+					"display_url": "pic.twitter.com/UEnPlthzFh",
+					"expanded_url": "https://twitter.com/Eponine3193/status/1050391061284184066/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 29134,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1050390910171840512/pu/vid/480x480/xHjUsRZ0TNYPuu3c.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1050390910171840512/pu/pl/IULz1NGsFs97l4aL.m3u8?tag=5"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1050390910171840512/pu/vid/640x640/wfFgTK-g-mFPlNYZ.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1050390910171840512/pu/vid/240x240/amW6exOaouB1baAZ.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2953500609,
+			"id_str": "2953500609",
+			"name": "Eponine3193",
+			"screen_name": "Eponine3193",
+			"location": "A hospital, NI.",
+			"description": "Old knackered Nurse. Speaks several languages. Proper tea, sweary, Jewish. @grumpygobshite has my 🔯💖#alwayscarrytwo #supportveterans",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 884,
+			"friends_count": 551,
+			"listed_count": 60,
+			"created_at": "Wed Dec 31 18:26:34 +0000 2014",
+			"favourites_count": 14161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25753,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050714073120366593/bERWKmwu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050714073120366593/bERWKmwu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2953500609/1466154421",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Best resting phone bitch face... https://t.co/UEnPlthzFh"
+	},
+	{
+		"created_at": "Thu Oct 11 15:26:25 +0000 2018",
+		"id": 1050407278355120100,
+		"id_str": "1050407278355120130",
+		"full_text": "They're not your average couple...\nIt isn't your average car...\nThis is not your average Sunday Drive... https://t.co/tUlgNJO9g5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1050339554610298900,
+					"id_str": "1050339554610298880",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DpO84iVXgAAcTLS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpO84iVXgAAcTLS.jpg",
+					"url": "https://t.co/tUlgNJO9g5",
+					"display_url": "pic.twitter.com/tUlgNJO9g5",
+					"expanded_url": "https://twitter.com/MercedesAMGF1/status/1050407278355120130/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050339554610298900,
+					"id_str": "1050339554610298880",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DpO84iVXgAAcTLS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpO84iVXgAAcTLS.jpg",
+					"url": "https://t.co/tUlgNJO9g5",
+					"display_url": "pic.twitter.com/tUlgNJO9g5",
+					"expanded_url": "https://twitter.com/MercedesAMGF1/status/1050407278355120130/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 334640,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1050339554610298880/vid/1280x720/M09ZZIBaDTW6-M59.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1050339554610298880/vid/640x360/C2Vq0EeguV0FDgI4.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1050339554610298880/pl/In5Yd24_VXIm6ph6.m3u8?tag=8"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1050339554610298880/vid/320x180/67cvbeEuenbiOSmT.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Susie vs. Toto Wolff - AMG Suzuka Track Battle!",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26235265,
+			"id_str": "26235265",
+			"name": "Mercedes-AMG F1",
+			"screen_name": "MercedesAMGF1",
+			"location": "Brackley, England",
+			"description": "We are Mercedes-AMG Petronas Motorsport. We live and breathe @F1. We are all about the racing. Together with you, we are #DrivenByEachOther...",
+			"url": "https://t.co/htQ0iY71Yo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/htQ0iY71Yo",
+							"expanded_url": "http://www.MercedesAMGF1.com",
+							"display_url": "MercedesAMGF1.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2177360,
+			"friends_count": 4129,
+			"listed_count": 33506,
+			"created_at": "Tue Mar 24 13:24:04 +0000 2009",
+			"favourites_count": 54029,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 91767,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1881059795/Star_Carbon_Background_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1881059795/Star_Carbon_Background_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26235265/1538985125",
+			"profile_link_color": "00A19C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDEDED",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1923,
+		"favorite_count": 10498,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "They're not your average couple...\nIt isn't your average car...\nThis is not your average Sunday Drive... https://t.co/tUlgNJO9g5"
+	},
+	{
 		"created_at": "Thu Oct 11 15:26:25 +0000 2018",
 		"id": 1050407278355120100,
 		"id_str": "1050407278355120130",
