@@ -1,6 +1,748 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 19 18:54:37 +0000 2018",
+		"id": 1053358776340877300,
+		"id_str": "1053358776340877312",
+		"full_text": "is that @MarkOrmrod on BBC1! looking great mate.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkOrmrod",
+					"name": "Mark Ormrod MPSA",
+					"id": 44724668,
+					"id_str": "44724668",
+					"indices": [
+						8,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 272,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38149,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1538321491",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "is that @MarkOrmrod on BBC1! looking great mate."
+	},
+	{
+		"created_at": "Wed Oct 10 09:03:23 +0000 2018",
+		"id": 1049948499339554800,
+		"id_str": "1049948499339554816",
+		"full_text": "Interestingly, if you exclude private housing, construction output in August was 1.6% lower than a year ago instead of 0.3% higher so private house building growth is preventing/masking falls in construction output. \n#ukconstruction https://t.co/2bX7QUrUfq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ukconstruction",
+					"indices": [
+						217,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1049948017078521900,
+					"id_str": "1049948017078521856",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/DpIqKJ6XUAAfW4Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpIqKJ6XUAAfW4Y.jpg",
+					"url": "https://t.co/2bX7QUrUfq",
+					"display_url": "pic.twitter.com/2bX7QUrUfq",
+					"expanded_url": "https://twitter.com/NobleFrancis/status/1049948499339554816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 291,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 934,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 934,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1049948017078521900,
+					"id_str": "1049948017078521856",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/DpIqKJ6XUAAfW4Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpIqKJ6XUAAfW4Y.jpg",
+					"url": "https://t.co/2bX7QUrUfq",
+					"display_url": "pic.twitter.com/2bX7QUrUfq",
+					"expanded_url": "https://twitter.com/NobleFrancis/status/1049948499339554816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 291,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 934,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 934,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 229254107,
+			"id_str": "229254107",
+			"name": "Noble Francis",
+			"screen_name": "NobleFrancis",
+			"location": "Once of the Peak District but the last 10+ years in Brixton",
+			"description": "CPA Economics Director, PhD in Econometrics & Professor at the Bartlett School of Construction & Project Management. Also a calligrapher (see link).",
+			"url": "https://t.co/FjiQaImFrx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FjiQaImFrx",
+							"expanded_url": "https://www.instagram.com/thenoblefrancis/",
+							"display_url": "instagram.com/thenoblefranci…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3850,
+			"friends_count": 0,
+			"listed_count": 151,
+			"created_at": "Tue Dec 21 23:00:10 +0000 2010",
+			"favourites_count": 239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15639,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/525393655926755328/woaSkRqa_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/525393655926755328/woaSkRqa_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/229254107/1350081985",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interestingly, if you exclude private housing, construction output in August was 1.6% lower than a year ago instead of 0.3% higher so private house building growth is preventing/masking falls in construction output. \n#ukconstruction https://t.co/2bX7QUrUfq"
+	},
+	{
+		"created_at": "Fri Oct 19 09:33:55 +0000 2018",
+		"id": 1053217670240329700,
+		"id_str": "1053217670240329728",
+		"full_text": "@TC_Cornesto @therealLTJbukem track the lyrics are from is 'Horizons'",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "therealLTJbukem",
+					"name": "LTJ Bukem",
+					"id": 23880785,
+					"id_str": "23880785",
+					"indices": [
+						13,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1053216631449641000,
+		"in_reply_to_status_id_str": "1053216631449640960",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 272,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38149,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1538321491",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TC_Cornesto @therealLTJbukem track the lyrics are from is 'Horizons'"
+	},
+	{
+		"created_at": "Fri Oct 19 09:29:47 +0000 2018",
+		"id": 1053216631449641000,
+		"id_str": "1053216631449640960",
+		"full_text": "@TC_Cornesto far too easy. @therealLTJbukem with 'Logical Progression' an all time classic! https://t.co/OeomlIftZM",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "therealLTJbukem",
+					"name": "LTJ Bukem",
+					"id": 23880785,
+					"id_str": "23880785",
+					"indices": [
+						27,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OeomlIftZM",
+					"expanded_url": "https://www.youtube.com/watch?v=egd1cC5hH7s",
+					"display_url": "youtube.com/watch?v=egd1cC…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1053208734644781000,
+		"in_reply_to_status_id_str": "1053208734644781056",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 272,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38149,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1538321491",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@TC_Cornesto far too easy. @therealLTJbukem with 'Logical Progression' an all time classic! https://t.co/OeomlIftZM"
+	},
+	{
+		"created_at": "Fri Oct 19 08:08:20 +0000 2018",
+		"id": 1053196134045442000,
+		"id_str": "1053196134045442048",
+		"full_text": "Mornin'..... https://t.co/Q1a7QweJuA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053196121982545900,
+					"id_str": "1053196121982545920",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp20SvmWsAAKhCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp20SvmWsAAKhCJ.jpg",
+					"url": "https://t.co/Q1a7QweJuA",
+					"display_url": "pic.twitter.com/Q1a7QweJuA",
+					"expanded_url": "https://twitter.com/LynnGerrard/status/1053196134045442048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053196121982545900,
+					"id_str": "1053196121982545920",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp20SvmWsAAKhCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp20SvmWsAAKhCJ.jpg",
+					"url": "https://t.co/Q1a7QweJuA",
+					"display_url": "pic.twitter.com/Q1a7QweJuA",
+					"expanded_url": "https://twitter.com/LynnGerrard/status/1053196134045442048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 421267966,
+			"id_str": "421267966",
+			"name": "TheGrumblingGargoyle",
+			"screen_name": "LynnGerrard",
+			"location": "A Cathedral spire near you",
+			"description": "DARKNESS & DECADENCE https://t.co/QQ799Aes7s \nMUSINGS & MISCHIEF\nhttps://t.co/lYdG9ybpNC\nWHISPERINGS&WONDERINGS\nhttps://t.co/aMO9IzFM4D \nhttps://t.co/5guhOcPROa",
+			"url": "http://t.co/HClOTmYIPd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HClOTmYIPd",
+							"expanded_url": "http://thegrumblinggargoyle.blogspot.co.uk",
+							"display_url": "thegrumblinggargoyle.blogspot.co.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QQ799Aes7s",
+							"expanded_url": "http://ow.ly/ZK2k8",
+							"display_url": "ow.ly/ZK2k8",
+							"indices": [
+								21,
+								44
+							]
+						},
+						{
+							"url": "https://t.co/lYdG9ybpNC",
+							"expanded_url": "http://ow.ly/ZK2uh",
+							"display_url": "ow.ly/ZK2uh",
+							"indices": [
+								65,
+								88
+							]
+						},
+						{
+							"url": "https://t.co/aMO9IzFM4D",
+							"expanded_url": "http://ow.ly/eStx30hh5EE",
+							"display_url": "ow.ly/eStx30hh5EE",
+							"indices": [
+								112,
+								135
+							]
+						},
+						{
+							"url": "https://t.co/5guhOcPROa",
+							"expanded_url": "http://ow.ly/q1LM30hh5HL",
+							"display_url": "ow.ly/q1LM30hh5HL",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7430,
+			"friends_count": 4858,
+			"listed_count": 507,
+			"created_at": "Fri Nov 25 18:36:46 +0000 2011",
+			"favourites_count": 29152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 160240,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1657451056/gargoyle_winged_ram_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1657451056/gargoyle_winged_ram_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/421267966/1515659957",
+			"profile_link_color": "850505",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mornin'..... https://t.co/Q1a7QweJuA"
+	},
+	{
 		"created_at": "Thu Oct 18 17:50:07 +0000 2018",
 		"id": 1052980158720892900,
 		"id_str": "1052980158720892928",
