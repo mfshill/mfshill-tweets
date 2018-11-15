@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 14 20:36:10 +0000 2018",
+		"id": 1062806416644300800,
+		"id_str": "1062806416644300802",
+		"full_text": "@TC_Cornesto yeah yeah, you sick bastard!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "Nipples TC",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1062805975630049300,
+		"in_reply_to_status_id_str": "1062805975630049280",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 266,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38302,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1538321491",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TC_Cornesto yeah yeah, you sick bastard!"
+	},
+	{
+		"created_at": "Tue Nov 13 16:14:00 +0000 2018",
+		"id": 1062378053668618200,
+		"id_str": "1062378053668618240",
+		"full_text": "#FortheThrone https://t.co/xs34eDiA4O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FortheThrone",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1062377987683872800,
+					"id_str": "1062377987683872768",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dr5TJq0XcAAF1I6.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dr5TJq0XcAAF1I6.jpg",
+					"url": "https://t.co/xs34eDiA4O",
+					"display_url": "pic.twitter.com/xs34eDiA4O",
+					"expanded_url": "https://twitter.com/natlibscot/status/1062378053668618240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 244,
+							"h": 144,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 144,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 144,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 144,
+							"h": 144,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062377987683872800,
+					"id_str": "1062377987683872768",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dr5TJq0XcAAF1I6.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dr5TJq0XcAAF1I6.jpg",
+					"url": "https://t.co/xs34eDiA4O",
+					"display_url": "pic.twitter.com/xs34eDiA4O",
+					"expanded_url": "https://twitter.com/natlibscot/status/1062378053668618240/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 244,
+							"h": 144,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 144,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 144,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 144,
+							"h": 144,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							36
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dr5TJq0XcAAF1I6.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 75286820,
+			"id_str": "75286820",
+			"name": "National Library of Scotland",
+			"screen_name": "natlibscot",
+			"location": "Edinburgh, Scotland",
+			"description": "Scotland's national library. We hold over 29 million items; if you can think of it, we probably have it. Social media contact: @stewarthardy_",
+			"url": "https://t.co/rFWJQ32r32",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rFWJQ32r32",
+							"expanded_url": "http://www.nls.uk",
+							"display_url": "nls.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34305,
+			"friends_count": 2468,
+			"listed_count": 833,
+			"created_at": "Fri Sep 18 14:01:31 +0000 2009",
+			"favourites_count": 33056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22655,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "241A1A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057906231745093632/hCkKsgR5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057906231745093632/hCkKsgR5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/75286820/1541059477",
+			"profile_link_color": "241A1A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#FortheThrone https://t.co/xs34eDiA4O"
+	},
+	{
 		"created_at": "Tue Nov 13 16:14:00 +0000 2018",
 		"id": 1062378053668618200,
 		"id_str": "1062378053668618240",
