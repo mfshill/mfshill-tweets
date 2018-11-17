@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 16 14:29:58 +0000 2018",
+		"id": 1063439035002220500,
+		"id_str": "1063439035002220544",
+		"full_text": "@Spaceprojects the. fuck.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spaceprojects",
+					"name": "Space Projects Ltd ",
+					"id": 16144559,
+					"id_str": "16144559",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1063428751638364200,
+		"in_reply_to_status_id_str": "1063428751638364160",
+		"in_reply_to_user_id": 16144559,
+		"in_reply_to_user_id_str": "16144559",
+		"in_reply_to_screen_name": "Spaceprojects",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 266,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38305,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1538321491",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Spaceprojects the. fuck."
+	},
+	{
+		"created_at": "Thu Nov 15 12:06:45 +0000 2018",
+		"id": 1063040607713681400,
+		"id_str": "1063040607713681408",
+		"full_text": "We can rebuild him; we have the technology. https://t.co/Mi7dM2N3Qq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063040369909227500,
+					"id_str": "1063040369909227520",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DsCtlY5W4AATjyT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsCtlY5W4AATjyT.jpg",
+					"url": "https://t.co/Mi7dM2N3Qq",
+					"display_url": "pic.twitter.com/Mi7dM2N3Qq",
+					"expanded_url": "https://twitter.com/DickKingSmith/status/1063040607713681408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063040369909227500,
+					"id_str": "1063040369909227520",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DsCtlY5W4AATjyT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsCtlY5W4AATjyT.jpg",
+					"url": "https://t.co/Mi7dM2N3Qq",
+					"display_url": "pic.twitter.com/Mi7dM2N3Qq",
+					"expanded_url": "https://twitter.com/DickKingSmith/status/1063040607713681408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2275883743,
+			"id_str": "2275883743",
+			"name": "Dick King-Smith HQ",
+			"screen_name": "DickKingSmith",
+			"location": "",
+			"description": "Dick King-Smith is the author of over 130 children's books including The Sheep-Pig, which the film Babe is based on. This account is a tribute by the K-S family",
+			"url": "http://t.co/7IxQkD5dJr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/7IxQkD5dJr",
+							"expanded_url": "http://www.dickkingsmith.com",
+							"display_url": "dickkingsmith.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48903,
+			"friends_count": 27798,
+			"listed_count": 652,
+			"created_at": "Sat Jan 04 09:50:34 +0000 2014",
+			"favourites_count": 44686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19452,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/650626555991998464/iYH9jea4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/650626555991998464/iYH9jea4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2275883743/1522663007",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17461,
+		"favorite_count": 74585,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We can rebuild him; we have the technology. https://t.co/Mi7dM2N3Qq"
+	},
+	{
 		"created_at": "Thu Nov 15 17:44:45 +0000 2018",
 		"id": 1063125668106592300,
 		"id_str": "1063125668106592257",
