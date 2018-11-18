@@ -1,6 +1,660 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 17 14:51:12 +0000 2018",
+		"id": 1063806768319471600,
+		"id_str": "1063806768319471617",
+		"full_text": "#NowPlaying 'Boxer - Youu (Extended Mix)' https://t.co/RpGOuDD8VI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NowPlaying",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RpGOuDD8VI",
+					"expanded_url": "https://youtu.be/OebeDpA0HtU",
+					"display_url": "youtu.be/OebeDpA0HtU",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 266,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38309,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1538321491",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#NowPlaying 'Boxer - Youu (Extended Mix)' https://t.co/RpGOuDD8VI"
+	},
+	{
+		"created_at": "Sat Nov 17 13:18:27 +0000 2018",
+		"id": 1063783424501129200,
+		"id_str": "1063783424501129216",
+		"full_text": "#NowPlaying \"Global DJ Broadcast - Top 20 November 2018\" by @MarkusSchulz https://t.co/TVqGCbwUw5 then on to the last series of #HouseOfCards (really hope it's good)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NowPlaying",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "HouseOfCards",
+					"indices": [
+						128,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkusSchulz",
+					"name": "Markus Schulz",
+					"id": 25524289,
+					"id_str": "25524289",
+					"indices": [
+						60,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TVqGCbwUw5",
+					"expanded_url": "https://tidal.com/album/98438629",
+					"display_url": "tidal.com/album/98438629",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 266,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38309,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1538321491",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#NowPlaying \"Global DJ Broadcast - Top 20 November 2018\" by @MarkusSchulz https://t.co/TVqGCbwUw5 then on to the last series of #HouseOfCards (really hope it's good)"
+	},
+	{
+		"created_at": "Sat Nov 17 11:54:26 +0000 2018",
+		"id": 1063762283476729900,
+		"id_str": "1063762283476729856",
+		"full_text": "With just one day to go, it’s time to unveil our superstar race starter. See you on Sunday, @AliBrownleetri! 🏅🏅 #TakeChargeLDN https://t.co/m5PP9Miftn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TakeChargeLDN",
+					"indices": [
+						112,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AliBrownleetri",
+					"name": "Alistair Brownlee",
+					"id": 142681025,
+					"id_str": "142681025",
+					"indices": [
+						92,
+						107
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063762248185851900,
+					"id_str": "1063762248185851904",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1063762248185851904/pu/img/LOCnpYhM8hLlBQIg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1063762248185851904/pu/img/LOCnpYhM8hLlBQIg.jpg",
+					"url": "https://t.co/m5PP9Miftn",
+					"display_url": "pic.twitter.com/m5PP9Miftn",
+					"expanded_url": "https://twitter.com/cityrunsLDN/status/1063762283476729856/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063762248185851900,
+					"id_str": "1063762248185851904",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1063762248185851904/pu/img/LOCnpYhM8hLlBQIg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1063762248185851904/pu/img/LOCnpYhM8hLlBQIg.jpg",
+					"url": "https://t.co/m5PP9Miftn",
+					"display_url": "pic.twitter.com/m5PP9Miftn",
+					"expanded_url": "https://twitter.com/cityrunsLDN/status/1063762283476729856/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 3968,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1063762248185851904/pu/pl/R1RMjlZ6PuWw5iF0.m3u8?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063762248185851904/pu/vid/640x360/P9TFZYOco1WStaDu.mp4?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063762248185851904/pu/vid/320x180/6BbBzAKVcFME3Jta.mp4?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063762248185851904/pu/vid/1280x720/pl-b2WzgciQG8fqY.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 860160481025286100,
+			"id_str": "860160481025286144",
+			"name": "adidas City Runs",
+			"screen_name": "cityrunsLDN",
+			"location": "London, England",
+			"description": "Four events. Four unique locations. Four opportunities to own the closed roads of the capital. Next up: the Fulham 10K. Find out more: https://t.co/yetW7ntSlN",
+			"url": "https://t.co/rA4D461UUE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rA4D461UUE",
+							"expanded_url": "http://www.adidascityruns.com",
+							"display_url": "adidascityruns.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yetW7ntSlN",
+							"expanded_url": "http://bit.ly/Fulham10K",
+							"display_url": "bit.ly/Fulham10K",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1758,
+			"friends_count": 123,
+			"listed_count": 8,
+			"created_at": "Thu May 04 15:53:34 +0000 2017",
+			"favourites_count": 1476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 958,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/874192188443373570/okqMrmgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/874192188443373570/okqMrmgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/860160481025286144/1539681873",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With just one day to go, it’s time to unveil our superstar race starter. See you on Sunday, @AliBrownleetri! 🏅🏅 #TakeChargeLDN https://t.co/m5PP9Miftn"
+	},
+	{
+		"created_at": "Sat Nov 17 10:43:20 +0000 2018",
+		"id": 1063744389275623400,
+		"id_str": "1063744389275623424",
+		"full_text": "Still https://t.co/bXbj1RBQEH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063744383428821000,
+					"id_str": "1063744383428820992",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/DsMt4XoXgAAWknl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsMt4XoXgAAWknl.jpg",
+					"url": "https://t.co/bXbj1RBQEH",
+					"display_url": "pic.twitter.com/bXbj1RBQEH",
+					"expanded_url": "https://twitter.com/AlvinAl3978/status/1063744389275623424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 455,
+							"h": 475,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 455,
+							"h": 475,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 455,
+							"h": 475,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063744383428821000,
+					"id_str": "1063744383428820992",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/DsMt4XoXgAAWknl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsMt4XoXgAAWknl.jpg",
+					"url": "https://t.co/bXbj1RBQEH",
+					"display_url": "pic.twitter.com/bXbj1RBQEH",
+					"expanded_url": "https://twitter.com/AlvinAl3978/status/1063744389275623424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 455,
+							"h": 475,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 455,
+							"h": 475,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 455,
+							"h": 475,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153453124,
+			"id_str": "153453124",
+			"name": "AlvinAl3978",
+			"screen_name": "AlvinAl3978",
+			"location": "",
+			"description": "Funkateer : family, music, clothes and LFC #Wool If you set your mind free baby, maybe you'll understand.. ( My name isn't Alvin ) #ImABlackstar",
+			"url": "https://t.co/WH8Uti3rpl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WH8Uti3rpl",
+							"expanded_url": "http://allyal3.podomatic.com",
+							"display_url": "allyal3.podomatic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2281,
+			"friends_count": 2058,
+			"listed_count": 48,
+			"created_at": "Tue Jun 08 16:08:46 +0000 2010",
+			"favourites_count": 114320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84476,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057923853572341761/bvSCOwLJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057923853572341761/bvSCOwLJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153453124/1461273127",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Still https://t.co/bXbj1RBQEH"
+	},
+	{
 		"created_at": "Fri Nov 16 14:29:58 +0000 2018",
 		"id": 1063439035002220500,
 		"id_str": "1063439035002220544",
