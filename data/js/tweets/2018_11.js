@@ -1,6 +1,970 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 19 21:21:36 +0000 2018",
+		"id": 1064629791545090000,
+		"id_str": "1064629791545090049",
+		"full_text": "@TC_Cornesto i use talon on mobile which has a full image editing thing so no. https://t.co/NYyAwVfkm8",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "Nipples TC",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1064629781948452900,
+					"id_str": "1064629781948452864",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DsZTJWJW0AAPWOe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsZTJWJW0AAPWOe.jpg",
+					"url": "https://t.co/NYyAwVfkm8",
+					"display_url": "pic.twitter.com/NYyAwVfkm8",
+					"expanded_url": "https://twitter.com/mfshill/status/1064629791545090049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1064629781948452900,
+					"id_str": "1064629781948452864",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DsZTJWJW0AAPWOe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsZTJWJW0AAPWOe.jpg",
+					"url": "https://t.co/NYyAwVfkm8",
+					"display_url": "pic.twitter.com/NYyAwVfkm8",
+					"expanded_url": "https://twitter.com/mfshill/status/1064629791545090049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1064616618540585000,
+		"in_reply_to_status_id_str": "1064616618540584966",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 266,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38318,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1538321491",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@TC_Cornesto i use talon on mobile which has a full image editing thing so no. https://t.co/NYyAwVfkm8"
+	},
+	{
+		"created_at": "Mon Nov 19 20:34:42 +0000 2018",
+		"id": 1064617988677083100,
+		"id_str": "1064617988677083137",
+		"full_text": "Walking backwards can boost your short-term memory https://t.co/ePlgHU96yi https://t.co/nALNxOosLj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ePlgHU96yi",
+					"expanded_url": "http://bit.ly/2QVLSY2",
+					"display_url": "bit.ly/2QVLSY2",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1064617985493659600,
+					"id_str": "1064617985493659648",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DsZIas7XcAAOZ4N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsZIas7XcAAOZ4N.jpg",
+					"url": "https://t.co/nALNxOosLj",
+					"display_url": "pic.twitter.com/nALNxOosLj",
+					"expanded_url": "https://twitter.com/newscientist/status/1064617988677083137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1064617985493659600,
+					"id_str": "1064617985493659648",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DsZIas7XcAAOZ4N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsZIas7XcAAOZ4N.jpg",
+					"url": "https://t.co/nALNxOosLj",
+					"display_url": "pic.twitter.com/nALNxOosLj",
+					"expanded_url": "https://twitter.com/newscientist/status/1064617988677083137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19658826,
+			"id_str": "19658826",
+			"name": "New Scientist",
+			"screen_name": "newscientist",
+			"location": "Worldwide",
+			"description": "The best place to find out what’s new in science – and why it matters. To subscribe go to: https://t.co/M4DdnmRv4N",
+			"url": "http://t.co/6LpUpVcVZt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6LpUpVcVZt",
+							"expanded_url": "http://www.newscientist.com",
+							"display_url": "newscientist.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/M4DdnmRv4N",
+							"expanded_url": "http://bit.ly/2FmKOXZ",
+							"display_url": "bit.ly/2FmKOXZ",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3394429,
+			"friends_count": 74,
+			"listed_count": 33955,
+			"created_at": "Wed Jan 28 16:05:49 +0000 2009",
+			"favourites_count": 15588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 58011,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/960860144329469953/Tc-GOIGJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/960860144329469953/Tc-GOIGJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19658826/1399482279",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Walking backwards can boost your short-term memory https://t.co/ePlgHU96yi https://t.co/nALNxOosLj"
+	},
+	{
+		"created_at": "Mon Nov 19 21:17:55 +0000 2018",
+		"id": 1064628862875836400,
+		"id_str": "1064628862875836416",
+		"full_text": "roll on 2020! https://t.co/1olQswjO5b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1olQswjO5b",
+					"expanded_url": "https://twitter.com/jcklngrn/status/1064606092217524226",
+					"display_url": "twitter.com/jcklngrn/statu…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 266,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38318,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1538321491",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1064606092217524200,
+		"quoted_status_id_str": "1064606092217524226",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1olQswjO5b",
+			"expanded": "https://twitter.com/jcklngrn/status/1064606092217524226",
+			"display": "twitter.com/jcklngrn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 19 19:47:26 +0000 2018",
+			"id": 1064606092217524200,
+			"id_str": "1064606092217524226",
+			"full_text": "@runnersworld And remember that you can tackle the #RWRunStreak with a little help from Smashrun's badges :) https://t.co/4L1zxJpQgu",
+			"truncated": false,
+			"display_text_range": [
+				14,
+				108
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RWRunStreak",
+						"indices": [
+							51,
+							63
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "runnersworld",
+						"name": "Runner's World",
+						"id": 14882900,
+						"id_str": "14882900",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1064605787249696800,
+						"id_str": "1064605787249696776",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/DsY9Uq7X4Aggk0v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsY9Uq7X4Aggk0v.jpg",
+						"url": "https://t.co/4L1zxJpQgu",
+						"display_url": "pic.twitter.com/4L1zxJpQgu",
+						"expanded_url": "https://twitter.com/jcklngrn/status/1064606092217524226/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 302,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1064605787249696800,
+						"id_str": "1064605787249696776",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/DsY9Uq7X4Aggk0v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsY9Uq7X4Aggk0v.jpg",
+						"url": "https://t.co/4L1zxJpQgu",
+						"display_url": "pic.twitter.com/4L1zxJpQgu",
+						"expanded_url": "https://twitter.com/jcklngrn/status/1064606092217524226/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 302,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1064594207476715500,
+			"in_reply_to_status_id_str": "1064594207476715520",
+			"in_reply_to_user_id": 14882900,
+			"in_reply_to_user_id_str": "14882900",
+			"in_reply_to_screen_name": "runnersworld",
+			"user": {
+				"id": 45359021,
+				"id_str": "45359021",
+				"name": "Jacklyn Giron",
+				"screen_name": "jcklngrn",
+				"location": "Brooklyn, NY",
+				"description": "Dev/Design/Support @smashrunHQ. Lifelong #runner, frequent traveler, currently based in #sevilla. #womenInTech",
+				"url": "https://t.co/Vpqk16xx9e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Vpqk16xx9e",
+								"expanded_url": "https://smashrun.com/jacklyn.giron",
+								"display_url": "smashrun.com/jacklyn.giron",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2745,
+				"friends_count": 985,
+				"listed_count": 61,
+				"created_at": "Sun Jun 07 15:37:26 +0000 2009",
+				"favourites_count": 1458,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5784,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1775604953/74175_10100130736549709_809740_55032591_6734441_n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1775604953/74175_10100130736549709_809740_55032591_6734441_n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/45359021/1398879886",
+				"profile_link_color": "FF4500",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "roll on 2020! https://t.co/1olQswjO5b"
+	},
+	{
+		"created_at": "Mon Nov 19 21:10:00 +0000 2018",
+		"id": 1064626870652674000,
+		"id_str": "1064626870652674050",
+		"full_text": "@alicecharlotte yeah there is that... everyone in know that runs, hates it when they can't (including myself). Did you manage to find something else to do that had similar benefits?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alicecharlotte",
+					"name": "Alice Charlotte",
+					"id": 18801300,
+					"id_str": "18801300",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1064609978395308000,
+		"in_reply_to_status_id_str": "1064609978395308032",
+		"in_reply_to_user_id": 18801300,
+		"in_reply_to_user_id_str": "18801300",
+		"in_reply_to_screen_name": "alicecharlotte",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 266,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38318,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1538321491",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@alicecharlotte yeah there is that... everyone in know that runs, hates it when they can't (including myself). Did you manage to find something else to do that had similar benefits?"
+	},
+	{
+		"created_at": "Mon Nov 19 17:20:06 +0000 2018",
+		"id": 1064569016382120000,
+		"id_str": "1064569016382119939",
+		"full_text": "The effects of running on depression via matt Haig. It really is a great stress reliever and you almost certainly feel better once you finish. https://t.co/3lIVYNxEvu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1064569012548448300,
+					"id_str": "1064569012548448257",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/DsYb4GfWsAEra06.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsYb4GfWsAEra06.jpg",
+					"url": "https://t.co/3lIVYNxEvu",
+					"display_url": "pic.twitter.com/3lIVYNxEvu",
+					"expanded_url": "https://twitter.com/mfshill/status/1064569016382119939/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1064569012548448300,
+					"id_str": "1064569012548448257",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/DsYb4GfWsAEra06.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsYb4GfWsAEra06.jpg",
+					"url": "https://t.co/3lIVYNxEvu",
+					"display_url": "pic.twitter.com/3lIVYNxEvu",
+					"expanded_url": "https://twitter.com/mfshill/status/1064569016382119939/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 266,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38318,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1538321491",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The effects of running on depression via matt Haig. It really is a great stress reliever and you almost certainly feel better once you finish. https://t.co/3lIVYNxEvu"
+	},
+	{
 		"created_at": "Sun Nov 18 16:23:46 +0000 2018",
 		"id": 1064192448627396600,
 		"id_str": "1064192448627396610",
