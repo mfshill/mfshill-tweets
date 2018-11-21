@@ -1,6 +1,419 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 20 21:00:54 +0000 2018",
+		"id": 1064986968034107400,
+		"id_str": "1064986968034107393",
+		"full_text": "A century ago parents thought a little fear helped children grow up. Today parents are themselves constantly afraid. Why? https://t.co/2V7pDuKypr https://t.co/7plcAfqvuq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2V7pDuKypr",
+					"expanded_url": "http://ow.ly/sArN30mGbK2",
+					"display_url": "ow.ly/sArN30mGbK2",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1064986966234722300,
+					"id_str": "1064986966234722304",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DseYANTXcAAjtjD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DseYANTXcAAjtjD.jpg",
+					"url": "https://t.co/7plcAfqvuq",
+					"display_url": "pic.twitter.com/7plcAfqvuq",
+					"expanded_url": "https://twitter.com/aeonmag/status/1064986968034107393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1252,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 751,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1064986966234722300,
+					"id_str": "1064986966234722304",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DseYANTXcAAjtjD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DseYANTXcAAjtjD.jpg",
+					"url": "https://t.co/7plcAfqvuq",
+					"display_url": "pic.twitter.com/7plcAfqvuq",
+					"expanded_url": "https://twitter.com/aeonmag/status/1064986968034107393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1252,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 751,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 481943972,
+			"id_str": "481943972",
+			"name": "Aeon",
+			"screen_name": "aeonmag",
+			"location": "",
+			"description": "Aeon is a magazine of ideas and culture. We publish in-depth essays, incisive articles, and a mix of original and curated videos - free to all.",
+			"url": "https://t.co/Kj8suZmZim",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kj8suZmZim",
+							"expanded_url": "http://aeon.co/",
+							"display_url": "aeon.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 131045,
+			"friends_count": 2652,
+			"listed_count": 4009,
+			"created_at": "Fri Feb 03 10:43:27 +0000 2012",
+			"favourites_count": 19038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 33404,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/502476482732503043/lzuB88p2_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/502476482732503043/lzuB88p2_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/481943972/1541070437",
+			"profile_link_color": "0A4171",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A century ago parents thought a little fear helped children grow up. Today parents are themselves constantly afraid. Why? https://t.co/2V7pDuKypr https://t.co/7plcAfqvuq"
+	},
+	{
+		"created_at": "Tue Nov 20 20:42:46 +0000 2018",
+		"id": 1064982406007001100,
+		"id_str": "1064982406007001088",
+		"full_text": "so, after @charliejburness's #ChipGate, now @Coldwar_Steve is on @Channel4News!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ChipGate",
+					"indices": [
+						29,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "charliejburness",
+					"name": "Burnessie",
+					"id": 143071508,
+					"id_str": "143071508",
+					"indices": [
+						10,
+						26
+					]
+				},
+				{
+					"screen_name": "Coldwar_Steve",
+					"name": "McFadden's Cold War",
+					"id": 705709976501817300,
+					"id_str": "705709976501817348",
+					"indices": [
+						44,
+						58
+					]
+				},
+				{
+					"screen_name": "Channel4News",
+					"name": "Channel 4 News",
+					"id": 14569869,
+					"id_str": "14569869",
+					"indices": [
+						65,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 266,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38321,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1538321491",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "so, after @charliejburness's #ChipGate, now @Coldwar_Steve is on @Channel4News!"
+	},
+	{
+		"created_at": "Tue Nov 20 07:40:42 +0000 2018",
+		"id": 1064785591324295200,
+		"id_str": "1064785591324295168",
+		"full_text": "Cold cold cold ❄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 266,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38321,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993961004160770048/dEYZQqoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1538321491",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Cold cold cold ❄"
+	},
+	{
 		"created_at": "Mon Nov 19 21:21:36 +0000 2018",
 		"id": 1064629791545090000,
 		"id_str": "1064629791545090049",
