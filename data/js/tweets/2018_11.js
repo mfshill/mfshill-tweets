@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 26 21:57:07 +0000 2018",
+		"id": 1067175442485051400,
+		"id_str": "1067175442485051392",
+		"full_text": "well folks, #TheWalkingDead just got interesting",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheWalkingDead",
+					"indices": [
+						12,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 267,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "well folks, #TheWalkingDead just got interesting"
+	},
+	{
+		"created_at": "Mon Nov 26 20:06:40 +0000 2018",
+		"id": 1067147649386598400,
+		"id_str": "1067147649386598400",
+		"full_text": "My first picture on #Mars! My lens cover isn’t off yet, but I just had to show you a first look at my new home. More status updates:\nhttps://t.co/tYcLE3tkkS #MarsLanding https://t.co/G15bJjMYxa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Mars",
+					"indices": [
+						20,
+						25
+					]
+				},
+				{
+					"text": "MarsLanding",
+					"indices": [
+						157,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tYcLE3tkkS",
+					"expanded_url": "http://go.nasa.gov/InSightStatus",
+					"display_url": "go.nasa.gov/InSightStatus",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1067147579513688000,
+					"id_str": "1067147579513688072",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Ds9FEc_U0AguaqB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ds9FEc_U0AguaqB.jpg",
+					"url": "https://t.co/G15bJjMYxa",
+					"display_url": "pic.twitter.com/G15bJjMYxa",
+					"expanded_url": "https://twitter.com/NASAInSight/status/1067147649386598400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 665,
+							"h": 537,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 665,
+							"h": 537,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 665,
+							"h": 537,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1067147579513688000,
+					"id_str": "1067147579513688072",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Ds9FEc_U0AguaqB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ds9FEc_U0AguaqB.jpg",
+					"url": "https://t.co/G15bJjMYxa",
+					"display_url": "pic.twitter.com/G15bJjMYxa",
+					"expanded_url": "https://twitter.com/NASAInSight/status/1067147649386598400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 665,
+							"h": 537,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 665,
+							"h": 537,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 665,
+							"h": 537,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 407387443,
+			"id_str": "407387443",
+			"name": "NASAInSight",
+			"screen_name": "NASAInSight",
+			"location": "Elysium Planitia, Mars",
+			"description": "The InSight mission will study the early evolution of terrestrial planets. Launched May 5, 2018. Landing is scheduled for Nov. 26, 2018.",
+			"url": "https://t.co/W8mkWAHcmY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W8mkWAHcmY",
+							"expanded_url": "http://mars.nasa.gov/insight",
+							"display_url": "mars.nasa.gov/insight",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 225586,
+			"friends_count": 181,
+			"listed_count": 1902,
+			"created_at": "Tue Nov 08 00:56:18 +0000 2011",
+			"favourites_count": 442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 656,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062801236166987776/VwIfJa9u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062801236166987776/VwIfJa9u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/407387443/1543273293",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19347,
+		"favorite_count": 44686,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My first picture on #Mars! My lens cover isn’t off yet, but I just had to show you a first look at my new home. More status updates:\nhttps://t.co/tYcLE3tkkS #MarsLanding https://t.co/G15bJjMYxa"
+	},
+	{
 		"created_at": "Sun Nov 25 14:17:38 +0000 2018",
 		"id": 1066697423895109600,
 		"id_str": "1066697423895109632",
