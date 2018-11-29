@@ -1,6 +1,545 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 28 15:45:18 +0000 2018",
+		"id": 1067806647949635600,
+		"id_str": "1067806647949635584",
+		"full_text": "With the recent news that 68% of men don’t know how to check themselves, Dr Chris demonstrates a testicular examination on @LoveIsland’s @chrishughes_22, who has previously had a health scare himself https://t.co/TMMgoH8nA5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LoveIsland",
+					"name": "Love Island",
+					"id": 2999462727,
+					"id_str": "2999462727",
+					"indices": [
+						123,
+						134
+					]
+				},
+				{
+					"screen_name": "chrishughes_22",
+					"name": "Chris Hughes",
+					"id": 855052245553086500,
+					"id_str": "855052245553086464",
+					"indices": [
+						137,
+						152
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1067803560648290300,
+					"id_str": "1067803560648290304",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1067803560648290304/img/lzUEvIIJaisl-VN0.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1067803560648290304/img/lzUEvIIJaisl-VN0.jpg",
+					"url": "https://t.co/TMMgoH8nA5",
+					"display_url": "pic.twitter.com/TMMgoH8nA5",
+					"expanded_url": "https://twitter.com/thismorning/status/1067806647949635584/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1067803560648290300,
+					"id_str": "1067803560648290304",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1067803560648290304/img/lzUEvIIJaisl-VN0.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1067803560648290304/img/lzUEvIIJaisl-VN0.jpg",
+					"url": "https://t.co/TMMgoH8nA5",
+					"display_url": "pic.twitter.com/TMMgoH8nA5",
+					"expanded_url": "https://twitter.com/thismorning/status/1067806647949635584/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 117960,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1067803560648290304/vid/720x720/jYwsR7uksuQ1gwxN.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1067803560648290304/pl/ZP-0ZmhU6VxwyHPT.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1067803560648290304/vid/480x480/t5-PGBH_YNVDzRam.mp4?tag=8"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1067803560648290304/vid/240x240/FFHaBPR_oRl_URyb.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19291952,
+			"id_str": "19291952",
+			"name": "This Morning",
+			"screen_name": "thismorning",
+			"location": "London Studios",
+			"description": "Join us weekdays at 10.30am! Tweets using @ThisMorning or #ThisMorning may be used on air. Terms: https://t.co/u4BYxXFfJq. Download our NEW app to get involved!",
+			"url": "https://t.co/tEJxmKSdCC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tEJxmKSdCC",
+							"expanded_url": "http://www.itv.com/thismorning/hot-topics/this-morning-has-an-app",
+							"display_url": "itv.com/thismorning/ho…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u4BYxXFfJq",
+							"expanded_url": "http://itv.com/terms",
+							"display_url": "itv.com/terms",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1790392,
+			"friends_count": 8858,
+			"listed_count": 1895,
+			"created_at": "Wed Jan 21 15:39:18 +0000 2009",
+			"favourites_count": 7292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 59373,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ECECEC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057922375650603008/htHaq_2H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057922375650603008/htHaq_2H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19291952/1541063309",
+			"profile_link_color": "0CC5B8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F4E3F4",
+			"profile_text_color": "282828",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 448,
+		"favorite_count": 1245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With the recent news that 68% of men don’t know how to check themselves, Dr Chris demonstrates a testicular examination on @LoveIsland’s @chrishughes_22, who has previously had a health scare himself https://t.co/TMMgoH8nA5"
+	},
+	{
+		"created_at": "Wed Nov 28 20:53:01 +0000 2018",
+		"id": 1067884086684000300,
+		"id_str": "1067884086684000257",
+		"full_text": "Rats can make friends with robot rats and will rescue them when stuck https://t.co/PaIumhNmva https://t.co/6BaYgvHT41",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PaIumhNmva",
+					"expanded_url": "http://bit.ly/2KJ0jwg",
+					"display_url": "bit.ly/2KJ0jwg",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1067884083739598800,
+					"id_str": "1067884083739598855",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DtHi6pCXoAcYphl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtHi6pCXoAcYphl.jpg",
+					"url": "https://t.co/6BaYgvHT41",
+					"display_url": "pic.twitter.com/6BaYgvHT41",
+					"expanded_url": "https://twitter.com/newscientist/status/1067884086684000257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1067884083739598800,
+					"id_str": "1067884083739598855",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DtHi6pCXoAcYphl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtHi6pCXoAcYphl.jpg",
+					"url": "https://t.co/6BaYgvHT41",
+					"display_url": "pic.twitter.com/6BaYgvHT41",
+					"expanded_url": "https://twitter.com/newscientist/status/1067884086684000257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19658826,
+			"id_str": "19658826",
+			"name": "New Scientist",
+			"screen_name": "newscientist",
+			"location": "Worldwide",
+			"description": "The best place to find out what’s new in science – and why it matters. To subscribe go to: https://t.co/M4DdnmRv4N",
+			"url": "http://t.co/6LpUpVcVZt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6LpUpVcVZt",
+							"expanded_url": "http://www.newscientist.com",
+							"display_url": "newscientist.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/M4DdnmRv4N",
+							"expanded_url": "http://bit.ly/2FmKOXZ",
+							"display_url": "bit.ly/2FmKOXZ",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3396595,
+			"friends_count": 74,
+			"listed_count": 33976,
+			"created_at": "Wed Jan 28 16:05:49 +0000 2009",
+			"favourites_count": 15582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 58265,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/960860144329469953/Tc-GOIGJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/960860144329469953/Tc-GOIGJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19658826/1399482279",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 186,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rats can make friends with robot rats and will rescue them when stuck https://t.co/PaIumhNmva https://t.co/6BaYgvHT41"
+	},
+	{
+		"created_at": "Wed Nov 28 20:48:03 +0000 2018",
+		"id": 1067882839289544700,
+		"id_str": "1067882839289544705",
+		"full_text": "@sqwirral forgot about the footballz",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sqwirral",
+					"name": "sqwirräl",
+					"id": 14524990,
+					"id_str": "14524990",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1067882382718640100,
+		"in_reply_to_status_id_str": "1067882382718640137",
+		"in_reply_to_user_id": 14524990,
+		"in_reply_to_user_id_str": "14524990",
+		"in_reply_to_screen_name": "sqwirral",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 267,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38342,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sqwirral forgot about the footballz"
+	},
+	{
 		"created_at": "Tue Nov 27 23:39:27 +0000 2018",
 		"id": 1067563585600143400,
 		"id_str": "1067563585600143362",
