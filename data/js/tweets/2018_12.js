@@ -1,6 +1,1337 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 16 21:30:48 +0000 2018",
+		"id": 1074416575804043300,
+		"id_str": "1074416575804043264",
+		"full_text": "70-Year-Old Sets World Age-Group Marathon Record with 2:54:23... i need to up my game! https://t.co/JC8LVvqyWp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JC8LVvqyWp",
+					"expanded_url": "https://www.runnersworld.com/news/a25593341/70-year-old-marathon-record/",
+					"display_url": "runnersworld.com/news/a25593341…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 268,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38441,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "70-Year-Old Sets World Age-Group Marathon Record with 2:54:23... i need to up my game! https://t.co/JC8LVvqyWp"
+	},
+	{
+		"created_at": "Sun Dec 16 16:34:29 +0000 2018",
+		"id": 1074342005797462000,
+		"id_str": "1074342005797462016",
+		"full_text": "Allison making Leno look good there...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20975247,
+			"id_str": "20975247",
+			"name": "Matt",
+			"screen_name": "MattArsenal1",
+			"location": "",
+			"description": "@Arsenal ST Holder, @Giants fan, @McLarenF1 fan. Sports Enthusiast. Proud husband. Chartered Accountant, Economist. Views are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 449,
+			"listed_count": 25,
+			"created_at": "Mon Feb 16 10:23:16 +0000 2009",
+			"favourites_count": 862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26742,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/475745002833063936/uY1tTYS1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/475745002833063936/uY1tTYS1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20975247/1402260986",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Allison making Leno look good there..."
+	},
+	{
+		"created_at": "Sun Dec 16 16:34:05 +0000 2018",
+		"id": 1074341907583651800,
+		"id_str": "1074341907583651841",
+		"full_text": "well now, this is entertaining. 1-1 #LIVMUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIVMUN",
+					"indices": [
+						36,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 268,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38441,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "well now, this is entertaining. 1-1 #LIVMUN"
+	},
+	{
+		"created_at": "Sun Dec 16 14:33:58 +0000 2018",
+		"id": 1074311677208875000,
+		"id_str": "1074311677208875009",
+		"full_text": "@AlvinAl3978 It's ok, you're not weeing in her mouth 😊 ^PA",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlvinAl3978",
+					"name": "AlvinAl3978",
+					"id": 153453124,
+					"id_str": "153453124",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.conversocial.com\" rel=\"nofollow\">Conversocial</a>",
+		"in_reply_to_status_id": 1074308463105318900,
+		"in_reply_to_status_id_str": "1074308463105318914",
+		"in_reply_to_user_id": 153453124,
+		"in_reply_to_user_id_str": "153453124",
+		"in_reply_to_screen_name": "AlvinAl3978",
+		"user": {
+			"id": 63681020,
+			"id_str": "63681020",
+			"name": "Virgin Trains",
+			"screen_name": "VirginTrains",
+			"location": "VT Twitter Towers",
+			"description": "Do you like award-winning customer service and obscure memes? We’re here 24/7, 363 days a year to talk trains 👋",
+			"url": "https://t.co/399pDnrC3W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/399pDnrC3W",
+							"expanded_url": "http://Virg.in/Trains",
+							"display_url": "Virg.in/Trains",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 455839,
+			"friends_count": 7253,
+			"listed_count": 1545,
+			"created_at": "Fri Aug 07 10:11:00 +0000 2009",
+			"favourites_count": 33939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1001269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "CC0000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064892309928665090/kifx3l24_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064892309928665090/kifx3l24_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63681020/1529660962",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@AlvinAl3978 It's ok, you're not weeing in her mouth 😊 ^PA"
+	},
+	{
+		"created_at": "Sun Dec 16 15:24:35 +0000 2018",
+		"id": 1074324415276568600,
+		"id_str": "1074324415276568577",
+		"full_text": "what a crock, throwing away points. 3-2 #SOUARS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOUARS",
+					"indices": [
+						40,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 268,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38441,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "what a crock, throwing away points. 3-2 #SOUARS"
+	},
+	{
+		"created_at": "Sun Dec 16 15:14:16 +0000 2018",
+		"id": 1074321819002462200,
+		"id_str": "1074321819002462209",
+		"full_text": "terrible defending yet again! 3-2 #SOUARS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOUARS",
+					"indices": [
+						34,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 268,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38441,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "terrible defending yet again! 3-2 #SOUARS"
+	},
+	{
+		"created_at": "Sun Dec 16 14:58:50 +0000 2018",
+		"id": 1074317934816829400,
+		"id_str": "1074317934816829446",
+		"full_text": "not sure about Iwobi coming off for Ozil... #SOUARS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOUARS",
+					"indices": [
+						44,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 268,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38441,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "not sure about Iwobi coming off for Ozil... #SOUARS"
+	},
+	{
+		"created_at": "Sun Dec 16 14:43:21 +0000 2018",
+		"id": 1074314039965159400,
+		"id_str": "1074314039965159425",
+		"full_text": "Iwobi needs to do better! #SOUARS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOUARS",
+					"indices": [
+						26,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 268,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38441,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Iwobi needs to do better! #SOUARS"
+	},
+	{
+		"created_at": "Sun Dec 16 14:41:39 +0000 2018",
+		"id": 1074313611005386800,
+		"id_str": "1074313611005386753",
+		"full_text": "yeeeeeeeeeeeeeeessss! 2-2 #SOUARS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOUARS",
+					"indices": [
+						26,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 268,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38441,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "yeeeeeeeeeeeeeeessss! 2-2 #SOUARS"
+	},
+	{
+		"created_at": "Sun Dec 16 14:19:11 +0000 2018",
+		"id": 1074307956592832500,
+		"id_str": "1074307956592832513",
+		"full_text": "STILL to win a 1st half! bloody embarrassing :( 2-1 #SOUARS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOUARS",
+					"indices": [
+						52,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 268,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38441,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "STILL to win a 1st half! bloody embarrassing :( 2-1 #SOUARS"
+	},
+	{
+		"created_at": "Sun Dec 16 14:14:52 +0000 2018",
+		"id": 1074306873430548500,
+		"id_str": "1074306873430548480",
+		"full_text": "our defence awol yet again! 2-1 #SOUARS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOUARS",
+					"indices": [
+						32,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 268,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38441,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "our defence awol yet again! 2-1 #SOUARS"
+	},
+	{
+		"created_at": "Sun Dec 16 13:50:25 +0000 2018",
+		"id": 1074300718411120600,
+		"id_str": "1074300718411120640",
+		"full_text": "sigh 1-0 #SOUARS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOUARS",
+					"indices": [
+						9,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 268,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38441,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "sigh 1-0 #SOUARS"
+	},
+	{
+		"created_at": "Sun Dec 16 13:27:31 +0000 2018",
+		"id": 1074294957383524400,
+		"id_str": "1074294957383524353",
+		"full_text": "slightly optimistic about this game. probably not a good sign... #COYG! #SOUARS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COYG",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "SOUARS",
+					"indices": [
+						72,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 268,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38441,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "slightly optimistic about this game. probably not a good sign... #COYG! #SOUARS"
+	},
+	{
 		"created_at": "Sat Dec 15 18:50:05 +0000 2018",
 		"id": 1074013745309982700,
 		"id_str": "1074013745309982720",
