@@ -1,10 +1,781 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 26 23:30:40 +0000 2018",
+		"id": 1078070621714686000,
+		"id_str": "1078070621714685957",
+		"full_text": "the cinematic equivalent of watching paint dry. cripplingly dull, lacking any emotion or drama. it really should have been in French with a French cast. 2/10 'Colette (2018)' https://t.co/Ew7TWAfgTB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ew7TWAfgTB",
+					"expanded_url": "https://www.imdb.com/title/tt5437928/",
+					"display_url": "imdb.com/title/tt543792…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282,
+			"friends_count": 268,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38480,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the cinematic equivalent of watching paint dry. cripplingly dull, lacking any emotion or drama. it really should have been in French with a French cast. 2/10 'Colette (2018)' https://t.co/Ew7TWAfgTB"
+	},
+	{
+		"created_at": "Wed Dec 26 19:07:18 +0000 2018",
+		"id": 1078004344853811200,
+		"id_str": "1078004344853811203",
+		"full_text": "terrible 1-1 #BHAARS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BHAARS",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282,
+			"friends_count": 268,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38480,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "terrible 1-1 #BHAARS"
+	},
+	{
+		"created_at": "Wed Dec 26 17:50:52 +0000 2018",
+		"id": 1077985109029109800,
+		"id_str": "1077985109029109760",
+		"full_text": "Brighton score from OUR corner kick! we are fucking hopeless. 1-1 #BHAARS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BHAARS",
+					"indices": [
+						66,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282,
+			"friends_count": 268,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38480,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Brighton score from OUR corner kick! we are fucking hopeless. 1-1 #BHAARS"
+	},
+	{
+		"created_at": "Wed Dec 26 17:23:06 +0000 2018",
+		"id": 1077978118848172000,
+		"id_str": "1077978118848172032",
+		"full_text": "nice finish by @Aubameyang7 0-1 #BHAARS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BHAARS",
+					"indices": [
+						32,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Aubameyang7",
+					"name": "Aubameyang P-E",
+					"id": 847238528,
+					"id_str": "847238528",
+					"indices": [
+						15,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282,
+			"friends_count": 268,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38480,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "nice finish by @Aubameyang7 0-1 #BHAARS"
+	},
+	{
+		"created_at": "Wed Dec 26 17:17:26 +0000 2018",
+		"id": 1077976695112577000,
+		"id_str": "1077976695112577024",
+		"full_text": "#COYG! #BHAARS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COYG",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BHAARS",
+					"indices": [
+						7,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282,
+			"friends_count": 268,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38480,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "#COYG! #BHAARS"
+	},
+	{
 		"created_at": "Mon Dec 24 23:09:51 +0000 2018",
 		"id": 1077340606995841000,
 		"id_str": "1077340606995841024",
 		"full_text": "Merry Christmas Everyone! Please look out for others at this time of year! Someone cares. Numbers if you need to talk. \n\n🏠@Shelter\n0808 8004444\n\n📳@Samaritans\n116 123\n\n🙋‍♀@WomensAid @RefugeCharity\n0808 2000 247\n\n💭@MindCharity\n03001233393\n\n🏳‍🌈@SwitchboardLGBT\n0300 330 0630 https://t.co/CHc23SL14M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shelter",
+					"name": "Shelter",
+					"id": 3704391,
+					"id_str": "3704391",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"screen_name": "samaritans",
+					"name": "Samaritans",
+					"id": 404248209,
+					"id_str": "404248209",
+					"indices": [
+						146,
+						157
+					]
+				},
+				{
+					"screen_name": "womensaid",
+					"name": "Women's Aid",
+					"id": 20985003,
+					"id_str": "20985003",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"screen_name": "RefugeCharity",
+					"name": "Refuge",
+					"id": 174287424,
+					"id_str": "174287424",
+					"indices": [
+						181,
+						195
+					]
+				},
+				{
+					"screen_name": "MindCharity",
+					"name": "Mind",
+					"id": 27033505,
+					"id_str": "27033505",
+					"indices": [
+						212,
+						224
+					]
+				},
+				{
+					"screen_name": "switchboardLGBT",
+					"name": "Switchboard",
+					"id": 19642497,
+					"id_str": "19642497",
+					"indices": [
+						241,
+						257
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077340599622213600,
+					"id_str": "1077340599622213632",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN7kT6WoAA8TAg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN7kT6WoAA8TAg.jpg",
+					"url": "https://t.co/CHc23SL14M",
+					"display_url": "pic.twitter.com/CHc23SL14M",
+					"expanded_url": "https://twitter.com/SelectRadioApp/status/1077340606995841024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077340599622213600,
+					"id_str": "1077340599622213632",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/DvN7kT6WoAA8TAg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvN7kT6WoAA8TAg.jpg",
+					"url": "https://t.co/CHc23SL14M",
+					"display_url": "pic.twitter.com/CHc23SL14M",
+					"expanded_url": "https://twitter.com/SelectRadioApp/status/1077340606995841024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 105925567,
+			"id_str": "105925567",
+			"name": "Select Radio",
+			"screen_name": "SelectRadioApp",
+			"location": "London",
+			"description": "The UK's Number 1 Dance Music Station. #DanceMusicOnTheGo",
+			"url": "https://t.co/CTtFQQCo3G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CTtFQQCo3G",
+							"expanded_url": "http://www.SelectRadioApp.com",
+							"display_url": "SelectRadioApp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10459,
+			"friends_count": 111,
+			"listed_count": 118,
+			"created_at": "Sun Jan 17 23:35:35 +0000 2010",
+			"favourites_count": 8740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23665,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "151617",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879999700102938625/zr2LNRIU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879999700102938625/zr2LNRIU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/105925567/1479246710",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Merry Christmas Everyone! Please look out for others at this time of year! Someone cares. Numbers if you need to talk. \n\n🏠@Shelter\n0808 8004444\n\n📳@Samaritans\n116 123\n\n🙋‍♀@WomensAid @RefugeCharity\n0808 2000 247\n\n💭@MindCharity\n03001233393\n\n🏳‍🌈@SwitchboardLGBT\n0300 330 0630 https://t.co/CHc23SL14M"
+	},
+	{
+		"created_at": "Mon Dec 24 23:09:51 +0000 2018",
+		"id": 1077340606995841000,
+		"id_str": "1077340606995841024",
+		"full_text": "Merry Christmas Everyone! Please look out for others at this time of year! Someone cares. Numbers if you need to talk. \n\n🏠@Shelter\n0808 8004444\n\n📳@Samaritans\n116 123\n\n🙋♀@WomensAid @RefugeCharity\n0808 2000 247\n\n💭@MindCharity\n03001233393\n\n🏳🌈@SwitchboardLGBT\n0300 330 0630 https://t.co/CHc23SL14M",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -233,7 +1004,7 @@ Grailbird.data.tweets_2018_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Merry Christmas Everyone! Please look out for others at this time of year! Someone cares. Numbers if you need to talk. \n\n🏠@Shelter\n0808 8004444\n\n📳@Samaritans\n116 123\n\n🙋‍♀@WomensAid @RefugeCharity\n0808 2000 247\n\n💭@MindCharity\n03001233393\n\n🏳‍🌈@SwitchboardLGBT\n0300 330 0630 https://t.co/CHc23SL14M"
+		"text": "Merry Christmas Everyone! Please look out for others at this time of year! Someone cares. Numbers if you need to talk. \n\n🏠@Shelter\n0808 8004444\n\n📳@Samaritans\n116 123\n\n🙋♀@WomensAid @RefugeCharity\n0808 2000 247\n\n💭@MindCharity\n03001233393\n\n🏳🌈@SwitchboardLGBT\n0300 330 0630 https://t.co/CHc23SL14M"
 	},
 	{
 		"created_at": "Mon Dec 24 23:09:51 +0000 2018",
