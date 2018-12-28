@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 27 21:00:24 +0000 2018",
+		"id": 1078395194377162800,
+		"id_str": "1078395194377162752",
+		"full_text": "the first half was so dull, the second has been entertaining so far. 1-2 #SOUWHU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOUWHU",
+					"indices": [
+						73,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282,
+			"friends_count": 268,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38482,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "the first half was so dull, the second has been entertaining so far. 1-2 #SOUWHU"
+	},
+	{
+		"created_at": "Thu Dec 27 15:11:40 +0000 2018",
+		"id": 1078307433838194700,
+		"id_str": "1078307433838194690",
+		"full_text": "https://t.co/mID7mzE3hm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1078307414087295000,
+					"id_str": "1078307414087294976",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Dvbq4UdX4AARCU8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dvbq4UdX4AARCU8.jpg",
+					"url": "https://t.co/mID7mzE3hm",
+					"display_url": "pic.twitter.com/mID7mzE3hm",
+					"expanded_url": "https://twitter.com/PicturesFoIder/status/1078307433838194690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 576,
+							"h": 578,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 578,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 578,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078307414087295000,
+					"id_str": "1078307414087294976",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Dvbq4UdX4AARCU8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dvbq4UdX4AARCU8.jpg",
+					"url": "https://t.co/mID7mzE3hm",
+					"display_url": "pic.twitter.com/mID7mzE3hm",
+					"expanded_url": "https://twitter.com/PicturesFoIder/status/1078307433838194690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 576,
+							"h": 578,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 578,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 578,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2538322138,
+			"id_str": "2538322138",
+			"name": "non aesthetic things",
+			"screen_name": "PicturesFoIder",
+			"location": "Dm promo",
+			"description": "Best page in the world. Parody account",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1905141,
+			"friends_count": 0,
+			"listed_count": 5126,
+			"created_at": "Sat May 10 04:08:46 +0000 2014",
+			"favourites_count": 1205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5246,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/989513875124117504/UNMIb20k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/989513875124117504/UNMIb20k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2538322138/1534220325",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12787,
+		"favorite_count": 60301,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/mID7mzE3hm"
+	},
+	{
 		"created_at": "Wed Dec 26 23:30:40 +0000 2018",
 		"id": 1078070621714686000,
 		"id_str": "1078070621714685957",
@@ -540,7 +804,7 @@ Grailbird.data.tweets_2018_12 =
 		"created_at": "Mon Dec 24 23:09:51 +0000 2018",
 		"id": 1077340606995841000,
 		"id_str": "1077340606995841024",
-		"full_text": "Merry Christmas Everyone! Please look out for others at this time of year! Someone cares. Numbers if you need to talk. \n\n🏠@Shelter\n0808 8004444\n\n📳@Samaritans\n116 123\n\n🙋‍♀@WomensAid @RefugeCharity\n0808 2000 247\n\n💭@MindCharity\n03001233393\n\n🏳‍🌈@SwitchboardLGBT\n0300 330 0630 https://t.co/CHc23SL14M",
+		"full_text": "Merry Christmas Everyone! Please look out for others at this time of year! Someone cares. Numbers if you need to talk. \n\n🏠@Shelter\n0808 8004444\n\n📳@Samaritans\n116 123\n\n🙋♀@WomensAid @RefugeCharity\n0808 2000 247\n\n💭@MindCharity\n03001233393\n\n🏳🌈@SwitchboardLGBT\n0300 330 0630 https://t.co/CHc23SL14M",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -769,7 +1033,7 @@ Grailbird.data.tweets_2018_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Merry Christmas Everyone! Please look out for others at this time of year! Someone cares. Numbers if you need to talk. \n\n🏠@Shelter\n0808 8004444\n\n📳@Samaritans\n116 123\n\n🙋‍♀@WomensAid @RefugeCharity\n0808 2000 247\n\n💭@MindCharity\n03001233393\n\n🏳‍🌈@SwitchboardLGBT\n0300 330 0630 https://t.co/CHc23SL14M"
+		"text": "Merry Christmas Everyone! Please look out for others at this time of year! Someone cares. Numbers if you need to talk. \n\n🏠@Shelter\n0808 8004444\n\n📳@Samaritans\n116 123\n\n🙋♀@WomensAid @RefugeCharity\n0808 2000 247\n\n💭@MindCharity\n03001233393\n\n🏳🌈@SwitchboardLGBT\n0300 330 0630 https://t.co/CHc23SL14M"
 	},
 	{
 		"created_at": "Mon Dec 24 23:09:51 +0000 2018",
