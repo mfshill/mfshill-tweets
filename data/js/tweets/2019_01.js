@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 17 21:01:13 +0000 2019",
+		"id": 1086005542697484300,
+		"id_str": "1086005542697484293",
+		"full_text": "Who is the human father, and what is he for? On the evolution of the role of ‘dad’ @dr_aMachin https://t.co/EhvR8x2EvB https://t.co/jXT4XROFpH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dr_aMachin",
+					"name": "Dr Anna Machin",
+					"id": 4823937676,
+					"id_str": "4823937676",
+					"indices": [
+						83,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EhvR8x2EvB",
+					"expanded_url": "http://ow.ly/i3DW50kdr4S",
+					"display_url": "ow.ly/i3DW50kdr4S",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1086005540751360000,
+					"id_str": "1086005540751360000",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/DxJESRCXQAAcSO3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxJESRCXQAAcSO3.jpg",
+					"url": "https://t.co/jXT4XROFpH",
+					"display_url": "pic.twitter.com/jXT4XROFpH",
+					"expanded_url": "https://twitter.com/aeonmag/status/1086005542697484293/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 751,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1252,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086005540751360000,
+					"id_str": "1086005540751360000",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/DxJESRCXQAAcSO3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxJESRCXQAAcSO3.jpg",
+					"url": "https://t.co/jXT4XROFpH",
+					"display_url": "pic.twitter.com/jXT4XROFpH",
+					"expanded_url": "https://twitter.com/aeonmag/status/1086005542697484293/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 751,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1252,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 481943972,
+			"id_str": "481943972",
+			"name": "Aeon",
+			"screen_name": "aeonmag",
+			"location": "",
+			"description": "Aeon is a magazine of ideas and culture. We publish in-depth essays, incisive articles, and a mix of original and curated videos - free to all.",
+			"url": "https://t.co/Kj8suZmZim",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kj8suZmZim",
+							"expanded_url": "http://aeon.co/",
+							"display_url": "aeon.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 133855,
+			"friends_count": 2649,
+			"listed_count": 4083,
+			"created_at": "Fri Feb 03 10:43:27 +0000 2012",
+			"favourites_count": 18977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 34285,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/502476482732503043/lzuB88p2_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/502476482732503043/lzuB88p2_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/481943972/1544865193",
+			"profile_link_color": "0A4171",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who is the human father, and what is he for? On the evolution of the role of ‘dad’ @dr_aMachin https://t.co/EhvR8x2EvB https://t.co/jXT4XROFpH"
+	},
+	{
 		"created_at": "Wed Jan 16 21:31:15 +0000 2019",
 		"id": 1085650714393604100,
 		"id_str": "1085650714393604097",
