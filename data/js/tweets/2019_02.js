@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 13 15:22:17 +0000 2019",
+		"id": 1095704722743406600,
+		"id_str": "1095704722743406597",
+		"full_text": "@VICE the US has an odd recent history. first you go clinton, then you go bush. then further into the realms of reasonability with obama, then further into the realms of unreasonability with trump. so that’s it the next president is gonna be fucking awesome and then we’re all gonna die",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			286
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VICE",
+					"name": "VICE",
+					"id": 23818581,
+					"id_str": "23818581",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1095700645972242400,
+		"in_reply_to_status_id_str": "1095700645972242432",
+		"in_reply_to_user_id": 23818581,
+		"in_reply_to_user_id_str": "23818581",
+		"in_reply_to_screen_name": "VICE",
+		"user": {
+			"id": 1086021914890567700,
+			"id_str": "1086021914890567683",
+			"name": "Tetris Jupiter",
+			"screen_name": "TetrisJupiter",
+			"location": "Lisbon, Portugal",
+			"description": "random things to do with your hands as you put together a puzzle you won't finish",
+			"url": "https://t.co/tF7ZkOqHYk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tF7ZkOqHYk",
+							"expanded_url": "https://www.instagram.com/tetrisjupiter/",
+							"display_url": "instagram.com/tetrisjupiter/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4,
+			"friends_count": 134,
+			"listed_count": 0,
+			"created_at": "Thu Jan 17 22:06:16 +0000 2019",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086023191473074178/QVjj4RVq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086023191473074178/QVjj4RVq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1086021914890567683/1547897743",
+			"profile_link_color": "008080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@VICE the US has an odd recent history. first you go clinton, then you go bush. then further into the realms of reasonability with obama, then further into the realms of unreasonability with trump. so that’s it the next president is gonna be fucking awesome and then we’re all gonna die"
+	},
+	{
 		"created_at": "Mon Feb 11 21:33:18 +0000 2019",
 		"id": 1095073315406995500,
 		"id_str": "1095073315406995457",
