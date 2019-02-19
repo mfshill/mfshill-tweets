@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 18 20:17:05 +0000 2019",
+		"id": 1097590850966700000,
+		"id_str": "1097590850966700034",
+		"full_text": "@SuButcher isn't this the case for anyone outside the EU already?",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SuButcher",
+					"name": "Su Butcher 💚",
+					"id": 16242432,
+					"id_str": "16242432",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1097590128367882200,
+		"in_reply_to_status_id_str": "1097590128367882241",
+		"in_reply_to_user_id": 16242432,
+		"in_reply_to_user_id_str": "16242432",
+		"in_reply_to_screen_name": "SuButcher",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281,
+			"friends_count": 271,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38715,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SuButcher isn't this the case for anyone outside the EU already?"
+	},
+	{
+		"created_at": "Mon Feb 18 10:40:19 +0000 2019",
+		"id": 1097445702056243200,
+		"id_str": "1097445702056243200",
+		"full_text": "The BBC News feed of the Labour splitter press conference seems to have someone on the audio track mumbling commentary over the top. Someone just said \"this is mad\" and added \"not going to lie, between this and Brexit we're fucked.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25275453,
+			"id_str": "25275453",
+			"name": "Jim Waterson",
+			"screen_name": "jimwaterson",
+			"location": "𝒂𝒏 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒊𝒏𝒈 𝑾𝒊𝒌𝒊𝒑𝒆𝒅𝒊𝒂 𝒍𝒊𝒏𝒌 ↴",
+			"description": "Media editor at the Guardian. I want to hear what’s really going on at your media organisation. Get in touch: jim.waterson@theguardian.com. **My DMs are open**",
+			"url": "https://t.co/mS7rj6DTcr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mS7rj6DTcr",
+							"expanded_url": "https://en.wikipedia.org/wiki/Mary_Toft",
+							"display_url": "en.wikipedia.org/wiki/Mary_Toft",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 232994,
+			"friends_count": 2627,
+			"listed_count": 1946,
+			"created_at": "Thu Mar 19 12:03:34 +0000 2009",
+			"favourites_count": 15734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 52951,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/759020915606695936/Y5OI7Rlm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/759020915606695936/Y5OI7Rlm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25275453/1409002252",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2015,
+		"favorite_count": 6135,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The BBC News feed of the Labour splitter press conference seems to have someone on the audio track mumbling commentary over the top. Someone just said \"this is mad\" and added \"not going to lie, between this and Brexit we're fucked.\""
+	},
+	{
+		"created_at": "Mon Feb 18 11:36:26 +0000 2019",
+		"id": 1097459825485774800,
+		"id_str": "1097459825485774848",
+		"full_text": "And some thought Brexit couldn't get any worse. Labour now tearing themselves apart. Just need the tories to follow suit and our political system will be done...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281,
+			"friends_count": 271,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38715,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "And some thought Brexit couldn't get any worse. Labour now tearing themselves apart. Just need the tories to follow suit and our political system will be done..."
+	},
+	{
+		"created_at": "Mon Feb 18 07:49:23 +0000 2019",
+		"id": 1097402683651248100,
+		"id_str": "1097402683651248128",
+		"full_text": "....this is rather good............morning all.....😂😂 https://t.co/Rym3THWHoY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097402561315958800,
+					"id_str": "1097402561315958784",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DzrB0LLXcAAWWiB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzrB0LLXcAAWWiB.jpg",
+					"url": "https://t.co/Rym3THWHoY",
+					"display_url": "pic.twitter.com/Rym3THWHoY",
+					"expanded_url": "https://twitter.com/Spaceprojects/status/1097402683651248128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 512,
+							"h": 935,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 372,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 935,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097402561315958800,
+					"id_str": "1097402561315958784",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DzrB0LLXcAAWWiB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzrB0LLXcAAWWiB.jpg",
+					"url": "https://t.co/Rym3THWHoY",
+					"display_url": "pic.twitter.com/Rym3THWHoY",
+					"expanded_url": "https://twitter.com/Spaceprojects/status/1097402683651248128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 512,
+							"h": 935,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 372,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 935,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097402561689194500,
+					"id_str": "1097402561689194496",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DzrB0MkWkAADgCG.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzrB0MkWkAADgCG.png",
+					"url": "https://t.co/Rym3THWHoY",
+					"display_url": "pic.twitter.com/Rym3THWHoY",
+					"expanded_url": "https://twitter.com/Spaceprojects/status/1097402683651248128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 513,
+							"h": 730,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 513,
+							"h": 730,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16144559,
+			"id_str": "16144559",
+			"name": "Space Projects Ltd ",
+			"screen_name": "Spaceprojects",
+			"location": "London",
+			"description": "Interior & Architectural companies social portal. Run by the mischievous twins. Approach with caution ! ⚠",
+			"url": "http://t.co/9XpCu5vO7G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/9XpCu5vO7G",
+							"expanded_url": "http://www.spaceprojects.co.uk",
+							"display_url": "spaceprojects.co.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1553,
+			"friends_count": 635,
+			"listed_count": 92,
+			"created_at": "Fri Sep 05 14:56:16 +0000 2008",
+			"favourites_count": 468,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 129316,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0D0C0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1513966181/Blue_Twitter_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1513966181/Blue_Twitter_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16144559/1348490699",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FAEE0A",
+			"profile_sidebar_fill_color": "080808",
+			"profile_text_color": "E1E3D6",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "....this is rather good............morning all.....😂😂 https://t.co/Rym3THWHoY"
+	},
+	{
 		"created_at": "Sun Feb 17 16:56:21 +0000 2019",
 		"id": 1097177945616142300,
 		"id_str": "1097177945616142337",
