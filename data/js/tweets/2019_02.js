@@ -1,6 +1,620 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 20 21:52:32 +0000 2019",
+		"id": 1098339645853786100,
+		"id_str": "1098339645853786112",
+		"full_text": "wow 2-3 #SCHMCI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SCHMCI",
+					"indices": [
+						8,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1098338555867418600,
+		"in_reply_to_status_id_str": "1098338555867418625",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281,
+			"friends_count": 271,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38721,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "wow 2-3 #SCHMCI"
+	},
+	{
+		"created_at": "Wed Feb 20 21:48:12 +0000 2019",
+		"id": 1098338555867418600,
+		"id_str": "1098338555867418625",
+		"full_text": "they've pulled it level with 10men. impressive 2-2 #SCHMCI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SCHMCI",
+					"indices": [
+						51,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1098334079307657200,
+		"in_reply_to_status_id_str": "1098334079307657217",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281,
+			"friends_count": 271,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38721,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "they've pulled it level with 10men. impressive 2-2 #SCHMCI"
+	},
+	{
+		"created_at": "Wed Feb 20 07:56:03 +0000 2019",
+		"id": 1098129137968001000,
+		"id_str": "1098129137968001027",
+		"full_text": "Yep. Paid £975 for a season ticket in a stadium that hasn't been open all season. https://t.co/7ftnSP5g37",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7ftnSP5g37",
+					"expanded_url": "https://twitter.com/DowneyJD/status/1097445945019691008",
+					"display_url": "twitter.com/DowneyJD/statu…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123529703,
+			"id_str": "123529703",
+			"name": "Beason 🔶",
+			"screen_name": "nickyb1982",
+			"location": "London, England",
+			"description": "A human being on planet Earth 🌍 #COYS ⚽️ / https://t.co/3EnSwuRA6U 💀 / Insta: @nickspurs 📸 / https://t.co/WrBbLLPjEk 🎧",
+			"url": "https://t.co/r71H2U8Er9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r71H2U8Er9",
+							"expanded_url": "http://www.youtube.com/nickspurs",
+							"display_url": "youtube.com/nickspurs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3EnSwuRA6U",
+							"expanded_url": "http://LessStressClothing.com",
+							"display_url": "LessStressClothing.com",
+							"indices": [
+								43,
+								66
+							]
+						},
+						{
+							"url": "https://t.co/WrBbLLPjEk",
+							"expanded_url": "http://soundcloud.com/nickyb-4",
+							"display_url": "soundcloud.com/nickyb-4",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 221,
+			"friends_count": 453,
+			"listed_count": 2,
+			"created_at": "Tue Mar 16 11:08:19 +0000 2010",
+			"favourites_count": 17614,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5375,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069015419124625409/8VmqxTAL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069015419124625409/8VmqxTAL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123529703/1543708171",
+			"profile_link_color": "2D30EC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1097445945019691000,
+		"quoted_status_id_str": "1097445945019691008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7ftnSP5g37",
+			"expanded": "https://twitter.com/DowneyJD/status/1097445945019691008",
+			"display": "twitter.com/DowneyJD/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 18 10:41:17 +0000 2019",
+			"id": 1097445945019691000,
+			"id_str": "1097445945019691008",
+			"full_text": "A mate of mine just paid £12 for this espresso. Just the espresso. No diamonds or breakfast whisky with it. Can anyone beat that? https://t.co/cVfJN9siDq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1097445938019426300,
+						"id_str": "1097445938019426304",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/DzrpRB_X4AAHe0n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzrpRB_X4AAHe0n.jpg",
+						"url": "https://t.co/cVfJN9siDq",
+						"display_url": "pic.twitter.com/cVfJN9siDq",
+						"expanded_url": "https://twitter.com/DowneyJD/status/1097445945019691008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 813,
+								"h": 701,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 586,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 813,
+								"h": 701,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1097445938019426300,
+						"id_str": "1097445938019426304",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/DzrpRB_X4AAHe0n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzrpRB_X4AAHe0n.jpg",
+						"url": "https://t.co/cVfJN9siDq",
+						"display_url": "pic.twitter.com/cVfJN9siDq",
+						"expanded_url": "https://twitter.com/DowneyJD/status/1097445945019691008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 813,
+								"h": 701,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 586,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 813,
+								"h": 701,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 279160547,
+				"id_str": "279160547",
+				"name": "Jonathan Downey",
+				"screen_name": "DowneyJD",
+				"location": "London",
+				"description": "London Union - @StreetFeastLDN #HawkerHouse Canada Water #ModelMarket Lewisham #Dinerama Shoreditch #GiantRobot E14 #PublicWoolwich + Milk & Honey",
+				"url": "https://t.co/Z5hYxKfGlB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z5hYxKfGlB",
+								"expanded_url": "http://www.streetfeast.com/",
+								"display_url": "streetfeast.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11719,
+				"friends_count": 93,
+				"listed_count": 135,
+				"created_at": "Fri Apr 08 18:15:40 +0000 2011",
+				"favourites_count": 618,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16129,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/692258916789571585/KfTLGrMA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/692258916789571585/KfTLGrMA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/279160547/1452534568",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 375,
+		"favorite_count": 2039,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yep. Paid £975 for a season ticket in a stadium that hasn't been open all season. https://t.co/7ftnSP5g37"
+	},
+	{
+		"created_at": "Wed Feb 20 21:30:25 +0000 2019",
+		"id": 1098334079307657200,
+		"id_str": "1098334079307657217",
+		"full_text": "City's evening turning to shit  2-1 #SCHMCI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SCHMCI",
+					"indices": [
+						36,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281,
+			"friends_count": 271,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38721,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "City's evening turning to shit  2-1 #SCHMCI"
+	},
+	{
 		"created_at": "Tue Feb 19 20:07:50 +0000 2019",
 		"id": 1097950908774793200,
 		"id_str": "1097950908774793216",
