@@ -1,6 +1,592 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 11 20:53:59 +0000 2019",
+		"id": 1116444303260299300,
+		"id_str": "1116444303260299269",
+		"full_text": "a clean sheet!!! should have scored more. 2-0 #ARSNAP #UEL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ARSNAP",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"text": "UEL",
+					"indices": [
+						54,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280,
+			"friends_count": 269,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38895,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "a clean sheet!!! should have scored more. 2-0 #ARSNAP #UEL"
+	},
+	{
+		"created_at": "Thu Apr 11 19:25:50 +0000 2019",
+		"id": 1116422123239637000,
+		"id_str": "1116422123239636993",
+		"full_text": "ahahah, lovely deflection 2-0 #ARSNAP #UEL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ARSNAP",
+					"indices": [
+						30,
+						37
+					]
+				},
+				{
+					"text": "UEL",
+					"indices": [
+						38,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280,
+			"friends_count": 269,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38895,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "ahahah, lovely deflection 2-0 #ARSNAP #UEL"
+	},
+	{
+		"created_at": "Thu Apr 11 19:17:44 +0000 2019",
+		"id": 1116420081066610700,
+		"id_str": "1116420081066610688",
+		"full_text": "great bit of play! @Ains_7 was pivitoal in that goal, starting by getting the ball out of our half. 1-0 #ARSNAP #UEL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ARSNAP",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "UEL",
+					"indices": [
+						112,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ains_7",
+					"name": "maitland-niles",
+					"id": 598638417,
+					"id_str": "598638417",
+					"indices": [
+						19,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280,
+			"friends_count": 269,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38895,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "great bit of play! @Ains_7 was pivitoal in that goal, starting by getting the ball out of our half. 1-0 #ARSNAP #UEL"
+	},
+	{
+		"created_at": "Thu Apr 11 18:46:10 +0000 2019",
+		"id": 1116412140519338000,
+		"id_str": "1116412140519337985",
+		"full_text": "we're playing at home so 'should' be fine this evening, but not getting my hopes up of a good display after the last game. #ARSNAP #UEL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ARSNAP",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "UEL",
+					"indices": [
+						131,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280,
+			"friends_count": 269,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38895,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "we're playing at home so 'should' be fine this evening, but not getting my hopes up of a good display after the last game. #ARSNAP #UEL"
+	},
+	{
+		"created_at": "Thu Apr 11 16:13:27 +0000 2019",
+		"id": 1116373705666506800,
+		"id_str": "1116373705666506753",
+		"full_text": "love this @luttrell_music/@marshmusician mix, such a good track. #NowPlaying 'Luttrell - Into Clouds (Marsh Remix)' https://t.co/v66J28gWSc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NowPlaying",
+					"indices": [
+						65,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "luttrell_music",
+					"name": "Luttrell",
+					"id": 786254466022420500,
+					"id_str": "786254466022420480",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "marshmusician",
+					"name": "Marsh",
+					"id": 1027202834943696900,
+					"id_str": "1027202834943696897",
+					"indices": [
+						26,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/v66J28gWSc",
+					"expanded_url": "https://youtu.be/qrQT7OPTAP0",
+					"display_url": "youtu.be/qrQT7OPTAP0",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280,
+			"friends_count": 269,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38895,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "love this @luttrell_music/@marshmusician mix, such a good track. #NowPlaying 'Luttrell - Into Clouds (Marsh Remix)' https://t.co/v66J28gWSc"
+	},
+	{
 		"created_at": "Tue Apr 09 19:27:29 +0000 2019",
 		"id": 1115697761691869200,
 		"id_str": "1115697761691869184",
