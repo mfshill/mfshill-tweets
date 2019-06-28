@@ -1,6 +1,482 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 27 21:18:18 +0000 2019",
+		"id": 1144344500808106000,
+		"id_str": "1144354291643289601",
+		"full_text": "Leaked promotional video of Arsenal’s new home kit, manufactured by Adidas, for the 2019/20 season. [Adidas on YouTube] #afc https://t.co/2cYrSO2GTW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "afc",
+					"indices": [
+						120,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1144341829338435600,
+					"id_str": "1144341829338435584",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1144341829338435584/pu/img/tGvqb5kzsxqPZkXB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1144341829338435584/pu/img/tGvqb5kzsxqPZkXB.jpg",
+					"url": "https://t.co/2cYrSO2GTW",
+					"display_url": "pic.twitter.com/2cYrSO2GTW",
+					"expanded_url": "https://twitter.com/PrecianaBrown/status/1144341983298822145/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1144341983298822100,
+					"source_status_id_str": "1144341983298822145",
+					"source_user_id": 608837325,
+					"source_user_id_str": "608837325"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144341829338435600,
+					"id_str": "1144341829338435584",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1144341829338435584/pu/img/tGvqb5kzsxqPZkXB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1144341829338435584/pu/img/tGvqb5kzsxqPZkXB.jpg",
+					"url": "https://t.co/2cYrSO2GTW",
+					"display_url": "pic.twitter.com/2cYrSO2GTW",
+					"expanded_url": "https://twitter.com/PrecianaBrown/status/1144341983298822145/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1144341983298822100,
+					"source_status_id_str": "1144341983298822145",
+					"source_user_id": 608837325,
+					"source_user_id_str": "608837325",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 111061,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1144341829338435584/pu/vid/1280x720/lx-Jp0ZtRVr2tKlc.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1144341829338435584/pu/vid/640x360/0kaHSCH8ihhc0cyq.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1144341829338435584/pu/pl/U7-EEUxX48auIEvR.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1144341829338435584/pu/vid/480x270/mP4-bts17T3JLVrh.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 608837325,
+							"id_str": "608837325",
+							"name": "Preciana Brown",
+							"screen_name": "PrecianaBrown",
+							"location": "Brent, London",
+							"description": "Calum Chambers Gave me a heart attack on the 3rd Of August 2017, at 16:39 😉",
+							"url": "https://t.co/ypLjvDSaEi",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/ypLjvDSaEi",
+											"expanded_url": "https://petition.parliament.uk/petitions/231772",
+											"display_url": "petition.parliament.uk/petitions/2317…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2221,
+							"friends_count": 3671,
+							"listed_count": 23,
+							"created_at": "Fri Jun 15 04:06:44 +0000 2012",
+							"favourites_count": 2934,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 29172,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1140025342738010117/3zDdAHK2_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140025342738010117/3zDdAHK2_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/608837325/1557417533",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3123238004,
+			"id_str": "3123238004",
+			"name": "afcstuff",
+			"screen_name": "afcstuff",
+			"location": "",
+			"description": "Welcome to @afcstuff, bringing the latest updates, stats, team news & transfer news about Arsenal. Contact: afcstuff1@gmail.com",
+			"url": "https://t.co/WeDT35h0jv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WeDT35h0jv",
+							"expanded_url": "http://afcstuff.com",
+							"display_url": "afcstuff.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96210,
+			"friends_count": 116,
+			"listed_count": 1077,
+			"created_at": "Wed Apr 01 06:28:12 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/972125217567977473/cJgMuFcP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/972125217567977473/cJgMuFcP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3123238004/1544111295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4160,
+		"favorite_count": 8754,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Leaked promotional video of Arsenal’s new home kit, manufactured by Adidas, for the 2019/20 season. [Adidas on YouTube] #afc https://t.co/2cYrSO2GTW"
+	},
+	{
+		"created_at": "Thu Jun 27 19:44:03 +0000 2019",
+		"id": 1144330569389674500,
+		"id_str": "1144330569389674497",
+		"full_text": "There should be a permanent ban! https://t.co/00zZiLgp4t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/00zZiLgp4t",
+					"expanded_url": "https://twitter.com/keewa/status/1144324288201351175",
+					"display_url": "twitter.com/keewa/status/1…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 273,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1144324288201351200,
+		"quoted_status_id_str": "1144324288201351175",
+		"quoted_status_permalink": {
+			"url": "https://t.co/00zZiLgp4t",
+			"expanded": "https://twitter.com/keewa/status/1144324288201351175",
+			"display": "twitter.com/keewa/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 27 19:19:05 +0000 2019",
+			"id": 1144324288201351200,
+			"id_str": "1144324288201351175",
+			"full_text": "Theory: England would win more world cups if they didn't have to put up with a fucking annoying brass band insisting on being at their matches",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27053333,
+				"id_str": "27053333",
+				"name": "keewa",
+				"screen_name": "keewa",
+				"location": "Mountain Land",
+				"description": "Photographer. Producer/Editor @sexyhistorypod",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2922,
+				"friends_count": 1005,
+				"listed_count": 112,
+				"created_at": "Fri Mar 27 17:36:55 +0000 2009",
+				"favourites_count": 50743,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 237192,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1097821259302346752/PFHZLKIV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097821259302346752/PFHZLKIV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27053333/1516669404",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There should be a permanent ban! https://t.co/00zZiLgp4t"
+	},
+	{
 		"created_at": "Wed Jun 26 18:08:35 +0000 2019",
 		"id": 1143942236205273100,
 		"id_str": "1143944157372833792",
