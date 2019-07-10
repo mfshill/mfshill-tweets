@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 09 20:14:52 +0000 2019",
+		"id": 1148686558939291600,
+		"id_str": "1148686980944785408",
+		"full_text": "In-depth reaction and analysis of the #ITVDebate https://t.co/q1A66NlZmD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ITVDebate",
+					"indices": [
+						38,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1148686543911043100,
+					"id_str": "1148686543911043078",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_D0U2AWwAYcRJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_D0U2AWwAYcRJ-.jpg",
+					"url": "https://t.co/q1A66NlZmD",
+					"display_url": "pic.twitter.com/q1A66NlZmD",
+					"expanded_url": "https://twitter.com/PoliticsJOE_UK/status/1148686558939291649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148686543911043100,
+					"id_str": "1148686543911043078",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_D0U2AWwAYcRJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_D0U2AWwAYcRJ-.jpg",
+					"url": "https://t.co/q1A66NlZmD",
+					"display_url": "pic.twitter.com/q1A66NlZmD",
+					"expanded_url": "https://twitter.com/PoliticsJOE_UK/status/1148686558939291649/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D_D0U2AWwAYcRJ-.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 840502412842541000,
+			"id_str": "840502412842541056",
+			"name": "PoliticsJOE",
+			"screen_name": "PoliticsJOE_UK",
+			"location": "United Kingdom",
+			"description": "Politics for the many, not the few. Providing strong and stable coverage that’s equally biased against everyone. @JOE_co_uk approve this message.",
+			"url": "https://t.co/915niW3lva",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/915niW3lva",
+							"expanded_url": "http://www.JOE.co.uk",
+							"display_url": "JOE.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76755,
+			"friends_count": 572,
+			"listed_count": 299,
+			"created_at": "Sat Mar 11 09:59:25 +0000 2017",
+			"favourites_count": 1384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084583351854551043/lVu9S5aX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084583351854551043/lVu9S5aX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/840502412842541056/1519229345",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In-depth reaction and analysis of the #ITVDebate https://t.co/q1A66NlZmD"
+	},
+	{
 		"created_at": "Mon Jul 08 15:00:36 +0000 2019",
 		"id": 1148245504423338000,
 		"id_str": "1148245504423337984",
