@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 15 17:04:35 +0000 2019",
+		"id": 1150807804875333600,
+		"id_str": "1150813423669846017",
+		"full_text": "RT &amp; follow to win a Yellow Jersey signed by @alafpolak1 with @lecoqsportif.\nRT &amp; follow pour tenter de gagner un Maillot Jaune signé par @alafpolak1 avec @lecoqsportif.\n\n#TDF2019 https://t.co/GZs1EN6Qkw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TDF2019",
+					"indices": [
+						179,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alafpolak1",
+					"name": "Julian Alaphilippe Officiel",
+					"id": 1145734481615212500,
+					"id_str": "1145734481615212544",
+					"indices": [
+						49,
+						60
+					]
+				},
+				{
+					"screen_name": "lecoqsportif",
+					"name": "le coq sportif",
+					"id": 80244351,
+					"id_str": "80244351",
+					"indices": [
+						66,
+						79
+					]
+				},
+				{
+					"screen_name": "alafpolak1",
+					"name": "Julian Alaphilippe Officiel",
+					"id": 1145734481615212500,
+					"id_str": "1145734481615212544",
+					"indices": [
+						146,
+						157
+					]
+				},
+				{
+					"screen_name": "lecoqsportif",
+					"name": "le coq sportif",
+					"id": 80244351,
+					"id_str": "80244351",
+					"indices": [
+						163,
+						176
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1150807798663524400,
+					"id_str": "1150807798663524353",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/D_h9mHwWsAEX5h9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_h9mHwWsAEX5h9.jpg",
+					"url": "https://t.co/GZs1EN6Qkw",
+					"display_url": "pic.twitter.com/GZs1EN6Qkw",
+					"expanded_url": "https://twitter.com/LeTour/status/1150807804875333633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1150807798663524400,
+					"id_str": "1150807798663524353",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/D_h9mHwWsAEX5h9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_h9mHwWsAEX5h9.jpg",
+					"url": "https://t.co/GZs1EN6Qkw",
+					"display_url": "pic.twitter.com/GZs1EN6Qkw",
+					"expanded_url": "https://twitter.com/LeTour/status/1150807804875333633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153403071,
+			"id_str": "153403071",
+			"name": "Tour de France™",
+			"screen_name": "LeTour",
+			"location": "",
+			"description": "2019 🏆 : ??? 2018 🏆 : @GeraintThomas86 La plus grande course cycliste au monde. The world's biggest cycling race. #TDF2019",
+			"url": "https://t.co/BzORXbefug",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BzORXbefug",
+							"expanded_url": "https://www.letour.fr/",
+							"display_url": "letour.fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3047684,
+			"friends_count": 764,
+			"listed_count": 8889,
+			"created_at": "Tue Jun 08 13:18:00 +0000 2010",
+			"favourites_count": 612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAD905",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111606111994593283/U_FXXZze_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111606111994593283/U_FXXZze_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153403071/1563209415",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2981,
+		"favorite_count": 870,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "RT &amp; follow to win a Yellow Jersey signed by @alafpolak1 with @lecoqsportif.\nRT &amp; follow pour tenter de gagner un Maillot Jaune signé par @alafpolak1 avec @lecoqsportif.\n\n#TDF2019 https://t.co/GZs1EN6Qkw"
+	},
+	{
 		"created_at": "Sun Jul 14 20:48:01 +0000 2019",
 		"id": 1150507264131915800,
 		"id_str": "1150507264131915778",
@@ -110,7 +333,7 @@ Grailbird.data.tweets_2019_07 =
 		"created_at": "Sun Jul 14 18:41:03 +0000 2019",
 		"id": 1150475310690967600,
 		"id_str": "1150475310690967552",
-		"full_text": "- 🏃‍♂️adidas #CityRunsLDN: Shoreditch 10k ✔\n- 🏎️@LewisHamilton wins #BritishGP 🇬🇧 #F1 ✔\n- 🚴🏽‍♀️Stage 9 #TDF2019 won by @darylimpey  ✔\n- 🎾@DjokerNole wins an epic #WimbledonFinal ✔\n- 🏏England win the #CWC19 for the 1st time. ✔\n\nWhat a day of sport! 😄 \\o/",
+		"full_text": "- 🏃♂️adidas #CityRunsLDN: Shoreditch 10k ✔\n- 🏎️@LewisHamilton wins #BritishGP 🇬🇧 #F1 ✔\n- 🚴🏽♀️Stage 9 #TDF2019 won by @darylimpey  ✔\n- 🎾@DjokerNole wins an epic #WimbledonFinal ✔\n- 🏏England win the #CWC19 for the 1st time. ✔\n\nWhat a day of sport! 😄 \\o/",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -273,7 +496,7 @@ Grailbird.data.tweets_2019_07 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "- 🏃‍♂️adidas #CityRunsLDN: Shoreditch 10k ✔\n- 🏎️@LewisHamilton wins #BritishGP 🇬🇧 #F1 ✔\n- 🚴🏽‍♀️Stage 9 #TDF2019 won by @darylimpey  ✔\n- 🎾@DjokerNole wins an epic #WimbledonFinal ✔\n- 🏏England win the #CWC19 for the 1st time. ✔\n\nWhat a day of sport! 😄 \\o/"
+		"text": "- 🏃♂️adidas #CityRunsLDN: Shoreditch 10k ✔\n- 🏎️@LewisHamilton wins #BritishGP 🇬🇧 #F1 ✔\n- 🚴🏽♀️Stage 9 #TDF2019 won by @darylimpey  ✔\n- 🎾@DjokerNole wins an epic #WimbledonFinal ✔\n- 🏏England win the #CWC19 for the 1st time. ✔\n\nWhat a day of sport! 😄 \\o/"
 	},
 	{
 		"created_at": "Sun Jul 14 18:31:46 +0000 2019",
