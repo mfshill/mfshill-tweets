@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 17 13:22:16 +0000 2019",
+		"id": 1147959347340828700,
+		"id_str": "1151482249453473793",
+		"full_text": "Go #Utrecht! In my city, 316 bus stops now have a green roof. These roofs help to capture fine dust, storage of rainwate, provide cooling in the summertime and they contribute to the city’s biodiversity, supporting insects. Want one too? | #climateaction https://t.co/t0H2vIXPkP https://t.co/BoPQOKDTE7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Utrecht",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"text": "climateaction",
+					"indices": [
+						240,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t0H2vIXPkP",
+					"expanded_url": "https://www.brightvibes.com/1358/en/this-dutch-city-has-transformed-its-bus-stops-into-bee-stops",
+					"display_url": "brightvibes.com/1358/en/this-d…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1147959330752409600,
+					"id_str": "1147959330752409601",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D-5e7d4XsAEl95M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-5e7d4XsAEl95M.jpg",
+					"url": "https://t.co/BoPQOKDTE7",
+					"display_url": "pic.twitter.com/BoPQOKDTE7",
+					"expanded_url": "https://twitter.com/jolandavginkel/status/1147959347340828673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 465,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147959330752409600,
+					"id_str": "1147959330752409601",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D-5e7d4XsAEl95M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-5e7d4XsAEl95M.jpg",
+					"url": "https://t.co/BoPQOKDTE7",
+					"display_url": "pic.twitter.com/BoPQOKDTE7",
+					"expanded_url": "https://twitter.com/jolandavginkel/status/1147959347340828673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 465,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116176721,
+			"id_str": "116176721",
+			"name": "Jolanda van Ginkel",
+			"screen_name": "jolandavginkel",
+			"location": "Utrecht",
+			"description": "Recreational Twitterer. Runner with road bike. Loves traveling, surfing & silly jokes. | Renewable energy @IKEAFoundation - views are my own.",
+			"url": "https://t.co/OofIMeITAh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OofIMeITAh",
+							"expanded_url": "http://www.jolandavanginkel.nl",
+							"display_url": "jolandavanginkel.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1788,
+			"friends_count": 594,
+			"listed_count": 59,
+			"created_at": "Sun Feb 21 13:04:20 +0000 2010",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957614978101587968/8Mb3s7J-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957614978101587968/8Mb3s7J-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116176721/1503123236",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1e7ee7374f6c2e25",
+			"url": "https://api.twitter.com/1.1/geo/id/1e7ee7374f6c2e25.json",
+			"place_type": "city",
+			"name": "Les Sables-d'Olonne",
+			"full_name": "Les Sables-d'Olonne, France",
+			"country_code": "FR",
+			"country": "France",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.8220406,
+							46.4799007
+						],
+						[
+							-1.7541938,
+							46.4799007
+						],
+						[
+							-1.7541938,
+							46.5202662
+						],
+						[
+							-1.8220406,
+							46.5202662
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Go #Utrecht! In my city, 316 bus stops now have a green roof. These roofs help to capture fine dust, storage of rainwate, provide cooling in the summertime and they contribute to the city’s biodiversity, supporting insects. Want one too? | #climateaction https://t.co/t0H2vIXPkP https://t.co/BoPQOKDTE7"
+	},
+	{
 		"created_at": "Tue Jul 16 20:37:00 +0000 2019",
 		"id": 1151229265737916400,
 		"id_str": "1151229265737916421",
