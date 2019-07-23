@@ -1,6 +1,419 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 22 21:16:07 +0000 2019",
+		"id": 1153315225048928300,
+		"id_str": "1153413435591467008",
+		"full_text": "Elections Labour didn’t win under Corbyn:\n\n2016 Council elections\n2016 Scottish Parliament election\n2016 EU referendum\n2017 Council elections\n2017 General election\n2018 Council elections\n2019 Council elections\n2019 EU Parliament election https://t.co/KpXOsHDEy7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KpXOsHDEy7",
+					"expanded_url": "https://twitter.com/jeremycorbyn/status/1153291560727076864",
+					"display_url": "twitter.com/jeremycorbyn/s…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180834935,
+			"id_str": "180834935",
+			"name": "Leonardo Carella",
+			"screen_name": "leonardocarella",
+			"location": "Oxford - Rome - Warsaw",
+			"description": "Doctoral candidate in Politics at @UniofOxford. Grand Union scholar. Voters, elections & campaigns. Harnessing the energy of shame.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8308,
+			"friends_count": 3513,
+			"listed_count": 141,
+			"created_at": "Fri Aug 20 16:20:49 +0000 2010",
+			"favourites_count": 15993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1037639538120843264/woNei-7B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037639538120843264/woNei-7B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180834935/1558767138",
+			"profile_link_color": "F5BC1E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1153291560727076900,
+		"quoted_status_id_str": "1153291560727076864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KpXOsHDEy7",
+			"expanded": "https://twitter.com/jeremycorbyn/status/1153291560727076864",
+			"display": "twitter.com/jeremycorbyn/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 22 13:11:49 +0000 2019",
+			"id": 1153291560727076900,
+			"id_str": "1153291560727076864",
+			"full_text": "Our movement can win an election whenever it comes. https://t.co/9onpa8iuZJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				51
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1153289171345301500,
+						"id_str": "1153289171345301505",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/EAFPioMWsAA6DQ8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAFPioMWsAA6DQ8.jpg",
+						"url": "https://t.co/9onpa8iuZJ",
+						"display_url": "pic.twitter.com/9onpa8iuZJ",
+						"expanded_url": "https://twitter.com/jeremycorbyn/status/1153291560727076864/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1153289171345301500,
+						"id_str": "1153289171345301505",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/EAFPioMWsAA6DQ8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAFPioMWsAA6DQ8.jpg",
+						"url": "https://t.co/9onpa8iuZJ",
+						"display_url": "pic.twitter.com/9onpa8iuZJ",
+						"expanded_url": "https://twitter.com/jeremycorbyn/status/1153291560727076864/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 135080,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1153289171345301505/vid/720x720/B3uCRZ_GLu9f-Xs9.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1153289171345301505/vid/480x480/poeuHcKPzvJOADyf.mp4?tag=13"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1153289171345301505/vid/320x320/RYoefDRLMejgRJpw.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1153289171345301505/pl/DeFA_hquVmvtmWGi.m3u8?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 117777690,
+				"id_str": "117777690",
+				"name": "Jeremy Corbyn",
+				"screen_name": "jeremycorbyn",
+				"location": "UK",
+				"description": "Leader of the Labour Party.",
+				"url": "https://t.co/n2rYxpGf57",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n2rYxpGf57",
+								"expanded_url": "http://www.labour.org.uk/volunteering",
+								"display_url": "labour.org.uk/volunteering",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1992083,
+				"friends_count": 2453,
+				"listed_count": 7156,
+				"created_at": "Fri Feb 26 15:45:23 +0000 2010",
+				"favourites_count": 222,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12135,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/868124921402150912/V0SkMhCD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/868124921402150912/V0SkMhCD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/117777690/1506521898",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1916,
+			"favorite_count": 6002,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 506,
+		"favorite_count": 1372,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Elections Labour didn’t win under Corbyn:\n\n2016 Council elections\n2016 Scottish Parliament election\n2016 EU referendum\n2017 Council elections\n2017 General election\n2018 Council elections\n2019 Council elections\n2019 EU Parliament election https://t.co/KpXOsHDEy7"
+	},
+	{
+		"created_at": "Mon Jul 22 19:17:34 +0000 2019",
+		"id": 1153383603495198700,
+		"id_str": "1153383603495198724",
+		"full_text": "@johnbbeta great tune mate, hope there's more on the way....? Been a while since Light Speed 🤨",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johnbbeta",
+					"name": "John B",
+					"id": 15713640,
+					"id_str": "15713640",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1153377345744593000,
+		"in_reply_to_status_id_str": "1153377345744592896",
+		"in_reply_to_user_id": 15713640,
+		"in_reply_to_user_id_str": "15713640",
+		"in_reply_to_screen_name": "johnbbeta",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 273,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 892,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@johnbbeta great tune mate, hope there's more on the way....? Been a while since Light Speed 🤨"
+	},
+	{
 		"created_at": "Sun Jul 21 16:46:10 +0000 2019",
 		"id": 1152983115079590000,
 		"id_str": "1152983115079589889",
