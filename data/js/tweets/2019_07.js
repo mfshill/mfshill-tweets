@@ -1,6 +1,622 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 24 00:47:21 +0000 2019",
+		"id": 1153828983311667200,
+		"id_str": "1153828983311667200",
+		"full_text": "Woken up by thunderstorm, put on the match, watch Arsenal let in 2 goals, turn match off, go back to bed 😕",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 273,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 892,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Woken up by thunderstorm, put on the match, watch Arsenal let in 2 goals, turn match off, go back to bed 😕"
+	},
+	{
+		"created_at": "Tue Jul 23 20:52:12 +0000 2019",
+		"id": 1153696500985270300,
+		"id_str": "1153769805754839040",
+		"full_text": "RT &amp; follow to win a Yellow Jersey signed by \n@alafpolak1 with @lecoqsportif\n\nRT &amp; follow pour tenter de gagner un @MaillotjauneLCL signé par @alafpolak1 avec @lecoqsportif\n\n#TDF2019 https://t.co/xPrRRkVR2e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TDF2019",
+					"indices": [
+						182,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alafpolak1",
+					"name": "Julian Alaphilippe Officiel",
+					"id": 1145734481615212500,
+					"id_str": "1145734481615212544",
+					"indices": [
+						50,
+						61
+					]
+				},
+				{
+					"screen_name": "lecoqsportif",
+					"name": "le coq sportif",
+					"id": 80244351,
+					"id_str": "80244351",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"screen_name": "MaillotjauneLCL",
+					"name": "Maillot jaune LCL",
+					"id": 589082707,
+					"id_str": "589082707",
+					"indices": [
+						123,
+						139
+					]
+				},
+				{
+					"screen_name": "alafpolak1",
+					"name": "Julian Alaphilippe Officiel",
+					"id": 1145734481615212500,
+					"id_str": "1145734481615212544",
+					"indices": [
+						150,
+						161
+					]
+				},
+				{
+					"screen_name": "lecoqsportif",
+					"name": "le coq sportif",
+					"id": 80244351,
+					"id_str": "80244351",
+					"indices": [
+						167,
+						180
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1153696494266048500,
+					"id_str": "1153696494266048518",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EALA2VdXYAYNezh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EALA2VdXYAYNezh.jpg",
+					"url": "https://t.co/xPrRRkVR2e",
+					"display_url": "pic.twitter.com/xPrRRkVR2e",
+					"expanded_url": "https://twitter.com/LeTour/status/1153696500985270274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1153696494266048500,
+					"id_str": "1153696494266048518",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EALA2VdXYAYNezh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EALA2VdXYAYNezh.jpg",
+					"url": "https://t.co/xPrRRkVR2e",
+					"display_url": "pic.twitter.com/xPrRRkVR2e",
+					"expanded_url": "https://twitter.com/LeTour/status/1153696500985270274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153403071,
+			"id_str": "153403071",
+			"name": "Tour de France™",
+			"screen_name": "LeTour",
+			"location": "",
+			"description": "2019 🏆 : ??? 2018 🏆 : @GeraintThomas86 La plus grande course cycliste au monde. The world's biggest cycling race. #TDF2019",
+			"url": "https://t.co/BzORXbefug",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BzORXbefug",
+							"expanded_url": "https://www.letour.fr/",
+							"display_url": "letour.fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3061177,
+			"friends_count": 767,
+			"listed_count": 8931,
+			"created_at": "Tue Jun 08 13:18:00 +0000 2010",
+			"favourites_count": 654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAD905",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111606111994593283/U_FXXZze_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111606111994593283/U_FXXZze_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153403071/1563896851",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3608,
+		"favorite_count": 996,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "RT &amp; follow to win a Yellow Jersey signed by \n@alafpolak1 with @lecoqsportif\n\nRT &amp; follow pour tenter de gagner un @MaillotjauneLCL signé par @alafpolak1 avec @lecoqsportif\n\n#TDF2019 https://t.co/xPrRRkVR2e"
+	},
+	{
+		"created_at": "Tue Jul 23 15:41:45 +0000 2019",
+		"id": 1153691678294859800,
+		"id_str": "1153691678294859778",
+		"full_text": "great sprint finish by @CalebEwan to take the stage win #TDF2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TDF2019",
+					"indices": [
+						56,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CalebEwan",
+					"name": "Caleb Ewan",
+					"id": 303479072,
+					"id_str": "303479072",
+					"indices": [
+						23,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 273,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 892,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "great sprint finish by @CalebEwan to take the stage win #TDF2019"
+	},
+	{
+		"created_at": "Tue Jul 23 12:43:47 +0000 2019",
+		"id": 1153642198329700400,
+		"id_str": "1153646890212368385",
+		"full_text": "The peak of the heat for the UK is still expected across eastern England on Thursday.\n\n📈Most likely temperature is 37C, but 38C is possible.\n\n🌡️ July max temperature record is 36.7C\n🌡️ All-time UK max temperature record is 38.5C https://t.co/E6SwUpOcEd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1153642192994480000,
+					"id_str": "1153642192994480129",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/EAKPdldWsAE1HkW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAKPdldWsAE1HkW.jpg",
+					"url": "https://t.co/E6SwUpOcEd",
+					"display_url": "pic.twitter.com/E6SwUpOcEd",
+					"expanded_url": "https://twitter.com/liamdutton/status/1153642198329700352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1153642192994480000,
+					"id_str": "1153642192994480129",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/EAKPdldWsAE1HkW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAKPdldWsAE1HkW.jpg",
+					"url": "https://t.co/E6SwUpOcEd",
+					"display_url": "pic.twitter.com/E6SwUpOcEd",
+					"expanded_url": "https://twitter.com/liamdutton/status/1153642198329700352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20481072,
+			"id_str": "20481072",
+			"name": "Liam Dutton - Weatherman",
+			"screen_name": "liamdutton",
+			"location": "London",
+			"description": "Weather Presenter for @Channel4News, formerly @bbcweather. @metoffice qualified meteorologist. Pianist. Tech lover. Welshman. My views unless otherwise stated.",
+			"url": "https://t.co/AOGeVgGanY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOGeVgGanY",
+							"expanded_url": "http://www.liamdutton.com",
+							"display_url": "liamdutton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38327,
+			"friends_count": 532,
+			"listed_count": 545,
+			"created_at": "Tue Feb 10 00:33:07 +0000 2009",
+			"favourites_count": 2888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 52745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D1D1D1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675837736029437953/Nkf3p1tG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675837736029437953/Nkf3p1tG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20481072/1443639844",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The peak of the heat for the UK is still expected across eastern England on Thursday.\n\n📈Most likely temperature is 37C, but 38C is possible.\n\n🌡️ July max temperature record is 36.7C\n🌡️ All-time UK max temperature record is 38.5C https://t.co/E6SwUpOcEd"
+	},
+	{
 		"created_at": "Mon Jul 22 21:16:07 +0000 2019",
 		"id": 1153315225048928300,
 		"id_str": "1153413435591467008",
