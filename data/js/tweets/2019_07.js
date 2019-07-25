@@ -1,6 +1,437 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 24 23:31:00 +0000 2019",
+		"id": 1154172159369130000,
+		"id_str": "1154172159369129985",
+		"full_text": "new twitter is ugly as hell",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 272,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 892,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "new twitter is ugly as hell"
+	},
+	{
+		"created_at": "Wed Jul 24 18:21:12 +0000 2019",
+		"id": 1154094195021246500,
+		"id_str": "1154094195021246469",
+		"full_text": "watching the cricket highlights, wow England were terrible. #ENGvIRE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ENGvIRE",
+					"indices": [
+						60,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 272,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 892,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "watching the cricket highlights, wow England were terrible. #ENGvIRE"
+	},
+	{
+		"created_at": "Wed Jul 24 18:19:18 +0000 2019",
+		"id": 1154055221674463200,
+		"id_str": "1154093717457985536",
+		"full_text": "RT &amp; follow to win a Yellow Jersey signed by \n@alafpolak1 with @lecoqsportif\n\nRT &amp; follow pour tenter de gagner un @MaillotjauneLCL signé par @alafpolak1 avec @lecoqsportif\n\n#TDF2019 https://t.co/QlmYf7QmRs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TDF2019",
+					"indices": [
+						182,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alafpolak1",
+					"name": "Julian Alaphilippe Officiel",
+					"id": 1145734481615212500,
+					"id_str": "1145734481615212544",
+					"indices": [
+						50,
+						61
+					]
+				},
+				{
+					"screen_name": "lecoqsportif",
+					"name": "le coq sportif",
+					"id": 80244351,
+					"id_str": "80244351",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"screen_name": "MaillotjauneLCL",
+					"name": "Maillot jaune LCL",
+					"id": 589082707,
+					"id_str": "589082707",
+					"indices": [
+						123,
+						139
+					]
+				},
+				{
+					"screen_name": "alafpolak1",
+					"name": "Julian Alaphilippe Officiel",
+					"id": 1145734481615212500,
+					"id_str": "1145734481615212544",
+					"indices": [
+						150,
+						161
+					]
+				},
+				{
+					"screen_name": "lecoqsportif",
+					"name": "le coq sportif",
+					"id": 80244351,
+					"id_str": "80244351",
+					"indices": [
+						167,
+						180
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1154055215949275100,
+					"id_str": "1154055215949275136",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EAQHGr3X4AAHxs6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAQHGr3X4AAHxs6.jpg",
+					"url": "https://t.co/QlmYf7QmRs",
+					"display_url": "pic.twitter.com/QlmYf7QmRs",
+					"expanded_url": "https://twitter.com/LeTour/status/1154055221674463232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154055215949275100,
+					"id_str": "1154055215949275136",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EAQHGr3X4AAHxs6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAQHGr3X4AAHxs6.jpg",
+					"url": "https://t.co/QlmYf7QmRs",
+					"display_url": "pic.twitter.com/QlmYf7QmRs",
+					"expanded_url": "https://twitter.com/LeTour/status/1154055221674463232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153403071,
+			"id_str": "153403071",
+			"name": "Tour de France™",
+			"screen_name": "LeTour",
+			"location": "",
+			"description": "2019 🏆 : ??? 2018 🏆 : @GeraintThomas86 La plus grande course cycliste au monde. The world's biggest cycling race. #TDF2019",
+			"url": "https://t.co/BzORXbefug",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BzORXbefug",
+							"expanded_url": "https://www.letour.fr/",
+							"display_url": "letour.fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3062513,
+			"friends_count": 767,
+			"listed_count": 8938,
+			"created_at": "Tue Jun 08 13:18:00 +0000 2010",
+			"favourites_count": 658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAD905",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111606111994593283/U_FXXZze_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111606111994593283/U_FXXZze_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153403071/1563984550",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3962,
+		"favorite_count": 1288,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "RT &amp; follow to win a Yellow Jersey signed by \n@alafpolak1 with @lecoqsportif\n\nRT &amp; follow pour tenter de gagner un @MaillotjauneLCL signé par @alafpolak1 avec @lecoqsportif\n\n#TDF2019 https://t.co/QlmYf7QmRs"
+	},
+	{
 		"created_at": "Wed Jul 24 00:47:21 +0000 2019",
 		"id": 1153828983311667200,
 		"id_str": "1153828983311667200",
