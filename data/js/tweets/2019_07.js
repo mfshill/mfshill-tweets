@@ -1,6 +1,588 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 28 19:53:25 +0000 2019",
+		"id": 1155566951147565000,
+		"id_str": "1155566951147565056",
+		"full_text": "best Tour I've seen in years. robbed of proper competition for the last two racing days but the rest was fantastic. kudos to @Eganbernal and maybe net year @alafpolak1 can be in yellow at the end. #TDF2019 🇫🇷",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TDF2019",
+					"indices": [
+						197,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Eganbernal",
+					"name": "Egan Arley Bernal",
+					"id": 3808013897,
+					"id_str": "3808013897",
+					"indices": [
+						125,
+						136
+					]
+				},
+				{
+					"screen_name": "alafpolak1",
+					"name": "Julian Alaphilippe Officiel",
+					"id": 1145734481615212500,
+					"id_str": "1145734481615212544",
+					"indices": [
+						156,
+						167
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 269,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "best Tour I've seen in years. robbed of proper competition for the last two racing days but the rest was fantastic. kudos to @Eganbernal and maybe net year @alafpolak1 can be in yellow at the end. #TDF2019 🇫🇷"
+	},
+	{
+		"created_at": "Sun Jul 28 15:05:42 +0000 2019",
+		"id": 1155494546362556400,
+		"id_str": "1155494546362556416",
+		"full_text": "great win for @Max33Verstappen and an impressive 2nd for Seb starting from 20th #F1 #GermanGP 🇩🇪",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "F1",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "GermanGP",
+					"indices": [
+						84,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Max33Verstappen",
+					"name": "Max Verstappen",
+					"id": 556260847,
+					"id_str": "556260847",
+					"indices": [
+						14,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 269,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "great win for @Max33Verstappen and an impressive 2nd for Seb starting from 20th #F1 #GermanGP 🇩🇪"
+	},
+	{
+		"created_at": "Sun Jul 28 14:55:54 +0000 2019",
+		"id": 1155492080808079400,
+		"id_str": "1155492080808079361",
+		"full_text": "it should be mandated to have intermittent rain at every GP, this race has had everything😆#F1 #GermanGP 🇩🇪",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "F1",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "GermanGP",
+					"indices": [
+						94,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 269,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "it should be mandated to have intermittent rain at every GP, this race has had everything😆#F1 #GermanGP 🇩🇪"
+	},
+	{
+		"created_at": "Sun Jul 28 14:07:18 +0000 2019",
+		"id": 1155479847755534300,
+		"id_str": "1155479847755534337",
+		"full_text": "Ferrari going all #Spursy #F1 #GermanGP 🇩🇪",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Spursy",
+					"indices": [
+						18,
+						25
+					]
+				},
+				{
+					"text": "F1",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "GermanGP",
+					"indices": [
+						30,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 269,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Ferrari going all #Spursy #F1 #GermanGP 🇩🇪"
+	},
+	{
+		"created_at": "Sun Jul 28 13:10:56 +0000 2019",
+		"id": 1155465664028708900,
+		"id_str": "1155465664028708866",
+		"full_text": "sigh, just let them do a standing start! #F1 #GermanGP \n🇩🇪",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "F1",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "GermanGP",
+					"indices": [
+						45,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 269,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "sigh, just let them do a standing start! #F1 #GermanGP \n🇩🇪"
+	},
+	{
 		"created_at": "Sat Jul 27 15:42:45 +0000 2019",
 		"id": 1155139373853270000,
 		"id_str": "1155141480257871872",
