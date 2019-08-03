@@ -1,0 +1,85 @@
+Grailbird.data.tweets_2019_08 = 
+[
+	{
+		"created_at": "Fri Aug 02 15:33:58 +0000 2019",
+		"id": 1156992300377104400,
+		"id_str": "1157313600639447042",
+		"full_text": "After Arsenal signed Pepe:\n\n4-2-3-1 Formation\n\n                Lacazette\n\nAuba.     Özil/Ceballos       Pepe\n\n    Ceballos/Xhaka    Torreira\n\nGod.       Will.        Help.       Us \n\n                  Leno",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 911064162071121900,
+			"id_str": "911064162071121920",
+			"name": "Joseph Palmer",
+			"screen_name": "FarmerisKing",
+			"location": "Far away",
+			"description": "I speak to motivate,I work to encourage. God|Travels|Farmer| Yalimember|Community service| ArsenalFC",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4822,
+			"friends_count": 2519,
+			"listed_count": 6,
+			"created_at": "Fri Sep 22 03:06:37 +0000 2017",
+			"favourites_count": 8357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151541737237745664/IqBbGwMg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151541737237745664/IqBbGwMg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/911064162071121920/1564776941",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27623,
+		"favorite_count": 74699,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "After Arsenal signed Pepe:\n\n4-2-3-1 Formation\n\n                Lacazette\n\nAuba.     Özil/Ceballos       Pepe\n\n    Ceballos/Xhaka    Torreira\n\nGod.       Will.        Help.       Us \n\n                  Leno"
+	}
+]
