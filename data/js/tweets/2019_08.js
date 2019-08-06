@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 05 21:14:07 +0000 2019",
+		"id": 1158484304235679700,
+		"id_str": "1158486365773975553",
+		"full_text": "Can't stop. Won't stop.\n \nI've been exploring #Mars for seven years, traveled 13 miles (21 km), climbed 1,207 feet (368 m), found conditions on ancient Mars were favorable for life as we know it, and I'm not done yet.\n \nHere's what's new (plus a 360 view): https://t.co/KW5uyV2Uum https://t.co/ljnGp75cu6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Mars",
+					"indices": [
+						46,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KW5uyV2Uum",
+					"expanded_url": "https://go.nasa.gov/2YtGgMg",
+					"display_url": "go.nasa.gov/2YtGgMg",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1158484300293009400,
+					"id_str": "1158484300293009408",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EBPDVUzU8AA-Ycu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBPDVUzU8AA-Ycu.jpg",
+					"url": "https://t.co/ljnGp75cu6",
+					"display_url": "pic.twitter.com/ljnGp75cu6",
+					"expanded_url": "https://twitter.com/MarsCuriosity/status/1158484304235679744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 788,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158484300293009400,
+					"id_str": "1158484300293009408",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EBPDVUzU8AA-Ycu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBPDVUzU8AA-Ycu.jpg",
+					"url": "https://t.co/ljnGp75cu6",
+					"display_url": "pic.twitter.com/ljnGp75cu6",
+					"expanded_url": "https://twitter.com/MarsCuriosity/status/1158484304235679744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 788,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15473958,
+			"id_str": "15473958",
+			"name": "Curiosity Rover",
+			"screen_name": "MarsCuriosity",
+			"location": "Gale Crater, Mars",
+			"description": "Your friendly neighborhood NASA Mars rover. Exploring the Red Planet since 2012. Team headquartered at NASA's Jet Propulsion Laboratory 🚀 @NASAJPL",
+			"url": "https://t.co/iXfmrbJomz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXfmrbJomz",
+							"expanded_url": "http://mars.jpl.nasa.gov/msl/",
+							"display_url": "mars.jpl.nasa.gov/msl/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4027258,
+			"friends_count": 171,
+			"listed_count": 26585,
+			"created_at": "Thu Jul 17 21:18:10 +0000 2008",
+			"favourites_count": 580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "140E02",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2793288186/43e756fd0434d6ad43a8364b0e777239_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2793288186/43e756fd0434d6ad43a8364b0e777239_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15473958/1461780654",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1719,
+		"favorite_count": 7359,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can't stop. Won't stop.\n \nI've been exploring #Mars for seven years, traveled 13 miles (21 km), climbed 1,207 feet (368 m), found conditions on ancient Mars were favorable for life as we know it, and I'm not done yet.\n \nHere's what's new (plus a 360 view): https://t.co/KW5uyV2Uum https://t.co/ljnGp75cu6"
+	},
+	{
 		"created_at": "Sun Aug 04 19:34:35 +0000 2019",
 		"id": 1158098928300114000,
 		"id_str": "1158098928300113925",
