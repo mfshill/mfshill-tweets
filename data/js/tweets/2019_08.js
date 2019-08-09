@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 08 21:09:59 +0000 2019",
+		"id": 1159572487337914400,
+		"id_str": "1159572487337914383",
+		"full_text": "fantastic documentary 7/10 'Hail Satan?' (2019) https://t.co/YDDzlh85mp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YDDzlh85mp",
+					"expanded_url": "https://www.imdb.com/title/tt9358044/",
+					"display_url": "imdb.com/title/tt935804…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 269,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "fantastic documentary 7/10 'Hail Satan?' (2019) https://t.co/YDDzlh85mp"
+	},
+	{
+		"created_at": "Thu Aug 08 10:58:32 +0000 2019",
+		"id": 868575232952598500,
+		"id_str": "1159418610504351746",
+		"full_text": "Hands down my favourite thing about football is how no matter what happens with any team, the joke is somehow always on Spurs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174848607,
+			"id_str": "174848607",
+			"name": "Michael Keshani",
+			"screen_name": "MichaelKeshani",
+			"location": "At Large",
+			"description": "The Arsenal & some Schalke. Writing for About, @Arseblog, @football_LDN + more (DMs open, etc). Nacho Monreal, Aaron Ramsey & Ralf Fährmann Fan.",
+			"url": "https://t.co/aRhpxvrviW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aRhpxvrviW",
+							"expanded_url": "http://arseblog.com/author/roaming-libero/",
+							"display_url": "arseblog.com/author/roaming…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7325,
+			"friends_count": 702,
+			"listed_count": 213,
+			"created_at": "Thu Aug 05 00:02:12 +0000 2010",
+			"favourites_count": 7370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 102157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073557972930977792/Rqa1cIwg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073557972930977792/Rqa1cIwg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174848607/1525748548",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "544762ebf7fda780",
+			"url": "https://api.twitter.com/1.1/geo/id/544762ebf7fda780.json",
+			"place_type": "city",
+			"name": "Islington",
+			"full_name": "Islington, London",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.1420579,
+							51.5185518
+						],
+						[
+							-0.076305,
+							51.5185518
+						],
+						[
+							-0.076305,
+							51.575301
+						],
+						[
+							-0.1420579,
+							51.575301
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1683,
+		"favorite_count": 2646,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hands down my favourite thing about football is how no matter what happens with any team, the joke is somehow always on Spurs"
+	},
+	{
 		"created_at": "Wed Aug 07 16:48:35 +0000 2019",
 		"id": 1159144314720739300,
 		"id_str": "1159144314720739330",
