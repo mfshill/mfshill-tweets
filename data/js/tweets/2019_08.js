@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 10 20:12:19 +0000 2019",
+		"id": 1160278841438429200,
+		"id_str": "1160282750928261121",
+		"full_text": "When we have everybody back fit and Emery starts a back 5 of Bellerin Luiz Mustafi Holding Tierney https://t.co/44koxO17Yj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160278832215154700,
+					"id_str": "1160278832215154693",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EBojc1KW4AUwlrT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBojc1KW4AUwlrT.jpg",
+					"url": "https://t.co/44koxO17Yj",
+					"display_url": "pic.twitter.com/44koxO17Yj",
+					"expanded_url": "https://twitter.com/VieiraPaddy/status/1160278841438429184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 518,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 729,
+							"h": 555,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 729,
+							"h": 555,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160278832215154700,
+					"id_str": "1160278832215154693",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EBojc1KW4AUwlrT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBojc1KW4AUwlrT.jpg",
+					"url": "https://t.co/44koxO17Yj",
+					"display_url": "pic.twitter.com/44koxO17Yj",
+					"expanded_url": "https://twitter.com/VieiraPaddy/status/1160278841438429184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 518,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 729,
+							"h": 555,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 729,
+							"h": 555,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 612820859,
+			"id_str": "612820859",
+			"name": "Paddy",
+			"screen_name": "VieiraPaddy",
+			"location": "",
+			"description": "The Arsenal",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28233,
+			"friends_count": 306,
+			"listed_count": 401,
+			"created_at": "Tue Jun 19 20:07:03 +0000 2012",
+			"favourites_count": 121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080184353827762177/NsQF6pM4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080184353827762177/NsQF6pM4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/612820859/1554314641",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 393,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When we have everybody back fit and Emery starts a back 5 of Bellerin Luiz Mustafi Holding Tierney https://t.co/44koxO17Yj"
+	},
+	{
 		"created_at": "Fri Aug 09 19:08:35 +0000 2019",
 		"id": 1159904324794945500,
 		"id_str": "1159904324794945537",
