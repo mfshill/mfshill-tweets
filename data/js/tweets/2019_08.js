@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 12 11:15:30 +0000 2019",
+		"id": 1160872431436873700,
+		"id_str": "1160872431436873728",
+		"full_text": "Kvyat must be fuming https://t.co/AnnHVOnoRt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AnnHVOnoRt",
+					"expanded_url": "https://twitter.com/F1/status/1160860302080167938",
+					"display_url": "twitter.com/F1/status/1160…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 270,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1160860302080168000,
+		"quoted_status_id_str": "1160860302080167938",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AnnHVOnoRt",
+			"expanded": "https://twitter.com/F1/status/1160860302080167938",
+			"display": "twitter.com/F1/status/1160…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 12 10:27:18 +0000 2019",
+			"id": 1160860302080168000,
+			"id_str": "1160860302080167938",
+			"full_text": "BREAKING: @alex_albon moves up to @redbullracing!\n\nHe'll switch places with Pierre Gasly from the #BelgianGP onwards\n\n#F1\n\nhttps://t.co/36j1cwErh0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				146
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BelgianGP",
+						"indices": [
+							98,
+							108
+						]
+					},
+					{
+						"text": "F1",
+						"indices": [
+							118,
+							121
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "alex_albon",
+						"name": "Alex Albon",
+						"id": 397306167,
+						"id_str": "397306167",
+						"indices": [
+							10,
+							21
+						]
+					},
+					{
+						"screen_name": "redbullracing",
+						"name": "Aston Martin Red Bull Racing",
+						"id": 226087776,
+						"id_str": "226087776",
+						"indices": [
+							34,
+							48
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/36j1cwErh0",
+						"expanded_url": "https://f1.com/ALB-RBR",
+						"display_url": "f1.com/ALB-RBR",
+						"indices": [
+							123,
+							146
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.falcon.io\" rel=\"nofollow\">Falcon Social Media Management </a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 69008563,
+				"id_str": "69008563",
+				"name": "Formula 1",
+				"screen_name": "F1",
+				"location": "Great Britain",
+				"description": "The Official Formula 1® Account. F1 TV is here! Get closer to the action: https://t.co/YDZS5McHXM",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YDZS5McHXM",
+								"expanded_url": "http://www.F1.com/TVAccess",
+								"display_url": "F1.com/TVAccess",
+								"indices": [
+									74,
+									97
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4087771,
+				"friends_count": 66,
+				"listed_count": 22093,
+				"created_at": "Wed Aug 26 15:19:37 +0000 2009",
+				"favourites_count": 1630,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 49910,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1118184417791496192/fjTJ-Kzf_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118184417791496192/fjTJ-Kzf_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/69008563/1564938634",
+				"profile_link_color": "DC291E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "CCCCCC",
+				"profile_text_color": "222222",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5754,
+			"favorite_count": 22325,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kvyat must be fuming https://t.co/AnnHVOnoRt"
+	},
+	{
 		"created_at": "Sun Aug 11 14:53:53 +0000 2019",
 		"id": 1160565003361161200,
 		"id_str": "1160565003361161216",
