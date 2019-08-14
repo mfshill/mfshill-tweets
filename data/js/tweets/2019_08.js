@@ -1,6 +1,397 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 13 22:19:03 +0000 2019",
+		"id": 1161401808750874600,
+		"id_str": "1161401808750874624",
+		"full_text": "well, 'Red Sea Diving Resort' (2019) is a terrible film, really bad. The true story it's based on is fascinating and looking into it is a better use of your time. I can only assume this is a vehicle to showcase a half naked, bearded Chris Evans. 2/10 https://t.co/nkZaCs7gJT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nkZaCs7gJT",
+					"expanded_url": "https://www.imdb.com/title/tt4995776/",
+					"display_url": "imdb.com/title/tt499577…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 270,
+			"listed_count": 24,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "well, 'Red Sea Diving Resort' (2019) is a terrible film, really bad. The true story it's based on is fascinating and looking into it is a better use of your time. I can only assume this is a vehicle to showcase a half naked, bearded Chris Evans. 2/10 https://t.co/nkZaCs7gJT"
+	},
+	{
+		"created_at": "Tue Aug 13 11:26:49 +0000 2019",
+		"id": 1161196088457662500,
+		"id_str": "1161237669885677570",
+		"full_text": "👐 Left-handed and right-handedness dates way back to the Stone Age. #LeftHandersDay\nhttps://t.co/mQ1HranI6I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LeftHandersDay",
+					"indices": [
+						68,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053940810230706200,
+					"id_str": "1053940810230706176",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1053940810230706176/img/Qw-c2lOGD_3OClt3.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1053940810230706176/img/Qw-c2lOGD_3OClt3.jpg",
+					"url": "https://t.co/mQ1HranI6I",
+					"display_url": "pic.twitter.com/mQ1HranI6I",
+					"expanded_url": "https://twitter.com/bbcideas/status/1053945914660921344/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1053945914660921300,
+					"source_status_id_str": "1053945914660921344",
+					"source_user_id": 877869822683623400,
+					"source_user_id_str": "877869822683623424"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053940810230706200,
+					"id_str": "1053940810230706176",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1053940810230706176/img/Qw-c2lOGD_3OClt3.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1053940810230706176/img/Qw-c2lOGD_3OClt3.jpg",
+					"url": "https://t.co/mQ1HranI6I",
+					"display_url": "pic.twitter.com/mQ1HranI6I",
+					"expanded_url": "https://twitter.com/bbcideas/status/1053945914660921344/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1053945914660921300,
+					"source_status_id_str": "1053945914660921344",
+					"source_user_id": 877869822683623400,
+					"source_user_id_str": "877869822683623424",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 273440,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1053940810230706176/pl/qvKK2MjlLcKAzn3g.m3u8?tag=8"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1053940810230706176/vid/720x720/hKjCddC57Bxx-6a_.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1053940810230706176/vid/480x480/amcEWvZP9UHsOo2b.mp4?tag=8"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1053940810230706176/vid/240x240/8nQIvt21BMllA42x.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "... with leading expert on handedness Prof Chris McManus",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 877869822683623400,
+							"id_str": "877869822683623424",
+							"name": "BBC Ideas💡",
+							"screen_name": "bbcideas",
+							"location": "",
+							"description": "Do you have a curious mind? Feed your brain. Leave that little bit smarter.",
+							"url": "https://t.co/o3EHM3GJpv",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/o3EHM3GJpv",
+											"expanded_url": "http://www.bbc.com/ideas",
+											"display_url": "bbc.com/ideas",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 20341,
+							"friends_count": 1171,
+							"listed_count": 184,
+							"created_at": "Thu Jun 22 12:44:10 +0000 2017",
+							"favourites_count": 3367,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 2589,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1007283516021854210/V1OID1cp_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007283516021854210/V1OID1cp_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/877869822683623424/1556625087",
+							"profile_link_color": "FF691F",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19701628,
+			"id_str": "19701628",
+			"name": "BBC",
+			"screen_name": "BBC",
+			"location": "TV. Radio. Online",
+			"description": "Our mission is to enrich your life and to inform, educate and entertain you, wherever you are.",
+			"url": "http://t.co/9Yv7DJ1Pmu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/9Yv7DJ1Pmu",
+							"expanded_url": "http://www.bbc.co.uk",
+							"display_url": "bbc.co.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1559836,
+			"friends_count": 186,
+			"listed_count": 10956,
+			"created_at": "Thu Jan 29 08:30:16 +0000 2009",
+			"favourites_count": 3711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 31949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110178686450483200/F5-Jmzk7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110178686450483200/F5-Jmzk7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19701628/1553522020",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 905,
+		"favorite_count": 1682,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "👐 Left-handed and right-handedness dates way back to the Stone Age. #LeftHandersDay\nhttps://t.co/mQ1HranI6I"
+	},
+	{
 		"created_at": "Mon Aug 12 11:15:30 +0000 2019",
 		"id": 1160872431436873700,
 		"id_str": "1160872431436873728",
