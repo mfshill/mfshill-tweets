@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 21 21:42:58 +0000 2019",
+		"id": 1164186758646575000,
+		"id_str": "1164291831116566528",
+		"full_text": "The front page of the NYT right now looks like one of those pre-election parodies about what a Trump administration would be like. https://t.co/hyKwjvKROt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1164186726451093500,
+					"id_str": "1164186726451093506",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/ECgFqNpXoAIkCdV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECgFqNpXoAIkCdV.jpg",
+					"url": "https://t.co/hyKwjvKROt",
+					"display_url": "pic.twitter.com/hyKwjvKROt",
+					"expanded_url": "https://twitter.com/michelleinbklyn/status/1164186758646575105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 531,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 938,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1164186726451093500,
+					"id_str": "1164186726451093506",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/ECgFqNpXoAIkCdV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECgFqNpXoAIkCdV.jpg",
+					"url": "https://t.co/hyKwjvKROt",
+					"display_url": "pic.twitter.com/hyKwjvKROt",
+					"expanded_url": "https://twitter.com/michelleinbklyn/status/1164186758646575105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 531,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 938,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 212657985,
+			"id_str": "212657985",
+			"name": "Michelle Goldberg",
+			"screen_name": "michelleinbklyn",
+			"location": "",
+			"description": "NYT columnist; co-host of The Argument podcast; MSNBC contributor; author. I don't check Twitter mentions.",
+			"url": "https://t.co/fIVGF790Xx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fIVGF790Xx",
+							"expanded_url": "http://www.michellegoldberg.net",
+							"display_url": "michellegoldberg.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83653,
+			"friends_count": 2688,
+			"listed_count": 1663,
+			"created_at": "Sat Nov 06 17:48:54 +0000 2010",
+			"favourites_count": 583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "500A54",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090682621372362752/yl73Vbqj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090682621372362752/yl73Vbqj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/212657985/1505766229",
+			"profile_link_color": "074744",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9779,
+		"favorite_count": 23653,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The front page of the NYT right now looks like one of those pre-election parodies about what a Trump administration would be like. https://t.co/hyKwjvKROt"
+	},
+	{
 		"created_at": "Tue Aug 20 22:26:55 +0000 2019",
 		"id": 1163940019460960300,
 		"id_str": "1163940502066094081",
