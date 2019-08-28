@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 27 21:25:25 +0000 2019",
+		"id": 1166448723972567000,
+		"id_str": "1166461741611520006",
+		"full_text": "It wouldn't be The Great British Bake Off without a naughty moment or ten! #GBBO https://t.co/K3SAvu3qCw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GBBO",
+					"indices": [
+						75,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1166441502844883000,
+					"id_str": "1166441502844882947",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1166441502844882947/img/mpQfvgpyNGhvAsqa.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1166441502844882947/img/mpQfvgpyNGhvAsqa.jpg",
+					"url": "https://t.co/K3SAvu3qCw",
+					"display_url": "pic.twitter.com/K3SAvu3qCw",
+					"expanded_url": "https://twitter.com/BritishBakeOff/status/1166448723972567040/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1166441502844883000,
+					"id_str": "1166441502844882947",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1166441502844882947/img/mpQfvgpyNGhvAsqa.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1166441502844882947/img/mpQfvgpyNGhvAsqa.jpg",
+					"url": "https://t.co/K3SAvu3qCw",
+					"display_url": "pic.twitter.com/K3SAvu3qCw",
+					"expanded_url": "https://twitter.com/BritishBakeOff/status/1166448723972567040/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1166441502844882947/pl/ppWBPJRY6Ab-A1cj.m3u8?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1166441502844882947/vid/720x720/g7e7lf5vkDtaVMom.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1166441502844882947/vid/480x480/ZT__ESreKAY1HbZY.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1166441502844882947/vid/320x320/JOmadA54aPJ9RMGX.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 234428224,
+			"id_str": "234428224",
+			"name": "British Bake Off",
+			"screen_name": "BritishBakeOff",
+			"location": "Great Britain",
+			"description": "Official Feed hosted by makers Love Productions. Starts Tuesday 27th August. 8pm. Channel 4. #GBBO. Tweets may appear on air. https://t.co/DmsTz80c2A",
+			"url": "https://t.co/fKXBauwlpA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fKXBauwlpA",
+							"expanded_url": "http://thegreatbritishbakeoff.co.uk",
+							"display_url": "thegreatbritishbakeoff.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DmsTz80c2A",
+							"expanded_url": "http://ow.ly/B4YCp",
+							"display_url": "ow.ly/B4YCp",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 649194,
+			"friends_count": 1209,
+			"listed_count": 1212,
+			"created_at": "Wed Jan 05 16:51:04 +0000 2011",
+			"favourites_count": 5340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114102748545454080/2S_um_mR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114102748545454080/2S_um_mR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/234428224/1566256267",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 156,
+		"favorite_count": 755,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It wouldn't be The Great British Bake Off without a naughty moment or ten! #GBBO https://t.co/K3SAvu3qCw"
+	},
+	{
 		"created_at": "Sun Aug 25 17:25:40 +0000 2019",
 		"id": 1165676628388831200,
 		"id_str": "1165676628388831232",
