@@ -1,6 +1,667 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 28 22:46:33 +0000 2019",
+		"id": 1166787706715803600,
+		"id_str": "1166844547151933441",
+		"full_text": "Quite annoyed at this \"stop the coup\" stuff from people who have clearly never been foreign correspondents. A coup is when you *get rid* of the government by unconstitutional means. At best this is democratic backsliding.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206393099,
+			"id_str": "206393099",
+			"name": "Daniel Knowles",
+			"screen_name": "dlknowles",
+			"location": "London, England",
+			"description": "Bagpiping fact into news on the foreign desk @TheEconomist. Previously in Mumbai, Nairobi and Washington DC",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19305,
+			"friends_count": 2566,
+			"listed_count": 596,
+			"created_at": "Fri Oct 22 21:46:28 +0000 2010",
+			"favourites_count": 10062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090491616958148608/bzmH-UhO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090491616958148608/bzmH-UhO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206393099/1548497843",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 104,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Quite annoyed at this \"stop the coup\" stuff from people who have clearly never been foreign correspondents. A coup is when you *get rid* of the government by unconstitutional means. At best this is democratic backsliding."
+	},
+	{
+		"created_at": "Wed Aug 28 20:18:48 +0000 2019",
+		"id": 1166807363657117700,
+		"id_str": "1166807363657117696",
+		"full_text": "have been watch in #GrandDesigns since the beginning. can't believe it's been 20 years! time hasn't been to kind to Kevin...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GrandDesigns",
+					"indices": [
+						19,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "'Si vis pacem, para bellum'\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "have been watch in #GrandDesigns since the beginning. can't believe it's been 20 years! time hasn't been to kind to Kevin..."
+	},
+	{
+		"created_at": "Wed Aug 28 19:02:19 +0000 2019",
+		"id": 1166788114997756000,
+		"id_str": "1166788114997755904",
+		"full_text": "@MooreWays @PolarGlobal coming in October via update 4. Hopefully they'll improve the gps as well.  https://t.co/FD9E6wW1wL",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MooreWays",
+					"name": "Moore Ways",
+					"id": 497292701,
+					"id_str": "497292701",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "PolarGlobal",
+					"name": "Polar",
+					"id": 474775032,
+					"id_str": "474775032",
+					"indices": [
+						11,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FD9E6wW1wL",
+					"expanded_url": "https://www.polar.com/en/vantage/updates",
+					"display_url": "polar.com/en/vantage/upd…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1166783575498350600,
+		"in_reply_to_status_id_str": "1166783575498350593",
+		"in_reply_to_user_id": 497292701,
+		"in_reply_to_user_id_str": "497292701",
+		"in_reply_to_screen_name": "MooreWays",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "'Si vis pacem, para bellum'\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MooreWays @PolarGlobal coming in October via update 4. Hopefully they'll improve the gps as well.  https://t.co/FD9E6wW1wL"
+	},
+	{
+		"created_at": "Wed Aug 28 18:53:28 +0000 2019",
+		"id": 1166785888992579600,
+		"id_str": "1166785888992579584",
+		"full_text": "@TC_Cornesto looks like you've been having an entertaining afternoon",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "Al",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1166770007814168600,
+		"in_reply_to_status_id_str": "1166770007814168583",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "'Si vis pacem, para bellum'\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TC_Cornesto looks like you've been having an entertaining afternoon"
+	},
+	{
+		"created_at": "Wed Aug 28 12:24:26 +0000 2019",
+		"id": 1166653444087849000,
+		"id_str": "1166687985762545670",
+		"full_text": "Alexis Sanchez could’ve finished his career as an Arsenal legend and be remembered as one of the best players in the Premier League. Instead, he chose to use Manchester United as a part-time job to fund his retirement.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1057398307935473700,
+			"id_str": "1057398307935473669",
+			"name": "Amy",
+			"screen_name": "amyjohnsonnn_",
+			"location": "England, United Kingdom",
+			"description": "tried to think of a good bio but couldn’t, sorry",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5037,
+			"friends_count": 2892,
+			"listed_count": 9,
+			"created_at": "Tue Oct 30 22:26:16 +0000 2018",
+			"favourites_count": 12015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1166423520613679104/QPQLELd0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166423520613679104/QPQLELd0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1057398307935473669/1565885313",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 343,
+		"favorite_count": 2600,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Alexis Sanchez could’ve finished his career as an Arsenal legend and be remembered as one of the best players in the Premier League. Instead, he chose to use Manchester United as a part-time job to fund his retirement."
+	},
+	{
+		"created_at": "Wed Aug 28 12:18:27 +0000 2019",
+		"id": 1166673987440644000,
+		"id_str": "1166686480032509953",
+		"full_text": "THE SHIT SCARECROW HAS SAID NOTHING TO ME, BUT IF HE'S PLAYING THIS GAME IT'S A FUCKING CONSTITUTIONAL OUTRAGE. IT'S BLINDINGLY OBVIOUS TO ANY TWAT THAT THIS IS TO TELL PARLIAMENT TO FUCK OFF. IT'S AN OFFENCE AGAINST THE DEMOCRATIC PROCESS AND THEY'RE CUNTS FOR TRYING IT. https://t.co/CLwydJasdJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1166673981212188700,
+					"id_str": "1166673981212188672",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EDDbzfrX4AABD05.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDDbzfrX4AABD05.jpg",
+					"url": "https://t.co/CLwydJasdJ",
+					"display_url": "pic.twitter.com/CLwydJasdJ",
+					"expanded_url": "https://twitter.com/BercowSweary/status/1166673987440644098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 992,
+							"h": 558,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 992,
+							"h": 558,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1166673981212188700,
+					"id_str": "1166673981212188672",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EDDbzfrX4AABD05.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDDbzfrX4AABD05.jpg",
+					"url": "https://t.co/CLwydJasdJ",
+					"display_url": "pic.twitter.com/CLwydJasdJ",
+					"expanded_url": "https://twitter.com/BercowSweary/status/1166673987440644098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 992,
+							"h": 558,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 992,
+							"h": 558,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1111013304640639000,
+			"id_str": "1111013304640638977",
+			"name": "Sweary Bercow",
+			"screen_name": "BercowSweary",
+			"location": "",
+			"description": "DIVISION! CLEAR THE FUCKING LOBBY. Parody, obvs.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29760,
+			"friends_count": 0,
+			"listed_count": 56,
+			"created_at": "Wed Mar 27 21:13:08 +0000 2019",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111013517673594880/gSxMFwLT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111013517673594880/gSxMFwLT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1111013304640638977/1553761169",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 455,
+		"favorite_count": 826,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THE SHIT SCARECROW HAS SAID NOTHING TO ME, BUT IF HE'S PLAYING THIS GAME IT'S A FUCKING CONSTITUTIONAL OUTRAGE. IT'S BLINDINGLY OBVIOUS TO ANY TWAT THAT THIS IS TO TELL PARLIAMENT TO FUCK OFF. IT'S AN OFFENCE AGAINST THE DEMOCRATIC PROCESS AND THEY'RE CUNTS FOR TRYING IT. https://t.co/CLwydJasdJ"
+	},
+	{
 		"created_at": "Tue Aug 27 21:25:25 +0000 2019",
 		"id": 1166448723972567000,
 		"id_str": "1166461741611520006",
