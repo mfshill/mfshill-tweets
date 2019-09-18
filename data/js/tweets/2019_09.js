@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 17 19:28:31 +0000 2019",
+		"id": 1174042468574277600,
+		"id_str": "1174042468574277633",
+		"full_text": "something needs to change, quickly https://t.co/KIVx1bwopM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KIVx1bwopM",
+					"expanded_url": "https://twitter.com/afcstuff/status/1174018750737244164",
+					"display_url": "twitter.com/afcstuff/statu…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "'Si vis pacem, para bellum'\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1174018750737244200,
+		"quoted_status_id_str": "1174018750737244164",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KIVx1bwopM",
+			"expanded": "https://twitter.com/afcstuff/status/1174018750737244164",
+			"display": "twitter.com/afcstuff/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 17 17:54:17 +0000 2019",
+			"id": 1174018750737244200,
+			"id_str": "1174018750737244164",
+			"full_text": "Graphic: Arsenal in the Premier League since Unai Emery’s appointment. [Sky] #afc https://t.co/5tqOvJLAGf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				81
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "afc",
+						"indices": [
+							77,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1174018745624420400,
+						"id_str": "1174018745624420353",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/EErz1DSX4AE4VxD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EErz1DSX4AE4VxD.jpg",
+						"url": "https://t.co/5tqOvJLAGf",
+						"display_url": "pic.twitter.com/5tqOvJLAGf",
+						"expanded_url": "https://twitter.com/afcstuff/status/1174018750737244164/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 628,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 628,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1174018745624420400,
+						"id_str": "1174018745624420353",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/EErz1DSX4AE4VxD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EErz1DSX4AE4VxD.jpg",
+						"url": "https://t.co/5tqOvJLAGf",
+						"display_url": "pic.twitter.com/5tqOvJLAGf",
+						"expanded_url": "https://twitter.com/afcstuff/status/1174018750737244164/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 628,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 628,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3123238004,
+				"id_str": "3123238004",
+				"name": "afcstuff",
+				"screen_name": "afcstuff",
+				"location": "",
+				"description": "Welcome to @afcstuff, bringing the latest updates, stats, quotes, team news & transfer news about Arsenal.    Contact: afcstuff1@gmail.com",
+				"url": "https://t.co/WeDT35h0jv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WeDT35h0jv",
+								"expanded_url": "http://afcstuff.com",
+								"display_url": "afcstuff.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 115857,
+				"friends_count": 118,
+				"listed_count": 1184,
+				"created_at": "Wed Apr 01 06:28:12 +0000 2015",
+				"favourites_count": 18,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 32467,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972125217567977473/cJgMuFcP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972125217567977473/cJgMuFcP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3123238004/1544111295",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 279,
+			"favorite_count": 588,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "something needs to change, quickly https://t.co/KIVx1bwopM"
+	},
+	{
 		"created_at": "Sun Sep 15 17:51:54 +0000 2019",
 		"id": 1173293375803580400,
 		"id_str": "1173293375803580417",
