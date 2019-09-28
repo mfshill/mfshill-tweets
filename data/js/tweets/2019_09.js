@@ -1,6 +1,1085 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 27 23:36:54 +0000 2019",
+		"id": 1177728853566984200,
+		"id_str": "1177728853566984194",
+		"full_text": "great race for Chepngetich #WorldAthleticsChamps\n #Doha2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldAthleticsChamps",
+					"indices": [
+						27,
+						48
+					]
+				},
+				{
+					"text": "Doha2019",
+					"indices": [
+						50,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "'Si vis pacem, para bellum'\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "great race for Chepngetich #WorldAthleticsChamps\n #Doha2019"
+	},
+	{
+		"created_at": "Fri Sep 27 21:55:58 +0000 2019",
+		"id": 1177703453851881500,
+		"id_str": "1177703453851881472",
+		"full_text": "brutal looking conditions for this women's marathon #WorldAthleticsChamps #Doha2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldAthleticsChamps",
+					"indices": [
+						52,
+						73
+					]
+				},
+				{
+					"text": "Doha2019",
+					"indices": [
+						74,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "'Si vis pacem, para bellum'\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "brutal looking conditions for this women's marathon #WorldAthleticsChamps #Doha2019"
+	},
+	{
+		"created_at": "Fri Sep 27 20:08:30 +0000 2019",
+		"id": 1177676409415852000,
+		"id_str": "1177676409415852032",
+		"full_text": "well this isn't good. 'Over half of Europe’s endemic trees face extinction' https://t.co/rkW53HjSL9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rkW53HjSL9",
+					"expanded_url": "https://www.iucn.org/news/species/201909/over-half-europes-endemic-trees-face-extinction",
+					"display_url": "iucn.org/news/species/2…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "'Si vis pacem, para bellum'\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "well this isn't good. 'Over half of Europe’s endemic trees face extinction' https://t.co/rkW53HjSL9"
+	},
+	{
+		"created_at": "Fri Sep 27 15:46:06 +0000 2019",
+		"id": 1177610373329031200,
+		"id_str": "1177610373329031168",
+		"full_text": "this is just ridiculous https://t.co/4Luy2U5Xfi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4Luy2U5Xfi",
+					"expanded_url": "https://twitter.com/afcstuff/status/1177597044204146690",
+					"display_url": "twitter.com/afcstuff/statu…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "'Si vis pacem, para bellum'\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1177597044204146700,
+		"quoted_status_id_str": "1177597044204146690",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4Luy2U5Xfi",
+			"expanded": "https://twitter.com/afcstuff/status/1177597044204146690",
+			"display": "twitter.com/afcstuff/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 27 14:53:08 +0000 2019",
+			"id": 1177597044204146700,
+			"id_str": "1177597044204146690",
+			"full_text": "Arsenal manager Unai Emery has confirmed Arsenal’s five captains for this season:\n\n#1: Granit Xhaka\n#2: Pierre-Emerick Aubameyang\n#3: Héctor Bellerín\n#4: Alexandre Lacazette\n#5: Mesut Özil\n\n#afc https://t.co/igMYsNtKgC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				194
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "afc",
+						"indices": [
+							190,
+							194
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1177597038323753000,
+						"id_str": "1177597038323752973",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/media/EFeqRGXW4A0UQD4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFeqRGXW4A0UQD4.jpg",
+						"url": "https://t.co/igMYsNtKgC",
+						"display_url": "pic.twitter.com/igMYsNtKgC",
+						"expanded_url": "https://twitter.com/afcstuff/status/1177597044204146690/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1177597038323753000,
+						"id_str": "1177597038323752973",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/media/EFeqRGXW4A0UQD4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFeqRGXW4A0UQD4.jpg",
+						"url": "https://t.co/igMYsNtKgC",
+						"display_url": "pic.twitter.com/igMYsNtKgC",
+						"expanded_url": "https://twitter.com/afcstuff/status/1177597044204146690/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3123238004,
+				"id_str": "3123238004",
+				"name": "afcstuff",
+				"screen_name": "afcstuff",
+				"location": "",
+				"description": "Welcome to @afcstuff, bringing the latest updates, stats, quotes, team news & transfer news about Arsenal.    Contact: afcstuff1@gmail.com",
+				"url": "https://t.co/WeDT35h0jv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WeDT35h0jv",
+								"expanded_url": "http://afcstuff.com",
+								"display_url": "afcstuff.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 117520,
+				"friends_count": 116,
+				"listed_count": 1185,
+				"created_at": "Wed Apr 01 06:28:12 +0000 2015",
+				"favourites_count": 18,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 32607,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972125217567977473/cJgMuFcP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972125217567977473/cJgMuFcP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3123238004/1544111295",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 257,
+			"favorite_count": 1298,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ro"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is just ridiculous https://t.co/4Luy2U5Xfi"
+	},
+	{
+		"created_at": "Fri Sep 27 15:31:28 +0000 2019",
+		"id": 1177577253783384000,
+		"id_str": "1177606690096783365",
+		"full_text": "If I were Mayor, I'd use the Blackfriars stumps as an archive for the Fourth Plinth commissions https://t.co/JqcHewrH7O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1177577200083771400,
+					"id_str": "1177577200083771392",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EFeYOXKXoAAJhvH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFeYOXKXoAAJhvH.jpg",
+					"url": "https://t.co/JqcHewrH7O",
+					"display_url": "pic.twitter.com/JqcHewrH7O",
+					"expanded_url": "https://twitter.com/mattfromlondon/status/1177577253783384065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 852,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1455,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 483,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177577200083771400,
+					"id_str": "1177577200083771392",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EFeYOXKXoAAJhvH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFeYOXKXoAAJhvH.jpg",
+					"url": "https://t.co/JqcHewrH7O",
+					"display_url": "pic.twitter.com/JqcHewrH7O",
+					"expanded_url": "https://twitter.com/mattfromlondon/status/1177577253783384065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 852,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1455,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 483,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15289170,
+			"id_str": "15289170",
+			"name": "M@",
+			"screen_name": "mattfromlondon",
+			"location": "London",
+			"description": "Editor-at-Large of Londonist. London obsessive. Author of Everything You Know About London is Wrong, EYKA Science is Wrong, and EYKA Space is Wrong",
+			"url": "https://t.co/n6gn3yiDHr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n6gn3yiDHr",
+							"expanded_url": "http://www.londonist.com",
+							"display_url": "londonist.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4979,
+			"friends_count": 618,
+			"listed_count": 244,
+			"created_at": "Tue Jul 01 15:59:05 +0000 2008",
+			"favourites_count": 3785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE9B9F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126429989682012160/cNW-_TXA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126429989682012160/cNW-_TXA_normal.jpg",
+			"profile_link_color": "1C5469",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "D0453E",
+			"profile_text_color": "2E3517",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 161,
+		"favorite_count": 993,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If I were Mayor, I'd use the Blackfriars stumps as an archive for the Fourth Plinth commissions https://t.co/JqcHewrH7O"
+	},
+	{
+		"created_at": "Fri Sep 27 13:37:44 +0000 2019",
+		"id": 1177578067356803000,
+		"id_str": "1177578067356803074",
+		"full_text": "that is such a horrific stat :( https://t.co/iaEF7C4tZA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iaEF7C4tZA",
+					"expanded_url": "https://twitter.com/ESPNUK/status/1177553567722459136",
+					"display_url": "twitter.com/ESPNUK/status/…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "'Si vis pacem, para bellum'\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1542988698",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1177553567722459100,
+		"quoted_status_id_str": "1177553567722459136",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iaEF7C4tZA",
+			"expanded": "https://twitter.com/ESPNUK/status/1177553567722459136",
+			"display": "twitter.com/ESPNUK/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 27 12:00:23 +0000 2019",
+			"id": 1177553567722459100,
+			"id_str": "1177553567722459136",
+			"full_text": "Granit Xhaka has been appointed as Arsenal's permanent captain by Unai Emery. He has made more errors leading to goals than any other Premier League player since 2016. https://t.co/aIYMtEF1K0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				167
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1177553565893759000,
+						"id_str": "1177553565893758981",
+						"indices": [
+							168,
+							191
+						],
+						"media_url": "http://pbs.twimg.com/media/EFeCuq8XkAU4Yha.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFeCuq8XkAU4Yha.jpg",
+						"url": "https://t.co/aIYMtEF1K0",
+						"display_url": "pic.twitter.com/aIYMtEF1K0",
+						"expanded_url": "https://twitter.com/ESPNUK/status/1177553567722459136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1177553565893759000,
+						"id_str": "1177553565893758981",
+						"indices": [
+							168,
+							191
+						],
+						"media_url": "http://pbs.twimg.com/media/EFeCuq8XkAU4Yha.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFeCuq8XkAU4Yha.jpg",
+						"url": "https://t.co/aIYMtEF1K0",
+						"display_url": "pic.twitter.com/aIYMtEF1K0",
+						"expanded_url": "https://twitter.com/ESPNUK/status/1177553567722459136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.spredfast.com/\" rel=\"nofollow\">Spredfast app</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89452962,
+				"id_str": "89452962",
+				"name": "ESPN UK",
+				"screen_name": "ESPNUK",
+				"location": "United Kingdom",
+				"description": "The Nat Coombs Show is open for business! Follow @thencshow and download the latest episode using the link below.",
+				"url": "https://t.co/NPg96gRH11",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NPg96gRH11",
+								"expanded_url": "http://smarturl.it/n2t2b4",
+								"display_url": "smarturl.it/n2t2b4",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 125247,
+				"friends_count": 1017,
+				"listed_count": 1213,
+				"created_at": "Thu Nov 12 14:07:24 +0000 2009",
+				"favourites_count": 398,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 97684,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/693731557299720193/z0EeBAZE_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/693731557299720193/z0EeBAZE_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/89452962/1567015254",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 100,
+			"favorite_count": 265,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "that is such a horrific stat :( https://t.co/iaEF7C4tZA"
+	},
+	{
 		"created_at": "Thu Sep 26 16:06:31 +0000 2019",
 		"id": 1177251485446475800,
 		"id_str": "1177253124630859776",
