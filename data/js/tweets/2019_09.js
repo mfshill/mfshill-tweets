@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 29 19:22:52 +0000 2019",
+		"id": 1178388088185380900,
+		"id_str": "1178389701595684870",
+		"full_text": "@al99123 @primevideosport Like this... https://t.co/vORn0lwWXJ",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "al99123",
+					"name": "Alex Purvis",
+					"id": 746786754938667000,
+					"id_str": "746786754938667008",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "primevideosport",
+					"name": "Amazon Prime Video Sport",
+					"id": 1125687015956262900,
+					"id_str": "1125687015956262917",
+					"indices": [
+						9,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vORn0lwWXJ",
+					"expanded_url": "https://youtu.be/G4ruNosLNOE",
+					"display_url": "youtu.be/G4ruNosLNOE",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1178258838132318200,
+		"in_reply_to_status_id_str": "1178258838132318208",
+		"in_reply_to_user_id": 746786754938667000,
+		"in_reply_to_user_id_str": "746786754938667008",
+		"in_reply_to_screen_name": "al99123",
+		"user": {
+			"id": 20041209,
+			"id_str": "20041209",
+			"name": "jonathan tirrill",
+			"screen_name": "i_am_thon",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68,
+			"friends_count": 180,
+			"listed_count": 3,
+			"created_at": "Wed Feb 04 09:48:41 +0000 2009",
+			"favourites_count": 2154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178028375660728320/CpW0vxn6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178028375660728320/CpW0vxn6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20041209/1543568897",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@al99123 @primevideosport Like this... https://t.co/vORn0lwWXJ"
+	},
+	{
 		"created_at": "Sat Sep 28 19:25:32 +0000 2019",
 		"id": 1178027982042128400,
 		"id_str": "1178027982042128385",
