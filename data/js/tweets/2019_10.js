@@ -1,6 +1,846 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 07 22:41:55 +0000 2019",
+		"id": 1181338896107556900,
+		"id_str": "1181338896107556869",
+		"full_text": "this is a must watch if you like the movie 'Alien'.  'Memory: The Origins of Alien (2019)' 8/10 https://t.co/9uDD4RFHHF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9uDD4RFHHF",
+					"expanded_url": "https://www.imdb.com/title/tt8974964",
+					"display_url": "imdb.com/title/tt8974964",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is a must watch if you like the movie 'Alien'.  'Memory: The Origins of Alien (2019)' 8/10 https://t.co/9uDD4RFHHF"
+	},
+	{
+		"created_at": "Mon Oct 07 20:46:54 +0000 2019",
+		"id": 1181309951450501000,
+		"id_str": "1181309951450501120",
+		"full_text": "@Jamie_Dodger_ I'm good mate, hope you're good too (apart from the football). Just be thankful you don't support United!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jamie_Dodger_",
+					"name": "Jamie_Dodger_",
+					"id": 27925847,
+					"id_str": "27925847",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon Android</a>",
+		"in_reply_to_status_id": 1181306075896782800,
+		"in_reply_to_status_id_str": "1181306075896782851",
+		"in_reply_to_user_id": 27925847,
+		"in_reply_to_user_id_str": "27925847",
+		"in_reply_to_screen_name": "Jamie_Dodger_",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Jamie_Dodger_ I'm good mate, hope you're good too (apart from the football). Just be thankful you don't support United!"
+	},
+	{
+		"created_at": "Mon Oct 07 20:30:08 +0000 2019",
+		"id": 1181302011226136600,
+		"id_str": "1181305731695480833",
+		"full_text": "https://t.co/nDx72AH3pU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1181302005085560800,
+					"id_str": "1181302005085560832",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EGTT6jGU4AAPS1n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGTT6jGU4AAPS1n.jpg",
+					"url": "https://t.co/nDx72AH3pU",
+					"display_url": "pic.twitter.com/nDx72AH3pU",
+					"expanded_url": "https://twitter.com/Jamie_Dodger_/status/1181302011226136576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1181302005085560800,
+					"id_str": "1181302005085560832",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EGTT6jGU4AAPS1n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGTT6jGU4AAPS1n.jpg",
+					"url": "https://t.co/nDx72AH3pU",
+					"display_url": "pic.twitter.com/nDx72AH3pU",
+					"expanded_url": "https://twitter.com/Jamie_Dodger_/status/1181302011226136576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27925847,
+			"id_str": "27925847",
+			"name": "Jamie_Dodger_",
+			"screen_name": "Jamie_Dodger_",
+			"location": "Essex, England.",
+			"description": "Former War Hero and Nerd. One of these is a lie. Grew up in the 80s when white dog poo was the norm and He-Man beat the shit out of Skeletor every week on TV.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1038,
+			"friends_count": 2359,
+			"listed_count": 25,
+			"created_at": "Tue Mar 31 18:08:16 +0000 2009",
+			"favourites_count": 5016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030103",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171661294421839874/zOfbrpMf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171661294421839874/zOfbrpMf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27925847/1570329098",
+			"profile_link_color": "FA8459",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "947974",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/nDx72AH3pU"
+	},
+	{
+		"created_at": "Mon Oct 07 20:29:03 +0000 2019",
+		"id": 1181305459518689300,
+		"id_str": "1181305459518689281",
+		"full_text": "@and_armstrong ... https://t.co/95DRvwQm3w",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "and_armstrong",
+					"name": "and_",
+					"id": 61477315,
+					"id_str": "61477315",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1181305446734282800,
+					"id_str": "1181305446734282753",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EGTXC4PUwAEADo3.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGTXC4PUwAEADo3.jpg",
+					"url": "https://t.co/95DRvwQm3w",
+					"display_url": "pic.twitter.com/95DRvwQm3w",
+					"expanded_url": "https://twitter.com/mfshill/status/1181305459518689281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 224,
+							"h": 168,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 224,
+							"h": 168,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 224,
+							"h": 168,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1181305446734282800,
+					"id_str": "1181305446734282753",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EGTXC4PUwAEADo3.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGTXC4PUwAEADo3.jpg",
+					"url": "https://t.co/95DRvwQm3w",
+					"display_url": "pic.twitter.com/95DRvwQm3w",
+					"expanded_url": "https://twitter.com/mfshill/status/1181305459518689281/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 224,
+							"h": 168,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 224,
+							"h": 168,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 224,
+							"h": 168,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EGTXC4PUwAEADo3.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1181129334196555800,
+		"in_reply_to_status_id_str": "1181129334196555776",
+		"in_reply_to_user_id": 61477315,
+		"in_reply_to_user_id_str": "61477315",
+		"in_reply_to_screen_name": "and_armstrong",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "Thinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065997730772856832/H9GF04-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@and_armstrong ... https://t.co/95DRvwQm3w"
+	},
+	{
+		"created_at": "Mon Oct 07 18:13:41 +0000 2019",
+		"id": 1180924685934043100,
+		"id_str": "1181271391070543875",
+		"full_text": "Oh it’s that time of year!https://t.co/7dgGXTfV5z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063490548466630700,
+					"id_str": "1063490548466630656",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1063490548466630656/pu/img/96ROOvzV9xltYhpH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1063490548466630656/pu/img/96ROOvzV9xltYhpH.jpg",
+					"url": "https://t.co/7dgGXTfV5z",
+					"display_url": "pic.twitter.com/7dgGXTfV5z",
+					"expanded_url": "https://twitter.com/Dementia_Grimm/status/1063491219374964736/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1063491219374964700,
+					"source_status_id_str": "1063491219374964736",
+					"source_user_id": 2472800849,
+					"source_user_id_str": "2472800849"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063490548466630700,
+					"id_str": "1063490548466630656",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1063490548466630656/pu/img/96ROOvzV9xltYhpH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1063490548466630656/pu/img/96ROOvzV9xltYhpH.jpg",
+					"url": "https://t.co/7dgGXTfV5z",
+					"display_url": "pic.twitter.com/7dgGXTfV5z",
+					"expanded_url": "https://twitter.com/Dementia_Grimm/status/1063491219374964736/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1063491219374964700,
+					"source_status_id_str": "1063491219374964736",
+					"source_user_id": 2472800849,
+					"source_user_id_str": "2472800849",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 44967,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063490548466630656/pu/vid/320x180/cL0m6avgmZLrzxlb.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1063490548466630656/pu/pl/bMxyDI91VIvwoOtZ.m3u8?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063490548466630656/pu/vid/640x360/yVBM396JcCMPx3au.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2472800849,
+							"id_str": "2472800849",
+							"name": "Dementia Von Grimm",
+							"screen_name": "Dementia_Grimm",
+							"location": "Dementiaville/England",
+							"description": "Spooktacular Performance artist, Freak Model For RomanticBlitz & Anti-Social Butterfly. Your Friendly Neighbourhood Degenderate Art Prostitute",
+							"url": "https://t.co/vntGIuwdzS",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/vntGIuwdzS",
+											"expanded_url": "http://www.Romanticblitz.co.uk",
+											"display_url": "Romanticblitz.co.uk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3179,
+							"friends_count": 2465,
+							"listed_count": 62,
+							"created_at": "Thu Apr 10 00:16:19 +0000 2014",
+							"favourites_count": 34319,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 32943,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1170774234991403008/bjnscEcd_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170774234991403008/bjnscEcd_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2472800849/1567976035",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 470989895,
+			"id_str": "470989895",
+			"name": "Michael Myers",
+			"screen_name": "RealMMyers78",
+			"location": "Haddonfield, Illinois.",
+			"description": "Killing Since 1963. Mental Institution Drop Out. Not Much Of A Talker, But I Am Much Of A Stalker. 45 Lampkin Lane, Haddonfield, Illinois.",
+			"url": "https://t.co/XIMjO957Da",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XIMjO957Da",
+							"expanded_url": "http://www.halloweenmovie.com",
+							"display_url": "halloweenmovie.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9048,
+			"friends_count": 3681,
+			"listed_count": 20,
+			"created_at": "Sun Jan 22 11:16:07 +0000 2012",
+			"favourites_count": 6133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161809517673373698/ze8P0tr2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161809517673373698/ze8P0tr2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/470989895/1569363650",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0A1FF",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26875,
+		"favorite_count": 62231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh it’s that time of year!https://t.co/7dgGXTfV5z"
+	},
+	{
 		"created_at": "Sun Oct 06 17:49:02 +0000 2019",
 		"id": 1180902800752025600,
 		"id_str": "1180902800752025601",
