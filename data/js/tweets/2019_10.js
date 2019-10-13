@@ -1,6 +1,697 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 12 22:50:29 +0000 2019",
+		"id": 1182635157045567500,
+		"id_str": "1183152989281947648",
+		"full_text": "What are your favourite tweets from Scottish twitter? Here’s two to start us off https://t.co/niR55SHgb9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1182635151320375300,
+					"id_str": "1182635151320375297",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EGmQZ31XYAEDr5S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGmQZ31XYAEDr5S.jpg",
+					"url": "https://t.co/niR55SHgb9",
+					"display_url": "pic.twitter.com/niR55SHgb9",
+					"expanded_url": "https://twitter.com/Ciara87C/status/1182635157045567488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 540,
+							"h": 407,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 407,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 407,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1182635151320375300,
+					"id_str": "1182635151320375297",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EGmQZ31XYAEDr5S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGmQZ31XYAEDr5S.jpg",
+					"url": "https://t.co/niR55SHgb9",
+					"display_url": "pic.twitter.com/niR55SHgb9",
+					"expanded_url": "https://twitter.com/Ciara87C/status/1182635157045567488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 540,
+							"h": 407,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 407,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 407,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1182635151328764000,
+					"id_str": "1182635151328763904",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EGmQZ33XYAAKZMk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGmQZ33XYAAKZMk.jpg",
+					"url": "https://t.co/niR55SHgb9",
+					"display_url": "pic.twitter.com/niR55SHgb9",
+					"expanded_url": "https://twitter.com/Ciara87C/status/1182635157045567488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 916,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 916,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2930769557,
+			"id_str": "2930769557",
+			"name": "Ciara McShane",
+			"screen_name": "Ciara87C",
+			"location": "London via Armagh",
+			"description": "Irish feminist. Fled to London in 2016 for leaving the immersion on all night. Sound on the national question. Sí/í insta: ciaramcshane_irl #repealedthe8th ☭",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18674,
+			"friends_count": 1298,
+			"listed_count": 51,
+			"created_at": "Thu Dec 18 21:16:46 +0000 2014",
+			"favourites_count": 56083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181192383133884416/VFfuPfVs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181192383133884416/VFfuPfVs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2930769557/1567812366",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3174,
+		"favorite_count": 17106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What are your favourite tweets from Scottish twitter? Here’s two to start us off https://t.co/niR55SHgb9"
+	},
+	{
+		"created_at": "Sat Oct 12 21:17:10 +0000 2019",
+		"id": 1183129505059299300,
+		"id_str": "1183129505059299329",
+		"full_text": "@TC_Cornesto to the extreme i've found",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1183125944359366700,
+		"in_reply_to_status_id_str": "1183125944359366662",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TC_Cornesto to the extreme i've found"
+	},
+	{
+		"created_at": "Sat Oct 12 20:55:38 +0000 2019",
+		"id": 1182953180432425000,
+		"id_str": "1183124087943639040",
+		"full_text": "Today we went to the Moon and came back to earth! I am at a loss for words for all the support I have received from all over the world. \n\nThank you to all who gave me the opportunity. Asante. https://t.co/0HTVBjB6YY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1182953155392430000,
+					"id_str": "1182953155392430080",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EGqxoJUX4AAAaIT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGqxoJUX4AAAaIT.jpg",
+					"url": "https://t.co/0HTVBjB6YY",
+					"display_url": "pic.twitter.com/0HTVBjB6YY",
+					"expanded_url": "https://twitter.com/EliudKipchoge/status/1182953180432424961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1182953155392430000,
+					"id_str": "1182953155392430080",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EGqxoJUX4AAAaIT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGqxoJUX4AAAaIT.jpg",
+					"url": "https://t.co/0HTVBjB6YY",
+					"display_url": "pic.twitter.com/0HTVBjB6YY",
+					"expanded_url": "https://twitter.com/EliudKipchoge/status/1182953180432424961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1182953160282988500,
+					"id_str": "1182953160282988545",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EGqxobiX4AEuJay.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGqxobiX4AEuJay.jpg",
+					"url": "https://t.co/0HTVBjB6YY",
+					"display_url": "pic.twitter.com/0HTVBjB6YY",
+					"expanded_url": "https://twitter.com/EliudKipchoge/status/1182953180432424961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1182953166817677300,
+					"id_str": "1182953166817677312",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EGqxoz4XUAA0LNR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGqxoz4XUAA0LNR.jpg",
+					"url": "https://t.co/0HTVBjB6YY",
+					"display_url": "pic.twitter.com/0HTVBjB6YY",
+					"expanded_url": "https://twitter.com/EliudKipchoge/status/1182953180432424961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1182953176191979500,
+					"id_str": "1182953176191979521",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EGqxpWzX0AEnTz4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGqxpWzX0AEnTz4.jpg",
+					"url": "https://t.co/0HTVBjB6YY",
+					"display_url": "pic.twitter.com/0HTVBjB6YY",
+					"expanded_url": "https://twitter.com/EliudKipchoge/status/1182953180432424961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2471739785,
+			"id_str": "2471739785",
+			"name": "Eliud Kipchoge",
+			"screen_name": "EliudKipchoge",
+			"location": "Eldoret, Kenya",
+			"description": "World Record Holder - 2:01:39 | @Nike, @GlobalSportsCom | @nnrunningteam | Kenya | Isuzu D'max ambassador | Marathon",
+			"url": "https://t.co/JykMvsAIDb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JykMvsAIDb",
+							"expanded_url": "http://www.nnrunningteam.com",
+							"display_url": "nnrunningteam.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 222258,
+			"friends_count": 5246,
+			"listed_count": 544,
+			"created_at": "Wed Apr 09 13:54:46 +0000 2014",
+			"favourites_count": 230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045968237744332800/7l002R7s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045968237744332800/7l002R7s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2471739785/1538213290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21879,
+		"favorite_count": 88610,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today we went to the Moon and came back to earth! I am at a loss for words for all the support I have received from all over the world. \n\nThank you to all who gave me the opportunity. Asante. https://t.co/0HTVBjB6YY"
+	},
+	{
+		"created_at": "Sat Oct 12 19:42:40 +0000 2019",
+		"id": 1183105725704351700,
+		"id_str": "1183105725704351744",
+		"full_text": "@CrowleyOnAir Stevie Wonder - Part Time Lover",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CrowleyOnAir",
+					"name": "Gary Crowley",
+					"id": 1889784738,
+					"id_str": "1889784738",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1183077303036854300,
+		"in_reply_to_status_id_str": "1183077303036854272",
+		"in_reply_to_user_id": 1889784738,
+		"in_reply_to_user_id_str": "1889784738",
+		"in_reply_to_screen_name": "CrowleyOnAir",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CrowleyOnAir Stevie Wonder - Part Time Lover"
+	},
+	{
 		"created_at": "Fri Oct 11 20:26:23 +0000 2019",
 		"id": 1182754340680929300,
 		"id_str": "1182754340680929280",
