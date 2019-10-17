@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 16 10:55:40 +0000 2019",
+		"id": 1184421651980738600,
+		"id_str": "1184422651198148608",
+		"full_text": "Interested in the electoral strategy of Labour members on social media, of reaching out to people who already agree with them and telling them to fuck off.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17336372,
+			"id_str": "17336372",
+			"name": "Frankie Boyle",
+			"screen_name": "frankieboyle",
+			"location": "www.frankieboyle.com",
+			"description": "None of the people, all of the time\n\nhttps://t.co/ceQ6230wvk…",
+			"url": "https://t.co/ANwcwPmQpN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANwcwPmQpN",
+							"expanded_url": "http://www.instagram.com/frankie_boyle",
+							"display_url": "instagram.com/frankie_boyle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ceQ6230wvk",
+							"expanded_url": "http://youtube.com/watch?v=1btfOC",
+							"display_url": "youtube.com/watch?v=1btfOC",
+							"indices": [
+								37,
+								60
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2736274,
+			"friends_count": 876,
+			"listed_count": 5812,
+			"created_at": "Wed Nov 12 09:48:13 +0000 2008",
+			"favourites_count": 5260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167112942762045440/q37qrAls_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167112942762045440/q37qrAls_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17336372/1546075018",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 228,
+		"favorite_count": 1759,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Interested in the electoral strategy of Labour members on social media, of reaching out to people who already agree with them and telling them to fuck off."
+	},
+	{
 		"created_at": "Tue Oct 15 22:01:38 +0000 2019",
 		"id": 1184227860208337000,
 		"id_str": "1184227860208336898",
