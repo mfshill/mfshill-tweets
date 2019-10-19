@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 18 20:43:43 +0000 2019",
+		"id": 1185295415282929700,
+		"id_str": "1185295415282929664",
+		"full_text": "#NowPlaying 'UNKLE - Sunrise (Always Comes Around) (Audion Remix)' https://t.co/3GpIzqUnOX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NowPlaying",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3GpIzqUnOX",
+					"expanded_url": "https://youtu.be/wxmZkYe6ikI",
+					"display_url": "youtu.be/wxmZkYe6ikI",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#NowPlaying 'UNKLE - Sunrise (Always Comes Around) (Audion Remix)' https://t.co/3GpIzqUnOX"
+	},
+	{
+		"created_at": "Fri Oct 18 12:09:20 +0000 2019",
+		"id": 1185157375411605500,
+		"id_str": "1185165968600903680",
+		"full_text": "https://t.co/Edxip0HTLG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1185157366314127400,
+					"id_str": "1185157366314127360",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EHKGWG4XUAAqWYO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHKGWG4XUAAqWYO.jpg",
+					"url": "https://t.co/Edxip0HTLG",
+					"display_url": "pic.twitter.com/Edxip0HTLG",
+					"expanded_url": "https://twitter.com/Dempster2000/status/1185157375411605506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 620,
+							"h": 387,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 620,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1185157366314127400,
+					"id_str": "1185157366314127360",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EHKGWG4XUAAqWYO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHKGWG4XUAAqWYO.jpg",
+					"url": "https://t.co/Edxip0HTLG",
+					"display_url": "pic.twitter.com/Edxip0HTLG",
+					"expanded_url": "https://twitter.com/Dempster2000/status/1185157375411605506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 620,
+							"h": 387,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 620,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1185157366276337700,
+					"id_str": "1185157366276337664",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EHKGWGvWsAAk7I0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHKGWGvWsAAk7I0.jpg",
+					"url": "https://t.co/Edxip0HTLG",
+					"display_url": "pic.twitter.com/Edxip0HTLG",
+					"expanded_url": "https://twitter.com/Dempster2000/status/1185157375411605506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 704,
+							"h": 796,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 601,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 704,
+							"h": 796,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1185157268591009800,
+		"in_reply_to_status_id_str": "1185157268591009794",
+		"in_reply_to_user_id": 79005251,
+		"in_reply_to_user_id_str": "79005251",
+		"in_reply_to_screen_name": "Dempster2000",
+		"user": {
+			"id": 79005251,
+			"id_str": "79005251",
+			"name": "Sarah Dempster",
+			"screen_name": "Dempster2000",
+			"location": "Del Boca Vista",
+			"description": "comedy writer and script editor and so forth. agent: https://t.co/uWRr3SeDCT",
+			"url": "https://t.co/mXnnoatRLR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mXnnoatRLR",
+							"expanded_url": "http://www.guardian.co.uk/profile/sarahdempster",
+							"display_url": "guardian.co.uk/profile/sarahd…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uWRr3SeDCT",
+							"expanded_url": "https://www.pbjmanagement.co.uk/artists/sarah-dempster",
+							"display_url": "pbjmanagement.co.uk/artists/sarah-…",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18080,
+			"friends_count": 634,
+			"listed_count": 160,
+			"created_at": "Thu Oct 01 21:07:43 +0000 2009",
+			"favourites_count": 16335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/696122802836017152/-LTnWXiA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/696122802836017152/-LTnWXiA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79005251/1529184053",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 208,
+		"favorite_count": 1677,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/Edxip0HTLG"
+	},
+	{
 		"created_at": "Thu Oct 17 22:24:14 +0000 2019",
 		"id": 1184958323071881200,
 		"id_str": "1184958323071881216",
