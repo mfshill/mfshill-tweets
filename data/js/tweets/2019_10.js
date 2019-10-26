@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 25 11:51:36 +0000 2019",
+		"id": 1186748349283745800,
+		"id_str": "1187698220035706882",
+		"full_text": "the only thing that brings me joy anymore is the colorblind guy on tik tok who sorts m&amp;ms https://t.co/swddmvgrYz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1186748241829941200,
+					"id_str": "1186748241829941248",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1186748241829941248/pu/img/o54aunhpseocTiJf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1186748241829941248/pu/img/o54aunhpseocTiJf.jpg",
+					"url": "https://t.co/swddmvgrYz",
+					"display_url": "pic.twitter.com/swddmvgrYz",
+					"expanded_url": "https://twitter.com/redridingho/status/1186748349283745793/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1186748241829941200,
+					"id_str": "1186748241829941248",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1186748241829941248/pu/img/o54aunhpseocTiJf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1186748241829941248/pu/img/o54aunhpseocTiJf.jpg",
+					"url": "https://t.co/swddmvgrYz",
+					"display_url": "pic.twitter.com/swddmvgrYz",
+					"expanded_url": "https://twitter.com/redridingho/status/1186748349283745793/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1186748241829941248/pu/pl/lt5nJC-zeufs8RhG.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1186748241829941248/pu/vid/320x568/ehRsrhlkCAIh0nRg.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1186748241829941248/pu/vid/720x1280/54JOwWMJ1MJ2dh0r.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1186748241829941248/pu/vid/360x640/inhALUVpL2BSFNRM.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3249447044,
+			"id_str": "3249447044",
+			"name": "jewell",
+			"screen_name": "redridingho",
+			"location": "atx",
+			"description": "that's life, babey! / ut22 rtf / she",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1778,
+			"friends_count": 555,
+			"listed_count": 9,
+			"created_at": "Fri Jun 19 03:50:12 +0000 2015",
+			"favourites_count": 53157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1179083850837823489/R2rf-IXp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179083850837823489/R2rf-IXp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3249447044/1569954771",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92916,
+		"favorite_count": 373066,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the only thing that brings me joy anymore is the colorblind guy on tik tok who sorts m&amp;ms https://t.co/swddmvgrYz"
+	},
+	{
 		"created_at": "Thu Oct 24 20:50:10 +0000 2019",
 		"id": 1187471365999227000,
 		"id_str": "1187471365999226880",
