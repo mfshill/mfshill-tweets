@@ -1,6 +1,982 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 04 23:07:46 +0000 2019",
+		"id": 1191432450397868000,
+		"id_str": "1191492262095736833",
+		"full_text": "**GIVEAWAY** To celebrate the new TV adaptation of #HisDarkMaterials, we’re giving you a chance to win a copy of our set of His Dark Materials SIGNED by @PhilipPullman and Peter Bailey. RT to enter! Competition ends 5 Nov. Best of luck! https://t.co/HNvfBoHp2W https://t.co/mtnJZhDFle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HisDarkMaterials",
+					"indices": [
+						51,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhilipPullman",
+					"name": "Philip Pullman",
+					"id": 2176527421,
+					"id_str": "2176527421",
+					"indices": [
+						153,
+						167
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HNvfBoHp2W",
+					"expanded_url": "http://www.foliosociety.com/his-dark-materials.html",
+					"display_url": "foliosociety.com/his-dark-mater…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1191432430147842000,
+					"id_str": "1191432430147842049",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/EIjRe5TXsAET3B-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIjRe5TXsAET3B-.jpg",
+					"url": "https://t.co/mtnJZhDFle",
+					"display_url": "pic.twitter.com/mtnJZhDFle",
+					"expanded_url": "https://twitter.com/foliosociety/status/1191432450397868033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 87,
+									"y": 683,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 87,
+									"y": 683,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 54,
+									"y": 430,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 87,
+									"y": 683,
+									"h": 90,
+									"w": 90
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191432430147842000,
+					"id_str": "1191432430147842049",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/EIjRe5TXsAET3B-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIjRe5TXsAET3B-.jpg",
+					"url": "https://t.co/mtnJZhDFle",
+					"display_url": "pic.twitter.com/mtnJZhDFle",
+					"expanded_url": "https://twitter.com/foliosociety/status/1191432450397868033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 87,
+									"y": 683,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 87,
+									"y": 683,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 54,
+									"y": 430,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 87,
+									"y": 683,
+									"h": 90,
+									"w": 90
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1191432435717877800,
+					"id_str": "1191432435717877763",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/EIjRfODXsAMNk0J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIjRfODXsAMNk0J.jpg",
+					"url": "https://t.co/mtnJZhDFle",
+					"display_url": "pic.twitter.com/mtnJZhDFle",
+					"expanded_url": "https://twitter.com/foliosociety/status/1191432450397868033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 722,
+									"y": 14,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 335,
+									"y": 298,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 610,
+									"y": 122,
+									"h": 213,
+									"w": 213
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 722,
+									"y": 14,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 335,
+									"y": 298,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 610,
+									"y": 122,
+									"h": 213,
+									"w": 213
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 722,
+									"y": 14,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 335,
+									"y": 298,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 610,
+									"y": 122,
+									"h": 213,
+									"w": 213
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 454,
+									"y": 8,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 210,
+									"y": 187,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 384,
+									"y": 76,
+									"h": 134,
+									"w": 134
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1191432440285454300,
+					"id_str": "1191432440285454340",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/EIjRffEXYAQ2C0-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIjRffEXYAQ2C0-.jpg",
+					"url": "https://t.co/mtnJZhDFle",
+					"display_url": "pic.twitter.com/mtnJZhDFle",
+					"expanded_url": "https://twitter.com/foliosociety/status/1191432450397868033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 391,
+									"y": 284,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 246,
+									"y": 178,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 391,
+									"y": 284,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 391,
+									"y": 284,
+									"h": 67,
+									"w": 67
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1191432446379733000,
+					"id_str": "1191432446379732992",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/EIjRf1xWsAArtPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIjRf1xWsAArtPV.jpg",
+					"url": "https://t.co/mtnJZhDFle",
+					"display_url": "pic.twitter.com/mtnJZhDFle",
+					"expanded_url": "https://twitter.com/foliosociety/status/1191432450397868033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.falcon.io\" rel=\"nofollow\">Falcon Social Media Management </a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18213904,
+			"id_str": "18213904",
+			"name": "The Folio Society",
+			"screen_name": "foliosociety",
+			"location": "London, UK",
+			"description": "Creating beautiful illustrated editions of the world’s greatest books since 1947. Here to help Mon-Fri 9:30-17:30 GMT. Also at https://t.co/rrTJBIgq2u",
+			"url": "http://t.co/A2ZrfFAWFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/A2ZrfFAWFX",
+							"expanded_url": "http://www.foliosociety.com",
+							"display_url": "foliosociety.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rrTJBIgq2u",
+							"expanded_url": "http://www.facebook.com/TheFolioSociety",
+							"display_url": "facebook.com/TheFolioSociety",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33552,
+			"friends_count": 3273,
+			"listed_count": 866,
+			"created_at": "Thu Dec 18 12:36:33 +0000 2008",
+			"favourites_count": 30182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3278101356/451fbb4fcd7c8dfc330461619bad52e8_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3278101356/451fbb4fcd7c8dfc330461619bad52e8_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18213904/1571829281",
+			"profile_link_color": "B4435B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 693,
+		"favorite_count": 252,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "**GIVEAWAY** To celebrate the new TV adaptation of #HisDarkMaterials, we’re giving you a chance to win a copy of our set of His Dark Materials SIGNED by @PhilipPullman and Peter Bailey. RT to enter! Competition ends 5 Nov. Best of luck! https://t.co/HNvfBoHp2W https://t.co/mtnJZhDFle"
+	},
+	{
+		"created_at": "Mon Nov 04 21:02:59 +0000 2019",
+		"id": 1191460856757923800,
+		"id_str": "1191460856757923842",
+		"full_text": "watching walrus tumble down a cliff for the 2nd time this year. at least the polar bears get to eat. #SevenWorldsOnePlanet https://t.co/st4BDIz6YS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SevenWorldsOnePlanet",
+					"indices": [
+						101,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1191460851716366300,
+					"id_str": "1191460851716366336",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EIjrVP5WoAAoac1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIjrVP5WoAAoac1.jpg",
+					"url": "https://t.co/st4BDIz6YS",
+					"display_url": "pic.twitter.com/st4BDIz6YS",
+					"expanded_url": "https://twitter.com/mfshill/status/1191460856757923842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1248,
+							"h": 702,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191460851716366300,
+					"id_str": "1191460851716366336",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EIjrVP5WoAAoac1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIjrVP5WoAAoac1.jpg",
+					"url": "https://t.co/st4BDIz6YS",
+					"display_url": "pic.twitter.com/st4BDIz6YS",
+					"expanded_url": "https://twitter.com/mfshill/status/1191460856757923842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1248,
+							"h": 702,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 275,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "watching walrus tumble down a cliff for the 2nd time this year. at least the polar bears get to eat. #SevenWorldsOnePlanet https://t.co/st4BDIz6YS"
+	},
+	{
+		"created_at": "Mon Nov 04 08:16:51 +0000 2019",
+		"id": 1191268056296808400,
+		"id_str": "1191268056296808448",
+		"full_text": "😐 https://t.co/ZW4h4A4a5F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZW4h4A4a5F",
+					"expanded_url": "https://twitter.com/Orbinho/status/1191222289016262656",
+					"display_url": "twitter.com/Orbinho/status…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 275,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1191222289016262700,
+		"quoted_status_id_str": "1191222289016262656",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZW4h4A4a5F",
+			"expanded": "https://twitter.com/Orbinho/status/1191222289016262656",
+			"display": "twitter.com/Orbinho/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 04 05:15:00 +0000 2019",
+			"id": 1191222289016262700,
+			"id_str": "1191222289016262656",
+			"full_text": "Defensively Arsenal were a mess last season and nothing has changed. Our defence continues to leak like a sieve. Last season Arsenal conceded 1.34 goals per game, this season it’s 1.36.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				185
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60026651,
+				"id_str": "60026651",
+				"name": "Orbinho",
+				"screen_name": "Orbinho",
+				"location": "London-ish",
+				"description": "Arsenal facts. Opta stalwart. Knows @OptaJoe Trying to convince people to use data better.",
+				"url": "https://t.co/lNXLBPpC9O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lNXLBPpC9O",
+								"expanded_url": "http://www.optasports.com",
+								"display_url": "optasports.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53805,
+				"friends_count": 344,
+				"listed_count": 1539,
+				"created_at": "Sat Jul 25 09:55:31 +0000 2009",
+				"favourites_count": 354,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24299,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/588984322130083840/bc56JV5r_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/588984322130083840/bc56JV5r_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/60026651/1356111874",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 136,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😐 https://t.co/ZW4h4A4a5F"
+	},
+	{
 		"created_at": "Sun Nov 03 20:49:27 +0000 2019",
 		"id": 1191095064400924700,
 		"id_str": "1191095064400924674",
@@ -116,7 +1092,7 @@ Grailbird.data.tweets_2019_11 =
 		"created_at": "Sun Nov 03 18:13:44 +0000 2019",
 		"id": 1191055877295530000,
 		"id_str": "1191055877295529984",
-		"full_text": "harsh red for Son but it's Sp*rs so 🤷‍♂️",
+		"full_text": "harsh red for Son but it's Sp*rs so 🤷♂️",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -207,7 +1183,7 @@ Grailbird.data.tweets_2019_11 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "harsh red for Son but it's Sp*rs so 🤷‍♂️"
+		"text": "harsh red for Son but it's Sp*rs so 🤷♂️"
 	},
 	{
 		"created_at": "Sun Nov 03 18:13:04 +0000 2019",
