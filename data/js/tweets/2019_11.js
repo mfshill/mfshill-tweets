@@ -1,6 +1,682 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 06 20:00:44 +0000 2019",
+		"id": 1192169966331670500,
+		"id_str": "1192169966331670529",
+		"full_text": "how is this possible? https://t.co/wz20gLtNlE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wz20gLtNlE",
+					"expanded_url": "https://twitter.com/afcstuff/status/1192168590830522368",
+					"display_url": "twitter.com/afcstuff/statu…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 275,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1192168590830522400,
+		"quoted_status_id_str": "1192168590830522368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wz20gLtNlE",
+			"expanded": "https://twitter.com/afcstuff/status/1192168590830522368",
+			"display": "twitter.com/afcstuff/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 06 19:55:16 +0000 2019",
+			"id": 1192168590830522400,
+			"id_str": "1192168590830522368",
+			"full_text": "Arsenal completed just one pass into the penalty area against Vitoria this evening - Nicolas Pepe’s free-kick assist for Shkodran Mustafi’s headed goal. [@oh_that_crab] #afc https://t.co/1HWvKuUOdU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				173
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "afc",
+						"indices": [
+							169,
+							173
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "oh_that_crab",
+						"name": "Scott Willis",
+						"id": 304575262,
+						"id_str": "304575262",
+						"indices": [
+							154,
+							167
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1192168577715130400,
+						"id_str": "1192168577715130368",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/media/EItvAUsX0AA_0L7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EItvAUsX0AA_0L7.jpg",
+						"url": "https://t.co/1HWvKuUOdU",
+						"display_url": "pic.twitter.com/1HWvKuUOdU",
+						"expanded_url": "https://twitter.com/afcstuff/status/1192168590830522368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1366,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 486,
+										"y": 496,
+										"h": 114,
+										"w": 114
+									},
+									{
+										"x": 1074,
+										"y": 86,
+										"h": 206,
+										"w": 206
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 486,
+										"y": 496,
+										"h": 114,
+										"w": 114
+									},
+									{
+										"x": 1074,
+										"y": 86,
+										"h": 206,
+										"w": 206
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 161,
+										"y": 164,
+										"h": 37,
+										"w": 37
+									},
+									{
+										"x": 356,
+										"y": 28,
+										"h": 68,
+										"w": 68
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 284,
+										"y": 290,
+										"h": 66,
+										"w": 66
+									},
+									{
+										"x": 629,
+										"y": 50,
+										"h": 120,
+										"w": 120
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1192168577715130400,
+						"id_str": "1192168577715130368",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/media/EItvAUsX0AA_0L7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EItvAUsX0AA_0L7.jpg",
+						"url": "https://t.co/1HWvKuUOdU",
+						"display_url": "pic.twitter.com/1HWvKuUOdU",
+						"expanded_url": "https://twitter.com/afcstuff/status/1192168590830522368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1366,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 486,
+										"y": 496,
+										"h": 114,
+										"w": 114
+									},
+									{
+										"x": 1074,
+										"y": 86,
+										"h": 206,
+										"w": 206
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 486,
+										"y": 496,
+										"h": 114,
+										"w": 114
+									},
+									{
+										"x": 1074,
+										"y": 86,
+										"h": 206,
+										"w": 206
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 161,
+										"y": 164,
+										"h": 37,
+										"w": 37
+									},
+									{
+										"x": 356,
+										"y": 28,
+										"h": 68,
+										"w": 68
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 284,
+										"y": 290,
+										"h": 66,
+										"w": 66
+									},
+									{
+										"x": 629,
+										"y": 50,
+										"h": 120,
+										"w": 120
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3123238004,
+				"id_str": "3123238004",
+				"name": "afcstuff",
+				"screen_name": "afcstuff",
+				"location": "",
+				"description": "Welcome to @afcstuff, bringing the latest updates, stats, quotes, team news & transfer news about Arsenal.    Contact: afcstuff1@gmail.com",
+				"url": "https://t.co/WeDT35h0jv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WeDT35h0jv",
+								"expanded_url": "http://afcstuff.com",
+								"display_url": "afcstuff.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 120244,
+				"friends_count": 117,
+				"listed_count": 1215,
+				"created_at": "Wed Apr 01 06:28:12 +0000 2015",
+				"favourites_count": 18,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33055,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972125217567977473/cJgMuFcP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972125217567977473/cJgMuFcP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3123238004/1544111295",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 243,
+			"favorite_count": 899,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "how is this possible? https://t.co/wz20gLtNlE"
+	},
+	{
+		"created_at": "Wed Nov 06 17:38:29 +0000 2019",
+		"id": 1192134171759693800,
+		"id_str": "1192134171759693824",
+		"full_text": "embarrassing 1-1 #VSCARS #UEL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VSCARS",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"text": "UEL",
+					"indices": [
+						25,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 275,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "embarrassing 1-1 #VSCARS #UEL"
+	},
+	{
+		"created_at": "Wed Nov 06 17:27:27 +0000 2019",
+		"id": 1192131392722948000,
+		"id_str": "1192131392722948096",
+		"full_text": "totally unexpected goal. well done @MustafiOfficial 0-1 #VSCARS #UEL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VSCARS",
+					"indices": [
+						56,
+						63
+					]
+				},
+				{
+					"text": "UEL",
+					"indices": [
+						64,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MustafiOfficial",
+					"name": "Shkodran Mustafi",
+					"id": 2654882033,
+					"id_str": "2654882033",
+					"indices": [
+						35,
+						51
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 275,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "totally unexpected goal. well done @MustafiOfficial 0-1 #VSCARS #UEL"
+	},
+	{
 		"created_at": "Tue Nov 05 21:36:12 +0000 2019",
 		"id": 1191831605549117400,
 		"id_str": "1191831605549117446",
