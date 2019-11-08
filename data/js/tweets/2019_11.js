@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 07 16:10:29 +0000 2019",
+		"id": 1182228208831406000,
+		"id_str": "1192474410084683777",
+		"full_text": "Match your #race bib with one of our awesome personalised coasters. From £5 delivered. Can't see what you want just order a custom coaster \nhttps://t.co/LjYYbXZ9pH #cardiffhalfmarathon #bournemouthmarathon #chestermarathon #run #runner #running #personalised https://t.co/XYzjEegRUh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "race",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "cardiffhalfmarathon",
+					"indices": [
+						164,
+						184
+					]
+				},
+				{
+					"text": "bournemouthmarathon",
+					"indices": [
+						185,
+						205
+					]
+				},
+				{
+					"text": "chestermarathon",
+					"indices": [
+						206,
+						222
+					]
+				},
+				{
+					"text": "run",
+					"indices": [
+						223,
+						227
+					]
+				},
+				{
+					"text": "runner",
+					"indices": [
+						228,
+						235
+					]
+				},
+				{
+					"text": "running",
+					"indices": [
+						236,
+						244
+					]
+				},
+				{
+					"text": "personalised",
+					"indices": [
+						245,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LjYYbXZ9pH",
+					"expanded_url": "https://www.elliebeanprints.co.uk/collections/race-bib-coasters",
+					"display_url": "elliebeanprints.co.uk/collections/ra…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1182228203957604400,
+					"id_str": "1182228203957604353",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EGgeSaxXUAEgoz3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGgeSaxXUAEgoz3.jpg",
+					"url": "https://t.co/XYzjEegRUh",
+					"display_url": "pic.twitter.com/XYzjEegRUh",
+					"expanded_url": "https://twitter.com/EllieBeanPrints/status/1182228208831406080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1182228203957604400,
+					"id_str": "1182228203957604353",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EGgeSaxXUAEgoz3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGgeSaxXUAEgoz3.jpg",
+					"url": "https://t.co/XYzjEegRUh",
+					"display_url": "pic.twitter.com/XYzjEegRUh",
+					"expanded_url": "https://twitter.com/EllieBeanPrints/status/1182228208831406080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1173529357,
+			"id_str": "1173529357",
+			"name": "EllieBeanPrints",
+			"screen_name": "EllieBeanPrints",
+			"location": "North Yorkshire",
+			"description": "Est. 2011 | EllieBeanPrints create beautiful personalised gifts and products for the home. Inspired by our love of the outdoors, mountain biking and running.",
+			"url": "https://t.co/kMKgSTxPnJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kMKgSTxPnJ",
+							"expanded_url": "http://www.elliebeanprints.co.uk",
+							"display_url": "elliebeanprints.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3338,
+			"friends_count": 1373,
+			"listed_count": 66,
+			"created_at": "Wed Feb 13 01:13:16 +0000 2013",
+			"favourites_count": 278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1179902894868484097/fW1DoKca_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179902894868484097/fW1DoKca_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1173529357/1570144761",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Match your #race bib with one of our awesome personalised coasters. From £5 delivered. Can't see what you want just order a custom coaster \nhttps://t.co/LjYYbXZ9pH #cardiffhalfmarathon #bournemouthmarathon #chestermarathon #run #runner #running #personalised https://t.co/XYzjEegRUh"
+	},
+	{
 		"created_at": "Wed Nov 06 20:00:44 +0000 2019",
 		"id": 1192169966331670500,
 		"id_str": "1192169966331670529",
