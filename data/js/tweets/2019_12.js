@@ -1,6 +1,553 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 06 16:13:46 +0000 2019",
+		"id": 1202984486625001500,
+		"id_str": "1202984486625001474",
+		"full_text": "@12CharlieSamuel @primevideosport @OfficialBHAFC well this is first, there's loads of tickets available for the City game... https://t.co/Rq7ij759ne",
+		"truncated": false,
+		"display_text_range": [
+			49,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "12CharlieSamuel",
+					"name": "🚥 Charlie 🚥",
+					"id": 120570076,
+					"id_str": "120570076",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "primevideosport",
+					"name": "Amazon Prime Video Sport",
+					"id": 1125687015956262900,
+					"id_str": "1125687015956262917",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"screen_name": "OfficialBHAFC",
+					"name": "Brighton & Hove Albion ⚽️",
+					"id": 57606154,
+					"id_str": "57606154",
+					"indices": [
+						34,
+						48
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202984480740384800,
+					"id_str": "1202984480740384768",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/ELHcAvTWoAA81Dh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELHcAvTWoAA81Dh.jpg",
+					"url": "https://t.co/Rq7ij759ne",
+					"display_url": "pic.twitter.com/Rq7ij759ne",
+					"expanded_url": "https://twitter.com/mfshill/status/1202984486625001474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 989,
+							"h": 963,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 662,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 989,
+							"h": 963,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 311,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 2,
+									"y": 213,
+									"h": 30,
+									"w": 30
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 311,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 311,
+									"h": 44,
+									"w": 44
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202984480740384800,
+					"id_str": "1202984480740384768",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/ELHcAvTWoAA81Dh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELHcAvTWoAA81Dh.jpg",
+					"url": "https://t.co/Rq7ij759ne",
+					"display_url": "pic.twitter.com/Rq7ij759ne",
+					"expanded_url": "https://twitter.com/mfshill/status/1202984486625001474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 989,
+							"h": 963,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 662,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 989,
+							"h": 963,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 311,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 2,
+									"y": 213,
+									"h": 30,
+									"w": 30
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 311,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 311,
+									"h": 44,
+									"w": 44
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1202982067769872400,
+		"in_reply_to_status_id_str": "1202982067769872386",
+		"in_reply_to_user_id": 120570076,
+		"in_reply_to_user_id_str": "120570076",
+		"in_reply_to_screen_name": "12CharlieSamuel",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 275,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@12CharlieSamuel @primevideosport @OfficialBHAFC well this is first, there's loads of tickets available for the City game... https://t.co/Rq7ij759ne"
+	},
+	{
+		"created_at": "Fri Dec 06 15:53:07 +0000 2019",
+		"id": 1202979288410140700,
+		"id_str": "1202979288410140674",
+		"full_text": "@12CharlieSamuel @primevideosport @OfficialBHAFC yep, I agree with you. at least the majority of season ticket holders seem to turn up to the home games. the stadium could be full for every game if they made it easier for fans to get tickets. make them cheaper and open up more games to friends and family",
+		"truncated": false,
+		"display_text_range": [
+			49,
+			305
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "12CharlieSamuel",
+					"name": "🚥 Charlie 🚥",
+					"id": 120570076,
+					"id_str": "120570076",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "primevideosport",
+					"name": "Amazon Prime Video Sport",
+					"id": 1125687015956262900,
+					"id_str": "1125687015956262917",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"screen_name": "OfficialBHAFC",
+					"name": "Brighton & Hove Albion ⚽️",
+					"id": 57606154,
+					"id_str": "57606154",
+					"indices": [
+						34,
+						48
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1202960038643544000,
+		"in_reply_to_status_id_str": "1202960038643544065",
+		"in_reply_to_user_id": 120570076,
+		"in_reply_to_user_id_str": "120570076",
+		"in_reply_to_screen_name": "12CharlieSamuel",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 275,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@12CharlieSamuel @primevideosport @OfficialBHAFC yep, I agree with you. at least the majority of season ticket holders seem to turn up to the home games. the stadium could be full for every game if they made it easier for fans to get tickets. make them cheaper and open up more games to friends and family"
+	},
+	{
+		"created_at": "Fri Dec 06 13:46:27 +0000 2019",
+		"id": 1202947413281050600,
+		"id_str": "1202947413281050634",
+		"full_text": "@12CharlieSamuel @primevideosport @OfficialBHAFC If i could, i would go to more games but tickets are next to impossible to get, even as a red member. yesterday was 'sold out' apparently.",
+		"truncated": false,
+		"display_text_range": [
+			49,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "12CharlieSamuel",
+					"name": "🚥 Charlie 🚥",
+					"id": 120570076,
+					"id_str": "120570076",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "primevideosport",
+					"name": "Amazon Prime Video Sport",
+					"id": 1125687015956262900,
+					"id_str": "1125687015956262917",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"screen_name": "OfficialBHAFC",
+					"name": "Brighton & Hove Albion ⚽️",
+					"id": 57606154,
+					"id_str": "57606154",
+					"indices": [
+						34,
+						48
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1202947016432726000,
+		"in_reply_to_status_id_str": "1202947016432726017",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 275,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@12CharlieSamuel @primevideosport @OfficialBHAFC If i could, i would go to more games but tickets are next to impossible to get, even as a red member. yesterday was 'sold out' apparently."
+	},
+	{
 		"created_at": "Thu Dec 05 22:57:06 +0000 2019",
 		"id": 1202723206240620500,
 		"id_str": "1202723599326629888",
