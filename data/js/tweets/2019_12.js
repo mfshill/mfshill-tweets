@@ -1,6 +1,981 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 17 22:39:46 +0000 2019",
+		"id": 1207067637487939600,
+		"id_str": "1207067890752602112",
+		"full_text": "Mikel Arteta has agreed to become the next manager of Arsenal, with the club hoping he will be in charge for Saturday’s trip to Everton. [Mirror] #afc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "afc",
+					"indices": [
+						146,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3123238004,
+			"id_str": "3123238004",
+			"name": "afcstuff",
+			"screen_name": "afcstuff",
+			"location": "",
+			"description": "Welcome to @afcstuff, bringing the latest updates, stats, quotes, team news & transfer news about Arsenal.    Contact: afcstuff1@gmail.com",
+			"url": "https://t.co/WeDT35h0jv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WeDT35h0jv",
+							"expanded_url": "http://afcstuff.com",
+							"display_url": "afcstuff.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 122889,
+			"friends_count": 118,
+			"listed_count": 1243,
+			"created_at": "Wed Apr 01 06:28:12 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/972125217567977473/cJgMuFcP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/972125217567977473/cJgMuFcP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3123238004/1544111295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 162,
+		"favorite_count": 623,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Mikel Arteta has agreed to become the next manager of Arsenal, with the club hoping he will be in charge for Saturday’s trip to Everton. [Mirror] #afc"
+	},
+	{
+		"created_at": "Tue Dec 17 22:11:17 +0000 2019",
+		"id": 1207060724159275000,
+		"id_str": "1207060724159275010",
+		"full_text": "What If 80s Cartoons Were Scottish? https://t.co/JHs8mOIzZA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JHs8mOIzZA",
+					"expanded_url": "https://www.youtube.com/watch?v=sxB_iGStPOo",
+					"display_url": "youtube.com/watch?v=sxB_iG…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, gunner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 267,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What If 80s Cartoons Were Scottish? https://t.co/JHs8mOIzZA"
+	},
+	{
+		"created_at": "Tue Dec 17 20:44:51 +0000 2019",
+		"id": 1207038972557480000,
+		"id_str": "1207038972557479936",
+		"full_text": "@M0by_Duck https://t.co/cYXr5IZ0Xl",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "M0by_Duck",
+					"name": "Lars von Trier as 'pie'",
+					"id": 22948138,
+					"id_str": "22948138",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cYXr5IZ0Xl",
+					"expanded_url": "https://twitter.com/mfshill/status/1206553651499716620",
+					"display_url": "twitter.com/mfshill/status…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1207035166847389700,
+		"in_reply_to_status_id_str": "1207035166847389696",
+		"in_reply_to_user_id": 22948138,
+		"in_reply_to_user_id_str": "22948138",
+		"in_reply_to_screen_name": "M0by_Duck",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, gunner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 267,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1206553651499716600,
+		"quoted_status_id_str": "1206553651499716620",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cYXr5IZ0Xl",
+			"expanded": "https://twitter.com/mfshill/status/1206553651499716620",
+			"display": "twitter.com/mfshill/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 16 12:36:21 +0000 2019",
+			"id": 1206553651499716600,
+			"id_str": "1206553651499716620",
+			"full_text": "who the fuck is spending over 28 minutes sitting in the toilet at work?!!! https://t.co/YExOaQzG2P",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YExOaQzG2P",
+						"expanded_url": "https://protecting.co.uk/taking-some-me-time-workers-take-ten-times-as-long-to-poo-while-at-work/",
+						"display_url": "protecting.co.uk/taking-some-me…",
+						"indices": [
+							75,
+							98
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95424142,
+				"id_str": "95424142",
+				"name": "Hilly",
+				"screen_name": "mfshill",
+				"location": "Null Island",
+				"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, gunner, cyclist, oenophile, dance music fanatic.",
+				"url": "https://t.co/ZCrqLtp1Br",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZCrqLtp1Br",
+								"expanded_url": "https://cinehabitue.wordpress.com/",
+								"display_url": "cinehabitue.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 272,
+				"friends_count": 267,
+				"listed_count": 23,
+				"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+				"favourites_count": 958,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39907,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+				"profile_link_color": "9D6238",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EDE1B0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@M0by_Duck https://t.co/cYXr5IZ0Xl"
+	},
+	{
+		"created_at": "Tue Dec 17 20:21:14 +0000 2019",
+		"id": 1207033029023146000,
+		"id_str": "1207033029023145986",
+		"full_text": "Squires on point as usual https://t.co/bXabex9P2o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1207033022916288500,
+					"id_str": "1207033022916288512",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EMA-I6MXYAAJLKE.png",
+					"media_url_https": "https://pbs.twimg.com/media/EMA-I6MXYAAJLKE.png",
+					"url": "https://t.co/bXabex9P2o",
+					"display_url": "pic.twitter.com/bXabex9P2o",
+					"expanded_url": "https://twitter.com/mfshill/status/1207033029023145986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 581,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 581,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 581,
+							"h": 357,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207033022916288500,
+					"id_str": "1207033022916288512",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EMA-I6MXYAAJLKE.png",
+					"media_url_https": "https://pbs.twimg.com/media/EMA-I6MXYAAJLKE.png",
+					"url": "https://t.co/bXabex9P2o",
+					"display_url": "pic.twitter.com/bXabex9P2o",
+					"expanded_url": "https://twitter.com/mfshill/status/1207033029023145986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 581,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 581,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 581,
+							"h": 357,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, gunner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 267,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Squires on point as usual https://t.co/bXabex9P2o"
+	},
+	{
+		"created_at": "Tue Dec 17 10:32:55 +0000 2019",
+		"id": 1206870953617170400,
+		"id_str": "1206884974063968256",
+		"full_text": "Excluding fixtures played across the opening weekend of a season, Everton vs Arsenal on Saturday could become the first Premier League game to see both sides led out by a new permanent manager for the first time.\n\n...should both the Arteta &amp; Ancelotti deals go through by then. https://t.co/AbcvwMHkic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206870948000993300,
+					"id_str": "1206870948000993280",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/EL-qu6FWkAAfyqH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL-qu6FWkAAfyqH.jpg",
+					"url": "https://t.co/AbcvwMHkic",
+					"display_url": "pic.twitter.com/AbcvwMHkic",
+					"expanded_url": "https://twitter.com/HarveyDownes92/status/1206870953617170432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1392,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 674,
+									"y": 544,
+									"h": 580,
+									"w": 580
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 395,
+									"y": 318,
+									"h": 339,
+									"w": 339
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 674,
+									"y": 544,
+									"h": 580,
+									"w": 580
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 223,
+									"y": 180,
+									"h": 192,
+									"w": 192
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206870948000993300,
+					"id_str": "1206870948000993280",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/EL-qu6FWkAAfyqH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL-qu6FWkAAfyqH.jpg",
+					"url": "https://t.co/AbcvwMHkic",
+					"display_url": "pic.twitter.com/AbcvwMHkic",
+					"expanded_url": "https://twitter.com/HarveyDownes92/status/1206870953617170432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1392,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 674,
+									"y": 544,
+									"h": 580,
+									"w": 580
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 395,
+									"y": 318,
+									"h": 339,
+									"w": 339
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 674,
+									"y": 544,
+									"h": 580,
+									"w": 580
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 223,
+									"y": 180,
+									"h": 192,
+									"w": 192
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1206870947992612900,
+					"id_str": "1206870947992612864",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/EL-qu6DWsAAqHcF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL-qu6DWsAAqHcF.jpg",
+					"url": "https://t.co/AbcvwMHkic",
+					"display_url": "pic.twitter.com/AbcvwMHkic",
+					"expanded_url": "https://twitter.com/HarveyDownes92/status/1206870953617170432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 730,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 730,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 100,
+									"y": 233,
+									"h": 415,
+									"w": 415
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 100,
+									"y": 233,
+									"h": 415,
+									"w": 415
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 100,
+									"y": 233,
+									"h": 415,
+									"w": 415
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 66,
+									"y": 154,
+									"h": 275,
+									"w": 275
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87225288,
+			"id_str": "87225288",
+			"name": "Harvey Downes",
+			"screen_name": "HarveyDownes92",
+			"location": "Letchworth GC",
+			"description": "OPTA - Arsenal - Music - Bits",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2091,
+			"friends_count": 606,
+			"listed_count": 13,
+			"created_at": "Tue Nov 03 16:24:18 +0000 2009",
+			"favourites_count": 7635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189983966352289792/SO-hpuCO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189983966352289792/SO-hpuCO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87225288/1572549369",
+			"profile_link_color": "7D0000",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excluding fixtures played across the opening weekend of a season, Everton vs Arsenal on Saturday could become the first Premier League game to see both sides led out by a new permanent manager for the first time.\n\n...should both the Arteta &amp; Ancelotti deals go through by then. https://t.co/AbcvwMHkic"
+	},
+	{
 		"created_at": "Mon Dec 16 21:20:31 +0000 2019",
 		"id": 1206660835944349700,
 		"id_str": "1206685561009901569",
