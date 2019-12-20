@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 19 12:47:08 +0000 2019",
+		"id": 1207639023889649700,
+		"id_str": "1207643525535412225",
+		"full_text": "Just remember, whatever kind of day you’re having, Tom Hooper’s is worse.\n\nhttps://t.co/FRrGQ8ajt2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FRrGQ8ajt2",
+					"expanded_url": "https://www.theguardian.com/film/2019/dec/19/cats-review-tom-hooper-judi-dench-idris-elba-taylor-swift",
+					"display_url": "theguardian.com/film/2019/dec/…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19829127,
+			"id_str": "19829127",
+			"name": "Jon Spira",
+			"screen_name": "videojon",
+			"location": "UK",
+			"description": "Film-maker, director of @acpgthemovie and @elstree1976. @BFI documentary maker. Author of Videosyncratic - buy it on Amazon.",
+			"url": "https://t.co/lZrKaoG1wM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZrKaoG1wM",
+							"expanded_url": "http://www.jonspira.co.uk",
+							"display_url": "jonspira.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2154,
+			"friends_count": 2395,
+			"listed_count": 64,
+			"created_at": "Sat Jan 31 20:07:21 +0000 2009",
+			"favourites_count": 1388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/855493442608275456/zvjfeqbh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/855493442608275456/zvjfeqbh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19829127/1567110402",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just remember, whatever kind of day you’re having, Tom Hooper’s is worse.\n\nhttps://t.co/FRrGQ8ajt2"
+	},
+	{
+		"created_at": "Thu Dec 19 12:15:39 +0000 2019",
+		"id": 1207634816444833800,
+		"id_str": "1207635603547971584",
+		"full_text": "Join us @RadioWired for 2 hours of the Black Wax Solution Radio Show right now. A smoking hot show featuring dance floor burners, thoughtful gurners and obscure low earners. Click the link and put on your listening gloves 🧤 \nhttps://t.co/J6dFnATG5H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RadioWired",
+					"name": "Totally Wired Radio",
+					"id": 1017447795584888800,
+					"id_str": "1017447795584888832",
+					"indices": [
+						8,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/J6dFnATG5H",
+					"expanded_url": "http://www.totallywiredradio.com",
+					"display_url": "totallywiredradio.com",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20243240,
+			"id_str": "20243240",
+			"name": "BlackWaxSolution",
+			"screen_name": "eops",
+			"location": "LDN /east",
+			"description": "Vinyl only DJ. Bookings: DJeops@Gmail.com https://t.co/Whw03pQHL2 https://t.co/bNdWAaZNg4 https://t.co/9LmRMZW6Mi",
+			"url": "https://t.co/QdVzWepwt7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QdVzWepwt7",
+							"expanded_url": "http://www.mixcloud.com/eops",
+							"display_url": "mixcloud.com/eops",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Whw03pQHL2",
+							"expanded_url": "http://TotallyWiredRadio.com",
+							"display_url": "TotallyWiredRadio.com",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/bNdWAaZNg4",
+							"expanded_url": "http://Instagram.com/BlackWaxSolution",
+							"display_url": "Instagram.com/BlackWaxSoluti…",
+							"indices": [
+								66,
+								89
+							]
+						},
+						{
+							"url": "https://t.co/9LmRMZW6Mi",
+							"expanded_url": "http://Facebook.com/BlackWaxSolution",
+							"display_url": "Facebook.com/BlackWaxSoluti…",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3578,
+			"friends_count": 2995,
+			"listed_count": 113,
+			"created_at": "Fri Feb 06 15:14:44 +0000 2009",
+			"favourites_count": 43340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 158563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172688305395253248/EpwBrh4V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172688305395253248/EpwBrh4V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20243240/1568426673",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us @RadioWired for 2 hours of the Black Wax Solution Radio Show right now. A smoking hot show featuring dance floor burners, thoughtful gurners and obscure low earners. Click the link and put on your listening gloves 🧤 \nhttps://t.co/J6dFnATG5H"
+	},
+	{
+		"created_at": "Thu Dec 19 12:15:31 +0000 2019",
+		"id": 1207635570299752400,
+		"id_str": "1207635570299752448",
+		"full_text": "@eops @RadioWired tuned in!",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "RadioWired",
+					"name": "Totally Wired Radio",
+					"id": 1017447795584888800,
+					"id_str": "1017447795584888832",
+					"indices": [
+						6,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1207634816444833800,
+		"in_reply_to_status_id_str": "1207634816444833792",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, gunner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 267,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eops @RadioWired tuned in!"
+	},
+	{
 		"created_at": "Wed Dec 18 21:24:28 +0000 2019",
 		"id": 1207411329847484400,
 		"id_str": "1207411329847484422",
