@@ -1,6 +1,768 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 21 14:23:53 +0000 2019",
+		"id": 1208392650107302000,
+		"id_str": "1208392650107301891",
+		"full_text": "the only positive from that match is that we didn't concede. Arteta's hard work starts now. 0-0 #EVEARS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EVEARS",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, gunner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 267,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "the only positive from that match is that we didn't concede. Arteta's hard work starts now. 0-0 #EVEARS"
+	},
+	{
+		"created_at": "Sat Dec 21 13:47:40 +0000 2019",
+		"id": 1208382636198187000,
+		"id_str": "1208383537491132416",
+		"full_text": "How getting more daylight can improve your mental and physical health https://t.co/6Nz39gTMCx https://t.co/1TUGjWtmhy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6Nz39gTMCx",
+					"expanded_url": "http://bit.ly/34LMJRf",
+					"display_url": "bit.ly/34LMJRf",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1208382633715089400,
+					"id_str": "1208382633715089408",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EMUJmmNWwAAitIG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMUJmmNWwAAitIG.jpg",
+					"url": "https://t.co/1TUGjWtmhy",
+					"display_url": "pic.twitter.com/1TUGjWtmhy",
+					"expanded_url": "https://twitter.com/newscientist/status/1208382636198187009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208382633715089400,
+					"id_str": "1208382633715089408",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EMUJmmNWwAAitIG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMUJmmNWwAAitIG.jpg",
+					"url": "https://t.co/1TUGjWtmhy",
+					"display_url": "pic.twitter.com/1TUGjWtmhy",
+					"expanded_url": "https://twitter.com/newscientist/status/1208382636198187009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19658826,
+			"id_str": "19658826",
+			"name": "New Scientist",
+			"screen_name": "newscientist",
+			"location": "Worldwide",
+			"description": "The best place to find out what’s new in science – and why it matters. Tweets by @SoMe_Lilian. Subscribe here: https://t.co/39g6XuLDoZ",
+			"url": "https://t.co/fvIreKOHAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fvIreKOHAv",
+							"expanded_url": "http://www.newscientist.com",
+							"display_url": "newscientist.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/39g6XuLDoZ",
+							"expanded_url": "https://bit.ly/2IcXlBM",
+							"display_url": "bit.ly/2IcXlBM",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3568899,
+			"friends_count": 145,
+			"listed_count": 34229,
+			"created_at": "Wed Jan 28 16:05:49 +0000 2009",
+			"favourites_count": 16203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 69391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/960860144329469953/Tc-GOIGJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/960860144329469953/Tc-GOIGJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19658826/1399482279",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How getting more daylight can improve your mental and physical health https://t.co/6Nz39gTMCx https://t.co/1TUGjWtmhy"
+	},
+	{
+		"created_at": "Sat Dec 21 13:19:03 +0000 2019",
+		"id": 1208376336303231000,
+		"id_str": "1208376336303230986",
+		"full_text": "1 shot (not on target) in 47 minutes! very dull 1st half. 0-0 #EVEARS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EVEARS",
+					"indices": [
+						62,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, gunner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 267,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "1 shot (not on target) in 47 minutes! very dull 1st half. 0-0 #EVEARS"
+	},
+	{
+		"created_at": "Sat Dec 21 13:10:26 +0000 2019",
+		"id": 1208004507386482700,
+		"id_str": "1208374168380682240",
+		"full_text": "I bet the owner tried for years to share it, but no one ever replied to his emails... https://t.co/BSWhRTg3es",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BSWhRTg3es",
+					"expanded_url": "https://twitter.com/ctvedmonton/status/852979777698975745",
+					"display_url": "twitter.com/ctvedmonton/st…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 279229632,
+			"id_str": "279229632",
+			"name": "Samantha Quek",
+			"screen_name": "SamanthaQuek",
+			"location": "Wirral/Liverpool/London",
+			"description": "🎖MBE •🥇Olympic Gold &🥇European Gold medallist for Hockey•🗞@DailyMirror Columnist •📺 Sport Presenter•📻Co-Host on @BBC606 Enqs:luke@activatemanagement.co.uk",
+			"url": "https://t.co/62zK0DqKn4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/62zK0DqKn4",
+							"expanded_url": "https://www.activatemanagement.co.uk",
+							"display_url": "activatemanagement.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 159526,
+			"friends_count": 626,
+			"listed_count": 415,
+			"created_at": "Fri Apr 08 21:14:24 +0000 2011",
+			"favourites_count": 22212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189139795743776768/zrl-k2J1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189139795743776768/zrl-k2J1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/279229632/1481880480",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 852979777698975700,
+		"quoted_status_id_str": "852979777698975745",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BSWhRTg3es",
+			"expanded": "https://twitter.com/ctvedmonton/status/852979777698975745",
+			"display": "twitter.com/ctvedmonton/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 14 20:20:01 +0000 2017",
+			"id": 852979777698975700,
+			"id_str": "852979777698975745",
+			"full_text": "$43M in cash found in empty Nigerian apartment https://t.co/Hw1Lr5IMgp https://t.co/WzULMHLMuK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				70
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Hw1Lr5IMgp",
+						"expanded_url": "http://www.ctvnews.ca/business/43m-in-cash-found-in-empty-nigerian-apartment-1.3368884",
+						"display_url": "ctvnews.ca/business/43m-i…",
+						"indices": [
+							47,
+							70
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 852966867107012600,
+						"id_str": "852966867107012609",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/C9ZY2K8XYAExbh4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9ZY2K8XYAExbh4.jpg",
+						"url": "https://t.co/WzULMHLMuK",
+						"display_url": "pic.twitter.com/WzULMHLMuK",
+						"expanded_url": "https://twitter.com/ctvedmonton/status/852979777698975745/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 852966867107012600,
+						"id_str": "852966867107012609",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/C9ZY2K8XYAExbh4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9ZY2K8XYAExbh4.jpg",
+						"url": "https://t.co/WzULMHLMuK",
+						"display_url": "pic.twitter.com/WzULMHLMuK",
+						"expanded_url": "https://twitter.com/ctvedmonton/status/852979777698975745/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 349,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20812193,
+				"id_str": "20812193",
+				"name": "CTV Edmonton",
+				"screen_name": "ctvedmonton",
+				"location": "Edmonton, Alberta, Canada",
+				"description": "North central Alberta's most comprehensive local breaking news.",
+				"url": "https://t.co/0sIFoTgcmn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0sIFoTgcmn",
+								"expanded_url": "http://ctvnewsedmonton.ca",
+								"display_url": "ctvnewsedmonton.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 186984,
+				"friends_count": 252,
+				"listed_count": 1347,
+				"created_at": "Fri Feb 13 22:13:49 +0000 2009",
+				"favourites_count": 211,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 127618,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F6F6F6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1110238548576231424/bjqgPPV2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110238548576231424/bjqgPPV2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20812193/1413597060",
+				"profile_link_color": "343361",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "96ADD4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5931,
+			"favorite_count": 9627,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 51872,
+		"favorite_count": 238250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I bet the owner tried for years to share it, but no one ever replied to his emails... https://t.co/BSWhRTg3es"
+	},
+	{
 		"created_at": "Fri Dec 20 19:55:07 +0000 2019",
 		"id": 1208113618920902700,
 		"id_str": "1208113618920902656",
