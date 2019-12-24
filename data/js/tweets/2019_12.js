@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 23 23:47:47 +0000 2019",
+		"id": 1209139331798954000,
+		"id_str": "1209259335089577984",
+		"full_text": "Do your kids think Santa is scary? In Wales, this undead horse invades your home unless you defeat it in a rap battle, and I can't stop thinking about it. https://t.co/XI4ws5sdBJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1209139324060459000,
+					"id_str": "1209139324060459008",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EMe5zxaUYAAl0v1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMe5zxaUYAAl0v1.jpg",
+					"url": "https://t.co/XI4ws5sdBJ",
+					"display_url": "pic.twitter.com/XI4ws5sdBJ",
+					"expanded_url": "https://twitter.com/stevevsninjas/status/1209139331798953984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 913,
+									"y": 517,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 485,
+									"y": 274,
+									"h": 27,
+									"w": 27
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 855,
+									"y": 484,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 913,
+									"y": 517,
+									"h": 52,
+									"w": 52
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1209139324060459000,
+					"id_str": "1209139324060459008",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EMe5zxaUYAAl0v1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMe5zxaUYAAl0v1.jpg",
+					"url": "https://t.co/XI4ws5sdBJ",
+					"display_url": "pic.twitter.com/XI4ws5sdBJ",
+					"expanded_url": "https://twitter.com/stevevsninjas/status/1209139331798953984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 913,
+									"y": 517,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 485,
+									"y": 274,
+									"h": 27,
+									"w": 27
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 855,
+									"y": 484,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 913,
+									"y": 517,
+									"h": 52,
+									"w": 52
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1209139324094054400,
+					"id_str": "1209139324094054400",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EMe5zxiVAAAwgtF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMe5zxiVAAAwgtF.jpg",
+					"url": "https://t.co/XI4ws5sdBJ",
+					"display_url": "pic.twitter.com/XI4ws5sdBJ",
+					"expanded_url": "https://twitter.com/stevevsninjas/status/1209139331798953984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 520,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 635,
+							"h": 830,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 635,
+							"h": 830,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491716291,
+			"id_str": "491716291",
+			"name": "Steve vs Ninjas",
+			"screen_name": "stevevsninjas",
+			"location": "Oregon, USA",
+			"description": "Former zygote. Current tweets: https://t.co/h1bn7JNH5r",
+			"url": "https://t.co/xtzFMZwkBf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xtzFMZwkBf",
+							"expanded_url": "https://bit.ly/34SNUPv",
+							"display_url": "bit.ly/34SNUPv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/h1bn7JNH5r",
+							"expanded_url": "https://twitter.com/search?q=From%3Astevevsninjas%20-filter%3Areplies&src=typed_query",
+							"display_url": "twitter.com/search?q=From%…",
+							"indices": [
+								31,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13820,
+			"friends_count": 490,
+			"listed_count": 278,
+			"created_at": "Mon Feb 13 23:10:01 +0000 2012",
+			"favourites_count": 63580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209012070299004930/LPFxoZAJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209012070299004930/LPFxoZAJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491716291/1572799077",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 459,
+		"favorite_count": 1308,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do your kids think Santa is scary? In Wales, this undead horse invades your home unless you defeat it in a rap battle, and I can't stop thinking about it. https://t.co/XI4ws5sdBJ"
+	},
+	{
 		"created_at": "Sun Dec 22 20:48:00 +0000 2019",
 		"id": 1208851704248189000,
 		"id_str": "1208851704248188929",
