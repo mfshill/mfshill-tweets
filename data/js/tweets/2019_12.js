@@ -1,6 +1,927 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 24 20:46:44 +0000 2019",
+		"id": 1209576163020071000,
+		"id_str": "1209576163020070912",
+		"full_text": "@Sallysalster https://t.co/YhEmWKi8B1",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sallysalster",
+					"name": "Sally2Fridges💃🏻✊🏼",
+					"id": 38829857,
+					"id_str": "38829857",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1209576156103610400,
+					"id_str": "1209576156103610369",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EMlHGvlWkAEqwhK.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMlHGvlWkAEqwhK.jpg",
+					"url": "https://t.co/YhEmWKi8B1",
+					"display_url": "pic.twitter.com/YhEmWKi8B1",
+					"expanded_url": "https://twitter.com/mfshill/status/1209576163020070912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 220,
+							"h": 172,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 220,
+							"h": 172,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 172,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1209576156103610400,
+					"id_str": "1209576156103610369",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EMlHGvlWkAEqwhK.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMlHGvlWkAEqwhK.jpg",
+					"url": "https://t.co/YhEmWKi8B1",
+					"display_url": "pic.twitter.com/YhEmWKi8B1",
+					"expanded_url": "https://twitter.com/mfshill/status/1209576163020070912/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 220,
+							"h": 172,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 220,
+							"h": 172,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 172,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							55,
+							43
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EMlHGvlWkAEqwhK.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1209566858170507300,
+		"in_reply_to_status_id_str": "1209566858170507264",
+		"in_reply_to_user_id": 38829857,
+		"in_reply_to_user_id_str": "38829857",
+		"in_reply_to_screen_name": "Sallysalster",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, gunner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 267,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@Sallysalster https://t.co/YhEmWKi8B1"
+	},
+	{
+		"created_at": "Tue Dec 24 19:09:45 +0000 2019",
+		"id": 1209375315933515800,
+		"id_str": "1209551754855141382",
+		"full_text": "Arteta’s pre-Bournemouth team talk https://t.co/J7ZxvC1FA6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1209375290344059000,
+					"id_str": "1209375290344058880",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1209375290344058880/pu/img/tj0iQ2F_CbBwsful.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1209375290344058880/pu/img/tj0iQ2F_CbBwsful.jpg",
+					"url": "https://t.co/J7ZxvC1FA6",
+					"display_url": "pic.twitter.com/J7ZxvC1FA6",
+					"expanded_url": "https://twitter.com/SimpsonsArsenal/status/1209375315933515776/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1040,
+							"h": 780,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 780,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1209375290344059000,
+					"id_str": "1209375290344058880",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1209375290344058880/pu/img/tj0iQ2F_CbBwsful.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1209375290344058880/pu/img/tj0iQ2F_CbBwsful.jpg",
+					"url": "https://t.co/J7ZxvC1FA6",
+					"display_url": "pic.twitter.com/J7ZxvC1FA6",
+					"expanded_url": "https://twitter.com/SimpsonsArsenal/status/1209375315933515776/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1040,
+							"h": 780,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 780,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 13500,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1209375290344058880/pu/vid/960x720/61hzoNHGfW8t3VEz.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1209375290344058880/pu/pl/FlYcmGUG8-yd7uci.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1209375290344058880/pu/vid/480x360/770gQpiOUQlu8IwB.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1209375290344058880/pu/vid/360x270/goz2st0Jh-pNnJiy.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1096703520798056400,
+			"id_str": "1096703520798056450",
+			"name": "Simpsons Arsenal",
+			"screen_name": "SimpsonsArsenal",
+			"location": "London, England",
+			"description": "Just an Arsenal fan posting Simpsons quotes and gifs",
+			"url": "https://t.co/KCaX1PZfX7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KCaX1PZfX7",
+							"expanded_url": "http://instagram.com/simpsonsarsenal",
+							"display_url": "instagram.com/simpsonsarsenal",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38480,
+			"friends_count": 58,
+			"listed_count": 198,
+			"created_at": "Sat Feb 16 09:31:09 +0000 2019",
+			"favourites_count": 4218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161285080226127874/sqXr48eC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161285080226127874/sqXr48eC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1096703520798056450/1559308826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 262,
+		"favorite_count": 1744,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Arteta’s pre-Bournemouth team talk https://t.co/J7ZxvC1FA6"
+	},
+	{
+		"created_at": "Tue Dec 24 19:00:38 +0000 2019",
+		"id": 1209544440026738700,
+		"id_str": "1209549462735069189",
+		"full_text": "R.I.P to the people who lost their lives 31 years ago in the terrorist attack on the Nakatomi Plaza in Los Angeles. https://t.co/wBLZP8C95I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1209544433915568000,
+					"id_str": "1209544433915568128",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EMkqQROWoAAZwXE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMkqQROWoAAZwXE.jpg",
+					"url": "https://t.co/wBLZP8C95I",
+					"display_url": "pic.twitter.com/wBLZP8C95I",
+					"expanded_url": "https://twitter.com/MattArsenal1/status/1209544440026738689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 703,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 703,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1209544433915568000,
+					"id_str": "1209544433915568128",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EMkqQROWoAAZwXE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMkqQROWoAAZwXE.jpg",
+					"url": "https://t.co/wBLZP8C95I",
+					"display_url": "pic.twitter.com/wBLZP8C95I",
+					"expanded_url": "https://twitter.com/MattArsenal1/status/1209544440026738689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 703,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 703,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20975247,
+			"id_str": "20975247",
+			"name": "Matt",
+			"screen_name": "MattArsenal1",
+			"location": "",
+			"description": "Proud husband and father. @Arsenal ST Holder, @Giants fan, @McLarenF1 fan. Sports Enthusiast. Chartered Accountant, Economist. Views are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 471,
+			"listed_count": 25,
+			"created_at": "Mon Feb 16 10:23:16 +0000 2009",
+			"favourites_count": 231,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/475745002833063936/uY1tTYS1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/475745002833063936/uY1tTYS1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20975247/1402260986",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "R.I.P to the people who lost their lives 31 years ago in the terrorist attack on the Nakatomi Plaza in Los Angeles. https://t.co/wBLZP8C95I"
+	},
+	{
+		"created_at": "Tue Dec 24 13:40:14 +0000 2019",
+		"id": 1209238340496691200,
+		"id_str": "1209468828444483586",
+		"full_text": "This did not age well https://t.co/3cCHpByf08",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3cCHpByf08",
+					"expanded_url": "https://twitter.com/carolineflack1/status/27955231368",
+					"display_url": "twitter.com/carolineflack1…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108037973,
+			"id_str": "108037973",
+			"name": "sophie",
+			"screen_name": "sophxthompson",
+			"location": "London / Lincolnshire",
+			"description": "Social & Writer @GLAMOURMagUK prev @LADbible / Professional Dog Mom",
+			"url": "https://t.co/gdL6Xfr2EG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gdL6Xfr2EG",
+							"expanded_url": "http://instagram.com/sophthompson",
+							"display_url": "instagram.com/sophthompson",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21313,
+			"friends_count": 648,
+			"listed_count": 408,
+			"created_at": "Sun Jan 24 16:27:09 +0000 2010",
+			"favourites_count": 44863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201788117306531840/81bZ18f6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201788117306531840/81bZ18f6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108037973/1523529218",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 27955231368,
+		"quoted_status_id_str": "27955231368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3cCHpByf08",
+			"expanded": "https://twitter.com/carolineflack1/status/27955231368",
+			"display": "twitter.com/carolineflack1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 20 18:39:38 +0000 2010",
+			"id": 27955231368,
+			"id_str": "27955231368",
+			"full_text": "I also love my new lamp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				23
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.nibirutech.com\" rel=\"nofollow\">TwitBird</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20321785,
+				"id_str": "20321785",
+				"name": "caroline flack",
+				"screen_name": "carolineflack1",
+				"location": "free wheelin ",
+				"description": "all the islands ❤️",
+				"url": "https://t.co/vhExMo8oaX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vhExMo8oaX",
+								"expanded_url": "http://www.moneymanagementuk.com/",
+								"display_url": "moneymanagementuk.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1903361,
+				"friends_count": 2384,
+				"listed_count": 1700,
+				"created_at": "Sat Feb 07 17:39:47 +0000 2009",
+				"favourites_count": 11641,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19943,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "0E1F1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1129069984519544832/CBaQ1Dnz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129069984519544832/CBaQ1Dnz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20321785/1558026249",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2217,
+			"favorite_count": 3034,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 7755,
+		"favorite_count": 57378,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This did not age well https://t.co/3cCHpByf08"
+	},
+	{
+		"created_at": "Tue Dec 24 13:36:46 +0000 2019",
+		"id": 1209467956687708200,
+		"id_str": "1209467956687708160",
+		"full_text": "and 'Beat Tape 2' https://t.co/t5ENavhN5r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t5ENavhN5r",
+					"expanded_url": "https://www.youtube.com/watch?v=BVvljrWpNiI&list=OLAK5uy_lZDJlVJAP4KzJmc5IGEXtAEIgaUcXkehA",
+					"display_url": "youtube.com/watch?v=BVvljr…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1209467857676968000,
+		"in_reply_to_status_id_str": "1209467857676967938",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\nThinker, runner, gunner, cyclist, oenophile, dance music fanatic.",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 267,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "and 'Beat Tape 2' https://t.co/t5ENavhN5r"
+	},
+	{
 		"created_at": "Mon Dec 23 23:47:47 +0000 2019",
 		"id": 1209139331798954000,
 		"id_str": "1209259335089577984",
