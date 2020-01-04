@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 03 15:18:29 +0000 2020",
+		"id": 1213116312173633500,
+		"id_str": "1213117432388366336",
+		"full_text": "JANUARY 2020 kicks off TONIGHT @StrongroomBar 8-2am with the Black Wax Solution switching to the 1st Friday of every month! Come on down for some head nodding hip-hop, groove worthy funk, deep disco &amp; classic house music! All cut, mixed and scratched on flat black plastic! https://t.co/Q5YQGHMi1z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StrongroomBar",
+					"name": "Strongroom Bar",
+					"id": 81589529,
+					"id_str": "81589529",
+					"indices": [
+						31,
+						45
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213116299326447600,
+					"id_str": "1213116299326447616",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ENXa2MyW4AAJR2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ENXa2MyW4AAJR2f.jpg",
+					"url": "https://t.co/Q5YQGHMi1z",
+					"display_url": "pic.twitter.com/Q5YQGHMi1z",
+					"expanded_url": "https://twitter.com/eops/status/1213116312173633536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213116299326447600,
+					"id_str": "1213116299326447616",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ENXa2MyW4AAJR2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ENXa2MyW4AAJR2f.jpg",
+					"url": "https://t.co/Q5YQGHMi1z",
+					"display_url": "pic.twitter.com/Q5YQGHMi1z",
+					"expanded_url": "https://twitter.com/eops/status/1213116312173633536/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ENXa2MyW4AAJR2f.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20243240,
+			"id_str": "20243240",
+			"name": "BlackWaxSolution",
+			"screen_name": "eops",
+			"location": "LDN /east",
+			"description": "Vinyl only DJ. Bookings: DJeops@Gmail.com https://t.co/Whw03pQHL2 https://t.co/bNdWAaZNg4 https://t.co/9LmRMZW6Mi",
+			"url": "https://t.co/QdVzWepwt7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QdVzWepwt7",
+							"expanded_url": "http://www.mixcloud.com/eops",
+							"display_url": "mixcloud.com/eops",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Whw03pQHL2",
+							"expanded_url": "http://TotallyWiredRadio.com",
+							"display_url": "TotallyWiredRadio.com",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/bNdWAaZNg4",
+							"expanded_url": "http://Instagram.com/BlackWaxSolution",
+							"display_url": "Instagram.com/BlackWaxSoluti…",
+							"indices": [
+								66,
+								89
+							]
+						},
+						{
+							"url": "https://t.co/9LmRMZW6Mi",
+							"expanded_url": "http://Facebook.com/BlackWaxSolution",
+							"display_url": "Facebook.com/BlackWaxSoluti…",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3584,
+			"friends_count": 3006,
+			"listed_count": 112,
+			"created_at": "Fri Feb 06 15:14:44 +0000 2009",
+			"favourites_count": 44172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 159005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172688305395253248/EpwBrh4V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172688305395253248/EpwBrh4V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20243240/1568426673",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "JANUARY 2020 kicks off TONIGHT @StrongroomBar 8-2am with the Black Wax Solution switching to the 1st Friday of every month! Come on down for some head nodding hip-hop, groove worthy funk, deep disco &amp; classic house music! All cut, mixed and scratched on flat black plastic! https://t.co/Q5YQGHMi1z"
+	},
+	{
 		"created_at": "Thu Jan 02 22:18:21 +0000 2020",
 		"id": 1212860709324886000,
 		"id_str": "1212860709324886016",
