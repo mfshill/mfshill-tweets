@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 08 07:50:27 +0000 2020",
+		"id": 1214808802475872300,
+		"id_str": "1214816623103762437",
+		"full_text": "Torreira under Emery vs Torreira under Arteta https://t.co/Kqz9qlpVq7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214808798474449000,
+					"id_str": "1214808798474448896",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/ENveKncWsAALKub.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENveKncWsAALKub.jpg",
+					"url": "https://t.co/Kqz9qlpVq7",
+					"display_url": "pic.twitter.com/Kqz9qlpVq7",
+					"expanded_url": "https://twitter.com/SimpsonsArsenal/status/1214808802475872256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1528,
+							"h": 764,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 243,
+									"y": 481,
+									"h": 41,
+									"w": 41
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 310,
+									"y": 613,
+									"h": 53,
+									"w": 53
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 137,
+									"y": 272,
+									"h": 23,
+									"w": 23
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 310,
+									"y": 613,
+									"h": 53,
+									"w": 53
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214808798474449000,
+					"id_str": "1214808798474448896",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/ENveKncWsAALKub.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENveKncWsAALKub.jpg",
+					"url": "https://t.co/Kqz9qlpVq7",
+					"display_url": "pic.twitter.com/Kqz9qlpVq7",
+					"expanded_url": "https://twitter.com/SimpsonsArsenal/status/1214808802475872256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1528,
+							"h": 764,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 243,
+									"y": 481,
+									"h": 41,
+									"w": 41
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 310,
+									"y": 613,
+									"h": 53,
+									"w": 53
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 137,
+									"y": 272,
+									"h": 23,
+									"w": 23
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 310,
+									"y": 613,
+									"h": 53,
+									"w": 53
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1096703520798056400,
+			"id_str": "1096703520798056450",
+			"name": "Simpsons Arsenal",
+			"screen_name": "SimpsonsArsenal",
+			"location": "London, England",
+			"description": "Just an Arsenal fan posting Simpsons quotes and gifs",
+			"url": "https://t.co/KCaX1PZfX7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KCaX1PZfX7",
+							"expanded_url": "http://instagram.com/simpsonsarsenal",
+							"display_url": "instagram.com/simpsonsarsenal",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40613,
+			"friends_count": 58,
+			"listed_count": 213,
+			"created_at": "Sat Feb 16 09:31:09 +0000 2019",
+			"favourites_count": 4617,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161285080226127874/sqXr48eC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161285080226127874/sqXr48eC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1096703520798056450/1559308826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 825,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "pt",
+		"text": "Torreira under Emery vs Torreira under Arteta https://t.co/Kqz9qlpVq7"
+	},
+	{
 		"created_at": "Tue Jan 07 21:35:36 +0000 2020",
 		"id": 1214661890040832000,
 		"id_str": "1214661890040832000",
