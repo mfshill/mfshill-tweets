@@ -1,6 +1,1470 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 17 18:31:43 +0000 2020",
+		"id": 1215978014728691700,
+		"id_str": "1218239490575228928",
+		"full_text": "Witnessed the most amazing thing on the train to Edinburgh yesterday. A guy boarded in Wigan &amp; sat opposite me. He went to sleep for an hour.\n\nWhen he woke up he bought a sandwich, ate it &amp; went back to sleep. (This isn’t a maths test, you don’t need to know the distance/speed).",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38561879,
+			"id_str": "38561879",
+			"name": "Ignacio Lopez",
+			"screen_name": "comedylopez",
+			"location": "Wales, United Kingdom",
+			"description": "Spain's Best Export. The UK's Favourite Import (citation needed). Stand Up Comedian. 🇪🇸🏴󠁧󠁢󠁷󠁬󠁳󠁿🇪🇺 Booking enquiries: andrew@arushoflaughter.co.uk",
+			"url": "https://t.co/Nyf6BOBkX0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Nyf6BOBkX0",
+							"expanded_url": "http://www.facebook.com/comedylopez",
+							"display_url": "facebook.com/comedylopez",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16708,
+			"friends_count": 1996,
+			"listed_count": 60,
+			"created_at": "Fri May 08 00:36:27 +0000 2009",
+			"favourites_count": 13460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5B170B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141285742011924482/_NdBcsu6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141285742011924482/_NdBcsu6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38561879/1560939273",
+			"profile_link_color": "931B24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "6F0C01",
+			"profile_text_color": "D9A073",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33523,
+		"favorite_count": 129365,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Witnessed the most amazing thing on the train to Edinburgh yesterday. A guy boarded in Wigan &amp; sat opposite me. He went to sleep for an hour.\n\nWhen he woke up he bought a sandwich, ate it &amp; went back to sleep. (This isn’t a maths test, you don’t need to know the distance/speed)."
+	},
+	{
+		"created_at": "Fri Jan 17 17:06:25 +0000 2020",
+		"id": 1218218024613961700,
+		"id_str": "1218218024613961730",
+		"full_text": "@TC_Cornesto @tomlloydwrites more so than a lot of other series i read or tried to read (looking at you Potter). Pratchett and another author I loved, Iain (M) Banks, are sorely missed. ☹️",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "tomlloydwrites",
+					"name": "Tom Lloyd",
+					"id": 763375106,
+					"id_str": "763375106",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1218217554247913500,
+		"in_reply_to_status_id_str": "1218217554247913473",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 267,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TC_Cornesto @tomlloydwrites more so than a lot of other series i read or tried to read (looking at you Potter). Pratchett and another author I loved, Iain (M) Banks, are sorely missed. ☹️"
+	},
+	{
+		"created_at": "Fri Jan 17 17:04:32 +0000 2020",
+		"id": 1218217554247913500,
+		"id_str": "1218217554247913473",
+		"full_text": "@TC_Cornesto @tomlloydwrites I discovered the discworld by chance in an airport WHSmiths. Got lucky and started with The Colour of Magic, finished it in a 5 hour flight and couldn't wait to read more. Terry's world was a big part of my literary upbringing? the depth of his creation really gave it life...",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			305
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "tomlloydwrites",
+					"name": "Tom Lloyd",
+					"id": 763375106,
+					"id_str": "763375106",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1218206421994680300,
+		"in_reply_to_status_id_str": "1218206421994680320",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 267,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TC_Cornesto @tomlloydwrites I discovered the discworld by chance in an airport WHSmiths. Got lucky and started with The Colour of Magic, finished it in a 5 hour flight and couldn't wait to read more. Terry's world was a big part of my literary upbringing? the depth of his creation really gave it life..."
+	},
+	{
+		"created_at": "Fri Jan 17 17:00:40 +0000 2020",
+		"id": 1218216581026676700,
+		"id_str": "1218216581026676737",
+		"full_text": "@tomlloydwrites @TC_Cornesto Just checked Goodreads and my last 5⭐ was Making Money (which i absolutely loved), UA, Snuff &amp; Raising Steam 4/5. I had high hopes for the Long Earth series but it went down hill after the 1st book.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tomlloydwrites",
+					"name": "Tom Lloyd",
+					"id": 763375106,
+					"id_str": "763375106",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1218208184655106000,
+		"in_reply_to_status_id_str": "1218208184655106048",
+		"in_reply_to_user_id": 763375106,
+		"in_reply_to_user_id_str": "763375106",
+		"in_reply_to_screen_name": "tomlloydwrites",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 267,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tomlloydwrites @TC_Cornesto Just checked Goodreads and my last 5⭐ was Making Money (which i absolutely loved), UA, Snuff &amp; Raising Steam 4/5. I had high hopes for the Long Earth series but it went down hill after the 1st book."
+	},
+	{
+		"created_at": "Fri Jan 17 16:11:02 +0000 2020",
+		"id": 1218204088137080800,
+		"id_str": "1218204088137080835",
+		"full_text": "@tomlloydwrites @TC_Cornesto and The Long Cosmos, gave both 3/5.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tomlloydwrites",
+					"name": "Tom Lloyd",
+					"id": 763375106,
+					"id_str": "763375106",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1218203645096988700,
+		"in_reply_to_status_id_str": "1218203645096988679",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 267,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tomlloydwrites @TC_Cornesto and The Long Cosmos, gave both 3/5."
+	},
+	{
+		"created_at": "Fri Jan 17 16:09:16 +0000 2020",
+		"id": 1218203645096988700,
+		"id_str": "1218203645096988679",
+		"full_text": "@tomlloydwrites @TC_Cornesto 5 years since his last book. I really did find The Shepherd's Crown a bit of a disappointment.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tomlloydwrites",
+					"name": "Tom Lloyd",
+					"id": 763375106,
+					"id_str": "763375106",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1218202409387905000,
+		"in_reply_to_status_id_str": "1218202409387905024",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 267,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tomlloydwrites @TC_Cornesto 5 years since his last book. I really did find The Shepherd's Crown a bit of a disappointment."
+	},
+	{
+		"created_at": "Fri Jan 17 16:04:22 +0000 2020",
+		"id": 1218202409387905000,
+		"id_str": "1218202409387905024",
+		"full_text": "@tomlloydwrites @TC_Cornesto very true (you put it better than I did), tbf i wasn't as big of a fan of the more recent books. not sure if it was the illness but the final book had lost a lot of the magic, felt rushed and basically didn't sound like Pratchett had written it.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tomlloydwrites",
+					"name": "Tom Lloyd",
+					"id": 763375106,
+					"id_str": "763375106",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1218177170943750100,
+		"in_reply_to_status_id_str": "1218177170943750148",
+		"in_reply_to_user_id": 763375106,
+		"in_reply_to_user_id_str": "763375106",
+		"in_reply_to_screen_name": "tomlloydwrites",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 267,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tomlloydwrites @TC_Cornesto very true (you put it better than I did), tbf i wasn't as big of a fan of the more recent books. not sure if it was the illness but the final book had lost a lot of the magic, felt rushed and basically didn't sound like Pratchett had written it."
+	},
+	{
+		"created_at": "Fri Jan 17 14:04:18 +0000 2020",
+		"id": 1218172194813030400,
+		"id_str": "1218172194813030402",
+		"full_text": "@tomlloydwrites @TC_Cornesto the later books started bringing in the industrial revolution so the feel changes from quaint (very English) fantasy to a more uptodate sci-fi. My entire vision of the world is based on the fantastic book covers. (Watch related ones for reference) https://t.co/gKXe1TK7Iz",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tomlloydwrites",
+					"name": "Tom Lloyd",
+					"id": 763375106,
+					"id_str": "763375106",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218172135874711600,
+					"id_str": "1218172135874711552",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EOfRGnoXUAA5P0t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOfRGnoXUAA5P0t.jpg",
+					"url": "https://t.co/gKXe1TK7Iz",
+					"display_url": "pic.twitter.com/gKXe1TK7Iz",
+					"expanded_url": "https://twitter.com/mfshill/status/1218172194813030402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 434,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 766,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1307,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 42,
+									"y": 284,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 303,
+									"y": 108,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 345,
+									"y": 106,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 280,
+									"y": 284,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 75,
+									"y": 502,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 536,
+									"y": 192,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 608,
+									"y": 188,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 494,
+									"y": 502,
+									"h": 92,
+									"w": 92
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 129,
+									"y": 857,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 915,
+									"y": 327,
+									"h": 149,
+									"w": 149
+								},
+								{
+									"x": 1039,
+									"y": 321,
+									"h": 163,
+									"w": 163
+								},
+								{
+									"x": 843,
+									"y": 857,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 147,
+									"y": 976,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 1042,
+									"y": 373,
+									"h": 170,
+									"w": 170
+								},
+								{
+									"x": 1183,
+									"y": 366,
+									"h": 186,
+									"w": 186
+								},
+								{
+									"x": 960,
+									"y": 976,
+									"h": 179,
+									"w": 179
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218172135874711600,
+					"id_str": "1218172135874711552",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EOfRGnoXUAA5P0t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOfRGnoXUAA5P0t.jpg",
+					"url": "https://t.co/gKXe1TK7Iz",
+					"display_url": "pic.twitter.com/gKXe1TK7Iz",
+					"expanded_url": "https://twitter.com/mfshill/status/1218172194813030402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 434,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 766,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1307,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 42,
+									"y": 284,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 303,
+									"y": 108,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 345,
+									"y": 106,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 280,
+									"y": 284,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 75,
+									"y": 502,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 536,
+									"y": 192,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 608,
+									"y": 188,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 494,
+									"y": 502,
+									"h": 92,
+									"w": 92
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 129,
+									"y": 857,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 915,
+									"y": 327,
+									"h": 149,
+									"w": 149
+								},
+								{
+									"x": 1039,
+									"y": 321,
+									"h": 163,
+									"w": 163
+								},
+								{
+									"x": 843,
+									"y": 857,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 147,
+									"y": 976,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 1042,
+									"y": 373,
+									"h": 170,
+									"w": 170
+								},
+								{
+									"x": 1183,
+									"y": 366,
+									"h": 186,
+									"w": 186
+								},
+								{
+									"x": 960,
+									"y": 976,
+									"h": 179,
+									"w": 179
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1218172135845388300,
+					"id_str": "1218172135845388290",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EOfRGnhX4AISVCg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOfRGnhX4AISVCg.jpg",
+					"url": "https://t.co/gKXe1TK7Iz",
+					"display_url": "pic.twitter.com/gKXe1TK7Iz",
+					"expanded_url": "https://twitter.com/mfshill/status/1218172194813030402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 436,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1313,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 770,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 213,
+									"y": 330,
+									"h": 27,
+									"w": 27
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 733,
+									"y": 1137,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 641,
+									"y": 995,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 376,
+									"y": 583,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1218172135815946200,
+					"id_str": "1218172135815946240",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EOfRGnaWoAAjrfg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOfRGnaWoAAjrfg.jpg",
+					"url": "https://t.co/gKXe1TK7Iz",
+					"display_url": "pic.twitter.com/gKXe1TK7Iz",
+					"expanded_url": "https://twitter.com/mfshill/status/1218172194813030402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 902,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 409,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 722,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 76,
+									"y": 115,
+									"h": 457,
+									"w": 457
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 34,
+									"y": 52,
+									"h": 207,
+									"w": 207
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 60,
+									"y": 92,
+									"h": 365,
+									"w": 365
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 76,
+									"y": 115,
+									"h": 457,
+									"w": 457
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1218172135912415200,
+					"id_str": "1218172135912415232",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EOfRGnxWoAAGMhv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOfRGnxWoAAGMhv.jpg",
+					"url": "https://t.co/gKXe1TK7Iz",
+					"display_url": "pic.twitter.com/gKXe1TK7Iz",
+					"expanded_url": "https://twitter.com/mfshill/status/1218172194813030402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1406,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 467,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 824,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 586,
+									"y": 831,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 797,
+									"y": 1131,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 194,
+									"y": 276,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 343,
+									"y": 487,
+									"h": 59,
+									"w": 59
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1218168007878496300,
+		"in_reply_to_status_id_str": "1218168007878496257",
+		"in_reply_to_user_id": 763375106,
+		"in_reply_to_user_id_str": "763375106",
+		"in_reply_to_screen_name": "tomlloydwrites",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 267,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@tomlloydwrites @TC_Cornesto the later books started bringing in the industrial revolution so the feel changes from quaint (very English) fantasy to a more uptodate sci-fi. My entire vision of the world is based on the fantastic book covers. (Watch related ones for reference) https://t.co/gKXe1TK7Iz"
+	},
+	{
 		"created_at": "Thu Jan 16 15:18:14 +0000 2020",
 		"id": 1217828412313739300,
 		"id_str": "1217828412313739270",
