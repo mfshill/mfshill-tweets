@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 26 20:02:54 +0000 2020",
+		"id": 1221523201823592400,
+		"id_str": "1221523931967832064",
+		"full_text": "This is why you're obsessed with movie trailers. https://t.co/qX1r0wZvuH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1019582861245141000,
+					"id_str": "1019582861245140992",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1019582861245140992/img/erx4U1RFo_HZSOpu.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1019582861245140992/img/erx4U1RFo_HZSOpu.jpg",
+					"url": "https://t.co/qX1r0wZvuH",
+					"display_url": "pic.twitter.com/qX1r0wZvuH",
+					"expanded_url": "https://twitter.com/vicenews/status/1221523201823592448/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1019582861245141000,
+					"id_str": "1019582861245140992",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1019582861245140992/img/erx4U1RFo_HZSOpu.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1019582861245140992/img/erx4U1RFo_HZSOpu.jpg",
+					"url": "https://t.co/qX1r0wZvuH",
+					"display_url": "pic.twitter.com/qX1r0wZvuH",
+					"expanded_url": "https://twitter.com/vicenews/status/1221523201823592448/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 498832,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1019582861245140992/vid/480x480/5llVsN_VEYbyeSPh.mp4?tag=3"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1019582861245140992/vid/240x240/AA_bd6tRbYFAwEw9.mp4?tag=3"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1019582861245140992/vid/720x720/bd2ZE7UHS5Rzi8Ne.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1019582861245140992/pl/Nqnbm-FdrCmY3GBA.m3u8?tag=3"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "The Secrets of Making a Great Movie Trailer",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1630896181,
+			"id_str": "1630896181",
+			"name": "VICE News",
+			"screen_name": "vicenews",
+			"location": "Worldwide",
+			"description": "VICE News Tonight is coming soon to @VICETV / VICE Investigates streaming now on @Hulu https://t.co/tnWrYN01QP / Sign up for the VICE News Daily Brief https://t.co/iAmmxEuTXE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tnWrYN01QP",
+							"expanded_url": "http://hulu.tv/2NwJjLn",
+							"display_url": "hulu.tv/2NwJjLn",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/iAmmxEuTXE",
+							"expanded_url": "http://bit.ly/2NnkJOD",
+							"display_url": "bit.ly/2NnkJOD",
+							"indices": [
+								151,
+								174
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 964247,
+			"friends_count": 893,
+			"listed_count": 11611,
+			"created_at": "Mon Jul 29 17:40:09 +0000 2013",
+			"favourites_count": 4728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 115038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125407496854757376/_9bIv7p5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125407496854757376/_9bIv7p5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1630896181/1579533065",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is why you're obsessed with movie trailers. https://t.co/qX1r0wZvuH"
+	},
+	{
+		"created_at": "Sun Jan 26 19:08:27 +0000 2020",
+		"id": 1221510225901039600,
+		"id_str": "1221510225901039616",
+		"full_text": "@TC_Cornesto https://t.co/vJGNLwLhQT",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221510218326200300,
+					"id_str": "1221510218326200321",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EPOtElzX0AE8eOU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EPOtElzX0AE8eOU.jpg",
+					"url": "https://t.co/vJGNLwLhQT",
+					"display_url": "pic.twitter.com/vJGNLwLhQT",
+					"expanded_url": "https://twitter.com/mfshill/status/1221510225901039616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221510218326200300,
+					"id_str": "1221510218326200321",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EPOtElzX0AE8eOU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EPOtElzX0AE8eOU.jpg",
+					"url": "https://t.co/vJGNLwLhQT",
+					"display_url": "pic.twitter.com/vJGNLwLhQT",
+					"expanded_url": "https://twitter.com/mfshill/status/1221510225901039616/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EPOtElzX0AE8eOU.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1221498833512927200,
+		"in_reply_to_status_id_str": "1221498833512927232",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268,
+			"friends_count": 266,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@TC_Cornesto https://t.co/vJGNLwLhQT"
+	},
+	{
 		"created_at": "Fri Jan 24 12:15:23 +0000 2020",
 		"id": 1220681499881693200,
 		"id_str": "1220681499881693185",
