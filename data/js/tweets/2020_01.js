@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 28 21:10:45 +0000 2020",
+		"id": 1222191057741500400,
+		"id_str": "1222265780508733443",
+		"full_text": "‘What....what are those big shiny things?’ https://t.co/NLoa27IBVW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1222191052561571800,
+					"id_str": "1222191052561571842",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EPYYSW-X4AICYFH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPYYSW-X4AICYFH.jpg",
+					"url": "https://t.co/NLoa27IBVW",
+					"display_url": "pic.twitter.com/NLoa27IBVW",
+					"expanded_url": "https://twitter.com/Stillberto/status/1222191057741500417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 639,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 386,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 639,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222191052561571800,
+					"id_str": "1222191052561571842",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EPYYSW-X4AICYFH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPYYSW-X4AICYFH.jpg",
+					"url": "https://t.co/NLoa27IBVW",
+					"display_url": "pic.twitter.com/NLoa27IBVW",
+					"expanded_url": "https://twitter.com/Stillberto/status/1222191057741500417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 639,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 386,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 639,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 197872089,
+			"id_str": "197872089",
+			"name": "Tim Stillman",
+			"screen_name": "Stillberto",
+			"location": "London",
+			"description": "✍🏻 about Arsenal for @arseblog & @unibet ✍🏻 and 🗣 about Arsenal Women for @arseblognews. 🗣 about Arsenal for @arsenalvpodcast. GALO! DMs open for work.",
+			"url": "https://t.co/P6PMawCcob",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P6PMawCcob",
+							"expanded_url": "http://www.legendspublishing.net/product/royal-arsenal-champions-of-the-south/",
+							"display_url": "legendspublishing.net/product/royal-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81849,
+			"friends_count": 3025,
+			"listed_count": 1640,
+			"created_at": "Sat Oct 02 18:01:02 +0000 2010",
+			"favourites_count": 2939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 306785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "EBC3C3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204110484393332736/6piCzREO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204110484393332736/6piCzREO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197872089/1557000310",
+			"profile_link_color": "B31B00",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 360,
+		"favorite_count": 2096,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘What....what are those big shiny things?’ https://t.co/NLoa27IBVW"
+	},
+	{
 		"created_at": "Mon Jan 27 21:51:35 +0000 2020",
 		"id": 1221913669681938400,
 		"id_str": "1221913669681938433",
