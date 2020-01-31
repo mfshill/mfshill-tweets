@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 30 22:50:42 +0000 2020",
+		"id": 1223015708558286800,
+		"id_str": "1223015708558286848",
+		"full_text": "still the only movie i've seen in the cinema where \na) it was full for a late night showing\nb) people laughed their arses off all the way through\n\nhttps://t.co/ceasbO93Cj https://t.co/qiwO113B8l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ceasbO93Cj",
+					"expanded_url": "https://youtube.com/watch?v=VsMcdE",
+					"display_url": "youtube.com/watch?v=VsMcdE",
+					"indices": [
+						147,
+						170
+					]
+				},
+				{
+					"url": "https://t.co/qiwO113B8l",
+					"expanded_url": "https://twitter.com/IMDb/status/1221900688051068928",
+					"display_url": "twitter.com/IMDb/status/12…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 267,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 994,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1221900688051069000,
+		"quoted_status_id_str": "1221900688051068928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qiwO113B8l",
+			"expanded": "https://twitter.com/IMDb/status/1221900688051068928",
+			"display": "twitter.com/IMDb/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 27 21:00:00 +0000 2020",
+			"id": 1221900688051069000,
+			"id_str": "1221900688051068928",
+			"full_text": "Name a song in a movie that takes a scene to the next level.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17602896,
+				"id_str": "17602896",
+				"name": "IMDb",
+				"screen_name": "IMDb",
+				"location": "Seattle",
+				"description": "The folks at IMDb talking about movies, TV and celebrities.",
+				"url": "https://t.co/knY83wIwTD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/knY83wIwTD",
+								"expanded_url": "http://www.imdb.com",
+								"display_url": "imdb.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4491429,
+				"friends_count": 1125,
+				"listed_count": 21304,
+				"created_at": "Mon Nov 24 22:18:17 +0000 2008",
+				"favourites_count": 5725,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 33221,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/976507090624589824/0x28al44_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/976507090624589824/0x28al44_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17602896/1579738963",
+				"profile_link_color": "C7AE20",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C6D7E2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 495,
+			"favorite_count": 4996,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "still the only movie i've seen in the cinema where \na) it was full for a late night showing\nb) people laughed their arses off all the way through\n\nhttps://t.co/ceasbO93Cj https://t.co/qiwO113B8l"
+	},
+	{
 		"created_at": "Wed Jan 29 19:30:01 +0000 2020",
 		"id": 1222602820198850600,
 		"id_str": "1222602820198850560",
