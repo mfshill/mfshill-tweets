@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 08 17:57:03 +0000 2020",
+		"id": 1226203299902349300,
+		"id_str": "1226203299902349315",
+		"full_text": "@AlvinAl3978 great mix! https://t.co/wYQolmQ4S1",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlvinAl3978",
+					"name": "AlvinAl3978",
+					"id": 153453124,
+					"id_str": "153453124",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226203292507811800,
+					"id_str": "1226203292507811842",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EQRZZdhXsAID1YR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EQRZZdhXsAID1YR.jpg",
+					"url": "https://t.co/wYQolmQ4S1",
+					"display_url": "pic.twitter.com/wYQolmQ4S1",
+					"expanded_url": "https://twitter.com/mfshill/status/1226203299902349315/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226203292507811800,
+					"id_str": "1226203292507811842",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EQRZZdhXsAID1YR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EQRZZdhXsAID1YR.jpg",
+					"url": "https://t.co/wYQolmQ4S1",
+					"display_url": "pic.twitter.com/wYQolmQ4S1",
+					"expanded_url": "https://twitter.com/mfshill/status/1226203299902349315/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							62
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EQRZZdhXsAID1YR.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1226155292221677600,
+		"in_reply_to_status_id_str": "1226155292221677570",
+		"in_reply_to_user_id": 153453124,
+		"in_reply_to_user_id_str": "153453124",
+		"in_reply_to_screen_name": "AlvinAl3978",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 267,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1570214173",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@AlvinAl3978 great mix! https://t.co/wYQolmQ4S1"
+	},
+	{
+		"created_at": "Sat Feb 08 14:42:28 +0000 2020",
+		"id": 1226149687364915200,
+		"id_str": "1226154331323408384",
+		"full_text": "Right then, who’s up for 40 minutes of uptempo, ferocious, break-beat and scratch heavy Old Skool Hip Hop ? RT’s greatly appreciated ✌🏾\n\nhttps://t.co/rRMfCwzGsl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rRMfCwzGsl",
+					"expanded_url": "https://www.mixcloud.com/AllyAl3000/give-the-drummer-some-old-skool-hip-hop-volume-i-friday-sessions-mixed-by-allyal/",
+					"display_url": "mixcloud.com/AllyAl3000/giv…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153453124,
+			"id_str": "153453124",
+			"name": "AlvinAl3978",
+			"screen_name": "AlvinAl3978",
+			"location": "",
+			"description": "Funkateer : family, music, clothes and LFC #Wool If you set your mind free baby, maybe you'll understand.. ( My name isn't Alvin ) #ImABlackstar",
+			"url": "https://t.co/WH8Uti3rpl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WH8Uti3rpl",
+							"expanded_url": "http://allyal3.podomatic.com",
+							"display_url": "allyal3.podomatic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2363,
+			"friends_count": 2321,
+			"listed_count": 48,
+			"created_at": "Tue Jun 08 16:08:46 +0000 2010",
+			"favourites_count": 155361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 96732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180958698660929537/z_I7ZOVC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180958698660929537/z_I7ZOVC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153453124/1461273127",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Right then, who’s up for 40 minutes of uptempo, ferocious, break-beat and scratch heavy Old Skool Hip Hop ? RT’s greatly appreciated ✌🏾\n\nhttps://t.co/rRMfCwzGsl"
+	},
+	{
 		"created_at": "Fri Feb 07 19:08:06 +0000 2020",
 		"id": 1225858794439180300,
 		"id_str": "1225858794439180290",
