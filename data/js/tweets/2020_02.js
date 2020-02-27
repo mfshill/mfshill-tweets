@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 26 09:49:26 +0000 2020",
+		"id": 1232434562736607200,
+		"id_str": "1232603571746738176",
+		"full_text": "The post-Coronavirus world will be populated by freelancers who never go out anywhere anyway.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22799589,
+			"id_str": "22799589",
+			"name": "David M Barnett",
+			"screen_name": "davidmbarnett",
+			"location": "The hinterland",
+			"description": "Justified and Ancient.  Novels: @trapezebooks Comics: @blackcrownhq/@dccomics Journalism: https://t.co/H2fB1iohIq david@barnettmedia.co.uk",
+			"url": "https://t.co/OpYDZlXclu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OpYDZlXclu",
+							"expanded_url": "http://davidmbarnett.com",
+							"display_url": "davidmbarnett.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/H2fB1iohIq",
+							"expanded_url": "http://authory.com/DavidBarnett",
+							"display_url": "authory.com/DavidBarnett",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5956,
+			"friends_count": 4154,
+			"listed_count": 184,
+			"created_at": "Wed Mar 04 17:00:46 +0000 2009",
+			"favourites_count": 21745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 72785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194349286223470606/G7bWsb-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194349286223470606/G7bWsb-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22799589/1580132058",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 510,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The post-Coronavirus world will be populated by freelancers who never go out anywhere anyway."
+	},
+	{
 		"created_at": "Tue Feb 25 23:43:49 +0000 2020",
 		"id": 1232451162541981700,
 		"id_str": "1232451162541981696",
