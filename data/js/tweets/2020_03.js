@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 06 22:27:26 +0000 2020",
+		"id": 1235627900616966100,
+		"id_str": "1236055817411059716",
+		"full_text": "#CoronaVirusChallenge\nWait for it....\nWait for...\nit... https://t.co/mW9vVhsuBN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CoronaVirusChallenge",
+					"indices": [
+						0,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235627880467632000,
+					"id_str": "1235627880467632129",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235627880467632129/pu/img/AtzYugYXtv4pApc7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235627880467632129/pu/img/AtzYugYXtv4pApc7.jpg",
+					"url": "https://t.co/mW9vVhsuBN",
+					"display_url": "pic.twitter.com/mW9vVhsuBN",
+					"expanded_url": "https://twitter.com/nkosibooi/status/1235627900616966145/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 460,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 460,
+							"h": 460,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 460,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235627880467632000,
+					"id_str": "1235627880467632129",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235627880467632129/pu/img/AtzYugYXtv4pApc7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235627880467632129/pu/img/AtzYugYXtv4pApc7.jpg",
+					"url": "https://t.co/mW9vVhsuBN",
+					"display_url": "pic.twitter.com/mW9vVhsuBN",
+					"expanded_url": "https://twitter.com/nkosibooi/status/1235627900616966145/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 460,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 460,
+							"h": 460,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 460,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 19880,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235627880467632129/pu/vid/320x320/WiB_1U7b33_sZLmY.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1235627880467632129/pu/pl/fc7_-Ir_KdLYpmDh.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235627880467632129/pu/vid/460x460/0_32_I8PBAaJL1c5.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 400159752,
+			"id_str": "400159752",
+			"name": "𝓒𝓪𝓷𝓭𝔂 𝓗𝓮𝓪𝓻𝓽 🍬❤️",
+			"screen_name": "nkosibooi",
+			"location": "Cape Town, South Africa",
+			"description": "ᴹᵉᵈⁱᶜ, ᴰᵃᵈ, ˢᵒⁿ, ᴸᵒᵛᵉʳ, ʷᵉᵉᵈ ᵉⁿᵗʰᵘˢⁱᵃˢᵗ, ᵃ ᶜᵃⁿᵈʸ ʰᵉᵃʳᵗ\nᴬ ʲᵒᵏᵉʳ, ᵐʸ ᵗʷᵉᵉᵗⁱⁿᵍ ⁱˢⁿ'ᵗ ᶠᵒʳ ᵗʰᵉ ᵐᵒˢᵗ ˢᵉⁿˢⁱᵗⁱᵛᵉ. ᴵ ᵗʷᵉᵉᵗ ᵐʸ ᵒʷⁿ ᵗʰᵒᵘᵍʰᵗˢ, ᶠᵒʳᵍⁱᵛᵉ ᵐᵉ.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50665,
+			"friends_count": 16878,
+			"listed_count": 19,
+			"created_at": "Fri Oct 28 15:57:26 +0000 2011",
+			"favourites_count": 117310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 146685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232054446575759367/hMlTFzxL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232054446575759367/hMlTFzxL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/400159752/1580151139",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53323,
+		"favorite_count": 116519,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#CoronaVirusChallenge\nWait for it....\nWait for...\nit... https://t.co/mW9vVhsuBN"
+	},
+	{
 		"created_at": "Thu Mar 05 18:33:41 +0000 2020",
 		"id": 1235634604603818000,
 		"id_str": "1235634604603817986",
