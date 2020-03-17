@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 17:35:58 +0000 2020",
+		"id": 1239272494005194800,
+		"id_str": "1239606347953516546",
+		"full_text": "social distance made easy:\n1. Meet outdoors\n2. Stay at least 6 feet apart\n3. Accept the ultimate meaninglessness of existence in the modern world\n4. Dress impeccably https://t.co/QFUXYFgVtY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239272377139236900,
+					"id_str": "1239272377139236865",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/ETLHqTtWkAEbm7b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETLHqTtWkAEbm7b.jpg",
+					"url": "https://t.co/QFUXYFgVtY",
+					"display_url": "pic.twitter.com/QFUXYFgVtY",
+					"expanded_url": "https://twitter.com/aoscott/status/1239272494005194752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239272377139236900,
+					"id_str": "1239272377139236865",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/ETLHqTtWkAEbm7b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETLHqTtWkAEbm7b.jpg",
+					"url": "https://t.co/QFUXYFgVtY",
+					"display_url": "pic.twitter.com/QFUXYFgVtY",
+					"expanded_url": "https://twitter.com/aoscott/status/1239272494005194752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109275829,
+			"id_str": "109275829",
+			"name": "32 across",
+			"screen_name": "aoscott",
+			"location": "",
+			"description": "film critic, NY Times; author of BETTER LIVING THROUGH CRITICISM from  @penguinpress",
+			"url": "http://t.co/YbqgWoUSgE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YbqgWoUSgE",
+							"expanded_url": "http://nytimes.com",
+							"display_url": "nytimes.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 145133,
+			"friends_count": 1471,
+			"listed_count": 2060,
+			"created_at": "Thu Jan 28 14:34:36 +0000 2010",
+			"favourites_count": 11914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762694568907247620/NBhtqDuc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762694568907247620/NBhtqDuc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109275829/1453413737",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1026,
+		"favorite_count": 4399,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "social distance made easy:\n1. Meet outdoors\n2. Stay at least 6 feet apart\n3. Accept the ultimate meaninglessness of existence in the modern world\n4. Dress impeccably https://t.co/QFUXYFgVtY"
+	},
+	{
+		"created_at": "Mon Mar 16 13:43:02 +0000 2020",
+		"id": 1239547728859971600,
+		"id_str": "1239547728859971584",
+		"full_text": "this doesn't seem like it's a good idea. Electric scooters to get green light to go on Britain's public roads https://t.co/JRRctfO3pe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JRRctfO3pe",
+					"expanded_url": "https://www.theguardian.com/politics/2020/mar/16/electric-scooters-get-green-light-to-go-on-britains-public-roads",
+					"display_url": "theguardian.com/politics/2020/…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 269,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this doesn't seem like it's a good idea. Electric scooters to get green light to go on Britain's public roads https://t.co/JRRctfO3pe"
+	},
+	{
 		"created_at": "Sun Mar 15 20:25:21 +0000 2020",
 		"id": 1239286587214778400,
 		"id_str": "1239286587214778369",
