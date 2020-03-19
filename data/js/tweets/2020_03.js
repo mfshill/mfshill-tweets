@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 20:51:46 +0000 2020",
+		"id": 1240373538135183400,
+		"id_str": "1240380398619611136",
+		"full_text": "Watch Helvetica for free, courtesy of film maker Gary Huswit. \nMarch 17 to 24: Helvetica\nHelvetica is a feature-length documentary about typography, graphic design and global visual culture and about the way type affects our lives.\nhttps://t.co/GFJ4uXPntu https://t.co/P56lLgoz5b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GFJ4uXPntu",
+					"expanded_url": "https://www.ohyouprettythings.com/free",
+					"display_url": "ohyouprettythings.com/free",
+					"indices": [
+						232,
+						255
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240373531856253000,
+					"id_str": "1240373531856252931",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/ETaxJ8sWsAMp3KQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETaxJ8sWsAMp3KQ.jpg",
+					"url": "https://t.co/P56lLgoz5b",
+					"display_url": "pic.twitter.com/P56lLgoz5b",
+					"expanded_url": "https://twitter.com/modernistmag/status/1240373538135183361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240373531856253000,
+					"id_str": "1240373531856252931",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/ETaxJ8sWsAMp3KQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETaxJ8sWsAMp3KQ.jpg",
+					"url": "https://t.co/P56lLgoz5b",
+					"display_url": "pic.twitter.com/P56lLgoz5b",
+					"expanded_url": "https://twitter.com/modernistmag/status/1240373538135183361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 254567503,
+			"id_str": "254567503",
+			"name": "the modernist®",
+			"screen_name": "modernistmag",
+			"location": "Manchester GB",
+			"description": "the modernist : architecture and design publisher, gallery and shop. Open Wednesday - Saturday, 11am to 5pm",
+			"url": "https://t.co/PSCezyKVFa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PSCezyKVFa",
+							"expanded_url": "http://www.the-modernist.org",
+							"display_url": "the-modernist.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11971,
+			"friends_count": 684,
+			"listed_count": 210,
+			"created_at": "Sat Feb 19 14:59:37 +0000 2011",
+			"favourites_count": 2448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936211939524521984/W6aRookU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936211939524521984/W6aRookU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/254567503/1512044445",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watch Helvetica for free, courtesy of film maker Gary Huswit. \nMarch 17 to 24: Helvetica\nHelvetica is a feature-length documentary about typography, graphic design and global visual culture and about the way type affects our lives.\nhttps://t.co/GFJ4uXPntu https://t.co/P56lLgoz5b"
+	},
+	{
+		"created_at": "Wed Mar 18 17:21:20 +0000 2020",
+		"id": 1240326986452664300,
+		"id_str": "1240327439424860161",
+		"full_text": "WATCH LIVE: PM @BorisJohnson holds the daily #coronavirus press conference (18 March 2020) https://t.co/TuYw1Tuxgd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coronavirus",
+					"indices": [
+						45,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BorisJohnson",
+					"name": "Boris Johnson",
+					"id": 3131144855,
+					"id_str": "3131144855",
+					"indices": [
+						15,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TuYw1Tuxgd",
+					"expanded_url": "https://twitter.com/i/broadcasts/1MYxNkzqmXwKw",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14224719,
+			"id_str": "14224719",
+			"name": "UK Prime Minister",
+			"screen_name": "10DowningStreet",
+			"location": "10 Downing Street, London",
+			"description": "Official page for Prime Minister @BorisJohnson's office, based at 10 Downing Street.",
+			"url": "https://t.co/SgVKo16xev",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SgVKo16xev",
+							"expanded_url": "http://www.number10.gov.uk",
+							"display_url": "number10.gov.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5587214,
+			"friends_count": 272,
+			"listed_count": 22715,
+			"created_at": "Wed Mar 26 11:16:02 +0000 2008",
+			"favourites_count": 1772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194659082000572416/X2Xo7kAI_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194659082000572416/X2Xo7kAI_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14224719/1583839265",
+			"profile_link_color": "912B89",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 687,
+		"favorite_count": 1064,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WATCH LIVE: PM @BorisJohnson holds the daily #coronavirus press conference (18 March 2020) https://t.co/TuYw1Tuxgd"
+	},
+	{
 		"created_at": "Tue Mar 17 16:01:51 +0000 2020",
 		"id": 1239943034919358500,
 		"id_str": "1239945047493279745",
