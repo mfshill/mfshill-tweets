@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 19 20:38:36 +0000 2020",
+		"id": 1240735948389986300,
+		"id_str": "1240739473291345924",
+		"full_text": "My message is clear:\n- Work from home if you can\n- Avoid gatherings in small spaces\n- Don’t hoard food and supplies\n- Self isolate if you show symptoms\n- Give cats extra treats https://t.co/mISCffn98k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1240735912700543000,
+					"id_str": "1240735912700542979",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/ETf6vSiWAAM3Vl0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETf6vSiWAAM3Vl0.jpg",
+					"url": "https://t.co/mISCffn98k",
+					"display_url": "pic.twitter.com/mISCffn98k",
+					"expanded_url": "https://twitter.com/Number10cat/status/1240735948389986304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 428,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 428,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 428,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240735912700543000,
+					"id_str": "1240735912700542979",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/ETf6vSiWAAM3Vl0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETf6vSiWAAM3Vl0.jpg",
+					"url": "https://t.co/mISCffn98k",
+					"display_url": "pic.twitter.com/mISCffn98k",
+					"expanded_url": "https://twitter.com/Number10cat/status/1240735948389986304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 428,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 428,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 428,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 252521025,
+			"id_str": "252521025",
+			"name": "Larry the Cat",
+			"screen_name": "Number10cat",
+			"location": "Downing Street, Westminster",
+			"description": "Chief Mouser to the Cabinet Office. I'm a 13 year old tabby, in position longer than the leader of any UK political party. Unofficial. Not on Instagram.",
+			"url": "https://t.co/PenWZnXeig",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PenWZnXeig",
+							"expanded_url": "https://www.buymeacoffee.com/Number10cat",
+							"display_url": "buymeacoffee.com/Number10cat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 358621,
+			"friends_count": 143,
+			"listed_count": 2013,
+			"created_at": "Tue Feb 15 11:00:56 +0000 2011",
+			"favourites_count": 33121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875624659357581314/FCZGd6pr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875624659357581314/FCZGd6pr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/252521025/1348178401",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4176,
+		"favorite_count": 16109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My message is clear:\n- Work from home if you can\n- Avoid gatherings in small spaces\n- Don’t hoard food and supplies\n- Self isolate if you show symptoms\n- Give cats extra treats https://t.co/mISCffn98k"
+	},
+	{
+		"created_at": "Thu Mar 19 12:11:02 +0000 2020",
+		"id": 1240608766552400000,
+		"id_str": "1240611738271309826",
+		"full_text": "Today at noon 🕛 \n@RadioWired presents...\nTHE BLACK WAX SOUTION RADIO SHOW 🎶 💃 💓 🕺 📻 \n2 hours of positivity and music.\nWe need a bit of that eh?\nFree. Click to win.\nhttps://t.co/J6dFnATG5H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RadioWired",
+					"name": "Totally Wired Radio",
+					"id": 1017447795584888800,
+					"id_str": "1017447795584888832",
+					"indices": [
+						17,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/J6dFnATG5H",
+					"expanded_url": "http://www.totallywiredradio.com",
+					"display_url": "totallywiredradio.com",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20243240,
+			"id_str": "20243240",
+			"name": "BlackWaxSolution",
+			"screen_name": "eops",
+			"location": "LDN /east",
+			"description": "DJ/Radio/Podcast. https://t.co/ktphYVfi7n https://t.co/Whw03pQHL2 https://t.co/bNdWAaZNg4 https://t.co/9LmRMZW6Mi",
+			"url": "https://t.co/QdVzWepwt7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QdVzWepwt7",
+							"expanded_url": "http://www.mixcloud.com/eops",
+							"display_url": "mixcloud.com/eops",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ktphYVfi7n",
+							"expanded_url": "http://ko-fi.com/BlackWaxSolution",
+							"display_url": "ko-fi.com/BlackWaxSoluti…",
+							"indices": [
+								18,
+								41
+							]
+						},
+						{
+							"url": "https://t.co/Whw03pQHL2",
+							"expanded_url": "http://TotallyWiredRadio.com",
+							"display_url": "TotallyWiredRadio.com",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/bNdWAaZNg4",
+							"expanded_url": "http://Instagram.com/BlackWaxSolution",
+							"display_url": "Instagram.com/BlackWaxSoluti…",
+							"indices": [
+								66,
+								89
+							]
+						},
+						{
+							"url": "https://t.co/9LmRMZW6Mi",
+							"expanded_url": "http://Facebook.com/BlackWaxSolution",
+							"display_url": "Facebook.com/BlackWaxSoluti…",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3596,
+			"friends_count": 3059,
+			"listed_count": 114,
+			"created_at": "Fri Feb 06 15:14:44 +0000 2009",
+			"favourites_count": 48430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 161626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172688305395253248/EpwBrh4V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172688305395253248/EpwBrh4V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20243240/1568426673",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today at noon 🕛 \n@RadioWired presents...\nTHE BLACK WAX SOUTION RADIO SHOW 🎶 💃 💓 🕺 📻 \n2 hours of positivity and music.\nWe need a bit of that eh?\nFree. Click to win.\nhttps://t.co/J6dFnATG5H"
+	},
+	{
 		"created_at": "Wed Mar 18 20:51:46 +0000 2020",
 		"id": 1240373538135183400,
 		"id_str": "1240380398619611136",
