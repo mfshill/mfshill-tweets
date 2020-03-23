@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 22 17:23:04 +0000 2020",
+		"id": 1241445111881502700,
+		"id_str": "1241777428642619392",
+		"full_text": "I can’t stop laughing at this https://t.co/DpdHtov4IR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241445079325249500,
+					"id_str": "1241445079325249537",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241445079325249537/pu/img/2dlj-C9z0-02DOHi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241445079325249537/pu/img/2dlj-C9z0-02DOHi.jpg",
+					"url": "https://t.co/DpdHtov4IR",
+					"display_url": "pic.twitter.com/DpdHtov4IR",
+					"expanded_url": "https://twitter.com/urdadssidepiece/status/1241445111881502721/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 428,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 428,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241445079325249500,
+					"id_str": "1241445079325249537",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241445079325249537/pu/img/2dlj-C9z0-02DOHi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241445079325249537/pu/img/2dlj-C9z0-02DOHi.jpg",
+					"url": "https://t.co/DpdHtov4IR",
+					"display_url": "pic.twitter.com/DpdHtov4IR",
+					"expanded_url": "https://twitter.com/urdadssidepiece/status/1241445111881502721/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 428,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 428,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							375,
+							214
+						],
+						"duration_millis": 8768,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241445079325249537/pu/vid/472x270/JsYQbuLsrsBxEkSg.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241445079325249537/pu/vid/750x428/htVLaCzRUDt-lCHs.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1241445079325249537/pu/pl/K2AlFLloSi1RlCSR.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2962527299,
+			"id_str": "2962527299",
+			"name": "grant 🧔🏻 stay home pls",
+			"screen_name": "urdadssidepiece",
+			"location": "Atlanta, GA",
+			"description": "HIV educator & MPH candidate • PrEP, U=U, sexual & behavioral health • NYC ➡️ ATL • Can’t host • He/him 🏳️‍🌈",
+			"url": "https://t.co/qGJvDTs5TT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qGJvDTs5TT",
+							"expanded_url": "http://instagram.com/g.roth",
+							"display_url": "instagram.com/g.roth",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31725,
+			"friends_count": 2374,
+			"listed_count": 100,
+			"created_at": "Mon Jan 05 19:02:20 +0000 2015",
+			"favourites_count": 75653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6E6E6E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139020289885577217/h5GPgH4r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139020289885577217/h5GPgH4r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2962527299/1531501310",
+			"profile_link_color": "33B6EB",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74637,
+		"favorite_count": 196897,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I can’t stop laughing at this https://t.co/DpdHtov4IR"
+	},
+	{
 		"created_at": "Sat Mar 21 22:53:41 +0000 2020",
 		"id": 1241498243994923000,
 		"id_str": "1241498243994923011",
