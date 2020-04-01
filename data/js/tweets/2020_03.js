@@ -1,6 +1,958 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 31 18:46:31 +0000 2020",
+		"id": 1245059918253695000,
+		"id_str": "1245059918253694979",
+		"full_text": "@M0by_Duck annoyance lasted for about a week. But tbh I don't miss the athletics, football or F1 anywhere near as much as I thought I would.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "M0by_Duck",
+					"name": "More malarkey 2020",
+					"id": 22948138,
+					"id_str": "22948138",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1245059443659804700,
+		"in_reply_to_status_id_str": "1245059443659804675",
+		"in_reply_to_user_id": 22948138,
+		"in_reply_to_user_id_str": "22948138",
+		"in_reply_to_screen_name": "M0by_Duck",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@M0by_Duck annoyance lasted for about a week. But tbh I don't miss the athletics, football or F1 anywhere near as much as I thought I would."
+	},
+	{
+		"created_at": "Tue Mar 31 18:43:11 +0000 2020",
+		"id": 1245059082366705700,
+		"id_str": "1245059082366705664",
+		"full_text": "@M0by_Duck kinda got over missing them now",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "M0by_Duck",
+					"name": "More malarkey 2020",
+					"id": 22948138,
+					"id_str": "22948138",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1245055502528233500,
+		"in_reply_to_status_id_str": "1245055502528233472",
+		"in_reply_to_user_id": 22948138,
+		"in_reply_to_user_id_str": "22948138",
+		"in_reply_to_screen_name": "M0by_Duck",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@M0by_Duck kinda got over missing them now"
+	},
+	{
+		"created_at": "Tue Mar 31 18:19:43 +0000 2020",
+		"id": 1243522114201817000,
+		"id_str": "1245053173255020544",
+		"full_text": "Buckle up, butterdicks. It's time to talk about Doritos. https://t.co/7DcZHmtjqK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243522084434780200,
+					"id_str": "1243522084434780163",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EUHgv1EWoAMC5x9.png",
+					"media_url_https": "https://pbs.twimg.com/media/EUHgv1EWoAMC5x9.png",
+					"url": "https://t.co/7DcZHmtjqK",
+					"display_url": "pic.twitter.com/7DcZHmtjqK",
+					"expanded_url": "https://twitter.com/ChuckWendig/status/1243522114201817088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 355,
+							"h": 355,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 355,
+							"h": 355,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 355,
+							"h": 355,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243522084434780200,
+					"id_str": "1243522084434780163",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EUHgv1EWoAMC5x9.png",
+					"media_url_https": "https://pbs.twimg.com/media/EUHgv1EWoAMC5x9.png",
+					"url": "https://t.co/7DcZHmtjqK",
+					"display_url": "pic.twitter.com/7DcZHmtjqK",
+					"expanded_url": "https://twitter.com/ChuckWendig/status/1243522114201817088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 355,
+							"h": 355,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 355,
+							"h": 355,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 355,
+							"h": 355,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26029878,
+			"id_str": "26029878",
+			"name": "Chuck Wendig",
+			"screen_name": "ChuckWendig",
+			"location": "Bucks County, PA",
+			"description": "NYT-bestselling applefluencer. Wanderers | Miriam Black | Zer0es | Invasive | Star Wars | Damn Fine Story | Sundance Lab alum | played by Alyson Hannigan | NSFW",
+			"url": "https://t.co/9rEGJ0fEe5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9rEGJ0fEe5",
+							"expanded_url": "http://www.terribleminds.com",
+							"display_url": "terribleminds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 173136,
+			"friends_count": 3764,
+			"listed_count": 4251,
+			"created_at": "Mon Mar 23 16:10:29 +0000 2009",
+			"favourites_count": 87640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 320015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132461297864462336/QY0oLtBl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132461297864462336/QY0oLtBl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26029878/1576103429",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3965,
+		"favorite_count": 19201,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Buckle up, butterdicks. It's time to talk about Doritos. https://t.co/7DcZHmtjqK"
+	},
+	{
+		"created_at": "Tue Mar 31 18:11:49 +0000 2020",
+		"id": 1245051185180139500,
+		"id_str": "1245051185180139521",
+		"full_text": "fantastic. https://t.co/fdtvY7nXFQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245051179396149200,
+					"id_str": "1245051179396149255",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/EUdPc3sWsAcphgn.png",
+					"media_url_https": "https://pbs.twimg.com/media/EUdPc3sWsAcphgn.png",
+					"url": "https://t.co/fdtvY7nXFQ",
+					"display_url": "pic.twitter.com/fdtvY7nXFQ",
+					"expanded_url": "https://twitter.com/mfshill/status/1245051185180139521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 1041,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 1041,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245051179396149200,
+					"id_str": "1245051179396149255",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/EUdPc3sWsAcphgn.png",
+					"media_url_https": "https://pbs.twimg.com/media/EUdPc3sWsAcphgn.png",
+					"url": "https://t.co/fdtvY7nXFQ",
+					"display_url": "pic.twitter.com/fdtvY7nXFQ",
+					"expanded_url": "https://twitter.com/mfshill/status/1245051185180139521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 1041,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 1041,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "fantastic. https://t.co/fdtvY7nXFQ"
+	},
+	{
+		"created_at": "Tue Mar 31 16:49:15 +0000 2020",
+		"id": 1244996339018195000,
+		"id_str": "1245030407185334274",
+		"full_text": "Hyperlapse made from 1,272 Instagram photos! my video is blowing up on Tik Tok and reddit so I thought Twitter would enjoy https://t.co/9gPwo71F5d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244996255434125300,
+					"id_str": "1244996255434125313",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244996255434125313/pu/img/bS1YKNaGWQ-XR4py.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244996255434125313/pu/img/bS1YKNaGWQ-XR4py.jpg",
+					"url": "https://t.co/9gPwo71F5d",
+					"display_url": "pic.twitter.com/9gPwo71F5d",
+					"expanded_url": "https://twitter.com/SamTheCobra/status/1244996339018194945/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244996255434125300,
+					"id_str": "1244996255434125313",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244996255434125313/pu/img/bS1YKNaGWQ-XR4py.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244996255434125313/pu/img/bS1YKNaGWQ-XR4py.jpg",
+					"url": "https://t.co/9gPwo71F5d",
+					"display_url": "pic.twitter.com/9gPwo71F5d",
+					"expanded_url": "https://twitter.com/SamTheCobra/status/1244996339018194945/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 28500,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1244996255434125313/pu/pl/0PNjYot2zpD59W_S.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244996255434125313/pu/vid/320x568/yENfmgcgZ-AKM15C.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244996255434125313/pu/vid/360x640/kmCof80qvOPQR4yP.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244996255434125313/pu/vid/540x960/gYLfwS7ZbRTmVds2.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 151936233,
+			"id_str": "151936233",
+			"name": "sam.",
+			"screen_name": "SamTheCobra",
+			"location": "sam.morrison@me.com",
+			"description": "freelance creative in Amsterdam /// sam.morrison@me.com",
+			"url": "https://t.co/vE5EKHF3ZW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vE5EKHF3ZW",
+							"expanded_url": "http://SamTheCobra.com",
+							"display_url": "SamTheCobra.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4514,
+			"friends_count": 401,
+			"listed_count": 79,
+			"created_at": "Fri Jun 04 16:41:53 +0000 2010",
+			"favourites_count": 19188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049917282619719680/qilrtR1G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049917282619719680/qilrtR1G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151936233/1553719979",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3217,
+		"favorite_count": 12245,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hyperlapse made from 1,272 Instagram photos! my video is blowing up on Tik Tok and reddit so I thought Twitter would enjoy https://t.co/9gPwo71F5d"
+	},
+	{
+		"created_at": "Tue Mar 31 10:51:57 +0000 2020",
+		"id": 1244644233232953300,
+		"id_str": "1244940489301901313",
+		"full_text": "Someone collect their ma and da they’ve ruined Instagram in one 40 second video x https://t.co/Oye5gZ0L8R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244644173103456300,
+					"id_str": "1244644173103456256",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244644173103456256/pu/img/FwG9PePGhs2tpRjC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244644173103456256/pu/img/FwG9PePGhs2tpRjC.jpg",
+					"url": "https://t.co/Oye5gZ0L8R",
+					"display_url": "pic.twitter.com/Oye5gZ0L8R",
+					"expanded_url": "https://twitter.com/isitreallymoira/status/1244644233232953348/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244644173103456300,
+					"id_str": "1244644173103456256",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244644173103456256/pu/img/FwG9PePGhs2tpRjC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244644173103456256/pu/img/FwG9PePGhs2tpRjC.jpg",
+					"url": "https://t.co/Oye5gZ0L8R",
+					"display_url": "pic.twitter.com/Oye5gZ0L8R",
+					"expanded_url": "https://twitter.com/isitreallymoira/status/1244644233232953348/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 40367,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244644173103456256/pu/vid/480x480/RnjQOfntkIBFYxdj.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1244644173103456256/pu/pl/ZOLma2R6yWCwNnLz.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244644173103456256/pu/vid/320x320/c39eMVWTUAsNJxun.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 458742233,
+			"id_str": "458742233",
+			"name": "Moira..",
+			"screen_name": "isitreallymoira",
+			"location": "Anywhere and everywhere x ",
+			"description": "I’m just a specky four eyed Orca wondering will i EVER get my hole again? Is breá liom cáca agus piongain 🎂 🐧 X",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2690,
+			"friends_count": 214,
+			"listed_count": 3,
+			"created_at": "Sun Jan 08 22:12:44 +0000 2012",
+			"favourites_count": 5727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242040106053177344/2fSqYWUp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242040106053177344/2fSqYWUp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/458742233/1584357636",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10823,
+		"favorite_count": 52288,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Someone collect their ma and da they’ve ruined Instagram in one 40 second video x https://t.co/Oye5gZ0L8R"
+	},
+	{
 		"created_at": "Mon Mar 30 18:54:40 +0000 2020",
 		"id": 1244699580794646500,
 		"id_str": "1244699580794646528",
