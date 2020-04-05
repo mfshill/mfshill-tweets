@@ -1,6 +1,604 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 19:55:49 +0000 2020",
+		"id": 1246526776790089700,
+		"id_str": "1246526910856912897",
+		"full_text": "I’ve just finished a 12.5hr shift on ITU. I held the hand of a dying man as his distraught relatives can’t visit. Four other nurses did the same with their patients. Now tell me again how fucking hard it is to #StayAtHome because it’s sunny outside you selfish pricks.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StayAtHome",
+					"indices": [
+						210,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73495980,
+			"id_str": "73495980",
+			"name": "Loose Cannon",
+			"screen_name": "misskirstielou",
+			"location": "Not up north nor down south",
+			"description": "Drinker of wine, giggler of face, eater of chocolate, teller of cheese jokes, sucker of thumb, amazer of card tricks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282,
+			"friends_count": 197,
+			"listed_count": 3,
+			"created_at": "Fri Sep 11 21:58:44 +0000 2009",
+			"favourites_count": 1557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/686813788989960192/oYgmduZa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/686813788989960192/oYgmduZa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73495980/1360091185",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 215,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’ve just finished a 12.5hr shift on ITU. I held the hand of a dying man as his distraught relatives can’t visit. Four other nurses did the same with their patients. Now tell me again how fucking hard it is to #StayAtHome because it’s sunny outside you selfish pricks."
+	},
+	{
+		"created_at": "Sat Apr 04 17:43:19 +0000 2020",
+		"id": 1246493567020863500,
+		"id_str": "1246493567020863490",
+		"full_text": "Should you be wearing a face mask? Scientists still aren't sure https://t.co/cQXuR7tNkN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cQXuR7tNkN",
+					"expanded_url": "https://www.wired.co.uk/article/n95-face-mask-coronavirus",
+					"display_url": "wired.co.uk/article/n95-fa…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Should you be wearing a face mask? Scientists still aren't sure https://t.co/cQXuR7tNkN"
+	},
+	{
+		"created_at": "Sat Apr 04 16:46:52 +0000 2020",
+		"id": 1246479137310683100,
+		"id_str": "1246479358342107136",
+		"full_text": "Liverpool placing non-playing staff on furlough https://t.co/2lRAJKa6oV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246479118658670600,
+					"id_str": "1246479118658670593",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246479118658670593/pu/img/tWxQx7_vZ2JIwtWM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246479118658670593/pu/img/tWxQx7_vZ2JIwtWM.jpg",
+					"url": "https://t.co/2lRAJKa6oV",
+					"display_url": "pic.twitter.com/2lRAJKa6oV",
+					"expanded_url": "https://twitter.com/SimpsonsArsenal/status/1246479137310683142/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1040,
+							"h": 780,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 780,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246479118658670600,
+					"id_str": "1246479118658670593",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246479118658670593/pu/img/tWxQx7_vZ2JIwtWM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246479118658670593/pu/img/tWxQx7_vZ2JIwtWM.jpg",
+					"url": "https://t.co/2lRAJKa6oV",
+					"display_url": "pic.twitter.com/2lRAJKa6oV",
+					"expanded_url": "https://twitter.com/SimpsonsArsenal/status/1246479137310683142/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1040,
+							"h": 780,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 780,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 10000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1246479118658670593/pu/pl/Dw65GT-tF7GD0abk.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1246479118658670593/pu/vid/480x360/TuwojTQ4fuz3IXbS.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1246479118658670593/pu/vid/360x270/cVI9kKRWsjDbzCuL.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1246479118658670593/pu/vid/960x720/GU6eRsH9ZrY8ZyPA.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1096703520798056400,
+			"id_str": "1096703520798056450",
+			"name": "Simpsons Arsenal",
+			"screen_name": "SimpsonsArsenal",
+			"location": "London, England",
+			"description": "Just an Arsenal fan posting Simpsons quotes and gifs",
+			"url": "https://t.co/KCaX1PZfX7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KCaX1PZfX7",
+							"expanded_url": "http://instagram.com/simpsonsarsenal",
+							"display_url": "instagram.com/simpsonsarsenal",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44469,
+			"friends_count": 60,
+			"listed_count": 241,
+			"created_at": "Sat Feb 16 09:31:09 +0000 2019",
+			"favourites_count": 5594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161285080226127874/sqXr48eC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161285080226127874/sqXr48eC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1096703520798056450/1559308826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 533,
+		"favorite_count": 1811,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Liverpool placing non-playing staff on furlough https://t.co/2lRAJKa6oV"
+	},
+	{
+		"created_at": "Sat Apr 04 12:49:57 +0000 2020",
+		"id": 1246419738538004500,
+		"id_str": "1246419738538004481",
+		"full_text": "2/2... direction, casting &amp; cinematography. Woeful money grab and everyone involved should be embarrassed with the result. 1/10 https://t.co/zJtyvxTiBa https://t.co/0uVREmvGzN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zJtyvxTiBa",
+					"expanded_url": "https://www.imdb.com/title/tt1502397",
+					"display_url": "imdb.com/title/tt1502397",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246419731587965000,
+					"id_str": "1246419731587964928",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUwsJF5WoAA6P8a.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUwsJF5WoAA6P8a.jpg",
+					"url": "https://t.co/0uVREmvGzN",
+					"display_url": "pic.twitter.com/0uVREmvGzN",
+					"expanded_url": "https://twitter.com/mfshill/status/1246419738538004481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246419731587965000,
+					"id_str": "1246419731587964928",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUwsJF5WoAA6P8a.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUwsJF5WoAA6P8a.jpg",
+					"url": "https://t.co/0uVREmvGzN",
+					"display_url": "pic.twitter.com/0uVREmvGzN",
+					"expanded_url": "https://twitter.com/mfshill/status/1246419738538004481/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 374,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							187
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EUwsJF5WoAA6P8a.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1246419166858547200,
+		"in_reply_to_status_id_str": "1246419166858547205",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2/2... direction, casting &amp; cinematography. Woeful money grab and everyone involved should be embarrassed with the result. 1/10 https://t.co/zJtyvxTiBa https://t.co/0uVREmvGzN"
+	},
+	{
 		"created_at": "Fri Apr 03 21:05:39 +0000 2020",
 		"id": 1246182098135908400,
 		"id_str": "1246182098135908354",
