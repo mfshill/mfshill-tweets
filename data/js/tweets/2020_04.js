@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 16:23:03 +0000 2020",
+		"id": 1249372468525052000,
+		"id_str": "1249372468525051904",
+		"full_text": "Going to be tough to get volunteers to willingly get infected with coronavirus knowing they 'could' get a placebo rather than the vaccine (that may or may not be effective). https://t.co/NYRFXkvBYh https://t.co/p1OHaPmdza",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NYRFXkvBYh",
+					"expanded_url": "https://www.theguardian.com/world/2020/apr/12/five-months-on-what-scientists-now-know-about-the-coronavirus",
+					"display_url": "theguardian.com/world/2020/apr…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249372298030743600,
+					"id_str": "1249372298030743552",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EVapfFBWAAAyX5P.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVapfFBWAAAyX5P.png",
+					"url": "https://t.co/p1OHaPmdza",
+					"display_url": "pic.twitter.com/p1OHaPmdza",
+					"expanded_url": "https://twitter.com/mfshill/status/1249372468525051904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 625,
+							"h": 605,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 625,
+							"h": 605,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 625,
+							"h": 605,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249372298030743600,
+					"id_str": "1249372298030743552",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EVapfFBWAAAyX5P.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVapfFBWAAAyX5P.png",
+					"url": "https://t.co/p1OHaPmdza",
+					"display_url": "pic.twitter.com/p1OHaPmdza",
+					"expanded_url": "https://twitter.com/mfshill/status/1249372468525051904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 625,
+							"h": 605,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 625,
+							"h": 605,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 625,
+							"h": 605,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Going to be tough to get volunteers to willingly get infected with coronavirus knowing they 'could' get a placebo rather than the vaccine (that may or may not be effective). https://t.co/NYRFXkvBYh https://t.co/p1OHaPmdza"
+	},
+	{
 		"created_at": "Sat Apr 11 19:23:45 +0000 2020",
 		"id": 1249055554187690000,
 		"id_str": "1249055554187689984",
