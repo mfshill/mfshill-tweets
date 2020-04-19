@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 18 17:57:34 +0000 2020",
+		"id": 1251570581184614400,
+		"id_str": "1251570581184614400",
+		"full_text": "https://t.co/HHMcMXHqaG https://t.co/tjRbPaFqoa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HHMcMXHqaG",
+					"expanded_url": "https://twitter.com/mrjamesmayhew/status/1244301587012608000",
+					"display_url": "twitter.com/mrjamesmayhew/…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1251570569067274200,
+					"id_str": "1251570569067274240",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EV54zSyWoAAAlax.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EV54zSyWoAAAlax.jpg",
+					"url": "https://t.co/tjRbPaFqoa",
+					"display_url": "pic.twitter.com/tjRbPaFqoa",
+					"expanded_url": "https://twitter.com/mfshill/status/1251570581184614400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 218,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 218,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 218,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251570569067274200,
+					"id_str": "1251570569067274240",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EV54zSyWoAAAlax.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EV54zSyWoAAAlax.jpg",
+					"url": "https://t.co/tjRbPaFqoa",
+					"display_url": "pic.twitter.com/tjRbPaFqoa",
+					"expanded_url": "https://twitter.com/mfshill/status/1251570581184614400/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 218,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 218,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 218,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							109
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EV54zSyWoAAAlax.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1044,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1244301587012608000,
+		"quoted_status_id_str": "1244301587012608000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HHMcMXHqaG",
+			"expanded": "https://twitter.com/mrjamesmayhew/status/1244301587012608000",
+			"display": "twitter.com/mrjamesmayhew/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 29 16:33:11 +0000 2020",
+			"id": 1244301587012608000,
+			"id_str": "1244301587012608000",
+			"full_text": "OK everyone - first movie crushes, with a pic or a gif if possible. Thanks to fab author @fkarmourchelu for the idea. Here's mine. Obviously I kept it pretty quiet! https://t.co/37Sd0nf1y1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "fkarmourchelu",
+						"name": "Francesca Armour-Chelu is on a deadline",
+						"id": 4851131837,
+						"id_str": "4851131837",
+						"indices": [
+							89,
+							103
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1244301579672596500,
+						"id_str": "1244301579672596480",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUSlsbHXsAADtee.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUSlsbHXsAADtee.jpg",
+						"url": "https://t.co/37Sd0nf1y1",
+						"display_url": "pic.twitter.com/37Sd0nf1y1",
+						"expanded_url": "https://twitter.com/mrjamesmayhew/status/1244301587012608000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 426,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 426,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 426,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1244301579672596500,
+						"id_str": "1244301579672596480",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUSlsbHXsAADtee.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUSlsbHXsAADtee.jpg",
+						"url": "https://t.co/37Sd0nf1y1",
+						"display_url": "pic.twitter.com/37Sd0nf1y1",
+						"expanded_url": "https://twitter.com/mrjamesmayhew/status/1244301587012608000/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 426,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 426,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 426,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								250,
+								213
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EUSlsbHXsAADtee.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 574681085,
+				"id_str": "574681085",
+				"name": "James Mayhew",
+				"screen_name": "mrjamesmayhew",
+				"location": "Bungay, England",
+				"description": "🏳️‍🌈 Author: Koshka's Tales; Katie; EllaBella. Paints to music; draws @GaspardTheFox 🦊 #StoryTime4HomeTime #BookIllustrationOfTheDay. Agent: @eunicemcmullen",
+				"url": "https://t.co/agVrEQW7pi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/agVrEQW7pi",
+								"expanded_url": "http://www.jamesmayhew.co.uk",
+								"display_url": "jamesmayhew.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13078,
+				"friends_count": 4855,
+				"listed_count": 182,
+				"created_at": "Tue May 08 18:19:12 +0000 2012",
+				"favourites_count": 65191,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 52476,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1065152491682177024/lH8-PlnM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065152491682177024/lH8-PlnM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/574681085/1569353836",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 199,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/HHMcMXHqaG https://t.co/tjRbPaFqoa"
+	},
+	{
 		"created_at": "Fri Apr 17 19:10:04 +0000 2020",
 		"id": 1251226438092632000,
 		"id_str": "1251226438092632069",
