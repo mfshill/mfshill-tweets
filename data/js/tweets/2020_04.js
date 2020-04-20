@@ -1,6 +1,611 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 19 16:20:50 +0000 2020",
+		"id": 1251847717539774500,
+		"id_str": "1251908626236792832",
+		"full_text": "Adorable moment man interrupted by his son on live TV https://t.co/zmORymLbNh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251847592377569300,
+					"id_str": "1251847592377569281",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251847592377569281/pu/img/t_luarPS3vssFUlW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251847592377569281/pu/img/t_luarPS3vssFUlW.jpg",
+					"url": "https://t.co/zmORymLbNh",
+					"display_url": "pic.twitter.com/zmORymLbNh",
+					"expanded_url": "https://twitter.com/Ivorbaddiel/status/1251847717539774466/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251847592377569300,
+					"id_str": "1251847592377569281",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251847592377569281/pu/img/t_luarPS3vssFUlW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251847592377569281/pu/img/t_luarPS3vssFUlW.jpg",
+					"url": "https://t.co/zmORymLbNh",
+					"display_url": "pic.twitter.com/zmORymLbNh",
+					"expanded_url": "https://twitter.com/Ivorbaddiel/status/1251847717539774466/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15949,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1251847592377569281/pu/pl/mGvaIyfEgXB0SHo4.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251847592377569281/pu/vid/480x270/M525ZiD3YsMzO9Zz.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251847592377569281/pu/vid/1280x720/2bMP3SU1Z9uVBUUw.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251847592377569281/pu/vid/640x360/8pkdMZ59Q8i-SJkH.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20800770,
+			"id_str": "20800770",
+			"name": "Ivor Baddiel",
+			"screen_name": "Ivorbaddiel",
+			"location": "London, mostly.",
+			"description": "Ryter for telly and radio and stuff.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5978,
+			"friends_count": 879,
+			"listed_count": 31,
+			"created_at": "Fri Feb 13 20:00:18 +0000 2009",
+			"favourites_count": 2136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3690914580/7b4175d1f490927734a5605c0fd64bfa_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3690914580/7b4175d1f490927734a5605c0fd64bfa_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27681,
+		"favorite_count": 115883,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Adorable moment man interrupted by his son on live TV https://t.co/zmORymLbNh"
+	},
+	{
+		"created_at": "Sun Apr 19 16:19:22 +0000 2020",
+		"id": 1251908258044018700,
+		"id_str": "1251908258044018689",
+		"full_text": "got to love @aeonmag for a long, interesting read. 'Why language is not everything that Noam Chomsky said it is' https://t.co/bv7rD9hCgt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aeonmag",
+					"name": "Aeon",
+					"id": 481943972,
+					"id_str": "481943972",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bv7rD9hCgt",
+					"expanded_url": "https://aeon.co/essays/why-language-is-not-everything-that-noam-chomsky-said-it-is",
+					"display_url": "aeon.co/essays/why-lan…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "got to love @aeonmag for a long, interesting read. 'Why language is not everything that Noam Chomsky said it is' https://t.co/bv7rD9hCgt"
+	},
+	{
+		"created_at": "Sun Apr 19 15:56:11 +0000 2020",
+		"id": 1251836720200458200,
+		"id_str": "1251902420885680135",
+		"full_text": "Currently listening to the persistent muffled shout of a large Green and Blacks Ginger Chocolate Bar coming from inside my kitchen cupboard.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 86298659,
+			"id_str": "86298659",
+			"name": "Lisa! Lisa!",
+			"screen_name": "Lisa_aheM",
+			"location": "",
+			"description": "Non-polarising.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2809,
+			"friends_count": 993,
+			"listed_count": 31,
+			"created_at": "Fri Oct 30 12:15:35 +0000 2009",
+			"favourites_count": 89418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212317634500399104/ouDLZijf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212317634500399104/ouDLZijf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/86298659/1444524317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Currently listening to the persistent muffled shout of a large Green and Blacks Ginger Chocolate Bar coming from inside my kitchen cupboard."
+	},
+	{
+		"created_at": "Sun Apr 19 15:51:14 +0000 2020",
+		"id": 1251083300233502700,
+		"id_str": "1251901175483510786",
+		"full_text": "getting fired on Zoom https://t.co/9keDh9trdo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251083113305964500,
+					"id_str": "1251083113305964544",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251083113305964544/pu/img/7FxGfCTfZsFjZa5b.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251083113305964544/pu/img/7FxGfCTfZsFjZa5b.jpg",
+					"url": "https://t.co/9keDh9trdo",
+					"display_url": "pic.twitter.com/9keDh9trdo",
+					"expanded_url": "https://twitter.com/thepincomedy/status/1251083300233502720/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251083113305964500,
+					"id_str": "1251083113305964544",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251083113305964544/pu/img/7FxGfCTfZsFjZa5b.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251083113305964544/pu/img/7FxGfCTfZsFjZa5b.jpg",
+					"url": "https://t.co/9keDh9trdo",
+					"display_url": "pic.twitter.com/9keDh9trdo",
+					"expanded_url": "https://twitter.com/thepincomedy/status/1251083300233502720/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 78240,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251083113305964544/pu/vid/1280x720/DA5n3VezNWuAN90F.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251083113305964544/pu/vid/480x270/7YIFHv2SS1GZ6rIb.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1251083113305964544/pu/pl/KEfv4u9KC9hoLWNF.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251083113305964544/pu/vid/640x360/U9JEwlZxv45i6ngd.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404285942,
+			"id_str": "404285942",
+			"name": "The Pin",
+			"screen_name": "thepincomedy",
+			"location": "London, England",
+			"description": "double act. @_AlexOwen_ and @benashenden - series 4 of our @bbcradio4 show: https://t.co/nzVWo3PvFF",
+			"url": "https://t.co/l1IlXUMq7g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l1IlXUMq7g",
+							"expanded_url": "http://www.thepincomedy.com",
+							"display_url": "thepincomedy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nzVWo3PvFF",
+							"expanded_url": "http://www.bbc.co.uk/programmes/m0006drq",
+							"display_url": "bbc.co.uk/programmes/m00…",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11271,
+			"friends_count": 1109,
+			"listed_count": 38,
+			"created_at": "Thu Nov 03 18:11:24 +0000 2011",
+			"favourites_count": 1349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247566312190205954/ttgn_ep1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247566312190205954/ttgn_ep1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404285942/1532010542",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 158,
+		"favorite_count": 1257,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "getting fired on Zoom https://t.co/9keDh9trdo"
+	},
+	{
 		"created_at": "Sat Apr 18 17:57:34 +0000 2020",
 		"id": 1251570581184614400,
 		"id_str": "1251570581184614400",
@@ -326,7 +931,7 @@ Grailbird.data.tweets_2020_04 =
 				"name": "James Mayhew",
 				"screen_name": "mrjamesmayhew",
 				"location": "Bungay, England",
-				"description": "🏳️‍🌈 Author: Koshka's Tales; Katie; EllaBella. Paints to music; draws @GaspardTheFox 🦊 #StoryTime4HomeTime #BookIllustrationOfTheDay. Agent: @eunicemcmullen",
+				"description": "🏳️🌈 Author: Koshka's Tales; Katie; EllaBella. Paints to music; draws @GaspardTheFox 🦊 #StoryTime4HomeTime #BookIllustrationOfTheDay. Agent: @eunicemcmullen",
 				"url": "https://t.co/agVrEQW7pi",
 				"entities": {
 					"url": {
