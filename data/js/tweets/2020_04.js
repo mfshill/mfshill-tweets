@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 20 12:31:33 +0000 2020",
+		"id": 949320731816616000,
+		"id_str": "1252213313351692289",
+		"full_text": "Will never forgive the BBC for not commissioning an entire science series hosted by Kenneth Williams. \n\n https://t.co/aDKUX3HeeX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 948236404932440000,
+					"id_str": "948236404932440069",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DSjSVODW0AAYq4W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSjSVODW0AAYq4W.jpg",
+					"url": "https://t.co/aDKUX3HeeX",
+					"display_url": "pic.twitter.com/aDKUX3HeeX",
+					"expanded_url": "https://twitter.com/BBCArchive/status/948241701252091904/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 948241701252091900,
+					"source_status_id_str": "948241701252091904",
+					"source_user_id": 51023770,
+					"source_user_id_str": "51023770"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 948236404932440000,
+					"id_str": "948236404932440069",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DSjSVODW0AAYq4W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSjSVODW0AAYq4W.jpg",
+					"url": "https://t.co/aDKUX3HeeX",
+					"display_url": "pic.twitter.com/aDKUX3HeeX",
+					"expanded_url": "https://twitter.com/BBCArchive/status/948241701252091904/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 948241701252091900,
+					"source_status_id_str": "948241701252091904",
+					"source_user_id": 51023770,
+					"source_user_id_str": "51023770",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 106680,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/948236404932440069/vid/240x180/Dn0TZpN2HnzqU6u8.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/948236404932440069/pl/b6UmUD6oXV70S9NZ.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/948236404932440069/vid/480x360/0byaVAW0AmvKdYJp.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "\"Marvellous, isn't it?!\"",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 51023770,
+							"id_str": "51023770",
+							"name": "BBC Archive",
+							"screen_name": "BBCArchive",
+							"location": "London",
+							"description": "Official Twitter presence of the @BBC Archive. Unless otherwise stated images are ©BBC.",
+							"url": "https://t.co/ZEVADTCcC6",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/ZEVADTCcC6",
+											"expanded_url": "https://www.bbc.co.uk/archive",
+											"display_url": "bbc.co.uk/archive",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 184560,
+							"friends_count": 7267,
+							"listed_count": 2430,
+							"created_at": "Fri Jun 26 11:40:26 +0000 2009",
+							"favourites_count": 2621,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 13686,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "9AE4E8",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1171341855541342210/632qEenS_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171341855541342210/632qEenS_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/51023770/1578045921",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "BDDCAD",
+							"profile_sidebar_fill_color": "DDFFCC",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 191885251,
+			"id_str": "191885251",
+			"name": "Grant Tucker",
+			"screen_name": "GrantTucker",
+			"location": "grant.tucker@sunday-times.co.uk",
+			"description": "Arts, Media and Entertainment at @TheSundayTimes. Welsh. 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+			"url": "https://t.co/ikhiiti9hx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ikhiiti9hx",
+							"expanded_url": "https://www.thetimes.co.uk/profile/grant-tucker",
+							"display_url": "thetimes.co.uk/profile/grant-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15257,
+			"friends_count": 3609,
+			"listed_count": 186,
+			"created_at": "Fri Sep 17 16:23:03 +0000 2010",
+			"favourites_count": 48511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106310858685272066/_TuISvoQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106310858685272066/_TuISvoQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/191885251/1511957899",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6641,
+		"favorite_count": 15361,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Will never forgive the BBC for not commissioning an entire science series hosted by Kenneth Williams. \n\n https://t.co/aDKUX3HeeX"
+	},
+	{
 		"created_at": "Sun Apr 19 16:20:50 +0000 2020",
 		"id": 1251847717539774500,
 		"id_str": "1251908626236792832",
