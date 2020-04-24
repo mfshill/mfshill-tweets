@@ -1,6 +1,1049 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 23 18:32:14 +0000 2020",
+		"id": 1253388166150582300,
+		"id_str": "1253391244602085376",
+		"full_text": "Workers in the port of Antwerp, Belgium, will next month begin testing wristbands that could help guarantee social-distancing measures https://t.co/obLHFnAMsd https://t.co/nUO8vmESOc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/obLHFnAMsd",
+					"expanded_url": "https://reut.rs/3atVP7P",
+					"display_url": "reut.rs/3atVP7P",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1253371496266780700,
+					"id_str": "1253371496266780673",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1253371496266780673/img/5nqkpJeSTTrx-wfd.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1253371496266780673/img/5nqkpJeSTTrx-wfd.jpg",
+					"url": "https://t.co/nUO8vmESOc",
+					"display_url": "pic.twitter.com/nUO8vmESOc",
+					"expanded_url": "https://twitter.com/Reuters/status/1253388166150582273/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253371496266780700,
+					"id_str": "1253371496266780673",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1253371496266780673/img/5nqkpJeSTTrx-wfd.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1253371496266780673/img/5nqkpJeSTTrx-wfd.jpg",
+					"url": "https://t.co/nUO8vmESOc",
+					"display_url": "pic.twitter.com/nUO8vmESOc",
+					"expanded_url": "https://twitter.com/Reuters/status/1253388166150582273/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 95160,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1253371496266780673/vid/320x320/X6QyyR6Z8-w5SYbd.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1253371496266780673/vid/720x720/9pRKnq6eJIHlRjEK.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1253371496266780673/pl/tquxGqqr_qnaWp5Z.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1253371496266780673/vid/480x480/367_zX2nL6l71a-n.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Wristbands could be one answer to social distancing - Technology",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.youtube.com/user/ReutersVideo"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1652541,
+			"id_str": "1652541",
+			"name": "Reuters",
+			"screen_name": "Reuters",
+			"location": "Around the world",
+			"description": "Top and breaking news, pictures and videos from Reuters. For more breaking business news, follow @ReutersBiz.",
+			"url": "http://t.co/BmHxhkm3Mh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/BmHxhkm3Mh",
+							"expanded_url": "http://www.reuters.com",
+							"display_url": "reuters.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21811908,
+			"friends_count": 1114,
+			"listed_count": 123648,
+			"created_at": "Tue Mar 20 17:46:05 +0000 2007",
+			"favourites_count": 749,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 520205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "444444",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1573687397",
+			"profile_link_color": "006F97",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5F5F5",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 165,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Workers in the port of Antwerp, Belgium, will next month begin testing wristbands that could help guarantee social-distancing measures https://t.co/obLHFnAMsd https://t.co/nUO8vmESOc"
+	},
+	{
+		"created_at": "Thu Apr 23 16:56:41 +0000 2020",
+		"id": 1251855748876898300,
+		"id_str": "1253367199668088836",
+		"full_text": "I’ve watched this 10 times and it just gets better every time. https://t.co/AwzdPUGBFQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251273208486977500,
+					"id_str": "1251273208486977537",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251273208486977537/pu/img/TjyGDKiwuQ0nxIH0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251273208486977537/pu/img/TjyGDKiwuQ0nxIH0.jpg",
+					"url": "https://t.co/AwzdPUGBFQ",
+					"display_url": "pic.twitter.com/AwzdPUGBFQ",
+					"expanded_url": "https://twitter.com/TreyCallaway/status/1251273373922897920/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1056,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1251273373922898000,
+					"source_status_id_str": "1251273373922897920",
+					"source_user_id": 621497736,
+					"source_user_id_str": "621497736"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251273208486977500,
+					"id_str": "1251273208486977537",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251273208486977537/pu/img/TjyGDKiwuQ0nxIH0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251273208486977537/pu/img/TjyGDKiwuQ0nxIH0.jpg",
+					"url": "https://t.co/AwzdPUGBFQ",
+					"display_url": "pic.twitter.com/AwzdPUGBFQ",
+					"expanded_url": "https://twitter.com/TreyCallaway/status/1251273373922897920/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1056,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1251273373922898000,
+					"source_status_id_str": "1251273373922897920",
+					"source_user_id": 621497736,
+					"source_user_id_str": "621497736",
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							176
+						],
+						"duration_millis": 27060,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251273208486977537/pu/vid/360x506/32FlyWPRGAI1COa0.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251273208486977537/pu/vid/320x450/9ygFNM8dLfFe0GKO.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1251273208486977537/pu/pl/6flXdUV4jMkY9Nmx.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251273208486977537/pu/vid/720x1012/SLY31bHAHfPVWVwI.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 621497736,
+							"id_str": "621497736",
+							"name": "Trey Callaway",
+							"screen_name": "TreyCallaway",
+							"location": "Los Angeles, CA",
+							"description": "Television Showrunner, USC Professor, Makes Things Up As He Goes.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3062,
+							"friends_count": 557,
+							"listed_count": 76,
+							"created_at": "Fri Jun 29 00:08:33 +0000 2012",
+							"favourites_count": 31261,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 10230,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1056005154430992385/D0UxM94y_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1056005154430992385/D0UxM94y_normal.jpg",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2415087967,
+			"id_str": "2415087967",
+			"name": "luke i am your mother",
+			"screen_name": "MommaUnfiltered",
+			"location": "New England ",
+			"description": "as the mother of a 24, 14, & 11YO I’m uniquely qualified to say kids suck at any age",
+			"url": "https://t.co/IY4ALDk1qX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IY4ALDk1qX",
+							"expanded_url": "https://twitter.com/search?q=from:mommaunfiltered/exclude:replies",
+							"display_url": "twitter.com/search?q=from:…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18773,
+			"friends_count": 888,
+			"listed_count": 315,
+			"created_at": "Fri Mar 28 00:29:02 +0000 2014",
+			"favourites_count": 160323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244088151947259905/0xqrFMGL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244088151947259905/0xqrFMGL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2415087967/1581429130",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84723,
+		"favorite_count": 287606,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’ve watched this 10 times and it just gets better every time. https://t.co/AwzdPUGBFQ"
+	},
+	{
+		"created_at": "Thu Apr 23 12:22:57 +0000 2020",
+		"id": 1253068579404038100,
+		"id_str": "1253298312641478657",
+		"full_text": "How to make sure your pigeon isn't counterfeit https://t.co/LrnBqtmX4O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LrnBqtmX4O",
+					"expanded_url": "https://twitter.com/NaturelsLit/status/1253051709405847553",
+					"display_url": "twitter.com/NaturelsLit/st…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729523837910417400,
+			"id_str": "729523837910417409",
+			"name": "Kaptain 🏴‍☠️",
+			"screen_name": "KaptainArr",
+			"location": "Washington, USA",
+			"description": "Pirate wolf ☠️⚓️ || Also an adorable shiba-deer ☀️🌸 and a feisty minty fox 💚🦊 || ENFP ✨ || RN/BSN 💉 || ❤️ @Oskenso ❤️ || @DontHugCacti & @MadeFurYou",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4137,
+			"friends_count": 1283,
+			"listed_count": 18,
+			"created_at": "Mon May 09 04:10:11 +0000 2016",
+			"favourites_count": 20063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247555744808886276/UyDgvsr5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247555744808886276/UyDgvsr5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729523837910417409/1539661110",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1253051709405847600,
+		"quoted_status_id_str": "1253051709405847553",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LrnBqtmX4O",
+			"expanded": "https://twitter.com/NaturelsLit/status/1253051709405847553",
+			"display": "twitter.com/NaturelsLit/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 22 20:03:02 +0000 2020",
+			"id": 1253051709405847600,
+			"id_str": "1253051709405847553",
+			"full_text": "Shinning UV light on a pigeon 🤓 https://t.co/sPL40YFias",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				31
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1253051653218906000,
+						"id_str": "1253051653218906112",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253051653218906112/pu/img/qfnUiIadb6ecW7vE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253051653218906112/pu/img/qfnUiIadb6ecW7vE.jpg",
+						"url": "https://t.co/sPL40YFias",
+						"display_url": "pic.twitter.com/sPL40YFias",
+						"expanded_url": "https://twitter.com/NaturelsLit/status/1253051709405847553/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1253051653218906000,
+						"id_str": "1253051653218906112",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253051653218906112/pu/img/qfnUiIadb6ecW7vE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253051653218906112/pu/img/qfnUiIadb6ecW7vE.jpg",
+						"url": "https://t.co/sPL40YFias",
+						"display_url": "pic.twitter.com/sPL40YFias",
+						"expanded_url": "https://twitter.com/NaturelsLit/status/1253051709405847553/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 11467,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1253051653218906112/pu/pl/7j46Hmj37rFu3xPb.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1253051653218906112/pu/vid/360x450/GwWU76DFZXsa7PWU.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1253051653218906112/pu/vid/320x400/0EYDsKWiQJc1UoI5.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1253051653218906112/pu/vid/640x800/feXowibReZP2NROb.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1144515589395734500,
+				"id_str": "1144515589395734529",
+				"name": "Nature is Lit🔥",
+				"screen_name": "NaturelsLit",
+				"location": "",
+				"description": "Amazing videos and pictures of nature🔥",
+				"url": "https://t.co/z6VqnOQJfw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/z6VqnOQJfw",
+								"expanded_url": "http://instagram.com/natureisscary",
+								"display_url": "instagram.com/natureisscary",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 255917,
+				"friends_count": 40691,
+				"listed_count": 641,
+				"created_at": "Fri Jun 28 07:59:15 +0000 2019",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 258,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1144840468892508161/I3mqDq_B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144840468892508161/I3mqDq_B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144515589395734529/1561786247",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4716,
+			"favorite_count": 22767,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 45161,
+		"favorite_count": 219265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to make sure your pigeon isn't counterfeit https://t.co/LrnBqtmX4O"
+	},
+	{
+		"created_at": "Thu Apr 23 09:21:55 +0000 2020",
+		"id": 1253247408705802200,
+		"id_str": "1253252752882499584",
+		"full_text": "UK, French and Eurozone PMI data (basically an index of economic activity in manufacturing and service). These figures are woefully bad; unprecedented and worse than expected. Depression level stuff. https://t.co/yw0dypC3Sy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1253247390263500800,
+					"id_str": "1253247390263500800",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EWRt3IhXYAAtty2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWRt3IhXYAAtty2.jpg",
+					"url": "https://t.co/yw0dypC3Sy",
+					"display_url": "pic.twitter.com/yw0dypC3Sy",
+					"expanded_url": "https://twitter.com/lewis_goodall/status/1253247408705802240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 633,
+							"h": 386,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 633,
+							"h": 386,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 633,
+							"h": 386,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253247390263500800,
+					"id_str": "1253247390263500800",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EWRt3IhXYAAtty2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWRt3IhXYAAtty2.jpg",
+					"url": "https://t.co/yw0dypC3Sy",
+					"display_url": "pic.twitter.com/yw0dypC3Sy",
+					"expanded_url": "https://twitter.com/lewis_goodall/status/1253247408705802240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 633,
+							"h": 386,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 633,
+							"h": 386,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 633,
+							"h": 386,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1253247390322131000,
+					"id_str": "1253247390322130947",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EWRt3IvWAAMnqrq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWRt3IvWAAMnqrq.jpg",
+					"url": "https://t.co/yw0dypC3Sy",
+					"display_url": "pic.twitter.com/yw0dypC3Sy",
+					"expanded_url": "https://twitter.com/lewis_goodall/status/1253247408705802240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1064,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1218,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 603,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1253247390351589400,
+					"id_str": "1253247390351589377",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EWRt3I2XgAEXJ4U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWRt3I2XgAEXJ4U.jpg",
+					"url": "https://t.co/yw0dypC3Sy",
+					"display_url": "pic.twitter.com/yw0dypC3Sy",
+					"expanded_url": "https://twitter.com/lewis_goodall/status/1253247408705802240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335312037,
+			"id_str": "335312037",
+			"name": "Lewis Goodall",
+			"screen_name": "lewis_goodall",
+			"location": "lewis.goodall@bbc.co.uk",
+			"description": "Policy Editor @BBCNewsnight. I cover politics, policy, economics and government in the UK and beyond | Author: Left for Dead. Buy here- https://t.co/0WXSfvTL3X",
+			"url": "https://t.co/dsBwu4neJN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dsBwu4neJN",
+							"expanded_url": "http://www.instagram.com/lewis_goodall1",
+							"display_url": "instagram.com/lewis_goodall1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0WXSfvTL3X",
+							"expanded_url": "http://bit.ly/2KEYHSk",
+							"display_url": "bit.ly/2KEYHSk",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 127949,
+			"friends_count": 4050,
+			"listed_count": 1437,
+			"created_at": "Thu Jul 14 13:56:30 +0000 2011",
+			"favourites_count": 12047,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208201577208651776/LIKxplmQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208201577208651776/LIKxplmQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335312037/1578313242",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UK, French and Eurozone PMI data (basically an index of economic activity in manufacturing and service). These figures are woefully bad; unprecedented and worse than expected. Depression level stuff. https://t.co/yw0dypC3Sy"
+	},
+	{
 		"created_at": "Wed Apr 22 19:31:29 +0000 2020",
 		"id": 1253043770590969900,
 		"id_str": "1253043770590969857",
