@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 25 23:44:38 +0000 2020",
+		"id": 706465724559130600,
+		"id_str": "1254194641240494081",
+		"full_text": "@rickygervais President Trump, Taoiseach Gerry Adams and PM Boris Johnson walk into a bar. There's no punchline. We're all dead.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rickygervais",
+					"name": "Ricky Gervais",
+					"id": 20015311,
+					"id_str": "20015311",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 706465063599808500,
+		"in_reply_to_status_id_str": "706465063599808512",
+		"in_reply_to_user_id": 20015311,
+		"in_reply_to_user_id_str": "20015311",
+		"in_reply_to_screen_name": "rickygervais",
+		"user": {
+			"id": 21086052,
+			"id_str": "21086052",
+			"name": "Sue Kirk",
+			"screen_name": "SueKirk",
+			"location": "Dublin",
+			"description": "Model. Business woman. Pulitzer Prize winner 2004. King of Sweden. Very stable genius.",
+			"url": "https://t.co/g7EedImCvU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g7EedImCvU",
+							"expanded_url": "http://twitpic.com/photos/SueKirk",
+							"display_url": "twitpic.com/photos/SueKirk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3019,
+			"friends_count": 1981,
+			"listed_count": 37,
+			"created_at": "Tue Feb 17 12:55:28 +0000 2009",
+			"favourites_count": 35854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 124731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240562326409039881/q0WwjiPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240562326409039881/q0WwjiPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21086052/1467118016",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 829,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@rickygervais President Trump, Taoiseach Gerry Adams and PM Boris Johnson walk into a bar. There's no punchline. We're all dead."
+	},
+	{
 		"created_at": "Fri Apr 24 21:56:02 +0000 2020",
 		"id": 1253804922929324000,
 		"id_str": "1253804922929324034",
