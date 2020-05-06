@@ -1,6 +1,557 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 05 11:35:33 +0000 2020",
+		"id": 1257635037929001000,
+		"id_str": "1257635037929000963",
+		"full_text": "I wonder how many people will actually download this app. Centralized virus contact-tracing app probably won't work well, may be illegal https://t.co/ArDfGtBOJC https://t.co/rpUXYjXRby",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ArDfGtBOJC",
+					"expanded_url": "https://www.theregister.co.uk/2020/05/05/uk_coronavirus_app/",
+					"display_url": "theregister.co.uk/2020/05/05/uk_…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257634811830833200,
+					"id_str": "1257634811830833152",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EXQEMrhXkAA2rca.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXQEMrhXkAA2rca.png",
+					"url": "https://t.co/rpUXYjXRby",
+					"display_url": "pic.twitter.com/rpUXYjXRby",
+					"expanded_url": "https://twitter.com/mfshill/status/1257635037929000963/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 519,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 519,
+							"h": 364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 519,
+							"h": 364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257634811830833200,
+					"id_str": "1257634811830833152",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EXQEMrhXkAA2rca.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXQEMrhXkAA2rca.png",
+					"url": "https://t.co/rpUXYjXRby",
+					"display_url": "pic.twitter.com/rpUXYjXRby",
+					"expanded_url": "https://twitter.com/mfshill/status/1257635037929000963/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 519,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 519,
+							"h": 364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 519,
+							"h": 364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wonder how many people will actually download this app. Centralized virus contact-tracing app probably won't work well, may be illegal https://t.co/ArDfGtBOJC https://t.co/rpUXYjXRby"
+	},
+	{
+		"created_at": "Tue May 05 11:14:45 +0000 2020",
+		"id": 1257629803508904000,
+		"id_str": "1257629803508903936",
+		"full_text": "France's first known case 'was in December' https://t.co/3FqXRwkMpm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3FqXRwkMpm",
+					"expanded_url": "https://www.bbc.com/news/world-europe-52526554",
+					"display_url": "bbc.com/news/world-eur…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "France's first known case 'was in December' https://t.co/3FqXRwkMpm"
+	},
+	{
+		"created_at": "Tue May 05 10:15:16 +0000 2020",
+		"id": 1257250091376808000,
+		"id_str": "1257614832179830785",
+		"full_text": "From that position? I’m not going to lie that is one of the most incredible things I’ve seen. Just how? https://t.co/Dj5TQAXjgQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256966926045253600,
+					"id_str": "1256966926045253634",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256966926045253634/pu/img/rFKRe9jBS0__UCII.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256966926045253634/pu/img/rFKRe9jBS0__UCII.jpg",
+					"url": "https://t.co/Dj5TQAXjgQ",
+					"display_url": "pic.twitter.com/Dj5TQAXjgQ",
+					"expanded_url": "https://twitter.com/Mufaa6/status/1256966939496402946/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1246,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1256966939496403000,
+					"source_status_id_str": "1256966939496402946",
+					"source_user_id": 947965194990440400,
+					"source_user_id_str": "947965194990440450"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256966926045253600,
+					"id_str": "1256966926045253634",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256966926045253634/pu/img/rFKRe9jBS0__UCII.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256966926045253634/pu/img/rFKRe9jBS0__UCII.jpg",
+					"url": "https://t.co/Dj5TQAXjgQ",
+					"display_url": "pic.twitter.com/Dj5TQAXjgQ",
+					"expanded_url": "https://twitter.com/Mufaa6/status/1256966939496402946/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1246,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1256966939496403000,
+					"source_status_id_str": "1256966939496402946",
+					"source_user_id": 947965194990440400,
+					"source_user_id_str": "947965194990440450",
+					"video_info": {
+						"aspect_ratio": [
+							288,
+							623
+						],
+						"duration_millis": 8833,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1256966926045253634/pu/vid/576x1246/U-6-eZpHugnsIGLu.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1256966926045253634/pu/vid/320x692/u3REmu0Slz2gCnNo.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1256966926045253634/pu/vid/360x778/frtFr2rZFL_1GYJx.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1256966926045253634/pu/pl/0BQGehxymm49kxnQ.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 947965194990440400,
+							"id_str": "947965194990440450",
+							"name": "Young Simba ➐",
+							"screen_name": "Mufaa6",
+							"location": "Maryland, USA",
+							"description": "I tweet videos and shit💎Dm for business or credit",
+							"url": "https://t.co/HIMnmiOJ7v",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/HIMnmiOJ7v",
+											"expanded_url": "http://tagchat.co",
+											"display_url": "tagchat.co",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 49229,
+							"friends_count": 5778,
+							"listed_count": 48,
+							"created_at": "Mon Jan 01 22:58:09 +0000 2018",
+							"favourites_count": 62022,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 20716,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1248470450578972674/sJ71KGAT_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248470450578972674/sJ71KGAT_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/947965194990440450/1586493423",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 138739908,
+			"id_str": "138739908",
+			"name": "Lomo's Adjutant",
+			"screen_name": "kay_sesen",
+			"location": "Planet Austerity",
+			"description": "Youth practitioner | Journalist | Mediator | Licensed intermediary | Enquiries please contact k.ibegbuna@sesenglobal.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2974,
+			"friends_count": 366,
+			"listed_count": 105,
+			"created_at": "Fri Apr 30 12:56:37 +0000 2010",
+			"favourites_count": 52744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 78978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253639185497546752/PGLJa_IT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253639185497546752/PGLJa_IT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/138739908/1579162663",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1094,
+		"favorite_count": 5082,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From that position? I’m not going to lie that is one of the most incredible things I’ve seen. Just how? https://t.co/Dj5TQAXjgQ"
+	},
+	{
 		"created_at": "Mon May 04 21:06:15 +0000 2020",
 		"id": 1257416273593499600,
 		"id_str": "1257416273593499653",
