@@ -1,6 +1,174 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 17:43:11 +0000 2020",
+		"id": 1257917453025321000,
+		"id_str": "1258089942355513345",
+		"full_text": "I estimate 54,475 excess deaths related to the #COVID19 pandemic in the UK up to the 04 May 2020. Excess deaths being the number of deaths occurring above the average level for the time of year. We are past the peak and excess deaths week on week are falling. https://t.co/fXWgXHXZ5A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						47,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257917438219387000,
+					"id_str": "1257917438219386880",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/EXUFPs3WAAAtzex.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXUFPs3WAAAtzex.jpg",
+					"url": "https://t.co/fXWgXHXZ5A",
+					"display_url": "pic.twitter.com/fXWgXHXZ5A",
+					"expanded_url": "https://twitter.com/statsjamie/status/1257917453025320960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257917438219387000,
+					"id_str": "1257917438219386880",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/EXUFPs3WAAAtzex.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXUFPs3WAAAtzex.jpg",
+					"url": "https://t.co/fXWgXHXZ5A",
+					"display_url": "pic.twitter.com/fXWgXHXZ5A",
+					"expanded_url": "https://twitter.com/statsjamie/status/1257917453025320960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101447362,
+			"id_str": "101447362",
+			"name": "Jamie Jenkins",
+			"screen_name": "statsjamie",
+			"location": "Wales, United Kingdom",
+			"description": "Award winning analytical leader. Statistician previously @ONS (leading health/labour market analysis) + short stint at @BBC. Views, stats and charts my own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2897,
+			"friends_count": 1450,
+			"listed_count": 52,
+			"created_at": "Sun Jan 03 10:07:45 +0000 2010",
+			"favourites_count": 401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257210773623001088/-ykKstwn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257210773623001088/-ykKstwn_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I estimate 54,475 excess deaths related to the #COVID19 pandemic in the UK up to the 04 May 2020. Excess deaths being the number of deaths occurring above the average level for the time of year. We are past the peak and excess deaths week on week are falling. https://t.co/fXWgXHXZ5A"
+	},
+	{
 		"created_at": "Tue May 05 11:35:33 +0000 2020",
 		"id": 1257635037929001000,
 		"id_str": "1257635037929000963",
