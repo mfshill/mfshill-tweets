@@ -1,6 +1,667 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 22:39:27 +0000 2020",
+		"id": 1259241066374541300,
+		"id_str": "1259251666932641793",
+		"full_text": "https://t.co/4M4Am6ZyYp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259241062092222500,
+					"id_str": "1259241062092222470",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EXm5EwCXsAYJ8vY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXm5EwCXsAYJ8vY.jpg",
+					"url": "https://t.co/4M4Am6ZyYp",
+					"display_url": "pic.twitter.com/4M4Am6ZyYp",
+					"expanded_url": "https://twitter.com/M0by_Duck/status/1259241066374541312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 746,
+							"h": 751,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 746,
+							"h": 751,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259241062092222500,
+					"id_str": "1259241062092222470",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EXm5EwCXsAYJ8vY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXm5EwCXsAYJ8vY.jpg",
+					"url": "https://t.co/4M4Am6ZyYp",
+					"display_url": "pic.twitter.com/4M4Am6ZyYp",
+					"expanded_url": "https://twitter.com/M0by_Duck/status/1259241066374541312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 746,
+							"h": 751,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 746,
+							"h": 751,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22948138,
+			"id_str": "22948138",
+			"name": "More malarkey 2020",
+			"screen_name": "M0by_Duck",
+			"location": "gone squatchin",
+			"description": "Vegan, 🙀 and 🐶 keeper, NUFC, He/him.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1386,
+			"friends_count": 395,
+			"listed_count": 45,
+			"created_at": "Thu Mar 05 17:31:06 +0000 2009",
+			"favourites_count": 4328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257949702596812800/VWuHPrKd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257949702596812800/VWuHPrKd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22948138/1540761813",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/4M4Am6ZyYp"
+	},
+	{
+		"created_at": "Sat May 09 22:39:00 +0000 2020",
+		"id": 1259251552272908300,
+		"id_str": "1259251552272908288",
+		"full_text": "@LollyStrnks you need to befriend the virus, gain its trust, let it move in, then gaslight the fucker into submission. #simples",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "simples",
+					"indices": [
+						119,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LollyStrnks",
+					"name": "Lauren",
+					"id": 132503065,
+					"id_str": "132503065",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1259248570835837000,
+		"in_reply_to_status_id_str": "1259248570835836930",
+		"in_reply_to_user_id": 132503065,
+		"in_reply_to_user_id_str": "132503065",
+		"in_reply_to_screen_name": "LollyStrnks",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LollyStrnks you need to befriend the virus, gain its trust, let it move in, then gaslight the fucker into submission. #simples"
+	},
+	{
+		"created_at": "Sat May 09 22:35:19 +0000 2020",
+		"id": 1259250624258072600,
+		"id_str": "1259250624258072590",
+		"full_text": "are we reaching bottom for dumb shit in the UK? https://t.co/6YqMWDiRJs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259250617131950000,
+					"id_str": "1259250617131950080",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EXnBw7VXYAAEhl8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXnBw7VXYAAEhl8.jpg",
+					"url": "https://t.co/6YqMWDiRJs",
+					"display_url": "pic.twitter.com/6YqMWDiRJs",
+					"expanded_url": "https://twitter.com/mfshill/status/1259250624258072590/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259250617131950000,
+					"id_str": "1259250617131950080",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EXnBw7VXYAAEhl8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXnBw7VXYAAEhl8.jpg",
+					"url": "https://t.co/6YqMWDiRJs",
+					"display_url": "pic.twitter.com/6YqMWDiRJs",
+					"expanded_url": "https://twitter.com/mfshill/status/1259250624258072590/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1259250617131970600,
+					"id_str": "1259250617131970560",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EXnBw7VXsAAsz-j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXnBw7VXsAAsz-j.jpg",
+					"url": "https://t.co/6YqMWDiRJs",
+					"display_url": "pic.twitter.com/6YqMWDiRJs",
+					"expanded_url": "https://twitter.com/mfshill/status/1259250624258072590/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 668,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1145,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1145,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "are we reaching bottom for dumb shit in the UK? https://t.co/6YqMWDiRJs"
+	},
+	{
+		"created_at": "Sat May 09 17:45:26 +0000 2020",
+		"id": 1258893159876223000,
+		"id_str": "1259177675308044289",
+		"full_text": "...THIS. o gods this as they are never gonna get it, until they get it. #InfiniteGuff #COVIDIOTS https://t.co/SsGfBjqCqM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InfiniteGuff",
+					"indices": [
+						72,
+						85
+					]
+				},
+				{
+					"text": "COVIDIOTS",
+					"indices": [
+						86,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258893152645271600,
+					"id_str": "1258893152645271552",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EXh8pwWX0AAtJuq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXh8pwWX0AAtJuq.jpg",
+					"url": "https://t.co/SsGfBjqCqM",
+					"display_url": "pic.twitter.com/SsGfBjqCqM",
+					"expanded_url": "https://twitter.com/thenewredplaid/status/1258893159876222977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1515,
+							"h": 1017,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 806,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258893152645271600,
+					"id_str": "1258893152645271552",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EXh8pwWX0AAtJuq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXh8pwWX0AAtJuq.jpg",
+					"url": "https://t.co/SsGfBjqCqM",
+					"display_url": "pic.twitter.com/SsGfBjqCqM",
+					"expanded_url": "https://twitter.com/thenewredplaid/status/1258893159876222977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1515,
+							"h": 1017,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 806,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2862455241,
+			"id_str": "2862455241",
+			"name": "girlfrog",
+			"screen_name": "thenewredplaid",
+			"location": "author/illustrator/idiot",
+			"description": "“control what you can control, release from your mind what you can’t control, stay as relaxed and positive as possible—move forward. and eat gummy bears.🙂",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3842,
+			"friends_count": 10,
+			"listed_count": 95,
+			"created_at": "Wed Nov 05 13:32:38 +0000 2014",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11736,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1258929909772300290/lmzNISDY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258929909772300290/lmzNISDY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2862455241/1588863650",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 258,
+		"favorite_count": 954,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "...THIS. o gods this as they are never gonna get it, until they get it. #InfiniteGuff #COVIDIOTS https://t.co/SsGfBjqCqM"
+	},
+	{
 		"created_at": "Thu May 07 20:26:55 +0000 2020",
 		"id": 1257972602812928000,
 		"id_str": "1258493535915040769",
@@ -25,7 +686,7 @@ Grailbird.data.tweets_2020_05 =
 		"user": {
 			"id": 16041298,
 			"id_str": "16041298",
-			"name": "‏pix",
+			"name": "pix",
 			"screen_name": "ppiixx",
 			"location": "",
 			"description": "",
