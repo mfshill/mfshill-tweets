@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 11 18:02:01 +0000 2020",
+		"id": 1259906622589145000,
+		"id_str": "1259906622589145090",
+		"full_text": "why aren't they mandatory like in other countries? https://t.co/rJRuD8fl4c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rJRuD8fl4c",
+					"expanded_url": "https://twitter.com/DHSCgovuk/status/1259904352656994304",
+					"display_url": "twitter.com/DHSCgovuk/stat…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1259904352656994300,
+		"quoted_status_id_str": "1259904352656994304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rJRuD8fl4c",
+			"expanded": "https://twitter.com/DHSCgovuk/status/1259904352656994304",
+			"display": "twitter.com/DHSCgovuk/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 11 17:53:00 +0000 2020",
+			"id": 1259904352656994300,
+			"id_str": "1259904352656994304",
+			"full_text": "The public is advised to consider wearing face coverings in enclosed public spaces to help reduce the spread of coronavirus. \n\nCovering your face in the following settings can help reduce transmission of #COVID19:\n🛍️ shops\n🚆 trains\n🚌 buses\n\nLearn more:\n▶️https://t.co/PPYqtvIJpR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19",
+						"indices": [
+							204,
+							212
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PPYqtvIJpR",
+						"expanded_url": "https://www.gov.uk/government/news/public-advised-to-cover-faces-in-enclosed-spaces",
+						"display_url": "gov.uk/government/new…",
+						"indices": [
+							255,
+							278
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37963496,
+				"id_str": "37963496",
+				"name": "Department of Health and Social Care",
+				"screen_name": "DHSCgovuk",
+				"location": "England",
+				"description": "We support ministers in leading the nation’s health and social care to help people live more independent, healthier lives for longer.",
+				"url": "https://t.co/huTVx4oOR0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/huTVx4oOR0",
+								"expanded_url": "http://www.gov.uk/dhsc",
+								"display_url": "gov.uk/dhsc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 668686,
+				"friends_count": 817,
+				"listed_count": 3982,
+				"created_at": "Tue May 05 16:49:31 +0000 2009",
+				"favourites_count": 2267,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12742,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "009781",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1195323035483553792/dQNaMFyN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195323035483553792/dQNaMFyN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37963496/1583394346",
+				"profile_link_color": "18828E",
+				"profile_sidebar_border_color": "99D5CD",
+				"profile_sidebar_fill_color": "EDFEFC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 186,
+			"favorite_count": 202,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "why aren't they mandatory like in other countries? https://t.co/rJRuD8fl4c"
+	},
+	{
 		"created_at": "Sun May 10 19:42:03 +0000 2020",
 		"id": 1259569407396917200,
 		"id_str": "1259569407396917248",
