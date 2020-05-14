@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 09:23:15 +0000 2020",
+		"id": 1260347442152837000,
+		"id_str": "1260500846468571140",
+		"full_text": "Everything Robert De Niro says here is of course correct, but why the fuck is Robert De Niro on Newsnight 🤷‍♂️ https://t.co/s4isAGX3Hk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s4isAGX3Hk",
+					"expanded_url": "https://twitter.com/bbcnewsnight/status/1260346410656059398",
+					"display_url": "twitter.com/bbcnewsnight/s…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1164407130541252600,
+			"id_str": "1164407130541252609",
+			"name": "Kevin Hamilton",
+			"screen_name": "cumbernauldkev",
+			"location": "Cumbernauld",
+			"description": "Press officer. Celtic fan. Finished 968th in the 2018 Cumbernauld 10k.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 810,
+			"listed_count": 3,
+			"created_at": "Thu Aug 22 05:21:17 +0000 2019",
+			"favourites_count": 3146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164407823947771904/qNTCWH_U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164407823947771904/qNTCWH_U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1164407130541252609/1566451650",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1260346410656059400,
+		"quoted_status_id_str": "1260346410656059398",
+		"quoted_status_permalink": {
+			"url": "https://t.co/s4isAGX3Hk",
+			"expanded": "https://twitter.com/bbcnewsnight/status/1260346410656059398",
+			"display": "twitter.com/bbcnewsnight/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 12 23:09:35 +0000 2020",
+			"id": 1260346410656059400,
+			"id_str": "1260346410656059398",
+			"full_text": "“It’s like Shakespearean the whole thing” – actor Robert de Niro on how the coronavirus outbreak is being handled in the US\n\n#Newsnight https://t.co/k64t3Mhcl9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				135
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Newsnight",
+						"indices": [
+							125,
+							135
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1260346277797212200,
+						"id_str": "1260346277797212162",
+						"indices": [
+							136,
+							159
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1260346277797212162/img/qUxhqNglqhP2s2Rw.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1260346277797212162/img/qUxhqNglqhP2s2Rw.jpg",
+						"url": "https://t.co/k64t3Mhcl9",
+						"display_url": "pic.twitter.com/k64t3Mhcl9",
+						"expanded_url": "https://twitter.com/BBCNewsnight/status/1260346410656059398/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1260346277797212200,
+						"id_str": "1260346277797212162",
+						"indices": [
+							136,
+							159
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1260346277797212162/img/qUxhqNglqhP2s2Rw.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1260346277797212162/img/qUxhqNglqhP2s2Rw.jpg",
+						"url": "https://t.co/k64t3Mhcl9",
+						"display_url": "pic.twitter.com/k64t3Mhcl9",
+						"expanded_url": "https://twitter.com/BBCNewsnight/status/1260346410656059398/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 78013,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1260346277797212162/vid/1280x720/xrF4jKvItHDC_gg4.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1260346277797212162/vid/480x270/1MxrFaKpJlTjPXJ2.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1260346277797212162/pl/XeEEgWc5ber0gEE2.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1260346277797212162/vid/640x360/Ocw3KX1VXWh5CADI.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "BBC Newsnight",
+							"description": "Subscribe to BBC Newsnight on YouTube. Like us on Facebook. Catch up on iPlayer https://bbc.in/2Ps915G",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://bbc.in/2Ps915G"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.twitter.com/\" rel=\"nofollow\">Twitter Media Studio - LiveCut</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20543416,
+				"id_str": "20543416",
+				"name": "BBC Newsnight",
+				"screen_name": "BBCNewsnight",
+				"location": "London, UK",
+				"description": "Welcome! Find us weekdays 22:30 on BBC Two with @maitlis, @KirstyWark & @Emmabarnett or anytime at https://t.co/lvXNv9BZub and YouTube https://t.co/E5qVboMf8f",
+				"url": "https://t.co/BkOOMJ6OkS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BkOOMJ6OkS",
+								"expanded_url": "http://bbc.co.uk/newsnight",
+								"display_url": "bbc.co.uk/newsnight",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lvXNv9BZub",
+								"expanded_url": "http://facebook.com/bbcnewsnight",
+								"display_url": "facebook.com/bbcnewsnight",
+								"indices": [
+									99,
+									122
+								]
+							},
+							{
+								"url": "https://t.co/E5qVboMf8f",
+								"expanded_url": "https://bbc.in/2J72V7O",
+								"display_url": "bbc.in/2J72V7O",
+								"indices": [
+									135,
+									158
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 648493,
+				"friends_count": 2869,
+				"listed_count": 5915,
+				"created_at": "Tue Feb 10 20:37:57 +0000 2009",
+				"favourites_count": 2105,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 47385,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1168387012602355714/wSsxD5-Z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168387012602355714/wSsxD5-Z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20543416/1567400149",
+				"profile_link_color": "16023D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 619,
+			"favorite_count": 1869,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 184,
+		"favorite_count": 1283,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Everything Robert De Niro says here is of course correct, but why the fuck is Robert De Niro on Newsnight 🤷‍♂️ https://t.co/s4isAGX3Hk"
+	},
+	{
 		"created_at": "Tue May 12 22:35:12 +0000 2020",
 		"id": 1260337760075989000,
 		"id_str": "1260337760075988994",
