@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 17:46:17 +0000 2020",
+		"id": 1261351625131606000,
+		"id_str": "1261352213168959488",
+		"full_text": "How do people not get this 👇🏻 https://t.co/DJErzT9Rt7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DJErzT9Rt7",
+					"expanded_url": "https://twitter.com/jeremyfaust/status/1261328402956423176",
+					"display_url": "twitter.com/jeremyfaust/st…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19991214,
+			"id_str": "19991214",
+			"name": "TC Corono",
+			"screen_name": "TC_Cornesto",
+			"location": "",
+			"description": "Taciturn Bastard - Doomstruck Gimp - Fresh Idiot (kinki) - Masturbation Gangster - Wind Ninja - Muted Mutant - K-Pop Catfish - Small Teeth",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1479,
+			"friends_count": 1533,
+			"listed_count": 55,
+			"created_at": "Tue Feb 03 18:28:43 +0000 2009",
+			"favourites_count": 47790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 109084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1243499497319280648/PKRPF38C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1243499497319280648/PKRPF38C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19991214/1572949434",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1261328402956423200,
+		"quoted_status_id_str": "1261328402956423176",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DJErzT9Rt7",
+			"expanded": "https://twitter.com/jeremyfaust/status/1261328402956423176",
+			"display": "twitter.com/jeremyfaust/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 15 16:11:40 +0000 2020",
+			"id": 1261328402956423200,
+			"id_str": "1261328402956423176",
+			"full_text": "Viewer question: How can I trust experts when they keep changing their minds?\n\nMe: When facts change, experts change their opinions.\n\nThat’s *why* they are experts.\n\nIf facts change, and someone doesn’t change their opinion, they actually *are not* an expert.\n\nWatch for this!\n\n🏌🏻",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35328942,
+				"id_str": "35328942",
+				"name": "Jeremy Faust MD MS",
+				"screen_name": "jeremyfaust",
+				"location": "Boston, MA",
+				"description": "Emergency doc @HarvardMed, @BrighamWomens. Editor @ACEPNow @Brief_19 @FOAMpodcast. “Theoretical epidemiologist.” jsfaust@bwh.harvard.edu Tweets=explicit orders!",
+				"url": "https://t.co/T1vklvI7Yr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/T1vklvI7Yr",
+								"expanded_url": "https://connects.catalyst.harvard.edu/Profiles/display/Person/157539",
+								"display_url": "connects.catalyst.harvard.edu/Profiles/displ…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35423,
+				"friends_count": 1775,
+				"listed_count": 617,
+				"created_at": "Sat Apr 25 22:32:01 +0000 2009",
+				"favourites_count": 12522,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 21004,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/785137883556540416/k8ga2J4d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/785137883556540416/k8ga2J4d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35328942/1586664049",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 265,
+			"favorite_count": 1097,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How do people not get this 👇🏻 https://t.co/DJErzT9Rt7"
+	},
+	{
 		"created_at": "Thu May 14 19:41:26 +0000 2020",
 		"id": 1261018805792395300,
 		"id_str": "1261018805792395265",
