@@ -1,6 +1,1062 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 17 20:12:16 +0000 2020",
+		"id": 1262113729732362200,
+		"id_str": "1262113729732362240",
+		"full_text": "all over in the 2nd with a TKO, nasty head kick started that.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1262112479267733500,
+		"in_reply_to_status_id_str": "1262112479267733505",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "all over in the 2nd with a TKO, nasty head kick started that."
+	},
+	{
+		"created_at": "Sun May 17 20:07:18 +0000 2020",
+		"id": 1262112479267733500,
+		"id_str": "1262112479267733505",
+		"full_text": "OVEREEMvHARRIS. What a 1st round, Walt landing some big hits, Alistair with some good ground work whilst bleeding all over the place. \n\n#UFCFightNight",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UFCFightNight",
+					"indices": [
+						136,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "OVEREEMvHARRIS. What a 1st round, Walt landing some big hits, Alistair with some good ground work whilst bleeding all over the place. \n\n#UFCFightNight"
+	},
+	{
+		"created_at": "Sun May 17 20:01:54 +0000 2020",
+		"id": 1262111120187371500,
+		"id_str": "1262111120187371521",
+		"full_text": "GADELHAvHILL. 1st female bout of the evening. best fight so far. \n\n#UFCFightNight",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UFCFightNight",
+					"indices": [
+						67,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "GADELHAvHILL. 1st female bout of the evening. best fight so far. \n\n#UFCFightNight"
+	},
+	{
+		"created_at": "Sun May 17 19:45:59 +0000 2020",
+		"id": 1262107115411431400,
+		"id_str": "1262107115411431425",
+		"full_text": "IGEvBARBOZA. good battle, all bouts pretty even so far. \n\n#UFCFightNight",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UFCFightNight",
+					"indices": [
+						58,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "IGEvBARBOZA. good battle, all bouts pretty even so far. \n\n#UFCFightNight"
+	},
+	{
+		"created_at": "Sun May 17 19:27:51 +0000 2020",
+		"id": 1262102550087639000,
+		"id_str": "1262102550087639042",
+		"full_text": "ANDERSvJOTKO. even fight, nice to see two southpaws go at it for a change. \n\n#UFCFightNight",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UFCFightNight",
+					"indices": [
+						77,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "ANDERSvJOTKO. even fight, nice to see two southpaws go at it for a change. \n\n#UFCFightNight"
+	},
+	{
+		"created_at": "Sun May 17 19:09:29 +0000 2020",
+		"id": 1262097927641673700,
+		"id_str": "1262097927641673731",
+		"full_text": "SONGvVERA. nice bout. \n\nGetting back into MMA, lack of a crowd doesn't really make much of a difference when watching.  \n#UFCFightNight",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UFCFightNight",
+					"indices": [
+						121,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "SONGvVERA. nice bout. \n\nGetting back into MMA, lack of a crowd doesn't really make much of a difference when watching.  \n#UFCFightNight"
+	},
+	{
+		"created_at": "Sun May 17 17:59:28 +0000 2020",
+		"id": 1262080309778174000,
+		"id_str": "1262080309778173952",
+		"full_text": "@christopherward 'Where No Fan Has Gone Before' was a great episode",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "christopherward",
+					"name": "Chris Ward",
+					"id": 17616581,
+					"id_str": "17616581",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1262074959540686800,
+		"in_reply_to_status_id_str": "1262074959540686848",
+		"in_reply_to_user_id": 17616581,
+		"in_reply_to_user_id_str": "17616581",
+		"in_reply_to_screen_name": "christopherward",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@christopherward 'Where No Fan Has Gone Before' was a great episode"
+	},
+	{
+		"created_at": "Sun May 17 16:54:39 +0000 2020",
+		"id": 1262063997676933000,
+		"id_str": "1262063997676933121",
+		"full_text": "@alexwoolfmusic @AntRDean Such a beautiful, technical and emotional piece of music. https://t.co/nRABPFiM3e",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alexwoolfmusic",
+					"name": "Alex Woolf",
+					"id": 136333300,
+					"id_str": "136333300",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "AntRDean",
+					"name": "Lord Ant Dean",
+					"id": 228825520,
+					"id_str": "228825520",
+					"indices": [
+						16,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nRABPFiM3e",
+					"expanded_url": "https://www.youtube.com/watch?v=kt6vchVn9Wo",
+					"display_url": "youtube.com/watch?v=kt6vch…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1262051180785676300,
+		"in_reply_to_status_id_str": "1262051180785676288",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@alexwoolfmusic @AntRDean Such a beautiful, technical and emotional piece of music. https://t.co/nRABPFiM3e"
+	},
+	{
+		"created_at": "Sun May 17 16:38:29 +0000 2020",
+		"id": 1262020046219407400,
+		"id_str": "1262059926647685120",
+		"full_text": "ICYMI: 'Wear a face mask - don't be a clown!' is the public health campaign of Mexico City https://t.co/Fpkgq7w9ZS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258914890112053200,
+					"id_str": "1258914890112053248",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EXiV8exVcAA4iHL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXiV8exVcAA4iHL.jpg",
+					"url": "https://t.co/Fpkgq7w9ZS",
+					"display_url": "pic.twitter.com/Fpkgq7w9ZS",
+					"expanded_url": "https://twitter.com/Reuters/status/1262020046219407360/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258914890112053200,
+					"id_str": "1258914890112053248",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EXiV8exVcAA4iHL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXiV8exVcAA4iHL.jpg",
+					"url": "https://t.co/Fpkgq7w9ZS",
+					"display_url": "pic.twitter.com/Fpkgq7w9ZS",
+					"expanded_url": "https://twitter.com/Reuters/status/1262020046219407360/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 78078,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1258914890112053248/vid/1280x720/8Kvf_lruJAlPuZWI.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1258914890112053248/pl/jl-YAj6XXP-zKlh1.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1258914890112053248/vid/480x270/tboEiKv0Od2WxS2j.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1258914890112053248/vid/640x360/BVhx7Ur9Tz6MWWR_.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "No clowning around with masks on Mexico City metro – News ",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.youtube.com/user/ReutersVideo"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1652541,
+			"id_str": "1652541",
+			"name": "Reuters",
+			"screen_name": "Reuters",
+			"location": "Around the world",
+			"description": "Top and breaking news, pictures and videos from Reuters. For more breaking business news, follow @ReutersBiz.",
+			"url": "http://t.co/BmHxhkm3Mh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/BmHxhkm3Mh",
+							"expanded_url": "http://www.reuters.com",
+							"display_url": "reuters.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21939817,
+			"friends_count": 1115,
+			"listed_count": 119085,
+			"created_at": "Tue Mar 20 17:46:05 +0000 2007",
+			"favourites_count": 747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 530542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "444444",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1573687397",
+			"profile_link_color": "006F97",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5F5F5",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 244,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ICYMI: 'Wear a face mask - don't be a clown!' is the public health campaign of Mexico City https://t.co/Fpkgq7w9ZS"
+	},
+	{
 		"created_at": "Sat May 16 21:43:10 +0000 2020",
 		"id": 1261774215138680800,
 		"id_str": "1261774215138680834",
