@@ -1,6 +1,575 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 19 22:02:50 +0000 2020",
+		"id": 1262866327456407600,
+		"id_str": "1262866327456407552",
+		"full_text": "@adidasUK have the adizero pro been released in the UK? can't find them in the online store.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adidasUK",
+					"name": "adidas UK (at 🏡)",
+					"id": 35706371,
+					"id_str": "35706371",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 35706371,
+		"in_reply_to_user_id_str": "35706371",
+		"in_reply_to_screen_name": "adidasUK",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@adidasUK have the adizero pro been released in the UK? can't find them in the online store."
+	},
+	{
+		"created_at": "Tue May 19 17:57:49 +0000 2020",
+		"id": 1261131371189342200,
+		"id_str": "1262804668830400513",
+		"full_text": "Alright. There is a LOT of chatter on this website bashing those who are saying most of the country still isn't ready for a safe reopening.\n\nSo, as we approach what would normally be summer pool season, here's a short analogy about pooping and accountability.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 398172747,
+			"id_str": "398172747",
+			"name": "Jeremy TEST/TRACE/ISOLATE Konyndyk",
+			"screen_name": "JeremyKonyndyk",
+			"location": "Washington DC",
+			"description": "Dad, baker, beer snob. Pandemic prep & humanitarian aid @cgdev. Teach @Georgetownsfs. Ex-@USAID @theOFDA chief 2013-16. Views solely mine. 🏊‍♂️🚴‍♂️🏃‍♂️",
+			"url": "https://t.co/iR60i7BuaP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iR60i7BuaP",
+							"expanded_url": "https://www.cgdev.org/expert/jeremy-konyndyk",
+							"display_url": "cgdev.org/expert/jeremy-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84074,
+			"friends_count": 499,
+			"listed_count": 2357,
+			"created_at": "Tue Oct 25 17:44:25 +0000 2011",
+			"favourites_count": 7473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 32925,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146508440883335169/UPEhw2WS_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146508440883335169/UPEhw2WS_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/398172747/1543551476",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8493,
+		"favorite_count": 16846,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Alright. There is a LOT of chatter on this website bashing those who are saying most of the country still isn't ready for a safe reopening.\n\nSo, as we approach what would normally be summer pool season, here's a short analogy about pooping and accountability."
+	},
+	{
+		"created_at": "Tue May 19 17:02:53 +0000 2020",
+		"id": 1262552729752305700,
+		"id_str": "1262790843800436747",
+		"full_text": "A memory that will last a lifetime 🤗\n https://t.co/UOr0BGWf5i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1262370988051837000,
+					"id_str": "1262370988051836930",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1262370988051836930/pu/img/clq0OYEAWuojzBAY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1262370988051836930/pu/img/clq0OYEAWuojzBAY.jpg",
+					"url": "https://t.co/UOr0BGWf5i",
+					"display_url": "pic.twitter.com/UOr0BGWf5i",
+					"expanded_url": "https://twitter.com/betiiice/status/1262371190615801856/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 274,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 274,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 274,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1262371190615801900,
+					"source_status_id_str": "1262371190615801856",
+					"source_user_id": 1180711154257158100,
+					"source_user_id_str": "1180711154257158144"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262370988051837000,
+					"id_str": "1262370988051836930",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1262370988051836930/pu/img/clq0OYEAWuojzBAY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1262370988051836930/pu/img/clq0OYEAWuojzBAY.jpg",
+					"url": "https://t.co/UOr0BGWf5i",
+					"display_url": "pic.twitter.com/UOr0BGWf5i",
+					"expanded_url": "https://twitter.com/betiiice/status/1262371190615801856/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 274,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 274,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 274,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1262371190615801900,
+					"source_status_id_str": "1262371190615801856",
+					"source_user_id": 1180711154257158100,
+					"source_user_id_str": "1180711154257158144",
+					"video_info": {
+						"aspect_ratio": [
+							137,
+							240
+						],
+						"duration_millis": 49834,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1262370988051836930/pu/vid/274x480/Pz6zrc_w7_9c-RAl.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1262370988051836930/pu/pl/FxSbQbN4yBFzVDaC.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1180711154257158100,
+							"id_str": "1180711154257158144",
+							"name": "Betiice",
+							"screen_name": "betiiice",
+							"location": "",
+							"description": "hiç...",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2870,
+							"friends_count": 1734,
+							"listed_count": 5,
+							"created_at": "Sun Oct 06 05:08:44 +0000 2019",
+							"favourites_count": 44224,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 21577,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1259481608006111232/LK_wJt8Q_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259481608006111232/LK_wJt8Q_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1180711154257158144/1574620747",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131818069184135200,
+			"id_str": "1131818069184135168",
+			"name": "Kevin W.",
+			"screen_name": "Brink_Thinker",
+			"location": "North Carolina",
+			"description": "Co-Host and Producer of America Out Loud - “The Brink of Greatness”. Enjoys politics and believes anyone can make a difference.",
+			"url": "https://t.co/MTbwzBQYkZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MTbwzBQYkZ",
+							"expanded_url": "https://brinkofgreatness.com/",
+							"display_url": "brinkofgreatness.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27491,
+			"friends_count": 21541,
+			"listed_count": 19,
+			"created_at": "Fri May 24 07:03:50 +0000 2019",
+			"favourites_count": 724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12055,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1248761220271878144/sOt38ypT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248761220271878144/sOt38ypT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131818069184135168/1558682961",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13701,
+		"favorite_count": 57757,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A memory that will last a lifetime 🤗\n https://t.co/UOr0BGWf5i"
+	},
+	{
+		"created_at": "Tue May 19 17:02:43 +0000 2020",
+		"id": 1262790803702927400,
+		"id_str": "1262790803702927360",
+		"full_text": "this is the perfect background music for getting work done. another great Transitions from @DJJohnDigweed. the Pascal FEOS tribute mix was fantastic. https://t.co/hobR0dfg6Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DJJohnDigweed",
+					"name": "John Digweed",
+					"id": 19022373,
+					"id_str": "19022373",
+					"indices": [
+						91,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hobR0dfg6Q",
+					"expanded_url": "https://www.mixcloud.com/johndigweed/transitions-with-john-digweed-pascal-feos-tribute-mix-and-danny-howells/",
+					"display_url": "mixcloud.com/johndigweed/tr…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1581787516",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is the perfect background music for getting work done. another great Transitions from @DJJohnDigweed. the Pascal FEOS tribute mix was fantastic. https://t.co/hobR0dfg6Q"
+	},
+	{
 		"created_at": "Mon May 18 21:48:03 +0000 2020",
 		"id": 1262500219226337300,
 		"id_str": "1262500219226337285",
