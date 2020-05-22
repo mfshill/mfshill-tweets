@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 21 23:34:11 +0000 2020",
+		"id": 1263523204045430800,
+		"id_str": "1263614095498059778",
+		"full_text": "Pres. Trump on his coronavirus test today: \"I tested very positively, in another sense, this morning. I tested positively toward negative, right? No, I tested perfectly this morning -- meaning I tested negative. But that's a way of saying it: positively toward the negative.\" https://t.co/Jylltw0JXs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1263523150383505400,
+					"id_str": "1263523150383505408",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EYjvp8aWkAI7-46.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYjvp8aWkAI7-46.jpg",
+					"url": "https://t.co/Jylltw0JXs",
+					"display_url": "pic.twitter.com/Jylltw0JXs",
+					"expanded_url": "https://twitter.com/NBCPolitics/status/1263523204045430790/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263523150383505400,
+					"id_str": "1263523150383505408",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EYjvp8aWkAI7-46.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYjvp8aWkAI7-46.jpg",
+					"url": "https://t.co/Jylltw0JXs",
+					"display_url": "pic.twitter.com/Jylltw0JXs",
+					"expanded_url": "https://twitter.com/NBCPolitics/status/1263523204045430790/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21051,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1263523150383505408/vid/640x360/fZvhveHaFdYgy9uQ.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1263523150383505408/pl/NsHaNrMjWQE_82pO.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1263523150383505408/vid/480x270/WNmdjkwgXnzVTV8T.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1263523150383505408/vid/1280x720/lC_SFGIsMXeuA9ES.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11856032,
+			"id_str": "11856032",
+			"name": "NBC Politics",
+			"screen_name": "NBCPolitics",
+			"location": "",
+			"description": "Political news from the journalists across @NBCNews, @MSNBC, @TodayShow, @NBCNightlyNews, @MeetThePress, @NBCInvestigates and more.",
+			"url": "https://t.co/aSm5RbuWs3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSm5RbuWs3",
+							"expanded_url": "http://www.NBCPolitics.com",
+							"display_url": "NBCPolitics.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 578420,
+			"friends_count": 259,
+			"listed_count": 6718,
+			"created_at": "Fri Jan 04 22:09:18 +0000 2008",
+			"favourites_count": 819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 66780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "062131",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108427382925471744/1np2ube6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108427382925471744/1np2ube6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11856032/1574713459",
+			"profile_link_color": "5172A0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1699,
+		"favorite_count": 4024,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pres. Trump on his coronavirus test today: \"I tested very positively, in another sense, this morning. I tested positively toward negative, right? No, I tested perfectly this morning -- meaning I tested negative. But that's a way of saying it: positively toward the negative.\" https://t.co/Jylltw0JXs"
+	},
+	{
 		"created_at": "Wed May 20 20:45:54 +0000 2020",
 		"id": 1263209357610647600,
 		"id_str": "1263209357610647552",
