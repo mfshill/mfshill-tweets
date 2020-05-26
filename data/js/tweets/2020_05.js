@@ -1,6 +1,1192 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 25 21:38:58 +0000 2020",
+		"id": 1265034649157460000,
+		"id_str": "1265034649157459969",
+		"full_text": "Hard to describe how bad 'The Jesus Rolls (2019)' is. No idea how they managed to convince Walken, Tautou &amp; Sarandon to be involved. The dialogue is terrible and it just isn't funny. 2/10 https://t.co/3SOP33NOjS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3SOP33NOjS",
+					"expanded_url": "https://www.imdb.com/title/tt5974030/",
+					"display_url": "imdb.com/title/tt597403…",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hard to describe how bad 'The Jesus Rolls (2019)' is. No idea how they managed to convince Walken, Tautou &amp; Sarandon to be involved. The dialogue is terrible and it just isn't funny. 2/10 https://t.co/3SOP33NOjS"
+	},
+	{
+		"created_at": "Mon May 25 19:34:25 +0000 2020",
+		"id": 1265003304603529200,
+		"id_str": "1265003304603529217",
+		"full_text": "@AntRDean scandalously efficient",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AntRDean",
+					"name": "Lord Ant Dean",
+					"id": 228825520,
+					"id_str": "228825520",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1265002739496562700,
+		"in_reply_to_status_id_str": "1265002739496562688",
+		"in_reply_to_user_id": 228825520,
+		"in_reply_to_user_id_str": "228825520",
+		"in_reply_to_screen_name": "AntRDean",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AntRDean scandalously efficient"
+	},
+	{
+		"created_at": "Mon May 25 19:31:18 +0000 2020",
+		"id": 1265002521313099800,
+		"id_str": "1265002521313099777",
+		"full_text": "@AntRDean what with it being a bank hol n all that...",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AntRDean",
+					"name": "Lord Ant Dean",
+					"id": 228825520,
+					"id_str": "228825520",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1265002312923254800,
+		"in_reply_to_status_id_str": "1265002312923254786",
+		"in_reply_to_user_id": 228825520,
+		"in_reply_to_user_id_str": "228825520",
+		"in_reply_to_screen_name": "AntRDean",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AntRDean what with it being a bank hol n all that..."
+	},
+	{
+		"created_at": "Mon May 25 19:26:27 +0000 2020",
+		"id": 1265001299805945900,
+		"id_str": "1265001299805945857",
+		"full_text": "@AntRDean tomorrow you mean",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AntRDean",
+					"name": "Lord Ant Dean",
+					"id": 228825520,
+					"id_str": "228825520",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1265000699320025000,
+		"in_reply_to_status_id_str": "1265000699320025090",
+		"in_reply_to_user_id": 228825520,
+		"in_reply_to_user_id_str": "228825520",
+		"in_reply_to_screen_name": "AntRDean",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AntRDean tomorrow you mean"
+	},
+	{
+		"created_at": "Mon May 25 17:26:39 +0000 2020",
+		"id": 1264958854758097000,
+		"id_str": "1264971153917071361",
+		"full_text": "“So, lets get this straight. You were driving, to Castle Barnard, to test your eyesight...”\n\n“Yes.” https://t.co/pfp73QAxHe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1264958847468417000,
+					"id_str": "1264958847468417024",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EY4JXqbXsAAgc-a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY4JXqbXsAAgc-a.jpg",
+					"url": "https://t.co/pfp73QAxHe",
+					"display_url": "pic.twitter.com/pfp73QAxHe",
+					"expanded_url": "https://twitter.com/AccidentalP/status/1264958854758096896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 732,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 732,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1264958847468417000,
+					"id_str": "1264958847468417024",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EY4JXqbXsAAgc-a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY4JXqbXsAAgc-a.jpg",
+					"url": "https://t.co/pfp73QAxHe",
+					"display_url": "pic.twitter.com/pfp73QAxHe",
+					"expanded_url": "https://twitter.com/AccidentalP/status/1264958854758096896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 732,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 732,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1201051748,
+			"id_str": "1201051748",
+			"name": "Accidental Partridge",
+			"screen_name": "AccidentalP",
+			"location": "",
+			"description": "Highlighting Accidental Partridge on twitter and beyond - DMs Open",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301218,
+			"friends_count": 71,
+			"listed_count": 735,
+			"created_at": "Wed Feb 20 13:32:25 +0000 2013",
+			"favourites_count": 1067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260120454133661696/QAhq3lOQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260120454133661696/QAhq3lOQ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3391,
+		"favorite_count": 13210,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“So, lets get this straight. You were driving, to Castle Barnard, to test your eyesight...”\n\n“Yes.” https://t.co/pfp73QAxHe"
+	},
+	{
+		"created_at": "Mon May 25 15:52:48 +0000 2020",
+		"id": 1264947533526204400,
+		"id_str": "1264947533526204417",
+		"full_text": "@AntRDean i think only those in No.10 love him, the rest of the conservatives want him gone. the majority of the public thinks he's a prick.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AntRDean",
+					"name": "Lord Ant Dean",
+					"id": 228825520,
+					"id_str": "228825520",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1264946963440689200,
+		"in_reply_to_status_id_str": "1264946963440689160",
+		"in_reply_to_user_id": 228825520,
+		"in_reply_to_user_id_str": "228825520",
+		"in_reply_to_screen_name": "AntRDean",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AntRDean i think only those in No.10 love him, the rest of the conservatives want him gone. the majority of the public thinks he's a prick."
+	},
+	{
+		"created_at": "Mon May 25 15:51:32 +0000 2020",
+		"id": 1264947214306152400,
+		"id_str": "1264947214306152458",
+		"full_text": "feel sorry for all the press wasting their time with this on a bank holiday.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "feel sorry for all the press wasting their time with this on a bank holiday."
+	},
+	{
+		"created_at": "Mon May 25 15:50:53 +0000 2020",
+		"id": 1264947050996740000,
+		"id_str": "1264947050996740099",
+		"full_text": "@Jazz_Pirate there must be some really bad news being released in the background.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jazz_Pirate",
+					"name": "Steven isolatingly Challenged🎮",
+					"id": 153810457,
+					"id_str": "153810457",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1264946624570298400,
+		"in_reply_to_status_id_str": "1264946624570298368",
+		"in_reply_to_user_id": 153810457,
+		"in_reply_to_user_id_str": "153810457",
+		"in_reply_to_screen_name": "Jazz_Pirate",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Jazz_Pirate there must be some really bad news being released in the background."
+	},
+	{
+		"created_at": "Mon May 25 15:50:15 +0000 2020",
+		"id": 1264946893211209700,
+		"id_str": "1264946893211209729",
+		"full_text": "still don't get why he's in the spotlight. breaking one of the golden rules of politics, advisors should neither seen nor heard",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "still don't get why he's in the spotlight. breaking one of the golden rules of politics, advisors should neither seen nor heard"
+	},
+	{
+		"created_at": "Mon May 25 13:58:49 +0000 2020",
+		"id": 1264105443724390400,
+		"id_str": "1264918848073084933",
+		"full_text": "HELENA BONHAM CARTER stars in this groundbreaking Cinema Quarantino Production DAS FONE HELL. At vast expense, filmed on two continents over what (seemed like) five years , this profound and heartbreakingly candid insight into Modern Life will shake you to the core (Pilates 101) https://t.co/aVXCfvAyfd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1264104483061031000,
+					"id_str": "1264104483061030912",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1264104483061030912/pu/img/7-BVl1Mx4BGegqHF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1264104483061030912/pu/img/7-BVl1Mx4BGegqHF.jpg",
+					"url": "https://t.co/aVXCfvAyfd",
+					"display_url": "pic.twitter.com/aVXCfvAyfd",
+					"expanded_url": "https://twitter.com/TwoPaddocks/status/1264105443724390400/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1264104483061031000,
+					"id_str": "1264104483061030912",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1264104483061030912/pu/img/7-BVl1Mx4BGegqHF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1264104483061030912/pu/img/7-BVl1Mx4BGegqHF.jpg",
+					"url": "https://t.co/aVXCfvAyfd",
+					"display_url": "pic.twitter.com/aVXCfvAyfd",
+					"expanded_url": "https://twitter.com/TwoPaddocks/status/1264105443724390400/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							23
+						],
+						"duration_millis": 139875,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1264104483061030912/pu/pl/oS4Gu9LZX43tNew2.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1264104483061030912/pu/vid/468x270/hU1q9ZLa5Wsvoi5-.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1264104483061030912/pu/vid/640x368/F8TUwYB-P952sp5f.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 296023958,
+			"id_str": "296023958",
+			"name": "Sam Neill",
+			"screen_name": "TwoPaddocks",
+			"location": "Central Otago, New Zealand",
+			"description": "Proprietor of TwoPaddocks - in the cheering up business since 1993. Also seen acting on occasion.",
+			"url": "http://t.co/6FfG99PLXB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6FfG99PLXB",
+							"expanded_url": "http://www.twopaddocks.com",
+							"display_url": "twopaddocks.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 408916,
+			"friends_count": 41352,
+			"listed_count": 1659,
+			"created_at": "Tue May 10 02:17:13 +0000 2011",
+			"favourites_count": 2863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8A0A0A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016790350667509760/bpLHa3S__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016790350667509760/bpLHa3S__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/296023958/1533891667",
+			"profile_link_color": "850A23",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F9FA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12313,
+		"favorite_count": 54026,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HELENA BONHAM CARTER stars in this groundbreaking Cinema Quarantino Production DAS FONE HELL. At vast expense, filmed on two continents over what (seemed like) five years , this profound and heartbreakingly candid insight into Modern Life will shake you to the core (Pilates 101) https://t.co/aVXCfvAyfd"
+	},
+	{
 		"created_at": "Sun May 24 16:45:50 +0000 2020",
 		"id": 1264473753888657400,
 		"id_str": "1264598492514836480",
