@@ -1,6 +1,1142 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 26 22:33:01 +0000 2020",
+		"id": 1265410642271506400,
+		"id_str": "1265410642271506433",
+		"full_text": "great tune https://t.co/H32EEtRNqc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265410638140117000,
+					"id_str": "1265410638140116999",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/EY-kRV1XkAc5FnY.png",
+					"media_url_https": "https://pbs.twimg.com/media/EY-kRV1XkAc5FnY.png",
+					"url": "https://t.co/H32EEtRNqc",
+					"display_url": "pic.twitter.com/H32EEtRNqc",
+					"expanded_url": "https://twitter.com/mfshill/status/1265410642271506433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 334,
+							"h": 1112,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 204,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 334,
+							"h": 1112,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265410638140117000,
+					"id_str": "1265410638140116999",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/EY-kRV1XkAc5FnY.png",
+					"media_url_https": "https://pbs.twimg.com/media/EY-kRV1XkAc5FnY.png",
+					"url": "https://t.co/H32EEtRNqc",
+					"display_url": "pic.twitter.com/H32EEtRNqc",
+					"expanded_url": "https://twitter.com/mfshill/status/1265410642271506433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 334,
+							"h": 1112,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 204,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 334,
+							"h": 1112,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1060,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "great tune https://t.co/H32EEtRNqc"
+	},
+	{
+		"created_at": "Tue May 26 22:07:55 +0000 2020",
+		"id": 1265396947457884200,
+		"id_str": "1265404324043202567",
+		"full_text": "We’ve just unlocked the final boss in the pandemic https://t.co/1FPSqIVUdh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265396937941045200,
+					"id_str": "1265396937941045249",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EY-Xz4nX0AEvbA1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY-Xz4nX0AEvbA1.jpg",
+					"url": "https://t.co/1FPSqIVUdh",
+					"display_url": "pic.twitter.com/1FPSqIVUdh",
+					"expanded_url": "https://twitter.com/TheCheish/status/1265396947457884162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 657,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 776,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 776,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265396937941045200,
+					"id_str": "1265396937941045249",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EY-Xz4nX0AEvbA1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY-Xz4nX0AEvbA1.jpg",
+					"url": "https://t.co/1FPSqIVUdh",
+					"display_url": "pic.twitter.com/1FPSqIVUdh",
+					"expanded_url": "https://twitter.com/TheCheish/status/1265396947457884162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 657,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 776,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 776,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87227050,
+			"id_str": "87227050",
+			"name": "Cheish",
+			"screen_name": "TheCheish",
+			"location": "UK",
+			"description": "Founder of @crimeviral don't invite me to dinner unless you want the conversation to start with 'Did you know Charles Manson was only 5ft 2?'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10255,
+			"friends_count": 1982,
+			"listed_count": 102,
+			"created_at": "Tue Nov 03 16:33:03 +0000 2009",
+			"favourites_count": 15181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197050943373815808/ioR5FerY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197050943373815808/ioR5FerY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87227050/1585414270",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’ve just unlocked the final boss in the pandemic https://t.co/1FPSqIVUdh"
+	},
+	{
+		"created_at": "Tue May 26 20:11:37 +0000 2020",
+		"id": 1265346131858542600,
+		"id_str": "1265375057641160709",
+		"full_text": "At least Alexa knows what the guidelines are #ClassicDomExcuses  #DailyBriefinguk https://t.co/6up0puQDAU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ClassicDomExcuses",
+					"indices": [
+						45,
+						63
+					]
+				},
+				{
+					"text": "DailyBriefinguk",
+					"indices": [
+						65,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265346057598316500,
+					"id_str": "1265346057598316547",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1265346057598316547/pu/img/Gq4j8ANWpb9-8jvb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1265346057598316547/pu/img/Gq4j8ANWpb9-8jvb.jpg",
+					"url": "https://t.co/6up0puQDAU",
+					"display_url": "pic.twitter.com/6up0puQDAU",
+					"expanded_url": "https://twitter.com/philliejoe/status/1265346131858542593/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265346057598316500,
+					"id_str": "1265346057598316547",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1265346057598316547/pu/img/Gq4j8ANWpb9-8jvb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1265346057598316547/pu/img/Gq4j8ANWpb9-8jvb.jpg",
+					"url": "https://t.co/6up0puQDAU",
+					"display_url": "pic.twitter.com/6up0puQDAU",
+					"expanded_url": "https://twitter.com/philliejoe/status/1265346131858542593/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 24055,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1265346057598316547/pu/pl/SNCedhY50o1_q-By.m3u8?tag=11"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1265346057598316547/pu/vid/360x640/YpJpnIvC5nL7yuO6.mp4?tag=11"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1265346057598316547/pu/vid/320x568/eVpYSSXvoCmPs66W.mp4?tag=11"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24900572,
+			"id_str": "24900572",
+			"name": "Phil Marshall",
+			"screen_name": "philliejoe",
+			"location": "Earth",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141,
+			"friends_count": 212,
+			"listed_count": 0,
+			"created_at": "Tue Mar 17 15:45:20 +0000 2009",
+			"favourites_count": 263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292455476/jthm03_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292455476/jthm03_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 464,
+		"favorite_count": 1198,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At least Alexa knows what the guidelines are #ClassicDomExcuses  #DailyBriefinguk https://t.co/6up0puQDAU"
+	},
+	{
+		"created_at": "Tue May 26 20:08:36 +0000 2020",
+		"id": 1265130737562353700,
+		"id_str": "1265374294659522560",
+		"full_text": "I made this comic strip two years ago... Nothing has changed lol https://t.co/t1gyV2jxQ2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265130732571132000,
+					"id_str": "1265130732571131904",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/EY6lssVVAAAjvyv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY6lssVVAAAjvyv.jpg",
+					"url": "https://t.co/t1gyV2jxQ2",
+					"display_url": "pic.twitter.com/t1gyV2jxQ2",
+					"expanded_url": "https://twitter.com/ObiAris/status/1265130737562353665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 445,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1340,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 785,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265130732571132000,
+					"id_str": "1265130732571131904",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/EY6lssVVAAAjvyv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY6lssVVAAAjvyv.jpg",
+					"url": "https://t.co/t1gyV2jxQ2",
+					"display_url": "pic.twitter.com/t1gyV2jxQ2",
+					"expanded_url": "https://twitter.com/ObiAris/status/1265130737562353665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 445,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1340,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 785,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28524632,
+			"id_str": "28524632",
+			"name": "Obi Arisukwu",
+			"screen_name": "ObiAris",
+			"location": "Los Angeles, CA",
+			"description": "Artist during the day. Repair Man-Man-Man-Man at night. IG: @obiaris",
+			"url": "https://t.co/G3CE6cQKXL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G3CE6cQKXL",
+							"expanded_url": "https://shop.obiaris.com/products/dancing-holiday-sweatshirt-ar",
+							"display_url": "shop.obiaris.com/products/danci…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28896,
+			"friends_count": 344,
+			"listed_count": 71,
+			"created_at": "Fri Apr 03 07:47:22 +0000 2009",
+			"favourites_count": 14232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CC3300",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848884571127021568/G9fAUObO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848884571127021568/G9fAUObO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28524632/1532270558",
+			"profile_link_color": "DE5E18",
+			"profile_sidebar_border_color": "808080",
+			"profile_sidebar_fill_color": "242424",
+			"profile_text_color": "BAB6BA",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64188,
+		"favorite_count": 242092,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I made this comic strip two years ago... Nothing has changed lol https://t.co/t1gyV2jxQ2"
+	},
+	{
+		"created_at": "Tue May 26 19:11:48 +0000 2020",
+		"id": 1265349335270785000,
+		"id_str": "1265360004275675139",
+		"full_text": "\"My brother died from Covid. I wasn't able to go to his funeral. We've all had to make sacrifices.\"\n\nFormer Chief Prosecutor for the North West Nazir Afzal says everyone is affected by lockdown, but abiding by the rules is a \"shared responsibility\". https://t.co/UWWDZNxCCU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265349271051780000,
+					"id_str": "1265349271051780139",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/EY9seQEXQAcV4Zc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY9seQEXQAcV4Zc.jpg",
+					"url": "https://t.co/UWWDZNxCCU",
+					"display_url": "pic.twitter.com/UWWDZNxCCU",
+					"expanded_url": "https://twitter.com/Channel4News/status/1265349335270785030/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265349271051780000,
+					"id_str": "1265349271051780139",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/EY9seQEXQAcV4Zc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY9seQEXQAcV4Zc.jpg",
+					"url": "https://t.co/UWWDZNxCCU",
+					"display_url": "pic.twitter.com/UWWDZNxCCU",
+					"expanded_url": "https://twitter.com/Channel4News/status/1265349335270785030/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28040,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1265349271051780139/pl/7lMFuOy4DCxs00w2.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1265349271051780139/vid/640x360/5ef3t69crJyht3bY.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1265349271051780139/vid/1280x720/uMebiUpCDQ9b1RE0.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1265349271051780139/vid/480x270/HbLWFzgEyUrSAb1E.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14569869,
+			"id_str": "14569869",
+			"name": "Channel 4 News",
+			"screen_name": "Channel4News",
+			"location": "United Kingdom",
+			"description": "Stories that reveal and inspire, challenging expectations. \n\nWeekdays 7-8pm on Channel 4.",
+			"url": "https://t.co/LBhZvqcoKL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LBhZvqcoKL",
+							"expanded_url": "http://www.channel4.com/news",
+							"display_url": "channel4.com/news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2343284,
+			"friends_count": 4526,
+			"listed_count": 9546,
+			"created_at": "Mon Apr 28 14:29:37 +0000 2008",
+			"favourites_count": 533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 102529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2C1C36",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875404558528393216/cTknVhwm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875404558528393216/cTknVhwm_normal.jpg",
+			"profile_link_color": "421174",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FAF0F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 523,
+		"favorite_count": 1657,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"My brother died from Covid. I wasn't able to go to his funeral. We've all had to make sacrifices.\"\n\nFormer Chief Prosecutor for the North West Nazir Afzal says everyone is affected by lockdown, but abiding by the rules is a \"shared responsibility\". https://t.co/UWWDZNxCCU"
+	},
+	{
+		"created_at": "Tue May 26 12:38:16 +0000 2020",
+		"id": 1265260965492375600,
+		"id_str": "1265260965492375554",
+		"full_text": "@_UzairSyed_ @wtf1official up to a point. it they are doing the actual racing then fine but they still have to be careful as they're still representing their teams and sponsors",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_UzairSyed_",
+					"name": "Uzair",
+					"id": 2450316486,
+					"id_str": "2450316486",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "wtf1official",
+					"name": "WTF1",
+					"id": 87541152,
+					"id_str": "87541152",
+					"indices": [
+						13,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1265257952212136000,
+		"in_reply_to_status_id_str": "1265257952212135937",
+		"in_reply_to_user_id": 2450316486,
+		"in_reply_to_user_id_str": "2450316486",
+		"in_reply_to_screen_name": "_UzairSyed_",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1060,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@_UzairSyed_ @wtf1official up to a point. it they are doing the actual racing then fine but they still have to be careful as they're still representing their teams and sponsors"
+	},
+	{
+		"created_at": "Tue May 26 12:25:02 +0000 2020",
+		"id": 1265257637161074700,
+		"id_str": "1265257637161074688",
+		"full_text": "@wtf1official It also reflects badly on the individual (and by association their IRL team) if they are willing to cheat on something like this.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wtf1official",
+					"name": "WTF1",
+					"id": 87541152,
+					"id_str": "87541152",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1265256923831709700,
+		"in_reply_to_status_id_str": "1265256923831709696",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1060,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wtf1official It also reflects badly on the individual (and by association their IRL team) if they are willing to cheat on something like this."
+	},
+	{
 		"created_at": "Mon May 25 21:38:58 +0000 2020",
 		"id": 1265034649157460000,
 		"id_str": "1265034649157459969",
