@@ -1,6 +1,1421 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 21:43:26 +0000 2020",
+		"id": 1270109205224140800,
+		"id_str": "1270109205224140800",
+		"full_text": "@eops all about the journey (and then the nom nom nom) https://t.co/kQnAxzQ83w",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270109197573804000,
+					"id_str": "1270109197573804033",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EaBVlftX0AETAyK.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EaBVlftX0AETAyK.jpg",
+					"url": "https://t.co/kQnAxzQ83w",
+					"display_url": "pic.twitter.com/kQnAxzQ83w",
+					"expanded_url": "https://twitter.com/mfshill/status/1270109205224140800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270109197573804000,
+					"id_str": "1270109197573804033",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EaBVlftX0AETAyK.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EaBVlftX0AETAyK.jpg",
+					"url": "https://t.co/kQnAxzQ83w",
+					"display_url": "pic.twitter.com/kQnAxzQ83w",
+					"expanded_url": "https://twitter.com/mfshill/status/1270109205224140800/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							55,
+							41
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EaBVlftX0AETAyK.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270108439478448000,
+		"in_reply_to_status_id_str": "1270108439478448129",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40644,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@eops all about the journey (and then the nom nom nom) https://t.co/kQnAxzQ83w"
+	},
+	{
+		"created_at": "Mon Jun 08 21:38:38 +0000 2020",
+		"id": 1270107997470154800,
+		"id_str": "1270107997470154762",
+		"full_text": "@eops 3hrs?",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270107249445417000,
+		"in_reply_to_status_id_str": "1270107249445416960",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40644,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@eops 3hrs?"
+	},
+	{
+		"created_at": "Mon Jun 08 20:52:48 +0000 2020",
+		"id": 1270096460911128600,
+		"id_str": "1270096460911128579",
+		"full_text": "@christopherward @ShappiKhorsandi haha, what a good quote!",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "christopherward",
+					"name": "Chris Ward ;; #BLACKLIVESMATTER",
+					"id": 17616581,
+					"id_str": "17616581",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "ShappiKhorsandi",
+					"name": "Shappi Khorsandi",
+					"id": 43313304,
+					"id_str": "43313304",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270094520051470300,
+		"in_reply_to_status_id_str": "1270094520051470336",
+		"in_reply_to_user_id": 17616581,
+		"in_reply_to_user_id_str": "17616581",
+		"in_reply_to_screen_name": "christopherward",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40644,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@christopherward @ShappiKhorsandi haha, what a good quote!"
+	},
+	{
+		"created_at": "Mon Jun 08 20:23:46 +0000 2020",
+		"id": 1270077118387495000,
+		"id_str": "1270089154387378178",
+		"full_text": "Trying to imagine explaining this to someone a decade ago. https://t.co/Fufdn25qZF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270077113698340900,
+					"id_str": "1270077113698340865",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EaA4Z99X0AEvp2V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaA4Z99X0AEvp2V.jpg",
+					"url": "https://t.co/Fufdn25qZF",
+					"display_url": "pic.twitter.com/Fufdn25qZF",
+					"expanded_url": "https://twitter.com/jimwaterson/status/1270077118387494914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 422,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 745,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1811,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270077113698340900,
+					"id_str": "1270077113698340865",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EaA4Z99X0AEvp2V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaA4Z99X0AEvp2V.jpg",
+					"url": "https://t.co/Fufdn25qZF",
+					"display_url": "pic.twitter.com/Fufdn25qZF",
+					"expanded_url": "https://twitter.com/jimwaterson/status/1270077118387494914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 422,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 745,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1811,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25275453,
+			"id_str": "25275453",
+			"name": "Jim Waterson",
+			"screen_name": "jimwaterson",
+			"location": "",
+			"description": "Media editor at the Guardian. Get in touch about your media organisation in confidence: jim.waterson@theguardian.com WhatsApp: +447760993558 **My DMs are open**",
+			"url": "https://t.co/FggP2slyje",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FggP2slyje",
+							"expanded_url": "http://www.jimwaterson.com",
+							"display_url": "jimwaterson.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 246295,
+			"friends_count": 2779,
+			"listed_count": 1938,
+			"created_at": "Thu Mar 19 12:03:34 +0000 2009",
+			"favourites_count": 17028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 58027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110478628897333248/KECDyM16_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110478628897333248/KECDyM16_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25275453/1409002252",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1285,
+		"favorite_count": 8061,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trying to imagine explaining this to someone a decade ago. https://t.co/Fufdn25qZF"
+	},
+	{
+		"created_at": "Mon Jun 08 20:20:41 +0000 2020",
+		"id": 1270088380936790000,
+		"id_str": "1270088380936790016",
+		"full_text": "@eops @julieo25 yeah, can't rush. I always have tunes on so can have a bit of a boogie at the same time.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "julieo25",
+					"name": "Julie O ★",
+					"id": 257840762,
+					"id_str": "257840762",
+					"indices": [
+						6,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270087640168173600,
+		"in_reply_to_status_id_str": "1270087640168173568",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40644,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eops @julieo25 yeah, can't rush. I always have tunes on so can have a bit of a boogie at the same time."
+	},
+	{
+		"created_at": "Mon Jun 08 20:08:32 +0000 2020",
+		"id": 1270085323142369300,
+		"id_str": "1270085323142369282",
+		"full_text": "@eops @julieo25 took me just under 3hrs today. doesn't seem to matter when you start, it always takes aaaaaaaaaaages! https://t.co/cn54VGYvWC",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "julieo25",
+					"name": "Julie O ★",
+					"id": 257840762,
+					"id_str": "257840762",
+					"indices": [
+						6,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270085311301853200,
+					"id_str": "1270085311301853189",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EaA_3IaWoAURtg7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EaA_3IaWoAURtg7.jpg",
+					"url": "https://t.co/cn54VGYvWC",
+					"display_url": "pic.twitter.com/cn54VGYvWC",
+					"expanded_url": "https://twitter.com/mfshill/status/1270085323142369282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 258,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 258,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 258,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270085311301853200,
+					"id_str": "1270085311301853189",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EaA_3IaWoAURtg7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EaA_3IaWoAURtg7.jpg",
+					"url": "https://t.co/cn54VGYvWC",
+					"display_url": "pic.twitter.com/cn54VGYvWC",
+					"expanded_url": "https://twitter.com/mfshill/status/1270085323142369282/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 258,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 258,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 258,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							43
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EaA_3IaWoAURtg7.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270079111587926000,
+		"in_reply_to_status_id_str": "1270079111587926021",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40644,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@eops @julieo25 took me just under 3hrs today. doesn't seem to matter when you start, it always takes aaaaaaaaaaages! https://t.co/cn54VGYvWC"
+	},
+	{
+		"created_at": "Mon Jun 08 20:04:02 +0000 2020",
+		"id": 1270084188495130600,
+		"id_str": "1270084188495130626",
+		"full_text": "@eops tastes... https://t.co/o8QyHdqHsv",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270084181528318000,
+					"id_str": "1270084181528317953",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EaA-1XrWkAEMYft.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EaA-1XrWkAEMYft.jpg",
+					"url": "https://t.co/o8QyHdqHsv",
+					"display_url": "pic.twitter.com/o8QyHdqHsv",
+					"expanded_url": "https://twitter.com/mfshill/status/1270084188495130626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270084181528318000,
+					"id_str": "1270084181528317953",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EaA-1XrWkAEMYft.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EaA-1XrWkAEMYft.jpg",
+					"url": "https://t.co/o8QyHdqHsv",
+					"display_url": "pic.twitter.com/o8QyHdqHsv",
+					"expanded_url": "https://twitter.com/mfshill/status/1270084188495130626/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EaA-1XrWkAEMYft.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270083995070615600,
+		"in_reply_to_status_id_str": "1270083995070615552",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40644,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@eops tastes... https://t.co/o8QyHdqHsv"
+	},
+	{
+		"created_at": "Mon Jun 08 20:02:11 +0000 2020",
+		"id": 1270083724227592200,
+		"id_str": "1270083724227592193",
+		"full_text": "in support of #CurryMonday, i've followed in @eops\n footsteps and knocked out a big jalfrezi (i know it's a little runny but we like our sauce here) https://t.co/hk1ssMl95B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CurryMonday",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						45,
+						50
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270083704363368400,
+					"id_str": "1270083704363368448",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EaA-ZmGXQAAO1xG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaA-ZmGXQAAO1xG.jpg",
+					"url": "https://t.co/hk1ssMl95B",
+					"display_url": "pic.twitter.com/hk1ssMl95B",
+					"expanded_url": "https://twitter.com/mfshill/status/1270083724227592193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270083704363368400,
+					"id_str": "1270083704363368448",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EaA-ZmGXQAAO1xG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaA-ZmGXQAAO1xG.jpg",
+					"url": "https://t.co/hk1ssMl95B",
+					"display_url": "pic.twitter.com/hk1ssMl95B",
+					"expanded_url": "https://twitter.com/mfshill/status/1270083724227592193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40644,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "in support of #CurryMonday, i've followed in @eops\n footsteps and knocked out a big jalfrezi (i know it's a little runny but we like our sauce here) https://t.co/hk1ssMl95B"
+	},
+	{
+		"created_at": "Mon Jun 08 16:44:06 +0000 2020",
+		"id": 1270018148402634800,
+		"id_str": "1270033876736409602",
+		"full_text": "At this time, we are unable to say definitively whether or not the race will proceed, but we are committed to sharing a decision as soon as possible. For now, we encourage you to stay safe and stay motivated. Check our website for the latest updates: https://t.co/gw1QJ62kzh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gw1QJ62kzh",
+					"expanded_url": "https://www.chicagomarathon.com/runners/rules-safety/event-update/",
+					"display_url": "chicagomarathon.com/runners/rules-…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270018146758525000,
+		"in_reply_to_status_id_str": "1270018146758524930",
+		"in_reply_to_user_id": 340364507,
+		"in_reply_to_user_id_str": "340364507",
+		"in_reply_to_screen_name": "ChiMarathon",
+		"user": {
+			"id": 340364507,
+			"id_str": "340364507",
+			"name": "Chicago Marathon",
+			"screen_name": "ChiMarathon",
+			"location": "Chicago, IL",
+			"description": "The official Twitter handle for the Bank of America Chicago Marathon. Follow along for event updates and to share your Marathon experience. #ChicagoMarathon",
+			"url": "https://t.co/cAYknKm3Gq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cAYknKm3Gq",
+							"expanded_url": "http://www.chicagomarathon.com",
+							"display_url": "chicagomarathon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 70893,
+			"friends_count": 226,
+			"listed_count": 743,
+			"created_at": "Fri Jul 22 15:45:16 +0000 2011",
+			"favourites_count": 965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2171,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113547086664957959/KdgxWKUj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113547086664957959/KdgxWKUj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/340364507/1574722414",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At this time, we are unable to say definitively whether or not the race will proceed, but we are committed to sharing a decision as soon as possible. For now, we encourage you to stay safe and stay motivated. Check our website for the latest updates: https://t.co/gw1QJ62kzh"
+	},
+	{
 		"created_at": "Sun Jun 07 20:55:46 +0000 2020",
 		"id": 1269682700149022700,
 		"id_str": "1269734820336275456",
