@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 16:44:59 +0000 2020",
+		"id": 1272561170050945000,
+		"id_str": "1272570813414354946",
+		"full_text": "Thread. Amazing. https://t.co/jEPP1aofbN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jEPP1aofbN",
+					"expanded_url": "https://twitter.com/notagain127/status/1271873487305617416",
+					"display_url": "twitter.com/notagain127/st…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 50783523,
+			"id_str": "50783523",
+			"name": "Amy",
+			"screen_name": "wickychoo",
+			"location": "Jazz limping",
+			"description": "Don’t let these waves wash away your hopes. \nRoller derby official & clinical trial manager. \nNonsense, typos, birb retweets and #derbytwitter She/her.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 243,
+			"friends_count": 396,
+			"listed_count": 6,
+			"created_at": "Thu Jun 25 21:56:17 +0000 2009",
+			"favourites_count": 7310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9E079",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131859071819223041/yeS3tPcp_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131859071819223041/yeS3tPcp_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/50783523/1481374734",
+			"profile_link_color": "F1AB07",
+			"profile_sidebar_border_color": "070D33",
+			"profile_sidebar_fill_color": "F7F4F5",
+			"profile_text_color": "0A2BFF",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1271873487305617400,
+		"quoted_status_id_str": "1271873487305617416",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jEPP1aofbN",
+			"expanded": "https://twitter.com/notagain127/status/1271873487305617416",
+			"display": "twitter.com/notagain127/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 13 18:34:04 +0000 2020",
+			"id": 1271873487305617400,
+			"id_str": "1271873487305617416",
+			"full_text": "Today I learned...\n\nThe white man in this photo was Peter Norman from Australia who finished 2nd the 1968 200m final. Norman stood in solidarity with the American Black athletes. It was Norman who suggested, when discovered they only had 1 pair of gloves, to each wear one. (cont) https://t.co/XjYOM8xe9D",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1271866834162266000,
+						"id_str": "1271866834162266114",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EaaUJaPXsAInsJl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaaUJaPXsAInsJl.jpg",
+						"url": "https://t.co/XjYOM8xe9D",
+						"display_url": "pic.twitter.com/XjYOM8xe9D",
+						"expanded_url": "https://twitter.com/notagain127/status/1271873487305617416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 814,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 461,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 814,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1271866834162266000,
+						"id_str": "1271866834162266114",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EaaUJaPXsAInsJl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaaUJaPXsAInsJl.jpg",
+						"url": "https://t.co/XjYOM8xe9D",
+						"display_url": "pic.twitter.com/XjYOM8xe9D",
+						"expanded_url": "https://twitter.com/notagain127/status/1271873487305617416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 814,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 461,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 814,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2480860421,
+				"id_str": "2480860421",
+				"name": "Ciarán the Quarantined Sorcerer",
+				"screen_name": "notagain127",
+				"location": "Near the Yawning Portal",
+				"description": "Elen sila lumenn' omentielvo.  Ciarán is a he. Forever a geek and doing my best to not be \"that guy\". Won't stop fighting in the #Resistance. US Army veteran.",
+				"url": "https://t.co/Q2RMHYLEaV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Q2RMHYLEaV",
+								"expanded_url": "https://twitter.com/search?q=from:@notagain127/exclude:replies",
+								"display_url": "twitter.com/search?q=from:…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2125,
+				"friends_count": 1235,
+				"listed_count": 6,
+				"created_at": "Sun Apr 13 07:18:39 +0000 2014",
+				"favourites_count": 56571,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 38640,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1214306203628658689/HsfZpLkn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214306203628658689/HsfZpLkn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2480860421/1591543814",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 71606,
+			"favorite_count": 220523,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thread. Amazing. https://t.co/jEPP1aofbN"
+	},
+	{
 		"created_at": "Sun Jun 14 17:18:23 +0000 2020",
 		"id": 1272216829260443600,
 		"id_str": "1272216829260443652",
