@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 16 23:32:14 +0000 2020",
+		"id": 1273008971415203800,
+		"id_str": "1273035686095060994",
+		"full_text": "Millennia later, the plague of Athens reminds us that the legacy of the world’s first democracy contains within it a cautionary tale: the failure of democratic society to cope with a lethal epidemic. https://t.co/oTYabbSdha",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oTYabbSdha",
+					"expanded_url": "http://nyer.cm/sreOTqa",
+					"display_url": "nyer.cm/sreOTqa",
+					"indices": [
+						200,
+						223
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14677919,
+			"id_str": "14677919",
+			"name": "The New Yorker",
+			"screen_name": "NewYorker",
+			"location": "New York, NY",
+			"description": "Unparalleled reporting and commentary on politics and culture, plus humor and cartoons, fiction and poetry, reviews, and criticism.",
+			"url": "https://t.co/RLTwD4X3RQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RLTwD4X3RQ",
+							"expanded_url": "http://www.newyorker.com",
+							"display_url": "newyorker.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8911591,
+			"friends_count": 365,
+			"listed_count": 62561,
+			"created_at": "Tue May 06 19:36:33 +0000 2008",
+			"favourites_count": 1991,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 109220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226890596280885248/qdLQ8M7i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226890596280885248/qdLQ8M7i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14677919/1581364143",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 120,
+		"favorite_count": 273,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Millennia later, the plague of Athens reminds us that the legacy of the world’s first democracy contains within it a cautionary tale: the failure of democratic society to cope with a lethal epidemic. https://t.co/oTYabbSdha"
+	},
+	{
 		"created_at": "Mon Jun 15 16:44:59 +0000 2020",
 		"id": 1272561170050945000,
 		"id_str": "1272570813414354946",
