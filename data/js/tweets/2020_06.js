@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 19 20:39:14 +0000 2020",
+		"id": 1274079312614998000,
+		"id_str": "1274079312614998016",
+		"full_text": "got to love Roy Keane https://t.co/dNexnuO6hg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dNexnuO6hg",
+					"expanded_url": "https://twitter.com/DTathletic/status/1274077517335445511",
+					"display_url": "twitter.com/DTathletic/sta…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1074,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1274077517335445500,
+		"quoted_status_id_str": "1274077517335445511",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dNexnuO6hg",
+			"expanded": "https://twitter.com/DTathletic/status/1274077517335445511",
+			"display": "twitter.com/DTathletic/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 19 20:32:06 +0000 2020",
+			"id": 1274077517335445500,
+			"id_str": "1274077517335445511",
+			"full_text": "One of his pet hates at Forest: people writing in asking for an autograph, a signed photo etc, but not including a stamp with the request.\n\nKeane would find a number, ring them up and demand to know why there was no stamp and why Forest should have to pay for one.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				264
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1274075298951311400,
+			"in_reply_to_status_id_str": "1274075298951311361",
+			"in_reply_to_user_id": 63083335,
+			"in_reply_to_user_id_str": "63083335",
+			"in_reply_to_screen_name": "DTathletic",
+			"user": {
+				"id": 63083335,
+				"id_str": "63083335",
+				"name": "Daniel Taylor",
+				"screen_name": "DTathletic",
+				"location": "London, Manchester, Newark. Colwick Road ⭐️⭐️",
+				"description": "Senior football writer for @TheAthleticUK 👌🏻 https://t.co/NzjfPRxIap",
+				"url": "https://t.co/9PANoP0lBg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9PANoP0lBg",
+								"expanded_url": "https://theathletic.co.uk/author/daniel-taylor/",
+								"display_url": "theathletic.co.uk/author/daniel-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/NzjfPRxIap",
+								"expanded_url": "http://theathletic.com/ukfreetrial",
+								"display_url": "theathletic.com/ukfreetrial",
+								"indices": [
+									45,
+									68
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 269397,
+				"friends_count": 2153,
+				"listed_count": 4044,
+				"created_at": "Wed Aug 05 09:17:42 +0000 2009",
+				"favourites_count": 5761,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18738,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1183517603513425920/JJagGIXX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183517603513425920/JJagGIXX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63083335/1571007561",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 106,
+			"favorite_count": 302,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "got to love Roy Keane https://t.co/dNexnuO6hg"
+	},
+	{
 		"created_at": "Thu Jun 18 20:03:33 +0000 2020",
 		"id": 1273707946959089700,
 		"id_str": "1273707946959089664",
