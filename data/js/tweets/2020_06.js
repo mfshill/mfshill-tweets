@@ -1,6 +1,713 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 21 21:07:03 +0000 2020",
+		"id": 1274811091189665800,
+		"id_str": "1274811091189665796",
+		"full_text": "#WhatWeDoInTheShadows series 2 https://t.co/8NV2hmGqiZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WhatWeDoInTheShadows",
+					"indices": [
+						0,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274811084235513900,
+					"id_str": "1274811084235513857",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbEJ7UeWoAEIsTg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbEJ7UeWoAEIsTg.jpg",
+					"url": "https://t.co/8NV2hmGqiZ",
+					"display_url": "pic.twitter.com/8NV2hmGqiZ",
+					"expanded_url": "https://twitter.com/mfshill/status/1274811091189665796/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274811084235513900,
+					"id_str": "1274811084235513857",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbEJ7UeWoAEIsTg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbEJ7UeWoAEIsTg.jpg",
+					"url": "https://t.co/8NV2hmGqiZ",
+					"display_url": "pic.twitter.com/8NV2hmGqiZ",
+					"expanded_url": "https://twitter.com/mfshill/status/1274811091189665796/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EbEJ7UeWoAEIsTg.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1074,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#WhatWeDoInTheShadows series 2 https://t.co/8NV2hmGqiZ"
+	},
+	{
+		"created_at": "Sun Jun 21 19:13:51 +0000 2020",
+		"id": 1274782603724435500,
+		"id_str": "1274782603724435462",
+		"full_text": "what a trailer! looking forward to this. https://t.co/xkX5yjqr2S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xkX5yjqr2S",
+					"expanded_url": "https://twitter.com/NiaDaCosta/status/1273293842113089536",
+					"display_url": "twitter.com/NiaDaCosta/sta…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1074,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273293842113089500,
+		"quoted_status_id_str": "1273293842113089536",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xkX5yjqr2S",
+			"expanded": "https://twitter.com/NiaDaCosta/status/1273293842113089536",
+			"display": "twitter.com/NiaDaCosta/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 17 16:38:03 +0000 2020",
+			"id": 1273293842113089500,
+			"id_str": "1273293842113089536",
+			"full_text": "CANDYMAN, at the intersection of white violence and black pain, is about unwilling martyrs. The people they were, the symbols we turn them into, the monsters we are told they must have been. https://t.co/MEwwr8umdI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				190
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1273292530566774800,
+						"id_str": "1273292530566774784",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1273292530566774784/img/NJcGcWmuYOISgPAv.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1273292530566774784/img/NJcGcWmuYOISgPAv.jpg",
+						"url": "https://t.co/MEwwr8umdI",
+						"display_url": "pic.twitter.com/MEwwr8umdI",
+						"expanded_url": "https://twitter.com/NiaDaCosta/status/1273293842113089536/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1273292530566774800,
+						"id_str": "1273292530566774784",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1273292530566774784/img/NJcGcWmuYOISgPAv.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1273292530566774784/img/NJcGcWmuYOISgPAv.jpg",
+						"url": "https://t.co/MEwwr8umdI",
+						"display_url": "pic.twitter.com/MEwwr8umdI",
+						"expanded_url": "https://twitter.com/NiaDaCosta/status/1273293842113089536/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 152152,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1273292530566774784/vid/640x360/mXfhJ4LLzzV7_0yw.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1273292530566774784/pl/oFb7Jbz36_zN85OR.m3u8?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1273292530566774784/vid/1280x720/Dh0gnjPwlQOdDLCh.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1273292530566774784/vid/480x270/4Bn3wZMKVsMHto3R.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2379867073,
+				"id_str": "2379867073",
+				"name": "Nia DaCosta",
+				"screen_name": "NiaDaCosta",
+				"location": "🍬🐝",
+				"description": "Will meet you by Mordor with the rest of the mandem.",
+				"url": "https://t.co/olVi69JL7d",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/olVi69JL7d",
+								"expanded_url": "https://www.lyricmchenry.com/donate",
+								"display_url": "lyricmchenry.com/donate",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38164,
+				"friends_count": 498,
+				"listed_count": 126,
+				"created_at": "Sun Mar 09 05:00:12 +0000 2014",
+				"favourites_count": 4831,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 590,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/995083996013957121/WjsN_8Eg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/995083996013957121/WjsN_8Eg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2379867073/1582848284",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43928,
+			"favorite_count": 101995,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "what a trailer! looking forward to this. https://t.co/xkX5yjqr2S"
+	},
+	{
+		"created_at": "Sun Jun 21 18:27:21 +0000 2020",
+		"id": 1274764763894091800,
+		"id_str": "1274770901075197953",
+		"full_text": "https://t.co/FkCOGaQI0l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274764673045409800,
+					"id_str": "1274764673045409793",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1274764673045409793/pu/img/Ed5ftWsx3PtWGGpz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1274764673045409793/pu/img/Ed5ftWsx3PtWGGpz.jpg",
+					"url": "https://t.co/FkCOGaQI0l",
+					"display_url": "pic.twitter.com/FkCOGaQI0l",
+					"expanded_url": "https://twitter.com/unluckyfootie/status/1274764763894091777/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274764673045409800,
+					"id_str": "1274764673045409793",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1274764673045409793/pu/img/Ed5ftWsx3PtWGGpz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1274764673045409793/pu/img/Ed5ftWsx3PtWGGpz.jpg",
+					"url": "https://t.co/FkCOGaQI0l",
+					"display_url": "pic.twitter.com/FkCOGaQI0l",
+					"expanded_url": "https://twitter.com/unluckyfootie/status/1274764763894091777/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 8443,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1274764673045409793/pu/vid/640x360/3cNaaJSkT6RN7rrU.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1274764673045409793/pu/vid/480x270/1zllhq6oodtsYJEg.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1274764673045409793/pu/pl/zn78wziE6SgEBYFU.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1274764673045409793/pu/vid/1280x720/85C4EOfR_UhTL3Eu.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2204466550,
+			"id_str": "2204466550",
+			"name": "unfortunate football moments that didnt go to plan",
+			"screen_name": "unluckyfootie",
+			"location": "",
+			"description": "unfortunate football moments that didnt go to plan. dm requests. parody.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69338,
+			"friends_count": 0,
+			"listed_count": 195,
+			"created_at": "Mon Dec 02 11:20:45 +0000 2013",
+			"favourites_count": 390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259234352220733444/J_GrLehH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259234352220733444/J_GrLehH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2204466550/1565792670",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1793,
+		"favorite_count": 7824,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/FkCOGaQI0l"
+	},
+	{
 		"created_at": "Sat Jun 20 18:01:56 +0000 2020",
 		"id": 1274402115906089000,
 		"id_str": "1274402115906088967",
