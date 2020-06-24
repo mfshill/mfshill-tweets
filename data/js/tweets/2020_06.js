@@ -1,6 +1,1182 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 23 20:11:52 +0000 2020",
+		"id": 1275449093544800300,
+		"id_str": "1275521979823665153",
+		"full_text": "23rd of March, 74 deaths:\nDo not leave your homes.\n\n23rd June, 171 deaths:\nOPEN THE PUBS IT IS YOUR PATRIOTIC DUTY TO GET SHITFACED https://t.co/n1H0YB3OCa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n1H0YB3OCa",
+					"expanded_url": "https://twitter.com/independent/status/1275447466343534594",
+					"display_url": "twitter.com/independent/st…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2904913023,
+			"id_str": "2904913023",
+			"name": "James Felton",
+			"screen_name": "JimMFelton",
+			"location": "",
+			"description": "Comedy writer and author \n\nSunburn: https://t.co/Hc2Dz03EvQ\n\n52 Times Britain Was A Bellend: \nWaterstones: https://t.co/WEinPBVSbx \nAmazon: https://t.co/83zuzC7LO0",
+			"url": "https://t.co/Hc2Dz03EvQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hc2Dz03EvQ",
+							"expanded_url": "https://amzn.to/2HHtW08",
+							"display_url": "amzn.to/2HHtW08",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Hc2Dz03EvQ",
+							"expanded_url": "https://amzn.to/2HHtW08",
+							"display_url": "amzn.to/2HHtW08",
+							"indices": [
+								36,
+								59
+							]
+						},
+						{
+							"url": "https://t.co/WEinPBVSbx",
+							"expanded_url": "http://bit.ly/2mWy7yv",
+							"display_url": "bit.ly/2mWy7yv",
+							"indices": [
+								107,
+								130
+							]
+						},
+						{
+							"url": "https://t.co/83zuzC7LO0",
+							"expanded_url": "http://amzn.to/2lev9V0",
+							"display_url": "amzn.to/2lev9V0",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 217637,
+			"friends_count": 3602,
+			"listed_count": 706,
+			"created_at": "Thu Dec 04 11:06:45 +0000 2014",
+			"favourites_count": 165038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 34591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863860130009546754/-2Zr0kqI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863860130009546754/-2Zr0kqI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2904913023/1592303608",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1275447466343534600,
+		"quoted_status_id_str": "1275447466343534594",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n1H0YB3OCa",
+			"expanded": "https://twitter.com/independent/status/1275447466343534594",
+			"display": "twitter.com/independent/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 23 15:15:47 +0000 2020",
+			"id": 1275447466343534600,
+			"id_str": "1275447466343534594",
+			"full_text": "UK coronavirus death toll rises by 171 to 42,927 https://t.co/il0ObL8b33",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/il0ObL8b33",
+						"expanded_url": "https://www.independent.co.uk/news/uk/home-news/uk-coronavirus-death-toll-new-cases-update-a9581521.html?utm_medium=Social&utm_source=Twitter#Echobox=1592925347",
+						"display_url": "independent.co.uk/news/uk/home-n…",
+						"indices": [
+							49,
+							72
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16973333,
+				"id_str": "16973333",
+				"name": "The Independent",
+				"screen_name": "Independent",
+				"location": "London, England",
+				"description": "News, comment and features from The Independent. \n\nTry an ad-free experience with access to premium articles with our app: https://t.co/XGI8DtCR6B",
+				"url": "https://t.co/ENon5VCZ03",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ENon5VCZ03",
+								"expanded_url": "http://independent.co.uk",
+								"display_url": "independent.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XGI8DtCR6B",
+								"expanded_url": "http://independent.onelink.me/wgiA/cfc",
+								"display_url": "independent.onelink.me/wgiA/cfc",
+								"indices": [
+									123,
+									146
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3277830,
+				"friends_count": 1112,
+				"listed_count": 22883,
+				"created_at": "Sun Oct 26 00:00:29 +0000 2008",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 996565,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1148561910134202369/DRu4DQGV_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148561910134202369/DRu4DQGV_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16973333/1580733877",
+				"profile_link_color": "FC051A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 119,
+			"favorite_count": 143,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3221,
+		"favorite_count": 9059,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "23rd of March, 74 deaths:\nDo not leave your homes.\n\n23rd June, 171 deaths:\nOPEN THE PUBS IT IS YOUR PATRIOTIC DUTY TO GET SHITFACED https://t.co/n1H0YB3OCa"
+	},
+	{
+		"created_at": "Tue Jun 23 20:08:00 +0000 2020",
+		"id": 1275521005243506700,
+		"id_str": "1275521005243506688",
+		"full_text": "@PaddyArsenal I was hoping they would void the season so we wouldn't have to endure watching them over the summer. We came back worse than before.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PaddyArsenal",
+					"name": "Paddy",
+					"id": 612820859,
+					"id_str": "612820859",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1275519792926077000,
+		"in_reply_to_status_id_str": "1275519792926076929",
+		"in_reply_to_user_id": 612820859,
+		"in_reply_to_user_id_str": "612820859",
+		"in_reply_to_screen_name": "PaddyArsenal",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PaddyArsenal I was hoping they would void the season so we wouldn't have to endure watching them over the summer. We came back worse than before."
+	},
+	{
+		"created_at": "Tue Jun 23 19:14:43 +0000 2020",
+		"id": 1275450377983291400,
+		"id_str": "1275507598163402754",
+		"full_text": "https://t.co/OY2kzAMY5s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1275450369494020000,
+					"id_str": "1275450369494020096",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EbNPWnpU8AA-7ut.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbNPWnpU8AA-7ut.jpg",
+					"url": "https://t.co/OY2kzAMY5s",
+					"display_url": "pic.twitter.com/OY2kzAMY5s",
+					"expanded_url": "https://twitter.com/NedHartley/status/1275450377983291398/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1275450369494020000,
+					"id_str": "1275450369494020096",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EbNPWnpU8AA-7ut.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbNPWnpU8AA-7ut.jpg",
+					"url": "https://t.co/OY2kzAMY5s",
+					"display_url": "pic.twitter.com/OY2kzAMY5s",
+					"expanded_url": "https://twitter.com/NedHartley/status/1275450377983291398/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21085906,
+			"id_str": "21085906",
+			"name": "Ned Hartley",
+			"screen_name": "NedHartley",
+			"location": "London, England",
+			"description": "Writer of books, comics, magazines and all of these tweets.",
+			"url": "https://t.co/PKRxWoaXNF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PKRxWoaXNF",
+							"expanded_url": "http://www.nedhartley.com",
+							"display_url": "nedhartley.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4803,
+			"friends_count": 2040,
+			"listed_count": 68,
+			"created_at": "Tue Feb 17 12:52:58 +0000 2009",
+			"favourites_count": 26473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204380956670545920/FIyzNdTk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204380956670545920/FIyzNdTk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21085906/1571950589",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1724,
+		"favorite_count": 6048,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/OY2kzAMY5s"
+	},
+	{
+		"created_at": "Tue Jun 23 19:09:50 +0000 2020",
+		"id": 1275505477812662300,
+		"id_str": "1275506367256825858",
+		"full_text": "https://t.co/KupGmuybL0 https://t.co/Kw4oHAh9QV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KupGmuybL0",
+					"expanded_url": "https://twitter.com/MarkyMBryans/status/1275499292929785860",
+					"display_url": "twitter.com/MarkyMBryans/s…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1275505470669717500,
+					"id_str": "1275505470669717505",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbOBd7hWAAEaDPs.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbOBd7hWAAEaDPs.jpg",
+					"url": "https://t.co/Kw4oHAh9QV",
+					"display_url": "pic.twitter.com/Kw4oHAh9QV",
+					"expanded_url": "https://twitter.com/PainInThArsenal/status/1275505477812662278/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1275505470669717500,
+					"id_str": "1275505470669717505",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbOBd7hWAAEaDPs.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbOBd7hWAAEaDPs.jpg",
+					"url": "https://t.co/Kw4oHAh9QV",
+					"display_url": "pic.twitter.com/Kw4oHAh9QV",
+					"expanded_url": "https://twitter.com/PainInThArsenal/status/1275505477812662278/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EbOBd7hWAAEaDPs.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2535460231,
+			"id_str": "2535460231",
+			"name": "Pain In The Arsenal (at 🏡)",
+			"screen_name": "PainInThArsenal",
+			"location": "N5",
+			"description": "Arsenal News & Opinions | @FanSided. Podcast: https://t.co/K00gWOArJa",
+			"url": "https://t.co/SUKpmH0C0a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUKpmH0C0a",
+							"expanded_url": "https://paininthearsenal.com",
+							"display_url": "paininthearsenal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K00gWOArJa",
+							"expanded_url": "https://itunes.apple.com/gb/podcast/pain-in-the-arsenal-podcast/id1314514440?mt=2",
+							"display_url": "itunes.apple.com/gb/podcast/pai…",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17427,
+			"friends_count": 320,
+			"listed_count": 135,
+			"created_at": "Fri May 30 16:40:27 +0000 2014",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/996117649363959808/IP-K-7Pk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/996117649363959808/IP-K-7Pk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2535460231/1572268795",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1275499292929785900,
+		"quoted_status_id_str": "1275499292929785860",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KupGmuybL0",
+			"expanded": "https://twitter.com/MarkyMBryans/status/1275499292929785860",
+			"display": "twitter.com/MarkyMBryans/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 23 18:41:43 +0000 2020",
+			"id": 1275499292929785900,
+			"id_str": "1275499292929785860",
+			"full_text": "Expecting official confirmation some point this evening but I understand David Luiz has signed a new contract at #AFC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AFC",
+						"indices": [
+							113,
+							117
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20481323,
+				"id_str": "20481323",
+				"name": "Mark Mann-Bryans",
+				"screen_name": "MarkyMBryans",
+				"location": "London",
+				"description": "Sports Journalist for @pasport - mainly cover Arsenal and England as well as other London football. \n\nViews here are both wrong & my own. Pook.",
+				"url": "https://t.co/LZG0Y2oOiB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LZG0Y2oOiB",
+								"expanded_url": "https://www.pressassociation.com/sport/",
+								"display_url": "pressassociation.com/sport/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11029,
+				"friends_count": 1071,
+				"listed_count": 244,
+				"created_at": "Tue Feb 10 00:38:07 +0000 2009",
+				"favourites_count": 1297,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16972,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1272865618992267264/lLFjxwJz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272865618992267264/lLFjxwJz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20481323/1560420463",
+				"profile_link_color": "ED2F4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C3E353",
+				"profile_text_color": "FE243C",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1455,
+			"favorite_count": 5118,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/KupGmuybL0 https://t.co/Kw4oHAh9QV"
+	},
+	{
+		"created_at": "Tue Jun 23 14:29:32 +0000 2020",
+		"id": 1275435829150617600,
+		"id_str": "1275435829150617603",
+		"full_text": "@coombem1978 @HarveyDownes92 @Orbinho (hopefully without tempting fate) at least we can't get any worse",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coombem1978",
+					"name": "mattyc",
+					"id": 73145004,
+					"id_str": "73145004",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "HarveyDownes92",
+					"name": "Harvey Downes",
+					"id": 87225288,
+					"id_str": "87225288",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "Orbinho",
+					"name": "Orbinho",
+					"id": 60026651,
+					"id_str": "60026651",
+					"indices": [
+						29,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1275433869777518600,
+		"in_reply_to_status_id_str": "1275433869777518593",
+		"in_reply_to_user_id": 73145004,
+		"in_reply_to_user_id_str": "73145004",
+		"in_reply_to_screen_name": "coombem1978",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@coombem1978 @HarveyDownes92 @Orbinho (hopefully without tempting fate) at least we can't get any worse"
+	},
+	{
+		"created_at": "Tue Jun 23 13:42:22 +0000 2020",
+		"id": 1275423957185892400,
+		"id_str": "1275423957185892355",
+		"full_text": "@eops make sure you don't leave any vinyl out in the sun https://t.co/zQRiEmTCQN",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1275423949334163500,
+					"id_str": "1275423949334163456",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbM3Uw4WsAA2yPP.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbM3Uw4WsAA2yPP.jpg",
+					"url": "https://t.co/zQRiEmTCQN",
+					"display_url": "pic.twitter.com/zQRiEmTCQN",
+					"expanded_url": "https://twitter.com/mfshill/status/1275423957185892355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1275423949334163500,
+					"id_str": "1275423949334163456",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbM3Uw4WsAA2yPP.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbM3Uw4WsAA2yPP.jpg",
+					"url": "https://t.co/zQRiEmTCQN",
+					"display_url": "pic.twitter.com/zQRiEmTCQN",
+					"expanded_url": "https://twitter.com/mfshill/status/1275423957185892355/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							187
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EbM3Uw4WsAA2yPP.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1275398453149958100,
+		"in_reply_to_status_id_str": "1275398453149958146",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@eops make sure you don't leave any vinyl out in the sun https://t.co/zQRiEmTCQN"
+	},
+	{
 		"created_at": "Mon Jun 22 15:05:20 +0000 2020",
 		"id": 1275082451144986600,
 		"id_str": "1275082451144986629",
