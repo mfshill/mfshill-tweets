@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 24 08:30:17 +0000 2020",
+		"id": 1275688108818944000,
+		"id_str": "1275707808365846529",
+		"full_text": "https://t.co/0gfiCZYgpt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1275688077575499800,
+					"id_str": "1275688077575499777",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbQnjDQWsAEJ8G4.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbQnjDQWsAEJ8G4.jpg",
+					"url": "https://t.co/0gfiCZYgpt",
+					"display_url": "pic.twitter.com/0gfiCZYgpt",
+					"expanded_url": "https://twitter.com/SimpsonsArsenal/status/1275688108818944005/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1275688077575499800,
+					"id_str": "1275688077575499777",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbQnjDQWsAEJ8G4.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbQnjDQWsAEJ8G4.jpg",
+					"url": "https://t.co/0gfiCZYgpt",
+					"display_url": "pic.twitter.com/0gfiCZYgpt",
+					"expanded_url": "https://twitter.com/SimpsonsArsenal/status/1275688108818944005/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EbQnjDQWsAEJ8G4.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1096703520798056400,
+			"id_str": "1096703520798056450",
+			"name": "Simpsons Arsenal",
+			"screen_name": "SimpsonsArsenal",
+			"location": "London, England",
+			"description": "Just an Arsenal fan posting Simpsons quotes and gifs",
+			"url": "https://t.co/KCaX1PHEyx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KCaX1PHEyx",
+							"expanded_url": "http://instagram.com/simpsonsarsenal",
+							"display_url": "instagram.com/simpsonsarsenal",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45725,
+			"friends_count": 61,
+			"listed_count": 237,
+			"created_at": "Sat Feb 16 09:31:09 +0000 2019",
+			"favourites_count": 5773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161285080226127874/sqXr48eC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161285080226127874/sqXr48eC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1096703520798056450/1559308826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 744,
+		"favorite_count": 3908,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/0gfiCZYgpt"
+	},
+	{
+		"created_at": "Wed Jun 24 08:12:45 +0000 2020",
+		"id": 1275697810755764200,
+		"id_str": "1275703395073097728",
+		"full_text": "David Luiz has either been sent off, made an error leading to a goal or given away a penalty, every 3.1 games in the Premier League this season. https://t.co/Mox5mIpJ1U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mox5mIpJ1U",
+					"expanded_url": "https://twitter.com/skysportsnews/status/1275695438432174081",
+					"display_url": "twitter.com/skysportsnews/…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 737984539130265600,
+			"id_str": "737984539130265600",
+			"name": "Premier League Panel",
+			"screen_name": "PremLeaguePanel",
+			"location": "England, United Kingdom",
+			"description": "Account for all football fans | Football writers analyse and discuss the latest Premier League news and matches as well as European football | Est. 2016",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71108,
+			"friends_count": 9211,
+			"listed_count": 310,
+			"created_at": "Wed Jun 01 12:30:00 +0000 2016",
+			"favourites_count": 21691,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092570431633145857/UKSzQ8YY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092570431633145857/UKSzQ8YY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/737984539130265600/1565983152",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1275695438432174000,
+		"quoted_status_id_str": "1275695438432174081",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Mox5mIpJ1U",
+			"expanded": "https://twitter.com/skysportsnews/status/1275695438432174081",
+			"display": "twitter.com/skysportsnews/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 24 07:41:08 +0000 2020",
+			"id": 1275695438432174000,
+			"id_str": "1275695438432174081",
+			"full_text": "BREAKING: David Luiz has signed a new one-year contract at Arsenal.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 108568373,
+				"id_str": "108568373",
+				"name": "Sky Sports News",
+				"screen_name": "SkySportsNews",
+				"location": "England",
+				"description": "The official Twitter account for Sky Sports News. Your home of sports news on channel 409.",
+				"url": "https://t.co/YB3Plq85ry",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YB3Plq85ry",
+								"expanded_url": "http://www.skysports.com",
+								"display_url": "skysports.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7686243,
+				"friends_count": 73,
+				"listed_count": 14720,
+				"created_at": "Tue Jan 26 10:22:29 +0000 2010",
+				"favourites_count": 383,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 84812,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1201788581339111424/EKi9pdC0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201788581339111424/EKi9pdC0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/108568373/1512372230",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5709,
+			"favorite_count": 39453,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 142,
+		"favorite_count": 1102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "David Luiz has either been sent off, made an error leading to a goal or given away a penalty, every 3.1 games in the Premier League this season. https://t.co/Mox5mIpJ1U"
+	},
+	{
 		"created_at": "Tue Jun 23 20:11:52 +0000 2020",
 		"id": 1275449093544800300,
 		"id_str": "1275521979823665153",
