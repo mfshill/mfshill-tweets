@@ -1,6 +1,637 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 29 22:02:46 +0000 2020",
+		"id": 1277724214326448000,
+		"id_str": "1277724214326448130",
+		"full_text": "https://t.co/XKTTNwqfSF https://t.co/QgHUJWwpVM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XKTTNwqfSF",
+					"expanded_url": "https://twitter.com/BBCNews/status/1277686654627729409",
+					"display_url": "twitter.com/BBCNews/status…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1277724204419473400,
+					"id_str": "1277724204419473408",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EbtjZO1XYAAakKo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbtjZO1XYAAakKo.jpg",
+					"url": "https://t.co/QgHUJWwpVM",
+					"display_url": "pic.twitter.com/QgHUJWwpVM",
+					"expanded_url": "https://twitter.com/mfshill/status/1277724214326448130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 880,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 880,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277724204419473400,
+					"id_str": "1277724204419473408",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EbtjZO1XYAAakKo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbtjZO1XYAAakKo.jpg",
+					"url": "https://t.co/QgHUJWwpVM",
+					"display_url": "pic.twitter.com/QgHUJWwpVM",
+					"expanded_url": "https://twitter.com/mfshill/status/1277724214326448130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 880,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 880,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1082,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1277686654627729400,
+		"quoted_status_id_str": "1277686654627729409",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XKTTNwqfSF",
+			"expanded": "https://twitter.com/BBCNews/status/1277686654627729409",
+			"display": "twitter.com/BBCNews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 29 19:33:31 +0000 2020",
+			"id": 1277686654627729400,
+			"id_str": "1277686654627729409",
+			"full_text": "Flu virus with 'pandemic potential' found in China https://t.co/fcTmu5DhWC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fcTmu5DhWC",
+						"expanded_url": "https://bbc.in/2ZlNa3N",
+						"display_url": "bbc.in/2ZlNa3N",
+						"indices": [
+							51,
+							74
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 612473,
+				"id_str": "612473",
+				"name": "BBC News (UK)",
+				"screen_name": "BBCNews",
+				"location": "London",
+				"description": "News, features and analysis. For world news, follow @BBCWorld. Breaking news, follow @BBCBreaking. Latest sport news @BBCSport. Our Instagram: BBCNews",
+				"url": "https://t.co/vBzl7LNCCQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vBzl7LNCCQ",
+								"expanded_url": "http://www.bbc.co.uk/news",
+								"display_url": "bbc.co.uk/news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11105841,
+				"friends_count": 101,
+				"listed_count": 42414,
+				"created_at": "Mon Jan 08 08:05:57 +0000 2007",
+				"favourites_count": 45,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 420753,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1150718511129477120/2N_GW7HR_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150718511129477120/2N_GW7HR_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/612473/1584532383",
+				"profile_link_color": "1F527B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "5A5A5A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7287,
+			"favorite_count": 11109,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/XKTTNwqfSF https://t.co/QgHUJWwpVM"
+	},
+	{
+		"created_at": "Mon Jun 29 19:54:47 +0000 2020",
+		"id": 1263307676752031700,
+		"id_str": "1277692005515177985",
+		"full_text": "めっちゃ混んでる https://t.co/qoAqfvIyQ3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1263307664668258300,
+					"id_str": "1263307664668258305",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/EYgroLKUcAEpRu1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYgroLKUcAEpRu1.jpg",
+					"url": "https://t.co/qoAqfvIyQ3",
+					"display_url": "pic.twitter.com/qoAqfvIyQ3",
+					"expanded_url": "https://twitter.com/chacha0rca/status/1263307676752031747/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263307664668258300,
+					"id_str": "1263307664668258305",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/EYgroLKUcAEpRu1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYgroLKUcAEpRu1.jpg",
+					"url": "https://t.co/qoAqfvIyQ3",
+					"display_url": "pic.twitter.com/qoAqfvIyQ3",
+					"expanded_url": "https://twitter.com/chacha0rca/status/1263307676752031747/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 405671873,
+			"id_str": "405671873",
+			"name": "もっち",
+			"screen_name": "chacha0rca",
+			"location": "日本",
+			"description": "動物ばっか投稿する人\nたまにほかも撮るよ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3055,
+			"friends_count": 338,
+			"listed_count": 28,
+			"created_at": "Sat Nov 05 16:47:55 +0000 2011",
+			"favourites_count": 64759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5877,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262739938648285198/OHv4NaJr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262739938648285198/OHv4NaJr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/405671873/1585210761",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98095,
+		"favorite_count": 367915,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "めっちゃ混んでる https://t.co/qoAqfvIyQ3"
+	},
+	{
+		"created_at": "Mon Jun 29 19:54:42 +0000 2020",
+		"id": 1276162784867344400,
+		"id_str": "1277691984912711680",
+		"full_text": "Social distancing in Parisian cafés today: https://t.co/armOGkEARu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1276162702336053200,
+					"id_str": "1276162702336053251",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EbXXN2RX0AMAD6C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbXXN2RX0AMAD6C.jpg",
+					"url": "https://t.co/armOGkEARu",
+					"display_url": "pic.twitter.com/armOGkEARu",
+					"expanded_url": "https://twitter.com/RobertsonDawn3/status/1276162784867344387/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 938,
+							"h": 686,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 938,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1276162702336053200,
+					"id_str": "1276162702336053251",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EbXXN2RX0AMAD6C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbXXN2RX0AMAD6C.jpg",
+					"url": "https://t.co/armOGkEARu",
+					"display_url": "pic.twitter.com/armOGkEARu",
+					"expanded_url": "https://twitter.com/RobertsonDawn3/status/1276162784867344387/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 938,
+							"h": 686,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 938,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1228017892450590700,
+			"id_str": "1228017892450590722",
+			"name": "Dawn Robertson 🇪🇺🏴󠁧󠁢󠁳󠁣󠁴󠁿🇳🇱#FBPE",
+			"screen_name": "RobertsonDawn3",
+			"location": "EU, Scotland, France, Cumbria",
+			"description": "Publisher/journalist - environment, music, farming, art, wildlife, traditions, mountains, walking, history, countryside",
+			"url": "https://t.co/HhCkH8hABU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HhCkH8hABU",
+							"expanded_url": "http://www.hayloft.eu",
+							"display_url": "hayloft.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 774,
+			"friends_count": 414,
+			"listed_count": 0,
+			"created_at": "Thu Feb 13 18:07:49 +0000 2020",
+			"favourites_count": 17489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228316304253296641/Y3441S5y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228316304253296641/Y3441S5y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1228017892450590722/1581688421",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44264,
+		"favorite_count": 124530,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Social distancing in Parisian cafés today: https://t.co/armOGkEARu"
+	},
+	{
 		"created_at": "Sun Jun 28 22:44:09 +0000 2020",
 		"id": 1277372241085444000,
 		"id_str": "1277372241085444101",
