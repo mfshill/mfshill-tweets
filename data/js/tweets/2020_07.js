@@ -1,6 +1,1232 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 03 22:37:57 +0000 2020",
+		"id": 1279143214067396600,
+		"id_str": "1279182619595493384",
+		"full_text": "From the Black Death to polio, the most dangerous pathogens have moved silently, transmitted by apparently healthy people https://t.co/yUGvAHncs8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yUGvAHncs8",
+					"expanded_url": "https://aeon.co/essays/the-most-dangerous-pathogens-in-human-history-have-moved-by-stealth",
+					"display_url": "aeon.co/essays/the-mos…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 481943972,
+			"id_str": "481943972",
+			"name": "Aeon+Psyche",
+			"screen_name": "aeonmag",
+			"location": "",
+			"description": "Aeon is a magazine of ideas and culture. Psyche is our new sister magazine focused on the human condition. Visit https://t.co/dKH9SdpOWn and https://t.co/bZBO9exqKa for more.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dKH9SdpOWn",
+							"expanded_url": "http://aeon.co",
+							"display_url": "aeon.co",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/bZBO9exqKa",
+							"expanded_url": "http://psyche.co",
+							"display_url": "psyche.co",
+							"indices": [
+								141,
+								164
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 153288,
+			"friends_count": 2602,
+			"listed_count": 4189,
+			"created_at": "Fri Feb 03 10:43:27 +0000 2012",
+			"favourites_count": 18463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 43220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262278554672230401/wuvpECl5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262278554672230401/wuvpECl5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/481943972/1592201347",
+			"profile_link_color": "0A4171",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From the Black Death to polio, the most dangerous pathogens have moved silently, transmitted by apparently healthy people https://t.co/yUGvAHncs8"
+	},
+	{
+		"created_at": "Fri Jul 03 19:08:54 +0000 2020",
+		"id": 1279130009626706000,
+		"id_str": "1279130009626705922",
+		"full_text": "@jamieoliver what kind of hob is Jamie using on #QuickandEasyFood?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "QuickandEasyFood",
+					"indices": [
+						48,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jamieoliver",
+					"name": "Jamie Oliver",
+					"id": 18676177,
+					"id_str": "18676177",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 18676177,
+		"in_reply_to_user_id_str": "18676177",
+		"in_reply_to_screen_name": "jamieoliver",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jamieoliver what kind of hob is Jamie using on #QuickandEasyFood?"
+	},
+	{
+		"created_at": "Fri Jul 03 18:11:47 +0000 2020",
+		"id": 1279108422391259100,
+		"id_str": "1279115638284472323",
+		"full_text": "With fewer than 12 hours until the pubs reopen, a giddy #BlackBoris asks the nation to exercise caution Bottoms up and see you in Wetherspoons! #comedy #viral #borisjohnson #britishcomedy #independenceday https://t.co/HwnwYSfUht",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlackBoris",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"text": "comedy",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "viral",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "borisjohnson",
+					"indices": [
+						159,
+						172
+					]
+				},
+				{
+					"text": "britishcomedy",
+					"indices": [
+						173,
+						187
+					]
+				},
+				{
+					"text": "independenceday",
+					"indices": [
+						188,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1279107757950611500,
+					"id_str": "1279107757950611457",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1279107757950611457/pu/img/c96ByqR8TMsBY_Lv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1279107757950611457/pu/img/c96ByqR8TMsBY_Lv.jpg",
+					"url": "https://t.co/HwnwYSfUht",
+					"display_url": "pic.twitter.com/HwnwYSfUht",
+					"expanded_url": "https://twitter.com/Angelo3000k/status/1279108422391259136/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279107757950611500,
+					"id_str": "1279107757950611457",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1279107757950611457/pu/img/c96ByqR8TMsBY_Lv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1279107757950611457/pu/img/c96ByqR8TMsBY_Lv.jpg",
+					"url": "https://t.co/HwnwYSfUht",
+					"display_url": "pic.twitter.com/HwnwYSfUht",
+					"expanded_url": "https://twitter.com/Angelo3000k/status/1279108422391259136/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 61946,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1279107757950611457/pu/vid/720x1280/u59xar9IUi4F_JUY.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1279107757950611457/pu/pl/ywrM2rPML9hli1bG.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1279107757950611457/pu/vid/360x640/-g4iSdnh-QQ4vB8t.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1279107757950611457/pu/vid/320x568/Yt_9tvfSEQQvn5ef.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 289377954,
+			"id_str": "289377954",
+			"name": "Black Boris",
+			"screen_name": "Angelo3000k",
+			"location": "A man without a country",
+			"description": "Black Guy in a Box \nhttps://t.co/oKSzDHChuO \nBlack Unicorn (on hiatus) \nWriter\nTheatre Critic @ hotpotatohull\nCoach\nResearcher\nCurator",
+			"url": "https://t.co/didJsU5cXX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/didJsU5cXX",
+							"expanded_url": "https://m.soundcloud.com/blackguysinabox",
+							"display_url": "m.soundcloud.com/blackguysinabox",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oKSzDHChuO",
+							"expanded_url": "http://Paypal.me/theblackunicorn",
+							"display_url": "Paypal.me/theblackunicorn",
+							"indices": [
+								20,
+								43
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7158,
+			"friends_count": 529,
+			"listed_count": 18,
+			"created_at": "Thu Apr 28 14:57:24 +0000 2011",
+			"favourites_count": 3353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261938361394245633/zR9Q_pUz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261938361394245633/zR9Q_pUz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/289377954/1590340275",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With fewer than 12 hours until the pubs reopen, a giddy #BlackBoris asks the nation to exercise caution Bottoms up and see you in Wetherspoons! #comedy #viral #borisjohnson #britishcomedy #independenceday https://t.co/HwnwYSfUht"
+	},
+	{
+		"created_at": "Fri Jul 03 18:09:13 +0000 2020",
+		"id": 1279008877602898000,
+		"id_str": "1279114991824756737",
+		"full_text": "A virologist, an epidemiologist and a scientist don’t walk into a bar...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44453602,
+			"id_str": "44453602",
+			"name": "It's Dave Yeah?",
+			"screen_name": "RadventureDave",
+			"location": "on't moors",
+			"description": "Mountain bike riding storyteller. Co-founder of RADventure.cc",
+			"url": "https://t.co/ewpcfe9Rc4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ewpcfe9Rc4",
+							"expanded_url": "http://www.radventure.cc",
+							"display_url": "radventure.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1644,
+			"friends_count": 330,
+			"listed_count": 47,
+			"created_at": "Wed Jun 03 20:49:36 +0000 2009",
+			"favourites_count": 1045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1031293887502053377/34rnOBeL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031293887502053377/34rnOBeL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44453602/1534714599",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 131,
+		"favorite_count": 245,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "A virologist, an epidemiologist and a scientist don’t walk into a bar..."
+	},
+	{
+		"created_at": "Fri Jul 03 18:03:15 +0000 2020",
+		"id": 1279113491635409000,
+		"id_str": "1279113491635408897",
+		"full_text": "yep, has felt like that all the way through https://t.co/IsUc8mtcqv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IsUc8mtcqv",
+					"expanded_url": "https://twitter.com/ITVWales/status/1279020505228591104",
+					"display_url": "twitter.com/ITVWales/statu…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1279020505228591000,
+		"quoted_status_id_str": "1279020505228591104",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IsUc8mtcqv",
+			"expanded": "https://twitter.com/ITVWales/status/1279020505228591104",
+			"display": "twitter.com/ITVWales/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 03 11:53:46 +0000 2020",
+			"id": 1279020505228591000,
+			"id_str": "1279020505228591104",
+			"full_text": "The First Minister has said dealing with the UK Government has been “utterly shambolic” over its approach to quarantine rules. https://t.co/8cgqZa4tmV https://t.co/D1Zt3nafXz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8cgqZa4tmV",
+						"expanded_url": "https://bit.ly/2C72byn",
+						"display_url": "bit.ly/2C72byn",
+						"indices": [
+							127,
+							150
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1279018339461763000,
+						"id_str": "1279018339461763072",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1279018339461763072/img/t_0p3PViDoniL17o.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1279018339461763072/img/t_0p3PViDoniL17o.jpg",
+						"url": "https://t.co/D1Zt3nafXz",
+						"display_url": "pic.twitter.com/D1Zt3nafXz",
+						"expanded_url": "https://twitter.com/ITVWales/status/1279020505228591104/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1279018339461763000,
+						"id_str": "1279018339461763072",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1279018339461763072/img/t_0p3PViDoniL17o.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1279018339461763072/img/t_0p3PViDoniL17o.jpg",
+						"url": "https://t.co/D1Zt3nafXz",
+						"display_url": "pic.twitter.com/D1Zt3nafXz",
+						"expanded_url": "https://twitter.com/ITVWales/status/1279020505228591104/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							}
+						},
+						"additional_media_info": {
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://bit.ly/2C72byn"
+								}
+							},
+							"embeddable": false,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.twitter.com/\" rel=\"nofollow\">Twitter Media Studio - LiveCut</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 166942410,
+				"id_str": "166942410",
+				"name": "ITV Wales News",
+				"screen_name": "ITVWales",
+				"location": "Wales",
+				"description": "The latest news, sport & entertainment for Wales. Contact us: wales@itv.com - https://t.co/p0kGsvP13M - https://t.co/nDcD2LUq2d",
+				"url": "http://t.co/CkDL0Cne9s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/CkDL0Cne9s",
+								"expanded_url": "http://itv.com/wales",
+								"display_url": "itv.com/wales",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/p0kGsvP13M",
+								"expanded_url": "http://facebook.com/itvwales/",
+								"display_url": "facebook.com/itvwales/",
+								"indices": [
+									78,
+									101
+								]
+							},
+							{
+								"url": "https://t.co/nDcD2LUq2d",
+								"expanded_url": "http://instagram.com/itvwales",
+								"display_url": "instagram.com/itvwales",
+								"indices": [
+									104,
+									127
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 92386,
+				"friends_count": 1285,
+				"listed_count": 606,
+				"created_at": "Thu Jul 15 10:59:09 +0000 2010",
+				"favourites_count": 553,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 65999,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1166284135004028928/XxWv5YUy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166284135004028928/XxWv5YUy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/166942410/1566898983",
+				"profile_link_color": "006473",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1350,
+			"favorite_count": 3156,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "yep, has felt like that all the way through https://t.co/IsUc8mtcqv"
+	},
+	{
+		"created_at": "Fri Jul 03 15:03:21 +0000 2020",
+		"id": 1279068215214313500,
+		"id_str": "1279068215214313477",
+		"full_text": "F2 cars look great on the big rims",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "F2 cars look great on the big rims"
+	},
+	{
+		"created_at": "Fri Jul 03 11:06:21 +0000 2020",
+		"id": 1279008573369049000,
+		"id_str": "1279008573369049088",
+		"full_text": "https://t.co/4wpWGIKGz3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4wpWGIKGz3",
+					"expanded_url": "https://twitter.com/CNN/status/1278619953202188289",
+					"display_url": "twitter.com/CNN/status/127…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1279008487100633000,
+		"in_reply_to_status_id_str": "1279008487100633088",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1278619953202188300,
+		"quoted_status_id_str": "1278619953202188289",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4wpWGIKGz3",
+			"expanded": "https://twitter.com/CNN/status/1278619953202188289",
+			"display": "twitter.com/CNN/status/127…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 02 09:22:07 +0000 2020",
+			"id": 1278619953202188300,
+			"id_str": "1278619953202188289",
+			"full_text": "\"It's appalling -- we need to know what the hell is going on.\"\n\nMore than 360 elephants have died in mysterious circumstances in Botswana in the past three months, according to local conservationists. https://t.co/Gks7obQXk9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				224
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Gks7obQXk9",
+						"expanded_url": "https://cnn.it/2CWFT2N",
+						"display_url": "cnn.it/2CWFT2N",
+						"indices": [
+							201,
+							224
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 759251,
+				"id_str": "759251",
+				"name": "CNN",
+				"screen_name": "CNN",
+				"location": "",
+				"description": "It’s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+				"url": "http://t.co/IaghNW8Xm2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IaghNW8Xm2",
+								"expanded_url": "http://www.cnn.com",
+								"display_url": "cnn.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UCHG9M367J",
+								"expanded_url": "http://cnn.com/apps",
+								"display_url": "cnn.com/apps",
+								"indices": [
+									134,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 48864243,
+				"friends_count": 1109,
+				"listed_count": 139675,
+				"created_at": "Fri Feb 09 00:35:02 +0000 2007",
+				"favourites_count": 1427,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 307483,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "323232",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1564637377",
+				"profile_link_color": "004287",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2807,
+			"favorite_count": 3252,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/4wpWGIKGz3"
+	},
+	{
 		"created_at": "Thu Jul 02 18:53:27 +0000 2020",
 		"id": 1278761987737112600,
 		"id_str": "1278763736329793536",
