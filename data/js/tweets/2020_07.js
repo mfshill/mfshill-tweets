@@ -1,6 +1,1002 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 13 23:26:15 +0000 2020",
+		"id": 1281321223948034000,
+		"id_str": "1282818652576845825",
+		"full_text": "Despite clinging to the “hope” of staging this year’s London Marathon, which was postponed, organisers fear not only will the 2020 edition be cancelled altogether but that it may be impossible to stage the 2021 event in its usual slot.\n\nRead more: https://t.co/Fng3LYBh1m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fng3LYBh1m",
+					"expanded_url": "https://www.telegraph.co.uk/athletics/2020/07/09/london-marathon-may-not-take-place-october-2021/",
+					"display_url": "telegraph.co.uk/athletics/2020…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16343974,
+			"id_str": "16343974",
+			"name": "The Telegraph",
+			"screen_name": "Telegraph",
+			"location": "London, UK",
+			"description": "Think ahead with the latest news, comment, analysis and video",
+			"url": "https://t.co/ve1cMBKSfu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ve1cMBKSfu",
+							"expanded_url": "http://www.telegraph.co.uk/?WT.mc_id=tw",
+							"display_url": "telegraph.co.uk/?WT.mc_id=tw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2912617,
+			"friends_count": 759,
+			"listed_count": 17598,
+			"created_at": "Thu Sep 18 06:50:54 +0000 2008",
+			"favourites_count": 289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 382807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5F5653",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/943090005723041792/2cjxINlJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/943090005723041792/2cjxINlJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16343974/1582025066",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F4F4F0",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Despite clinging to the “hope” of staging this year’s London Marathon, which was postponed, organisers fear not only will the 2020 edition be cancelled altogether but that it may be impossible to stage the 2021 event in its usual slot.\n\nRead more: https://t.co/Fng3LYBh1m"
+	},
+	{
+		"created_at": "Mon Jul 13 18:28:42 +0000 2020",
+		"id": 1282743773118836700,
+		"id_str": "1282743773118836741",
+		"full_text": "Fantastic! https://t.co/5bXblMeZSz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5bXblMeZSz",
+					"expanded_url": "https://twitter.com/ChiMarathon/status/1282739660133892096",
+					"display_url": "twitter.com/ChiMarathon/st…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1282739660133892000,
+		"quoted_status_id_str": "1282739660133892096",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5bXblMeZSz",
+			"expanded": "https://twitter.com/ChiMarathon/status/1282739660133892096",
+			"display": "twitter.com/ChiMarathon/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 13 18:12:21 +0000 2020",
+			"id": 1282739660133892000,
+			"id_str": "1282739660133892096",
+			"full_text": "Registered participants for the 2020 Chicago Marathon and International Chicago 5K will have the option to receive a refund for their entry or to defer their place and entry fee to a future race (2021, 2022 or 2023). An update with additional information will be provided soon.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1282739658791833600,
+			"in_reply_to_status_id_str": "1282739658791833600",
+			"in_reply_to_user_id": 340364507,
+			"in_reply_to_user_id_str": "340364507",
+			"in_reply_to_screen_name": "ChiMarathon",
+			"user": {
+				"id": 340364507,
+				"id_str": "340364507",
+				"name": "Chicago Marathon",
+				"screen_name": "ChiMarathon",
+				"location": "Chicago, IL",
+				"description": "The official Twitter handle for the Bank of America Chicago Marathon. Follow along for event updates and to share your Marathon experience. #ChicagoMarathon",
+				"url": "https://t.co/cAYknKm3Gq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cAYknKm3Gq",
+								"expanded_url": "http://www.chicagomarathon.com",
+								"display_url": "chicagomarathon.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 71150,
+				"friends_count": 225,
+				"listed_count": 733,
+				"created_at": "Fri Jul 22 15:45:16 +0000 2011",
+				"favourites_count": 964,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2177,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1113547086664957959/KdgxWKUj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113547086664957959/KdgxWKUj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/340364507/1574722414",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 107,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fantastic! https://t.co/5bXblMeZSz"
+	},
+	{
+		"created_at": "Mon Jul 13 18:24:51 +0000 2020",
+		"id": 1282742805455085600,
+		"id_str": "1282742805455085569",
+		"full_text": "FINALLY! gutted I won't get a chance to run this year but there's always next year hopefully post Covid https://t.co/8TyYIOewHf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8TyYIOewHf",
+					"expanded_url": "https://twitter.com/ChiMarathon/status/1282739656677888001",
+					"display_url": "twitter.com/ChiMarathon/st…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1282739656677888000,
+		"quoted_status_id_str": "1282739656677888001",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8TyYIOewHf",
+			"expanded": "https://twitter.com/ChiMarathon/status/1282739656677888001",
+			"display": "twitter.com/ChiMarathon/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 13 18:12:20 +0000 2020",
+			"id": 1282739656677888000,
+			"id_str": "1282739656677888001",
+			"full_text": "The 2020 Bank of America Chicago Marathon, scheduled for Sunday, October 11, and race weekend activities have been canceled by event organizers and the City of Chicago in response to the ongoing public health concerns brought on by the coronavirus pandemic. https://t.co/ASTBlFbIEX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				257
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1282739652168945700,
+						"id_str": "1282739652168945664",
+						"indices": [
+							258,
+							281
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec006trWkAA98wS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec006trWkAA98wS.jpg",
+						"url": "https://t.co/ASTBlFbIEX",
+						"display_url": "pic.twitter.com/ASTBlFbIEX",
+						"expanded_url": "https://twitter.com/ChiMarathon/status/1282739656677888001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1282739652168945700,
+						"id_str": "1282739652168945664",
+						"indices": [
+							258,
+							281
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec006trWkAA98wS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec006trWkAA98wS.jpg",
+						"url": "https://t.co/ASTBlFbIEX",
+						"display_url": "pic.twitter.com/ASTBlFbIEX",
+						"expanded_url": "https://twitter.com/ChiMarathon/status/1282739656677888001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 340364507,
+				"id_str": "340364507",
+				"name": "Chicago Marathon",
+				"screen_name": "ChiMarathon",
+				"location": "Chicago, IL",
+				"description": "The official Twitter handle for the Bank of America Chicago Marathon. Follow along for event updates and to share your Marathon experience. #ChicagoMarathon",
+				"url": "https://t.co/cAYknKm3Gq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cAYknKm3Gq",
+								"expanded_url": "http://www.chicagomarathon.com",
+								"display_url": "chicagomarathon.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 71150,
+				"friends_count": 225,
+				"listed_count": 733,
+				"created_at": "Fri Jul 22 15:45:16 +0000 2011",
+				"favourites_count": 964,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2177,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1113547086664957959/KdgxWKUj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113547086664957959/KdgxWKUj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/340364507/1574722414",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 343,
+			"favorite_count": 695,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "FINALLY! gutted I won't get a chance to run this year but there's always next year hopefully post Covid https://t.co/8TyYIOewHf"
+	},
+	{
+		"created_at": "Mon Jul 13 16:59:18 +0000 2020",
+		"id": 1282379703014305800,
+		"id_str": "1282721275262259201",
+		"full_text": "We were all worried about Skynet. Meanwhile, nunchuck bears.\n\nhttps://t.co/ZfGMIkYFl3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1281924433523822600,
+					"id_str": "1281924433523822592",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1281924433523822592/pu/img/gWGn_adxypyqtoOE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1281924433523822592/pu/img/gWGn_adxypyqtoOE.jpg",
+					"url": "https://t.co/ZfGMIkYFl3",
+					"display_url": "pic.twitter.com/ZfGMIkYFl3",
+					"expanded_url": "https://twitter.com/shirokumaroko/status/1281924476876161024/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1281924476876161000,
+					"source_status_id_str": "1281924476876161024",
+					"source_user_id": 3825182113,
+					"source_user_id_str": "3825182113"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281924433523822600,
+					"id_str": "1281924433523822592",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1281924433523822592/pu/img/gWGn_adxypyqtoOE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1281924433523822592/pu/img/gWGn_adxypyqtoOE.jpg",
+					"url": "https://t.co/ZfGMIkYFl3",
+					"display_url": "pic.twitter.com/ZfGMIkYFl3",
+					"expanded_url": "https://twitter.com/shirokumaroko/status/1281924476876161024/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1281924476876161000,
+					"source_status_id_str": "1281924476876161024",
+					"source_user_id": 3825182113,
+					"source_user_id_str": "3825182113",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21792,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1281924433523822592/pu/vid/1280x720/k6D8n02huQOtI588.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1281924433523822592/pu/vid/640x360/WTUDgvzKwh2fZiaA.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1281924433523822592/pu/pl/e3MBUluOa5p2b48I.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1281924433523822592/pu/vid/480x270/mptqROQiYvkFGjjU.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3825182113,
+							"id_str": "3825182113",
+							"name": "そらまめきなこ",
+							"screen_name": "shirokumaroko",
+							"location": "",
+							"description": "ホッキョクグマポロロとマルル公開日に偶然遭遇して感動！しょぼいカメラ持参で動物園に通うようになりました。",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1127,
+							"friends_count": 121,
+							"listed_count": 24,
+							"created_at": "Thu Oct 08 12:13:19 +0000 2015",
+							"favourites_count": 168085,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 21760,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/652100441400963073/34cbGcrp_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/652100441400963073/34cbGcrp_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3825182113/1444344590",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 341479460,
+			"id_str": "341479460",
+			"name": "Kevin Brackett",
+			"screen_name": "KevinRBrackett",
+			"location": "St. Louis",
+			"description": "Co-host of @ReelSpoilers (https://t.co/jsYxm4YKM7). Editor In Chief @ReviewStLouis (https://t.co/XhlYDsXsNe).",
+			"url": "https://t.co/uikF9dc4X7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uikF9dc4X7",
+							"expanded_url": "http://www.ReviewSTL.com",
+							"display_url": "ReviewSTL.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jsYxm4YKM7",
+							"expanded_url": "http://goo.gl/pVMszR",
+							"display_url": "goo.gl/pVMszR",
+							"indices": [
+								26,
+								49
+							]
+						},
+						{
+							"url": "https://t.co/XhlYDsXsNe",
+							"expanded_url": "http://ReviewSTL.com",
+							"display_url": "ReviewSTL.com",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7797,
+			"friends_count": 7503,
+			"listed_count": 54,
+			"created_at": "Sun Jul 24 12:39:27 +0000 2011",
+			"favourites_count": 59825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276882270541041666/mljLYnoZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276882270541041666/mljLYnoZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/341479460/1592759552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9507,
+		"favorite_count": 30866,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We were all worried about Skynet. Meanwhile, nunchuck bears.\n\nhttps://t.co/ZfGMIkYFl3"
+	},
+	{
+		"created_at": "Mon Jul 13 11:23:49 +0000 2020",
+		"id": 1282636849941487600,
+		"id_str": "1282636849941487616",
+		"full_text": "@eops great background music for wfh https://t.co/x2yROKZftv",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x2yROKZftv",
+					"expanded_url": "https://www.youtube.com/watch?v=G3MyziCA7rU&list=PLSRufFR4ETVpg_5upztSUHrjSzkW3gHSF",
+					"display_url": "youtube.com/watch?v=G3Myzi…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1282628860127989800,
+		"in_reply_to_status_id_str": "1282628860127989767",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@eops great background music for wfh https://t.co/x2yROKZftv"
+	},
+	{
 		"created_at": "Sun Jul 12 21:19:36 +0000 2020",
 		"id": 1282424392664875000,
 		"id_str": "1282424392664875008",
