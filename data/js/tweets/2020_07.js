@@ -1,6 +1,961 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 14 20:50:18 +0000 2020",
+		"id": 1282814957814333400,
+		"id_str": "1283141794776190978",
+		"full_text": "Cake: The Movie https://t.co/GjoVeXm3FP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282814901145096200,
+					"id_str": "1282814901145096192",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1282814901145096192/pu/img/nKygrtRmZFfn0ajf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1282814901145096192/pu/img/nKygrtRmZFfn0ajf.jpg",
+					"url": "https://t.co/GjoVeXm3FP",
+					"display_url": "pic.twitter.com/GjoVeXm3FP",
+					"expanded_url": "https://twitter.com/danbanbam/status/1282814957814333441/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282814901145096200,
+					"id_str": "1282814901145096192",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1282814901145096192/pu/img/nKygrtRmZFfn0ajf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1282814901145096192/pu/img/nKygrtRmZFfn0ajf.jpg",
+					"url": "https://t.co/GjoVeXm3FP",
+					"display_url": "pic.twitter.com/GjoVeXm3FP",
+					"expanded_url": "https://twitter.com/danbanbam/status/1282814957814333441/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 40874,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1282814901145096192/pu/vid/320x568/V4VKi8PExaEdYpRV.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1282814901145096192/pu/vid/720x1280/Ox6eAhAPirZKC4Nh.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1282814901145096192/pu/vid/360x640/3YCT8HHuX1RznYaP.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1282814901145096192/pu/pl/mTaZIPn_FNOUMWFC.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 192625446,
+			"id_str": "192625446",
+			"name": "Daniel 'danbanbam' Spencer",
+			"screen_name": "danbanbam",
+			"location": "",
+			"description": "You reap what you hoe. 🏳️‍🌈🏳️‍🌈🏳️‍🌈\n\n@danbanbam on Tik Tok and Insta!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16186,
+			"friends_count": 490,
+			"listed_count": 27,
+			"created_at": "Sun Sep 19 18:04:22 +0000 2010",
+			"favourites_count": 15089,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242690099378184192/BnBnNBIr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242690099378184192/BnBnNBIr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/192625446/1590828470",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106642,
+		"favorite_count": 249229,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cake: The Movie https://t.co/GjoVeXm3FP"
+	},
+	{
+		"created_at": "Tue Jul 14 20:49:24 +0000 2020",
+		"id": 1283141569588146200,
+		"id_str": "1283141569588146176",
+		"full_text": "@TechnicallyRon https://t.co/QQFfajHL60",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TechnicallyRon",
+					"name": "TechnicallyRon",
+					"id": 108140114,
+					"id_str": "108140114",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1283141562629841000,
+					"id_str": "1283141562629840901",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ec6ic-0XYAUVIcX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ec6ic-0XYAUVIcX.jpg",
+					"url": "https://t.co/QQFfajHL60",
+					"display_url": "pic.twitter.com/QQFfajHL60",
+					"expanded_url": "https://twitter.com/mfshill/status/1283141569588146176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1283141562629841000,
+					"id_str": "1283141562629840901",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ec6ic-0XYAUVIcX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ec6ic-0XYAUVIcX.jpg",
+					"url": "https://t.co/QQFfajHL60",
+					"display_url": "pic.twitter.com/QQFfajHL60",
+					"expanded_url": "https://twitter.com/mfshill/status/1283141569588146176/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							62
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ec6ic-0XYAUVIcX.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1283134844009095200,
+		"in_reply_to_status_id_str": "1283134844009095174",
+		"in_reply_to_user_id": 108140114,
+		"in_reply_to_user_id_str": "108140114",
+		"in_reply_to_screen_name": "TechnicallyRon",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@TechnicallyRon https://t.co/QQFfajHL60"
+	},
+	{
+		"created_at": "Tue Jul 14 20:37:29 +0000 2020",
+		"id": 1283138571432583200,
+		"id_str": "1283138571432583172",
+		"full_text": "I really loved this film back in the 90s, need to watch it again. Honest Trailers | The Rock https://t.co/GuntPE9sCz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GuntPE9sCz",
+					"expanded_url": "https://www.youtube.com/watch?v=z-B7Ncb8ckQ&t",
+					"display_url": "youtube.com/watch?v=z-B7Nc…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I really loved this film back in the 90s, need to watch it again. Honest Trailers | The Rock https://t.co/GuntPE9sCz"
+	},
+	{
+		"created_at": "Tue Jul 14 14:59:24 +0000 2020",
+		"id": 1282717869713891300,
+		"id_str": "1283053489820663810",
+		"full_text": "Old ravers never die, they just move to the suburbs https://t.co/n1XBSm7Dk0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282717860134105000,
+					"id_str": "1282717860134105089",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec0hGQBXsAEvoYC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec0hGQBXsAEvoYC.jpg",
+					"url": "https://t.co/n1XBSm7Dk0",
+					"display_url": "pic.twitter.com/n1XBSm7Dk0",
+					"expanded_url": "https://twitter.com/stephknee/status/1282717869713891328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282717860134105000,
+					"id_str": "1282717860134105089",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec0hGQBXsAEvoYC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec0hGQBXsAEvoYC.jpg",
+					"url": "https://t.co/n1XBSm7Dk0",
+					"display_url": "pic.twitter.com/n1XBSm7Dk0",
+					"expanded_url": "https://twitter.com/stephknee/status/1282717869713891328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20048502,
+			"id_str": "20048502",
+			"name": "stephanie",
+			"screen_name": "stephknee",
+			"location": "East Anglia",
+			"description": "for just £10 I’ll let you clumsily reword the thesis of my tweet and repeat it back to me like you added something",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 756,
+			"friends_count": 390,
+			"listed_count": 20,
+			"created_at": "Wed Feb 04 12:23:16 +0000 2009",
+			"favourites_count": 11268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1219750511173304326/6quxWrlV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219750511173304326/6quxWrlV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20048502/1580918199",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Old ravers never die, they just move to the suburbs https://t.co/n1XBSm7Dk0"
+	},
+	{
+		"created_at": "Tue Jul 14 14:50:28 +0000 2020",
+		"id": 1283007478402289700,
+		"id_str": "1283051242110029830",
+		"full_text": "Carole Baskin has had a shocker here😂😂 https://t.co/hYrQxC5PoY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1283007228027510800,
+					"id_str": "1283007228027510784",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1283007228027510784/pu/img/lZszEwmuccruiLPh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1283007228027510784/pu/img/lZszEwmuccruiLPh.jpg",
+					"url": "https://t.co/hYrQxC5PoY",
+					"display_url": "pic.twitter.com/hYrQxC5PoY",
+					"expanded_url": "https://twitter.com/frazer_kyah/status/1283007478402289664/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1283007228027510800,
+					"id_str": "1283007228027510784",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1283007228027510784/pu/img/lZszEwmuccruiLPh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1283007228027510784/pu/img/lZszEwmuccruiLPh.jpg",
+					"url": "https://t.co/hYrQxC5PoY",
+					"display_url": "pic.twitter.com/hYrQxC5PoY",
+					"expanded_url": "https://twitter.com/frazer_kyah/status/1283007478402289664/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 26293,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1283007228027510784/pu/pl/jtILlV5RRXlGRNMd.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1283007228027510784/pu/vid/320x568/SZPkwtzjKDwK_dTk.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1283007228027510784/pu/vid/360x640/A01xKXSWPUKigt18.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1283007228027510784/pu/vid/720x1280/xsMv9jBNK2moRB38.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 957732394018197500,
+			"id_str": "957732394018197505",
+			"name": "Kyah Frazer",
+			"screen_name": "frazer_kyah",
+			"location": "Cumbria",
+			"description": "You’re not a bloke are ya?",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 553,
+			"friends_count": 868,
+			"listed_count": 0,
+			"created_at": "Sun Jan 28 21:49:31 +0000 2018",
+			"favourites_count": 6996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2833,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269302674564042753/0E8qKksi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269302674564042753/0E8qKksi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/957732394018197505/1590453176",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4645,
+		"favorite_count": 15269,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Carole Baskin has had a shocker here😂😂 https://t.co/hYrQxC5PoY"
+	},
+	{
+		"created_at": "Tue Jul 14 14:48:55 +0000 2020",
+		"id": 1283050852807254000,
+		"id_str": "1283050852807254019",
+		"full_text": "@christopherward yep, for such a minor inconvenience.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "christopherward",
+					"name": "Chris Ward :: #BlackLivesMatter",
+					"id": 17616581,
+					"id_str": "17616581",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1283050158125719600,
+		"in_reply_to_status_id_str": "1283050158125719554",
+		"in_reply_to_user_id": 17616581,
+		"in_reply_to_user_id_str": "17616581",
+		"in_reply_to_screen_name": "christopherward",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@christopherward yep, for such a minor inconvenience."
+	},
+	{
 		"created_at": "Mon Jul 13 23:26:15 +0000 2020",
 		"id": 1281321223948034000,
 		"id_str": "1282818652576845825",
