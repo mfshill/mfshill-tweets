@@ -1,6 +1,1017 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 15 21:11:26 +0000 2020",
+		"id": 1283509500931178500,
+		"id_str": "1283509500931178503",
+		"full_text": "and breathe. totally unexpected win, but I'll take it 2-1 #ARSLIV https://t.co/P3B5FGJqhs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ARSLIV",
+					"indices": [
+						58,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1283509489178681300,
+					"id_str": "1283509489178681346",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ec_xFIBWoAIE-sA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ec_xFIBWoAIE-sA.jpg",
+					"url": "https://t.co/P3B5FGJqhs",
+					"display_url": "pic.twitter.com/P3B5FGJqhs",
+					"expanded_url": "https://twitter.com/mfshill/status/1283509500931178503/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1283509489178681300,
+					"id_str": "1283509489178681346",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ec_xFIBWoAIE-sA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ec_xFIBWoAIE-sA.jpg",
+					"url": "https://t.co/P3B5FGJqhs",
+					"display_url": "pic.twitter.com/P3B5FGJqhs",
+					"expanded_url": "https://twitter.com/mfshill/status/1283509500931178503/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ec_xFIBWoAIE-sA.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1283492381271236600,
+		"in_reply_to_status_id_str": "1283492381271236610",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "and breathe. totally unexpected win, but I'll take it 2-1 #ARSLIV https://t.co/P3B5FGJqhs"
+	},
+	{
+		"created_at": "Wed Jul 15 20:04:25 +0000 2020",
+		"id": 1283491727412732000,
+		"id_str": "1283492635756367872",
+		"full_text": "What’s Arteta’s team-talk here? ‘That was terrible. Keep going.’",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109644769,
+			"id_str": "109644769",
+			"name": "Tom 🅡osenthal",
+			"screen_name": "rosentweets",
+			"location": "London",
+			"description": "you can keep your @ on",
+			"url": "https://t.co/TUfuwv9Plf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TUfuwv9Plf",
+							"expanded_url": "http://www.tomrosenthal.net",
+							"display_url": "tomrosenthal.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 113251,
+			"friends_count": 1019,
+			"listed_count": 225,
+			"created_at": "Fri Jan 29 19:34:05 +0000 2010",
+			"favourites_count": 4426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194615983266246661/Bx5sNN03_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194615983266246661/Bx5sNN03_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109644769/1583371486",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 452,
+		"favorite_count": 2164,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "What’s Arteta’s team-talk here? ‘That was terrible. Keep going.’"
+	},
+	{
+		"created_at": "Wed Jul 15 20:03:24 +0000 2020",
+		"id": 1283492381271236600,
+		"id_str": "1283492381271236610",
+		"full_text": "nice calm clinical finish by Nelson",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1283491404598173700,
+		"in_reply_to_status_id_str": "1283491404598173700",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "nice calm clinical finish by Nelson"
+	},
+	{
+		"created_at": "Wed Jul 15 19:59:31 +0000 2020",
+		"id": 1283491404598173700,
+		"id_str": "1283491404598173700",
+		"full_text": "erm. 2-1 #ARSLIV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ARSLIV",
+					"indices": [
+						9,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1283488517616808000,
+		"in_reply_to_status_id_str": "1283488517616807936",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "erm. 2-1 #ARSLIV"
+	},
+	{
+		"created_at": "Wed Jul 15 19:48:03 +0000 2020",
+		"id": 1283488517616808000,
+		"id_str": "1283488517616807936",
+		"full_text": "1 shot, 1 goal. unexpected  1-1 #ARSLIV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ARSLIV",
+					"indices": [
+						32,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1283485394177228800,
+		"in_reply_to_status_id_str": "1283485394177228803",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "1 shot, 1 goal. unexpected  1-1 #ARSLIV"
+	},
+	{
+		"created_at": "Wed Jul 15 19:46:34 +0000 2020",
+		"id": 1283488144369889300,
+		"id_str": "1283488144369889284",
+		"full_text": "business as usual https://t.co/3UHXvID9nL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3UHXvID9nL",
+					"expanded_url": "https://twitter.com/Orbinho/status/1283487624456478723",
+					"display_url": "twitter.com/Orbinho/status…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1283487624456478700,
+		"quoted_status_id_str": "1283487624456478723",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3UHXvID9nL",
+			"expanded": "https://twitter.com/Orbinho/status/1283487624456478723",
+			"display": "twitter.com/Orbinho/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 15 19:44:30 +0000 2020",
+			"id": 1283487624456478700,
+			"id_str": "1283487624456478723",
+			"full_text": "Arsenal have had zero shots so far.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				35
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60026651,
+				"id_str": "60026651",
+				"name": "Orbinho",
+				"screen_name": "Orbinho",
+				"location": "London-ish",
+				"description": "Arsenal facts. Head of Opta Data Editorial since the end of the 20th Century. Creator of @OptaJoe Trying to convince people to use data better.",
+				"url": "https://t.co/cRoW8ZO4IK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cRoW8ZO4IK",
+								"expanded_url": "https://www.statsperform.com/",
+								"display_url": "statsperform.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 61629,
+				"friends_count": 371,
+				"listed_count": 1519,
+				"created_at": "Sat Jul 25 09:55:31 +0000 2009",
+				"favourites_count": 477,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25836,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/588984322130083840/bc56JV5r_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/588984322130083840/bc56JV5r_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/60026651/1356111874",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "business as usual https://t.co/3UHXvID9nL"
+	},
+	{
+		"created_at": "Wed Jul 15 19:35:38 +0000 2020",
+		"id": 1283485394177228800,
+		"id_str": "1283485394177228803",
+		"full_text": "bah 0-1 #ARSLIV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ARSLIV",
+					"indices": [
+						8,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1283479314810445800,
+		"in_reply_to_status_id_str": "1283479314810445824",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "bah 0-1 #ARSLIV"
+	},
+	{
+		"created_at": "Wed Jul 15 19:11:29 +0000 2020",
+		"id": 1283479314810445800,
+		"id_str": "1283479314810445824",
+		"full_text": "not getting my hopes up. expecting us to get battered. #COYG! #ARSLIV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COYG",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "ARSLIV",
+					"indices": [
+						62,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 274,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "not getting my hopes up. expecting us to get battered. #COYG! #ARSLIV"
+	},
+	{
 		"created_at": "Tue Jul 14 20:50:18 +0000 2020",
 		"id": 1282814957814333400,
 		"id_str": "1283141794776190978",
@@ -137,7 +1148,7 @@ Grailbird.data.tweets_2020_07 =
 			"name": "Daniel 'danbanbam' Spencer",
 			"screen_name": "danbanbam",
 			"location": "",
-			"description": "You reap what you hoe. 🏳️‍🌈🏳️‍🌈🏳️‍🌈\n\n@danbanbam on Tik Tok and Insta!",
+			"description": "You reap what you hoe. 🏳️🌈🏳️🌈🏳️🌈\n\n@danbanbam on Tik Tok and Insta!",
 			"url": null,
 			"entities": {
 				"description": {
