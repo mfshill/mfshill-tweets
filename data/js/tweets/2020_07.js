@@ -1,6 +1,607 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 19 22:16:57 +0000 2020",
+		"id": 1284975540051599400,
+		"id_str": "1284975540051599367",
+		"full_text": "Donald Trump v Fox News Sunday: extraordinary moments from a wild interview https://t.co/trVbi1J5wz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/trVbi1J5wz",
+					"expanded_url": "https://www.theguardian.com/us-news/2020/jul/19/donald-trump-fox-news-sunday-chris-wallace-interview?CMP=share_btn_tw",
+					"display_url": "theguardian.com/us-news/2020/j…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Donald Trump v Fox News Sunday: extraordinary moments from a wild interview https://t.co/trVbi1J5wz"
+	},
+	{
+		"created_at": "Sun Jul 19 18:15:14 +0000 2020",
+		"id": 1284914711788695600,
+		"id_str": "1284914711788695554",
+		"full_text": "terrible keeping. United deserve to lose. 0-2 #MUNCHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MUNCHE",
+					"indices": [
+						46,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "terrible keeping. United deserve to lose. 0-2 #MUNCHE"
+	},
+	{
+		"created_at": "Sun Jul 19 14:51:41 +0000 2020",
+		"id": 1284863488125538300,
+		"id_str": "1284863488125538305",
+		"full_text": "good race in the end even if the rain didn't materialise. Well done Lewis for the win and kudos to Max to hang on for 2nd after messing up the run to the grid. #HungarianGP #F1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HungarianGP",
+					"indices": [
+						160,
+						172
+					]
+				},
+				{
+					"text": "F1",
+					"indices": [
+						173,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 273,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "good race in the end even if the rain didn't materialise. Well done Lewis for the win and kudos to Max to hang on for 2nd after messing up the run to the grid. #HungarianGP #F1"
+	},
+	{
+		"created_at": "Sun Jul 19 13:32:25 +0000 2020",
+		"id": 1284840050451189800,
+		"id_str": "1284843538585456648",
+		"full_text": "Bottas’s start be like #WTF1 https://t.co/0us01vNOy3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WTF1",
+					"indices": [
+						23,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1284570373615485000,
+					"id_str": "1284570373615484928",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1284570373615484928/pu/img/wAPyDYr8ebTDfOOY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1284570373615484928/pu/img/wAPyDYr8ebTDfOOY.jpg",
+					"url": "https://t.co/0us01vNOy3",
+					"display_url": "pic.twitter.com/0us01vNOy3",
+					"expanded_url": "https://twitter.com/TommyWTF1/status/1284570402040283139/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 589,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 624,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 624,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1284570402040283100,
+					"source_status_id_str": "1284570402040283139",
+					"source_user_id": 51032310,
+					"source_user_id_str": "51032310"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1284570373615485000,
+					"id_str": "1284570373615484928",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1284570373615484928/pu/img/wAPyDYr8ebTDfOOY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1284570373615484928/pu/img/wAPyDYr8ebTDfOOY.jpg",
+					"url": "https://t.co/0us01vNOy3",
+					"display_url": "pic.twitter.com/0us01vNOy3",
+					"expanded_url": "https://twitter.com/TommyWTF1/status/1284570402040283139/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 589,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 624,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 624,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1284570402040283100,
+					"source_status_id_str": "1284570402040283139",
+					"source_user_id": 51032310,
+					"source_user_id_str": "51032310",
+					"video_info": {
+						"aspect_ratio": [
+							13,
+							15
+						],
+						"duration_millis": 4601,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1284570373615484928/pu/pl/fZLyrejiAuhDMLvE.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1284570373615484928/pu/vid/320x368/IqJByusxTnGaqPoV.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1284570373615484928/pu/vid/624x720/Pqqp0kpsSPWswtAF.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1284570373615484928/pu/vid/360x414/1b9Etezac6iTlVGn.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 51032310,
+							"id_str": "51032310",
+							"name": "Tom Bellingham",
+							"screen_name": "TommyWTF1",
+							"location": "England, United Kingdom",
+							"description": "Founder / Content Manager @wtf1official 🏁\nContact: tom.bellingham@wtf1.com 👋🏻",
+							"url": "https://t.co/okdjdyvIQW",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/okdjdyvIQW",
+											"expanded_url": "https://www.youtube.com/c/TommyWTF1",
+											"display_url": "youtube.com/c/TommyWTF1",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 37677,
+							"friends_count": 621,
+							"listed_count": 378,
+							"created_at": "Fri Jun 26 12:11:32 +0000 2009",
+							"favourites_count": 2453,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 41394,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "010101",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/991971245452390400/f0OUxMU9_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/991971245452390400/f0OUxMU9_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/51032310/1589064231",
+							"profile_link_color": "FF6600",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 51032310,
+			"id_str": "51032310",
+			"name": "Tom Bellingham",
+			"screen_name": "TommyWTF1",
+			"location": "England, United Kingdom",
+			"description": "Founder / Content Manager @wtf1official 🏁\nContact: tom.bellingham@wtf1.com 👋🏻",
+			"url": "https://t.co/okdjdyvIQW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/okdjdyvIQW",
+							"expanded_url": "https://www.youtube.com/c/TommyWTF1",
+							"display_url": "youtube.com/c/TommyWTF1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37677,
+			"friends_count": 621,
+			"listed_count": 378,
+			"created_at": "Fri Jun 26 12:11:32 +0000 2009",
+			"favourites_count": 2453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 41394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "010101",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991971245452390400/f0OUxMU9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991971245452390400/f0OUxMU9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/51032310/1589064231",
+			"profile_link_color": "FF6600",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 830,
+		"favorite_count": 8026,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bottas’s start be like #WTF1 https://t.co/0us01vNOy3"
+	},
+	{
 		"created_at": "Sat Jul 18 21:17:45 +0000 2020",
 		"id": 1284593436025409500,
 		"id_str": "1284598257793093634",
