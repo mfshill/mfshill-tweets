@@ -1,6 +1,620 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 29 18:59:06 +0000 2020",
+		"id": 1288401597542932500,
+		"id_str": "1288549630133907458",
+		"full_text": "2020 is gearing up for one hell of a climax https://t.co/lZfWtGOlzP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1288401589644951600,
+					"id_str": "1288401589644951553",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EeFSa2bWAAEQ4TQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeFSa2bWAAEQ4TQ.jpg",
+					"url": "https://t.co/lZfWtGOlzP",
+					"display_url": "pic.twitter.com/lZfWtGOlzP",
+					"expanded_url": "https://twitter.com/JimMFelton/status/1288401597542932480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 812,
+							"h": 713,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 812,
+							"h": 713,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 597,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1288401589644951600,
+					"id_str": "1288401589644951553",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EeFSa2bWAAEQ4TQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeFSa2bWAAEQ4TQ.jpg",
+					"url": "https://t.co/lZfWtGOlzP",
+					"display_url": "pic.twitter.com/lZfWtGOlzP",
+					"expanded_url": "https://twitter.com/JimMFelton/status/1288401597542932480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 812,
+							"h": 713,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 812,
+							"h": 713,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 597,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1288401589657653200,
+					"id_str": "1288401589657653248",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EeFSa2eX0AA9cnD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeFSa2eX0AA9cnD.jpg",
+					"url": "https://t.co/lZfWtGOlzP",
+					"display_url": "pic.twitter.com/lZfWtGOlzP",
+					"expanded_url": "https://twitter.com/JimMFelton/status/1288401597542932480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 418,
+							"h": 311,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 418,
+							"h": 311,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 418,
+							"h": 311,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1288401589699596300,
+					"id_str": "1288401589699596288",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EeFSa2oX0AAKXxp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeFSa2oX0AAKXxp.jpg",
+					"url": "https://t.co/lZfWtGOlzP",
+					"display_url": "pic.twitter.com/lZfWtGOlzP",
+					"expanded_url": "https://twitter.com/JimMFelton/status/1288401597542932480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 827,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 554,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 827,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1288401589963718700,
+					"id_str": "1288401589963718657",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EeFSa3nWAAENnLI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeFSa3nWAAENnLI.jpg",
+					"url": "https://t.co/lZfWtGOlzP",
+					"display_url": "pic.twitter.com/lZfWtGOlzP",
+					"expanded_url": "https://twitter.com/JimMFelton/status/1288401597542932480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 819,
+							"h": 666,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 553,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2904913023,
+			"id_str": "2904913023",
+			"name": "James Felton",
+			"screen_name": "JimMFelton",
+			"location": "",
+			"description": "Comedy writer and author \n\nSunburn: https://t.co/Hc2Dz03EvQ\n\n52 Times Britain Was A Bellend: \nWaterstones: https://t.co/WEinPBVSbx \nAmazon: https://t.co/83zuzC7LO0",
+			"url": "https://t.co/Hc2Dz03EvQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hc2Dz03EvQ",
+							"expanded_url": "https://amzn.to/2HHtW08",
+							"display_url": "amzn.to/2HHtW08",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Hc2Dz03EvQ",
+							"expanded_url": "https://amzn.to/2HHtW08",
+							"display_url": "amzn.to/2HHtW08",
+							"indices": [
+								36,
+								59
+							]
+						},
+						{
+							"url": "https://t.co/WEinPBVSbx",
+							"expanded_url": "http://bit.ly/2mWy7yv",
+							"display_url": "bit.ly/2mWy7yv",
+							"indices": [
+								107,
+								130
+							]
+						},
+						{
+							"url": "https://t.co/83zuzC7LO0",
+							"expanded_url": "http://amzn.to/2lev9V0",
+							"display_url": "amzn.to/2lev9V0",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 225226,
+			"friends_count": 3586,
+			"listed_count": 705,
+			"created_at": "Thu Dec 04 11:06:45 +0000 2014",
+			"favourites_count": 167943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863860130009546754/-2Zr0kqI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863860130009546754/-2Zr0kqI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2904913023/1592303608",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9814,
+		"favorite_count": 34727,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2020 is gearing up for one hell of a climax https://t.co/lZfWtGOlzP"
+	},
+	{
+		"created_at": "Wed Jul 29 15:07:56 +0000 2020",
+		"id": 1288491456865415200,
+		"id_str": "1288491456865415168",
+		"full_text": "@Catronicator https://t.co/U36draNPMs",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Catronicator",
+					"name": "Moomin Head",
+					"id": 24004798,
+					"id_str": "24004798",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1288491449768726500,
+					"id_str": "1288491449768726528",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EeGkJZeX0AAu5so.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EeGkJZeX0AAu5so.jpg",
+					"url": "https://t.co/U36draNPMs",
+					"display_url": "pic.twitter.com/U36draNPMs",
+					"expanded_url": "https://twitter.com/mfshill/status/1288491456865415168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 266,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 200,
+							"h": 266,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 266,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1288491449768726500,
+					"id_str": "1288491449768726528",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EeGkJZeX0AAu5so.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EeGkJZeX0AAu5so.jpg",
+					"url": "https://t.co/U36draNPMs",
+					"display_url": "pic.twitter.com/U36draNPMs",
+					"expanded_url": "https://twitter.com/mfshill/status/1288491456865415168/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 266,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 200,
+							"h": 266,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 266,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							100,
+							133
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EeGkJZeX0AAu5so.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1288466822162010000,
+		"in_reply_to_status_id_str": "1288466822162010112",
+		"in_reply_to_user_id": 24004798,
+		"in_reply_to_user_id_str": "24004798",
+		"in_reply_to_screen_name": "Catronicator",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265,
+			"friends_count": 272,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@Catronicator https://t.co/U36draNPMs"
+	},
+	{
+		"created_at": "Wed Jul 29 11:52:18 +0000 2020",
+		"id": 1288442222837407700,
+		"id_str": "1288442222837407744",
+		"full_text": "Fascinating to watch the Grenfell Tower Inquiry. Rydon not coming out well so far https://t.co/fw9lCABqvC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fw9lCABqvC",
+					"expanded_url": "https://youtu.be/3fJxfdRUUkA",
+					"display_url": "youtu.be/3fJxfdRUUkA",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265,
+			"friends_count": 272,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fascinating to watch the Grenfell Tower Inquiry. Rydon not coming out well so far https://t.co/fw9lCABqvC"
+	},
+	{
 		"created_at": "Tue Jul 28 22:04:57 +0000 2020",
 		"id": 1288234011580661800,
 		"id_str": "1288234011580661765",
