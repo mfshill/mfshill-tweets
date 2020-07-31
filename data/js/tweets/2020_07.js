@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 30 18:34:07 +0000 2020",
+		"id": 1288882055254806500,
+		"id_str": "1288905730335092737",
+		"full_text": "Happy 30th Anniversary, you beast of a tune! https://t.co/N9FTqbTj2k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1288881710386602000,
+					"id_str": "1288881710386601986",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/EeMHFjkXYAID8LK.png",
+					"media_url_https": "https://pbs.twimg.com/media/EeMHFjkXYAID8LK.png",
+					"url": "https://t.co/N9FTqbTj2k",
+					"display_url": "pic.twitter.com/N9FTqbTj2k",
+					"expanded_url": "https://twitter.com/KLF_Online/status/1288882055254806528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1288881710386602000,
+					"id_str": "1288881710386601986",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/EeMHFjkXYAID8LK.png",
+					"media_url_https": "https://pbs.twimg.com/media/EeMHFjkXYAID8LK.png",
+					"url": "https://t.co/N9FTqbTj2k",
+					"display_url": "pic.twitter.com/N9FTqbTj2k",
+					"expanded_url": "https://twitter.com/KLF_Online/status/1288882055254806528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 777169767568404500,
+			"id_str": "777169767568404480",
+			"name": "KLF Online",
+			"screen_name": "KLF_Online",
+			"location": "",
+			"description": "Twitter account of the longest-running KLF fanpage, talking about everything involving Bill Drummond and Jimmy Cauty",
+			"url": "https://t.co/vIXJBedLxX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIXJBedLxX",
+							"expanded_url": "http://www.klf.de",
+							"display_url": "klf.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3434,
+			"friends_count": 25,
+			"listed_count": 15,
+			"created_at": "Sat Sep 17 15:38:06 +0000 2016",
+			"favourites_count": 1822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084091070718377985/YLzBjyuT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084091070718377985/YLzBjyuT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/777169767568404480/1552386017",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 406,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy 30th Anniversary, you beast of a tune! https://t.co/N9FTqbTj2k"
+	},
+	{
 		"created_at": "Wed Jul 29 18:59:06 +0000 2020",
 		"id": 1288401597542932500,
 		"id_str": "1288549630133907458",
