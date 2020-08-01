@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 31 19:12:11 +0000 2020",
+		"id": 1289219775571296300,
+		"id_str": "1289277697156243456",
+		"full_text": "Today's 37.8 °C at Heathrow makes it the UK's 3rd hottest day on record https://t.co/0DCF04DXRs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1289218168481775600,
+					"id_str": "1289218168481775616",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289218168481775616/pu/img/wkItRKWWBsuMlH35.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289218168481775616/pu/img/wkItRKWWBsuMlH35.jpg",
+					"url": "https://t.co/0DCF04DXRs",
+					"display_url": "pic.twitter.com/0DCF04DXRs",
+					"expanded_url": "https://twitter.com/metoffice/status/1289219775571296257/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289218168481775600,
+					"id_str": "1289218168481775616",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289218168481775616/pu/img/wkItRKWWBsuMlH35.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289218168481775616/pu/img/wkItRKWWBsuMlH35.jpg",
+					"url": "https://t.co/0DCF04DXRs",
+					"display_url": "pic.twitter.com/0DCF04DXRs",
+					"expanded_url": "https://twitter.com/metoffice/status/1289219775571296257/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 14900,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1289218168481775616/pu/pl/gwlu87gs6ZdQxNw1.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1289218168481775616/pu/vid/320x320/0un386E8T3t2QQkm.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1289218168481775616/pu/vid/480x480/Fz_9HWkfwFx7FKZs.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1289218168481775616/pu/vid/720x720/2uLfPp6rlHU5R8FP.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1289202848392024000,
+		"in_reply_to_status_id_str": "1289202848392024065",
+		"in_reply_to_user_id": 19282280,
+		"in_reply_to_user_id_str": "19282280",
+		"in_reply_to_screen_name": "metoffice",
+		"user": {
+			"id": 19282280,
+			"id_str": "19282280",
+			"name": "Met Office",
+			"screen_name": "metoffice",
+			"location": "Exeter",
+			"description": "Official UK Met Office account for weather, climate, news & jobs. Any questions? Just ask! Here 24/7/365 Stay #WeatherAware follow @metofficeUK for warnings. 🌦️",
+			"url": "http://t.co/SnqRaTsNEj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/SnqRaTsNEj",
+							"expanded_url": "http://www.metoffice.gov.uk",
+							"display_url": "metoffice.gov.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 812664,
+			"friends_count": 610,
+			"listed_count": 4249,
+			"created_at": "Wed Jan 21 09:47:40 +0000 2009",
+			"favourites_count": 17306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 187779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278327191344906241/ns3uO5oj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278327191344906241/ns3uO5oj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19282280/1581952470",
+			"profile_link_color": "7B9E45",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 181,
+		"favorite_count": 276,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today's 37.8 °C at Heathrow makes it the UK's 3rd hottest day on record https://t.co/0DCF04DXRs"
+	},
+	{
 		"created_at": "Thu Jul 30 18:34:07 +0000 2020",
 		"id": 1288882055254806500,
 		"id_str": "1288905730335092737",
