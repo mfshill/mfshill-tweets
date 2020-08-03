@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 02 19:26:11 +0000 2020",
+		"id": 1289967954105270300,
+		"id_str": "1290005995612119040",
+		"full_text": "🔎The FA Cup final: Arsenal 2-1 Chelsea - a tactical analysis thread https://t.co/6ZoONiYs70",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1289965817271136300,
+					"id_str": "1289965817271136258",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EebhE4bXsAIdfu3.png",
+					"media_url_https": "https://pbs.twimg.com/media/EebhE4bXsAIdfu3.png",
+					"url": "https://t.co/6ZoONiYs70",
+					"display_url": "pic.twitter.com/6ZoONiYs70",
+					"expanded_url": "https://twitter.com/PremLeaguePanel/status/1289967954105270272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 644,
+							"h": 396,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 644,
+							"h": 396,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 644,
+							"h": 396,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289965817271136300,
+					"id_str": "1289965817271136258",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EebhE4bXsAIdfu3.png",
+					"media_url_https": "https://pbs.twimg.com/media/EebhE4bXsAIdfu3.png",
+					"url": "https://t.co/6ZoONiYs70",
+					"display_url": "pic.twitter.com/6ZoONiYs70",
+					"expanded_url": "https://twitter.com/PremLeaguePanel/status/1289967954105270272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 644,
+							"h": 396,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 644,
+							"h": 396,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 644,
+							"h": 396,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 737984539130265600,
+			"id_str": "737984539130265600",
+			"name": "Premier League Panel",
+			"screen_name": "PremLeaguePanel",
+			"location": "England, United Kingdom",
+			"description": "Account for all football fans | Football writers analyse and discuss the latest Premier League news and matches as well as European football | Est. 2016",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74838,
+			"friends_count": 12001,
+			"listed_count": 328,
+			"created_at": "Wed Jun 01 12:30:00 +0000 2016",
+			"favourites_count": 16661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1284584208195821568/zWfZyRT0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1284584208195821568/zWfZyRT0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/737984539130265600/1565983152",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 392,
+		"favorite_count": 1366,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🔎The FA Cup final: Arsenal 2-1 Chelsea - a tactical analysis thread https://t.co/6ZoONiYs70"
+	},
+	{
 		"created_at": "Sat Aug 01 20:01:31 +0000 2020",
 		"id": 1289645670685499400,
 		"id_str": "1289652499809361922",
