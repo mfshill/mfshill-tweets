@@ -1,6 +1,762 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 04 22:36:43 +0000 2020",
+		"id": 1290778721352323000,
+		"id_str": "1290778721352323078",
+		"full_text": "hard to fathom that we still have 5 months left of 2020...\nhttps://t.co/OPgPmDxXeH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OPgPmDxXeH",
+					"expanded_url": "https://www.boredpanda.com/2020-year-recap/",
+					"display_url": "boredpanda.com/2020-year-reca…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "hard to fathom that we still have 5 months left of 2020...\nhttps://t.co/OPgPmDxXeH"
+	},
+	{
+		"created_at": "Tue Aug 04 21:05:01 +0000 2020",
+		"id": 1288641752161759200,
+		"id_str": "1290755644857950209",
+		"full_text": "After 4 months of social distancing I feel like Jack in The Shining could have kept it together a little better. He had THREE people to talk to and a HUGE HOUSE with LOTS OF GHOST FRIENDS.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112764405,
+			"id_str": "112764405",
+			"name": "Jennifer Wright",
+			"screen_name": "JenAshleyWright",
+			"location": "New York",
+			"description": "Author of History Books like ‘Get Well Soon’ & ‘We Came First.’ @harpersbazaarus, @nytimes, @nypost. Married to @Kibblesmith. Popcorn Book Club on @IHeartRadio.",
+			"url": "https://t.co/uD1C5zm0aA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uD1C5zm0aA",
+							"expanded_url": "http://JenAshleyWright.com",
+							"display_url": "JenAshleyWright.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 138487,
+			"friends_count": 1056,
+			"listed_count": 997,
+			"created_at": "Tue Feb 09 16:48:13 +0000 2010",
+			"favourites_count": 38318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1179722752741298177/hkFQgb4R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179722752741298177/hkFQgb4R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112764405/1577603100",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11250,
+		"favorite_count": 79028,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "After 4 months of social distancing I feel like Jack in The Shining could have kept it together a little better. He had THREE people to talk to and a HUGE HOUSE with LOTS OF GHOST FRIENDS."
+	},
+	{
+		"created_at": "Tue Aug 04 16:26:07 +0000 2020",
+		"id": 1290685456355668000,
+		"id_str": "1290685456355667968",
+		"full_text": "that's one massive explosion. https://t.co/JwMzdMGb3w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JwMzdMGb3w",
+					"expanded_url": "https://twitter.com/byebyeloverr/status/1290683903296978945",
+					"display_url": "twitter.com/byebyeloverr/s…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1290683903296979000,
+		"quoted_status_id_str": "1290683903296978945",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JwMzdMGb3w",
+			"expanded": "https://twitter.com/byebyeloverr/status/1290683903296978945",
+			"display": "twitter.com/byebyeloverr/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 04 16:19:56 +0000 2020",
+			"id": 1290683903296979000,
+			"id_str": "1290683903296978945",
+			"full_text": "My God. Lebanon economy collapsing and now this massive explosion. Beirut port (and a lot more, from the looks of it) utterly destroyed. Can’t imagine the human toll we are going to see.\n#PrayForBeirut\n https://t.co/LuAfMoT8v8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				226
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PrayForBeirut",
+						"indices": [
+							187,
+							201
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1290674396999360500,
+						"id_str": "1290674396999360514",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1290674396999360514/pu/img/azd_z6d4PXvyRDYg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1290674396999360514/pu/img/azd_z6d4PXvyRDYg.jpg",
+						"url": "https://t.co/LuAfMoT8v8",
+						"display_url": "pic.twitter.com/LuAfMoT8v8",
+						"expanded_url": "https://twitter.com/borzou/status/1290675854767513600/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 385,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1290675854767513600,
+						"source_status_id_str": "1290675854767513600",
+						"source_user_id": 24382468,
+						"source_user_id_str": "24382468"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1290674396999360500,
+						"id_str": "1290674396999360514",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1290674396999360514/pu/img/azd_z6d4PXvyRDYg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1290674396999360514/pu/img/azd_z6d4PXvyRDYg.jpg",
+						"url": "https://t.co/LuAfMoT8v8",
+						"display_url": "pic.twitter.com/LuAfMoT8v8",
+						"expanded_url": "https://twitter.com/borzou/status/1290675854767513600/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 385,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1290675854767513600,
+						"source_status_id_str": "1290675854767513600",
+						"source_user_id": 24382468,
+						"source_user_id_str": "24382468",
+						"video_info": {
+							"aspect_ratio": [
+								30,
+								53
+							],
+							"duration_millis": 36725,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1290674396999360514/pu/vid/480x848/j8wO-avexDcMgH6J.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1290674396999360514/pu/pl/NvDYizq_S7Y5dy2C.m3u8?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1290674396999360514/pu/vid/320x564/zR7oTjg5blRURuqg.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1290674396999360514/pu/vid/360x636/alaWx0FZh8STUazj.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 24382468,
+								"id_str": "24382468",
+								"name": "Borzou Daragahi 🖊🗒",
+								"screen_name": "borzou",
+								"location": "Agrabah",
+								"description": "International Correspondent for @Independent. Senior Fellow at @ACScowcroft. DMs open for ideas, tips, questions",
+								"url": "https://t.co/rz4Lwv1lFa",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/rz4Lwv1lFa",
+												"expanded_url": "http://www.borzou.com",
+												"display_url": "borzou.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 83314,
+								"friends_count": 1460,
+								"listed_count": 2843,
+								"created_at": "Sat Mar 14 15:27:33 +0000 2009",
+								"favourites_count": 4798,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 48785,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": true,
+								"profile_background_color": "9AE4E8",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1216837767818358785/xPu51uEK_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216837767818358785/xPu51uEK_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/24382468/1579158577",
+								"profile_link_color": "ABB8C2",
+								"profile_sidebar_border_color": "BDDCAD",
+								"profile_sidebar_fill_color": "DDFFCC",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "regular"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1281823809700429800,
+				"id_str": "1281823809700429826",
+				"name": "hmmmmzzz",
+				"screen_name": "byebyeloverr",
+				"location": "NORTH KOREA",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 152,
+				"friends_count": 173,
+				"listed_count": 1,
+				"created_at": "Sat Jul 11 05:36:00 +0000 2020",
+				"favourites_count": 536,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 650,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1290662090580135936/tl0poORi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290662090580135936/tl0poORi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281823809700429826/1595545765",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3001,
+			"favorite_count": 4753,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "that's one massive explosion. https://t.co/JwMzdMGb3w"
+	},
+	{
+		"created_at": "Tue Aug 04 14:14:45 +0000 2020",
+		"id": 1290652398344700000,
+		"id_str": "1290652398344699904",
+		"full_text": "Hands. Face. Space......... oh and get a test! https://t.co/78HXGlBODw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1290652323702878200,
+					"id_str": "1290652323702878215",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EelRc0LXsAcMFFY.png",
+					"media_url_https": "https://pbs.twimg.com/media/EelRc0LXsAcMFFY.png",
+					"url": "https://t.co/78HXGlBODw",
+					"display_url": "pic.twitter.com/78HXGlBODw",
+					"expanded_url": "https://twitter.com/mfshill/status/1290652398344699904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 620,
+							"h": 350,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290652323702878200,
+					"id_str": "1290652323702878215",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EelRc0LXsAcMFFY.png",
+					"media_url_https": "https://pbs.twimg.com/media/EelRc0LXsAcMFFY.png",
+					"url": "https://t.co/78HXGlBODw",
+					"display_url": "pic.twitter.com/78HXGlBODw",
+					"expanded_url": "https://twitter.com/mfshill/status/1290652398344699904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 620,
+							"h": 350,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hands. Face. Space......... oh and get a test! https://t.co/78HXGlBODw"
+	},
+	{
 		"created_at": "Mon Aug 03 20:41:22 +0000 2020",
 		"id": 1290387305207931000,
 		"id_str": "1290387305207930881",
