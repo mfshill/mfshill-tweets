@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 05 18:13:00 +0000 2020",
+		"id": 1290861085755617300,
+		"id_str": "1291074744545050626",
+		"full_text": "Here's why small towns like Sambuca and Mussomeli in Italy and Sicily's countrysides have started selling abandoned homes for about $1.10 https://t.co/RXqw3MMgUA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1290377759735320600,
+					"id_str": "1290377759735320584",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EeoPTaTX0AAjS6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeoPTaTX0AAjS6J.jpg",
+					"url": "https://t.co/RXqw3MMgUA",
+					"display_url": "pic.twitter.com/RXqw3MMgUA",
+					"expanded_url": "https://twitter.com/businessinsider/status/1290861085755617281/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290377759735320600,
+					"id_str": "1290377759735320584",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EeoPTaTX0AAjS6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeoPTaTX0AAjS6J.jpg",
+					"url": "https://t.co/RXqw3MMgUA",
+					"display_url": "pic.twitter.com/RXqw3MMgUA",
+					"expanded_url": "https://twitter.com/businessinsider/status/1290861085755617281/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 597973,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1290377759735320584/pl/HuHb7I0E5dnOU8Xm.m3u8?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1290377759735320584/vid/320x320/odUnacgFI4jD8H4u.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1290377759735320584/vid/480x480/ODZuTw4GMN77Rt11.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1290377759735320584/vid/720x720/SzgSZGyGZuYcBksr.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "The truth behind Italy's $1 abandoned homes for sale",
+						"description": "Small towns like Sambuca and Mussomeli in Italy and Sicily's countrysides have starting selling abandoned homes for €1 or about $1.10.",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.businessinsider.com"
+							}
+						},
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20562637,
+			"id_str": "20562637",
+			"name": "Business Insider",
+			"screen_name": "businessinsider",
+			"location": "New York, NY",
+			"description": "What you want to know about business. A division of @thisisinsider. Follow us on Facebook, Instagram, and YouTube. Visit our homepage for the day's top stories.",
+			"url": "https://t.co/qJiLYVC7Jx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJiLYVC7Jx",
+							"expanded_url": "https://www.businessinsider.com/",
+							"display_url": "businessinsider.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3048127,
+			"friends_count": 311,
+			"listed_count": 31555,
+			"created_at": "Wed Feb 11 01:18:18 +0000 2009",
+			"favourites_count": 1246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 650827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "185F7C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199017286780231684/P_hQmsjg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199017286780231684/P_hQmsjg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20562637/1588193428",
+			"profile_link_color": "185F7C",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1279,
+		"favorite_count": 4911,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's why small towns like Sambuca and Mussomeli in Italy and Sicily's countrysides have started selling abandoned homes for about $1.10 https://t.co/RXqw3MMgUA"
+	},
+	{
 		"created_at": "Tue Aug 04 22:36:43 +0000 2020",
 		"id": 1290778721352323000,
 		"id_str": "1290778721352323078",
