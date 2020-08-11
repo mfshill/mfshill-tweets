@@ -1,6 +1,175 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 10 19:49:12 +0000 2020",
+		"id": 1292789588470177800,
+		"id_str": "1292910891869057037",
+		"full_text": "The irony of this headline is blowing my mind... #afc https://t.co/vaerA9hoCH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "afc",
+					"indices": [
+						49,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292789466457944000,
+					"id_str": "1292789466457944064",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDpK5WXsAAmYur.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDpK5WXsAAmYur.jpg",
+					"url": "https://t.co/vaerA9hoCH",
+					"display_url": "pic.twitter.com/vaerA9hoCH",
+					"expanded_url": "https://twitter.com/_AdamKeys/status/1292789588470177793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 337,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 558,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 558,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292789466457944000,
+					"id_str": "1292789466457944064",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EfDpK5WXsAAmYur.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfDpK5WXsAAmYur.jpg",
+					"url": "https://t.co/vaerA9hoCH",
+					"display_url": "pic.twitter.com/vaerA9hoCH",
+					"expanded_url": "https://twitter.com/_AdamKeys/status/1292789588470177793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 337,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 558,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 558,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2568546959,
+			"id_str": "2568546959",
+			"name": "Adam Keys",
+			"screen_name": "_AdamKeys",
+			"location": "",
+			"description": "Arsenal through and through. Regular home and away match goer.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10314,
+			"friends_count": 5944,
+			"listed_count": 47,
+			"created_at": "Wed May 28 07:41:07 +0000 2014",
+			"favourites_count": 4066,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732547774361784320/Y4fyLK1M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732547774361784320/Y4fyLK1M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2568546959/1552638256",
+			"profile_link_color": "72B9BF",
+			"profile_sidebar_border_color": "A0EEF5",
+			"profile_sidebar_fill_color": "1A3F57",
+			"profile_text_color": "9DDD95",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 306,
+		"favorite_count": 2072,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The irony of this headline is blowing my mind... #afc https://t.co/vaerA9hoCH"
+	},
+	{
 		"created_at": "Sun Aug 09 22:53:35 +0000 2020",
 		"id": 1292594905110524000,
 		"id_str": "1292594905110523905",
