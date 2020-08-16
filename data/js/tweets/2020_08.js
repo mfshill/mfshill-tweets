@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 15 21:17:34 +0000 2020",
+		"id": 1294740047619661800,
+		"id_str": "1294745071082975234",
+		"full_text": "Pep Guardiola with Mikel Arteta vs Pep Guardiola without Mikel Arteta https://t.co/YDuKfRwxYj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1294740040778743800,
+					"id_str": "1294740040778743808",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EffXNQ8XgAA2um9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EffXNQ8XgAA2um9.jpg",
+					"url": "https://t.co/YDuKfRwxYj",
+					"display_url": "pic.twitter.com/YDuKfRwxYj",
+					"expanded_url": "https://twitter.com/DaleyAFC/status/1294740047619661826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 825,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 825,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294740040778743800,
+					"id_str": "1294740040778743808",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EffXNQ8XgAA2um9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EffXNQ8XgAA2um9.jpg",
+					"url": "https://t.co/YDuKfRwxYj",
+					"display_url": "pic.twitter.com/YDuKfRwxYj",
+					"expanded_url": "https://twitter.com/DaleyAFC/status/1294740047619661826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 825,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 825,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1294740040749322200,
+					"id_str": "1294740040749322245",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EffXNQ1WkAUgz8k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EffXNQ1WkAUgz8k.jpg",
+					"url": "https://t.co/YDuKfRwxYj",
+					"display_url": "pic.twitter.com/YDuKfRwxYj",
+					"expanded_url": "https://twitter.com/DaleyAFC/status/1294740047619661826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20667279,
+			"id_str": "20667279",
+			"name": "Daley",
+			"screen_name": "DaleyAFC",
+			"location": "",
+			"description": "Arsenal season ticket holder. May talk about other stuff too. 'No one knows what it means, but it's provocative.'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3032,
+			"friends_count": 998,
+			"listed_count": 68,
+			"created_at": "Thu Feb 12 10:44:36 +0000 2009",
+			"favourites_count": 10738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214141585367031814/v064y8jJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214141585367031814/v064y8jJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20667279/1496700284",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "Pep Guardiola with Mikel Arteta vs Pep Guardiola without Mikel Arteta https://t.co/YDuKfRwxYj"
+	},
+	{
 		"created_at": "Fri Aug 14 10:25:27 +0000 2020",
 		"id": 1294197121634242600,
 		"id_str": "1294218571212632064",
