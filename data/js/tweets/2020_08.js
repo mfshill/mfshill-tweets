@@ -1,6 +1,716 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 20 20:19:30 +0000 2020",
+		"id": 1296542396986134500,
+		"id_str": "1296542396986134528",
+		"full_text": "Well, 'United Nation Three Decades of Drum &amp; Bass' isn't very good. seems to have been commissioned, directed and produced by Terry Stone. Misses loads of the scene out and they could have put way more tunes in! Disappointed. 4/10  https://t.co/XiVK161ynZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XiVK161ynZ",
+					"expanded_url": "https://www.imdb.com/title/tt6824530",
+					"display_url": "imdb.com/title/tt6824530",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well, 'United Nation Three Decades of Drum &amp; Bass' isn't very good. seems to have been commissioned, directed and produced by Terry Stone. Misses loads of the scene out and they could have put way more tunes in! Disappointed. 4/10  https://t.co/XiVK161ynZ"
+	},
+	{
+		"created_at": "Thu Aug 20 20:14:54 +0000 2020",
+		"id": 1296453743072903200,
+		"id_str": "1296541238339014671",
+		"full_text": "All 2020 participants have been emailed their options in full.  Please read our full statement below: https://t.co/w8P5GnV7Yz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1296453741642752000,
+					"id_str": "1296453741642752000",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef3tzyJXoAAo2nH.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ef3tzyJXoAAo2nH.png",
+					"url": "https://t.co/w8P5GnV7Yz",
+					"display_url": "pic.twitter.com/w8P5GnV7Yz",
+					"expanded_url": "https://twitter.com/BrightonMarathn/status/1296453743072903170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296453741642752000,
+					"id_str": "1296453741642752000",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef3tzyJXoAAo2nH.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ef3tzyJXoAAo2nH.png",
+					"url": "https://t.co/w8P5GnV7Yz",
+					"display_url": "pic.twitter.com/w8P5GnV7Yz",
+					"expanded_url": "https://twitter.com/BrightonMarathn/status/1296453743072903170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 84556576,
+			"id_str": "84556576",
+			"name": "Brighton Marathon Weekend",
+			"screen_name": "BrightonMarathn",
+			"location": "Brighton",
+			"description": "Home of the Brighton Marathon, BM10k, BM Ride and Mini Mile races supporting CRUK for Children & Young People.",
+			"url": "https://t.co/0p2RE9FrO5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p2RE9FrO5",
+							"expanded_url": "https://www.brightonmarathonweekend.co.uk",
+							"display_url": "brightonmarathonweekend.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23954,
+			"friends_count": 736,
+			"listed_count": 251,
+			"created_at": "Fri Oct 23 10:36:18 +0000 2009",
+			"favourites_count": 4700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252175953444384771/5iul3u7o_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252175953444384771/5iul3u7o_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/84556576/1597936175",
+			"profile_link_color": "0EA5EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All 2020 participants have been emailed their options in full.  Please read our full statement below: https://t.co/w8P5GnV7Yz"
+	},
+	{
+		"created_at": "Thu Aug 20 18:19:46 +0000 2020",
+		"id": 1296512264980377600,
+		"id_str": "1296512264980377606",
+		"full_text": "where IS Boris?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 271,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "where IS Boris?"
+	},
+	{
+		"created_at": "Thu Aug 20 12:53:52 +0000 2020",
+		"id": 1296391176405295000,
+		"id_str": "1296430246951100423",
+		"full_text": "What have we got to do to get this David Seaman statue outside of the Emirates? https://t.co/qVttc5KOGH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1296391107878756400,
+					"id_str": "1296391107878756353",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef202BMWoAE_tOl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef202BMWoAE_tOl.jpg",
+					"url": "https://t.co/qVttc5KOGH",
+					"display_url": "pic.twitter.com/qVttc5KOGH",
+					"expanded_url": "https://twitter.com/mickmccarthy0/status/1296391176405295104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1439,
+							"h": 811,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296391107878756400,
+					"id_str": "1296391107878756353",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef202BMWoAE_tOl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef202BMWoAE_tOl.jpg",
+					"url": "https://t.co/qVttc5KOGH",
+					"display_url": "pic.twitter.com/qVttc5KOGH",
+					"expanded_url": "https://twitter.com/mickmccarthy0/status/1296391176405295104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1439,
+							"h": 811,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219437930063843300,
+			"id_str": "1219437930063843328",
+			"name": "Mike",
+			"screen_name": "mickmccarthy0",
+			"location": "Basingstoke ",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 352,
+			"listed_count": 0,
+			"created_at": "Tue Jan 21 01:54:04 +0000 2020",
+			"favourites_count": 6768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1284068714338492416/qIJDSet5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1284068714338492416/qIJDSet5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219437930063843328/1596307802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What have we got to do to get this David Seaman statue outside of the Emirates? https://t.co/qVttc5KOGH"
+	},
+	{
+		"created_at": "Thu Aug 20 08:41:36 +0000 2020",
+		"id": 1296181116727111700,
+		"id_str": "1296366763614113792",
+		"full_text": "America in 2020: our slave labor is too sick from the plague to fight the endless climate change induced forest fires https://t.co/yxfAje7IKn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1296180847310188500,
+					"id_str": "1296180847310188544",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Efz1nPiWsAAq2wu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efz1nPiWsAAq2wu.jpg",
+					"url": "https://t.co/yxfAje7IKn",
+					"display_url": "pic.twitter.com/yxfAje7IKn",
+					"expanded_url": "https://twitter.com/Relentlessbored/status/1296181116727111681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 655,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 655,
+							"h": 368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 655,
+							"h": 368,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296180847310188500,
+					"id_str": "1296180847310188544",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Efz1nPiWsAAq2wu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efz1nPiWsAAq2wu.jpg",
+					"url": "https://t.co/yxfAje7IKn",
+					"display_url": "pic.twitter.com/yxfAje7IKn",
+					"expanded_url": "https://twitter.com/Relentlessbored/status/1296181116727111681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 655,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 655,
+							"h": 368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 655,
+							"h": 368,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1011741185839333400,
+			"id_str": "1011741185839333376",
+			"name": "Brett",
+			"screen_name": "Relentlessbored",
+			"location": "",
+			"description": "Veteran, baker, escaped Floridian, cannabis consultant, socialist co-host of Dumb & Awful pod @dumbawfulshow\nhe/him",
+			"url": "https://t.co/l5LjyXM977",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l5LjyXM977",
+							"expanded_url": "http://youtube.com/channel/UC7a7faW7ca8mQcUOhqsV6kw",
+							"display_url": "youtube.com/channel/UC7a7f…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4483,
+			"friends_count": 1691,
+			"listed_count": 19,
+			"created_at": "Tue Jun 26 22:41:10 +0000 2018",
+			"favourites_count": 59473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175123101249617920/NMgeaPXB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175123101249617920/NMgeaPXB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1011741185839333376/1596244594",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30644,
+		"favorite_count": 74786,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "America in 2020: our slave labor is too sick from the plague to fight the endless climate change induced forest fires https://t.co/yxfAje7IKn"
+	},
+	{
 		"created_at": "Wed Aug 19 13:55:49 +0000 2020",
 		"id": 1296083450395611100,
 		"id_str": "1296083450395611136",
