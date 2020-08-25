@@ -1,6 +1,903 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 24 21:02:49 +0000 2020",
+		"id": 1297735248415875000,
+		"id_str": "1298002848932933632",
+		"full_text": "i frolicked for the first time ever today bruh. y’all ever frolic before???? why no one ever tell me about this https://t.co/HH03qAouOE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1297735222734160000,
+					"id_str": "1297735222734159874",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EgJ7TzOVAAIRFsI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgJ7TzOVAAIRFsI.jpg",
+					"url": "https://t.co/HH03qAouOE",
+					"display_url": "pic.twitter.com/HH03qAouOE",
+					"expanded_url": "https://twitter.com/AshyMalik/status/1297735248415875072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1297735222734160000,
+					"id_str": "1297735222734159874",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EgJ7TzOVAAIRFsI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgJ7TzOVAAIRFsI.jpg",
+					"url": "https://t.co/HH03qAouOE",
+					"display_url": "pic.twitter.com/HH03qAouOE",
+					"expanded_url": "https://twitter.com/AshyMalik/status/1297735248415875072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1297735222763507700,
+					"id_str": "1297735222763507714",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EgJ7TzVU0AI77NK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgJ7TzVU0AI77NK.jpg",
+					"url": "https://t.co/HH03qAouOE",
+					"display_url": "pic.twitter.com/HH03qAouOE",
+					"expanded_url": "https://twitter.com/AshyMalik/status/1297735248415875072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1020,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1020,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1297735222851547100,
+					"id_str": "1297735222851547142",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EgJ7TzqUMAYX6xD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgJ7TzqUMAYX6xD.jpg",
+					"url": "https://t.co/HH03qAouOE",
+					"display_url": "pic.twitter.com/HH03qAouOE",
+					"expanded_url": "https://twitter.com/AshyMalik/status/1297735248415875072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1297735222880907300,
+					"id_str": "1297735222880907264",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EgJ7TzxUMAAx2_T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgJ7TzxUMAAx2_T.jpg",
+					"url": "https://t.co/HH03qAouOE",
+					"display_url": "pic.twitter.com/HH03qAouOE",
+					"expanded_url": "https://twitter.com/AshyMalik/status/1297735248415875072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1020,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1020,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 881909960728334300,
+			"id_str": "881909960728334336",
+			"name": "malik💕",
+			"screen_name": "AshyMalik",
+			"location": "frolicking",
+			"description": "ig @ ashymalikk | i get on here to tell jokes and lie❤️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35121,
+			"friends_count": 1571,
+			"listed_count": 38,
+			"created_at": "Mon Jul 03 16:18:14 +0000 2017",
+			"favourites_count": 41637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1293684338417074176/O3x6-rVT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1293684338417074176/O3x6-rVT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/881909960728334336/1597762674",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44117,
+		"favorite_count": 316259,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i frolicked for the first time ever today bruh. y’all ever frolic before???? why no one ever tell me about this https://t.co/HH03qAouOE"
+	},
+	{
+		"created_at": "Mon Aug 24 19:22:56 +0000 2020",
+		"id": 1297957512382222300,
+		"id_str": "1297977710241882118",
+		"full_text": "Black Lives Still Matter @garyyounge https://t.co/3WGc45vPg9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "garyyounge",
+					"name": "Gary Younge",
+					"id": 149272318,
+					"id_str": "149272318",
+					"indices": [
+						25,
+						36
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1297953754684301300,
+					"id_str": "1297953754684301312",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EgNERYfX0AATOa6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgNERYfX0AATOa6.jpg",
+					"url": "https://t.co/3WGc45vPg9",
+					"display_url": "pic.twitter.com/3WGc45vPg9",
+					"expanded_url": "https://twitter.com/DoubleDownNews/status/1297957512382222336/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1297953754684301300,
+					"id_str": "1297953754684301312",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EgNERYfX0AATOa6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgNERYfX0AATOa6.jpg",
+					"url": "https://t.co/3WGc45vPg9",
+					"display_url": "pic.twitter.com/3WGc45vPg9",
+					"expanded_url": "https://twitter.com/DoubleDownNews/status/1297957512382222336/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 597100,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1297953754684301312/pl/X8HISM-XWsl31onF.m3u8?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1297953754684301312/vid/720x720/6_8Gow3gwSX6ZBFC.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1297953754684301312/vid/320x320/hSDFrnlP2u135crM.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1297953754684301312/vid/480x480/93iJfEmlJBDdEj5x.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 808638164411842600,
+			"id_str": "808638164411842560",
+			"name": "Double Down News",
+			"screen_name": "DoubleDownNews",
+			"location": "United Kingdom",
+			"description": "Join us: https://t.co/V0RZWehJE0 Support: https://t.co/BG2aXVXDbq",
+			"url": "https://t.co/mVcinH54Lh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVcinH54Lh",
+							"expanded_url": "http://www.doubledown.news",
+							"display_url": "doubledown.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/V0RZWehJE0",
+							"expanded_url": "http://patreon.com/DoubleDownNews",
+							"display_url": "patreon.com/DoubleDownNews",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/BG2aXVXDbq",
+							"expanded_url": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TLXUE9P9GA9ZC&source=url",
+							"display_url": "paypal.com/cgi-bin/webscr…",
+							"indices": [
+								42,
+								65
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 78846,
+			"friends_count": 2561,
+			"listed_count": 403,
+			"created_at": "Tue Dec 13 11:42:16 +0000 2016",
+			"favourites_count": 5056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016989764036284416/YDiA-t_T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016989764036284416/YDiA-t_T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/808638164411842560/1556546699",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 417,
+		"favorite_count": 864,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Black Lives Still Matter @garyyounge https://t.co/3WGc45vPg9"
+	},
+	{
+		"created_at": "Mon Aug 24 18:24:30 +0000 2020",
+		"id": 1297948629529854000,
+		"id_str": "1297963008279359490",
+		"full_text": "Ibiza just became a real life Footloose town. https://t.co/La7ieliG4D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1297933458245734400,
+					"id_str": "1297933458245734401",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EgM83u_UcAAA6ln.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgM83u_UcAAA6ln.jpg",
+					"url": "https://t.co/La7ieliG4D",
+					"display_url": "pic.twitter.com/La7ieliG4D",
+					"expanded_url": "https://twitter.com/VICENews/status/1297948629529853952/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1297933458245734400,
+					"id_str": "1297933458245734401",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EgM83u_UcAAA6ln.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgM83u_UcAAA6ln.jpg",
+					"url": "https://t.co/La7ieliG4D",
+					"display_url": "pic.twitter.com/La7ieliG4D",
+					"expanded_url": "https://twitter.com/VICENews/status/1297948629529853952/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 574641,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1297933458245734401/vid/1280x720/ums8n4q2vOpYCRlS.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1297933458245734401/vid/640x360/bb0fJi_LsHWOg9of.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1297933458245734401/vid/480x270/MzHO2tB2r86Caowb.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1297933458245734401/pl/9vSBCUfLeqg8ly0i.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "You Can't Dance in Ibiza Anymore Because COVID Ruins Everything",
+						"description": "Watch #VICENewsTonight Monday–Thursday on @VICETV.",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1630896181,
+			"id_str": "1630896181",
+			"name": "VICE News",
+			"screen_name": "VICENews",
+			"location": "Worldwide",
+			"description": "#VICENewsTonight airs Monday–Thursday on @VICETV / #VICEonSHO on @Showtime / Sign up for the VICE News Daily Brief https://t.co/iAmmxEdiz4",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iAmmxEdiz4",
+							"expanded_url": "http://bit.ly/2NnkJOD",
+							"display_url": "bit.ly/2NnkJOD",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 999289,
+			"friends_count": 921,
+			"listed_count": 10919,
+			"created_at": "Mon Jul 29 17:40:09 +0000 2013",
+			"favourites_count": 4807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 120538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1233501220351938561/EDFKNAdi_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233501220351938561/EDFKNAdi_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1630896181/1593214220",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Ibiza just became a real life Footloose town. https://t.co/La7ieliG4D"
+	},
+	{
+		"created_at": "Mon Aug 24 10:08:51 +0000 2020",
+		"id": 1297429122126422000,
+		"id_str": "1297838273793085440",
+		"full_text": "Many of the places we care for have direct or indirect links to slavery, including objects made from materials obtained by forced labour.\n\nToday, as we mark the @UNESCO Day for the Remembrance of the Slave Trade and its Abolition, we take a closer look at these materials. https://t.co/StFcyVifF7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UNESCO",
+					"name": "UNESCO",
+					"id": 20646711,
+					"id_str": "20646711",
+					"indices": [
+						161,
+						168
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1297429120079532000,
+					"id_str": "1297429120079532032",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EgFk6R-WkAAjFLB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgFk6R-WkAAjFLB.jpg",
+					"url": "https://t.co/StFcyVifF7",
+					"display_url": "pic.twitter.com/StFcyVifF7",
+					"expanded_url": "https://twitter.com/nationaltrust/status/1297429122126422016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 665,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 665,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1297429120079532000,
+					"id_str": "1297429120079532032",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EgFk6R-WkAAjFLB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgFk6R-WkAAjFLB.jpg",
+					"url": "https://t.co/StFcyVifF7",
+					"display_url": "pic.twitter.com/StFcyVifF7",
+					"expanded_url": "https://twitter.com/nationaltrust/status/1297429122126422016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 665,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 665,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17632266,
+			"id_str": "17632266",
+			"name": "National Trust",
+			"screen_name": "nationaltrust",
+			"location": "UK",
+			"description": "National Trust – a charity looking after special places for everyone, for ever. #NationalTrust",
+			"url": "https://t.co/W42NpDmjuH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W42NpDmjuH",
+							"expanded_url": "http://bit.ly/_NationalTrust",
+							"display_url": "bit.ly/_NationalTrust",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 897807,
+			"friends_count": 658,
+			"listed_count": 4495,
+			"created_at": "Tue Nov 25 21:30:21 +0000 2008",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 283728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F4FEFC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247180958350151686/NGS7Gxlb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247180958350151686/NGS7Gxlb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17632266/1594028479",
+			"profile_link_color": "19057D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDBD5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3590,
+		"favorite_count": 13214,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Many of the places we care for have direct or indirect links to slavery, including objects made from materials obtained by forced labour.\n\nToday, as we mark the @UNESCO Day for the Remembrance of the Slave Trade and its Abolition, we take a closer look at these materials. https://t.co/StFcyVifF7"
+	},
+	{
 		"created_at": "Sun Aug 23 21:59:13 +0000 2020",
 		"id": 1297654653367328800,
 		"id_str": "1297654653367328771",
