@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 26 19:29:41 +0000 2020",
+		"id": 1298704186679480300,
+		"id_str": "1298704186679480330",
+		"full_text": "we need more of this https://t.co/uR0pOS2Qqx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uR0pOS2Qqx",
+					"expanded_url": "https://twitter.com/tes/status/1298634963911352321",
+					"display_url": "twitter.com/tes/status/129…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": "https://t.co/ZCrqLtp1Br",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCrqLtp1Br",
+							"expanded_url": "https://cinehabitue.wordpress.com/",
+							"display_url": "cinehabitue.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 272,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1298634963911352300,
+		"quoted_status_id_str": "1298634963911352321",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uR0pOS2Qqx",
+			"expanded": "https://twitter.com/tes/status/1298634963911352321",
+			"display": "twitter.com/tes/status/129…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 26 14:54:37 +0000 2020",
+			"id": 1298634963911352300,
+			"id_str": "1298634963911352321",
+			"full_text": "The books on display behind @BorisJohnson during his speech at an East Midlands school today suggest the librarian, or perhaps a disgruntled English teacher, might have taken their chance to have a say, writes @tweetsbyames https://t.co/VzH84S8RBy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BorisJohnson",
+						"name": "Boris Johnson",
+						"id": 3131144855,
+						"id_str": "3131144855",
+						"indices": [
+							28,
+							41
+						]
+					},
+					{
+						"screen_name": "tweetsbyames",
+						"name": "Amy Gibbons",
+						"id": 154888614,
+						"id_str": "154888614",
+						"indices": [
+							210,
+							223
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VzH84S8RBy",
+						"expanded_url": "https://www.tes.com/news/boris-johnson-and-revenge-school-librarian",
+						"display_url": "tes.com/news/boris-joh…",
+						"indices": [
+							224,
+							247
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 78874095,
+				"id_str": "78874095",
+				"name": "Tes",
+				"screen_name": "tes",
+				"location": "UK",
+				"description": "Follow us for exclusive news, views on schools, #edchat, pedagogy and #education policy from @Tes.",
+				"url": "https://t.co/xsD4MT26vf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xsD4MT26vf",
+								"expanded_url": "http://www.tes.com/news",
+								"display_url": "tes.com/news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 323062,
+				"friends_count": 1080,
+				"listed_count": 2568,
+				"created_at": "Thu Oct 01 11:03:29 +0000 2009",
+				"favourites_count": 2427,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 99324,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/982251787473137664/GYJv1GBM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/982251787473137664/GYJv1GBM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/78874095/1532017700",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 361,
+			"favorite_count": 791,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "we need more of this https://t.co/uR0pOS2Qqx"
+	},
+	{
 		"created_at": "Tue Aug 25 18:32:05 +0000 2020",
 		"id": 1298327302691074000,
 		"id_str": "1298327302691074051",
@@ -107,7 +346,7 @@ Grailbird.data.tweets_2020_08 =
 		"created_at": "Tue Aug 25 17:33:09 +0000 2020",
 		"id": 1298312474090000400,
 		"id_str": "1298312474090000393",
-		"full_text": "great finish by Holding 🤦🏾‍♂️ 1-2 #MKDARS",
+		"full_text": "great finish by Holding 🤦🏾♂️ 1-2 #MKDARS",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -204,7 +443,7 @@ Grailbird.data.tweets_2020_08 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "great finish by Holding 🤦🏾‍♂️ 1-2 #MKDARS"
+		"text": "great finish by Holding 🤦🏾♂️ 1-2 #MKDARS"
 	},
 	{
 		"created_at": "Tue Aug 25 17:11:56 +0000 2020",
