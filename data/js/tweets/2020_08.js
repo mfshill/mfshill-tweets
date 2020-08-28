@@ -1,6 +1,106 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 27 10:08:27 +0000 2020",
+		"id": 1298730376504975400,
+		"id_str": "1298925334780358656",
+		"full_text": "I worked for the Home Office for seven years.  I genuinely thought this tweet was from a spoof account.\n\nReturn arrangements are nothing to do with the EU.  The constraints come from the Human Rights Act and UK Case Law.\n\nThis is bonkers propaganda. https://t.co/CyILTB1GHh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CyILTB1GHh",
+					"expanded_url": "https://twitter.com/ukhomeoffice/status/1298674067323727872",
+					"display_url": "twitter.com/ukhomeoffice/s…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4187441979,
+			"id_str": "4187441979",
+			"name": "Puddleglum Resolved ⭐ #FBPE",
+			"screen_name": "Puddleglum55",
+			"location": "Liverpool, England",
+			"description": "Irrepressible European child of the future. Singer and guitarist.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 654,
+			"friends_count": 832,
+			"listed_count": 0,
+			"created_at": "Sat Nov 14 16:18:40 +0000 2015",
+			"favourites_count": 9465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141946037801824256/TjdmpWmN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141946037801824256/TjdmpWmN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4187441979/1562783313",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1298674067323728000,
+		"quoted_status_id_str": "1298674067323727872",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CyILTB1GHh",
+			"expanded": "https://twitter.com/ukhomeoffice/status/1298674067323727872",
+			"display": "twitter.com/ukhomeoffice/s…"
+		},
+		"retweet_count": 622,
+		"favorite_count": 1125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I worked for the Home Office for seven years.  I genuinely thought this tweet was from a spoof account.\n\nReturn arrangements are nothing to do with the EU.  The constraints come from the Human Rights Act and UK Case Law.\n\nThis is bonkers propaganda. https://t.co/CyILTB1GHh"
+	},
+	{
 		"created_at": "Wed Aug 26 19:29:41 +0000 2020",
 		"id": 1298704186679480300,
 		"id_str": "1298704186679480330",
