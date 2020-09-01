@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 31 20:10:50 +0000 2020",
+		"id": 1300402706608128000,
+		"id_str": "1300526479722385412",
+		"full_text": "\"People are disgusting!\"\n\n#LimmysHomemadeShow, streaming now! https://t.co/12nWqMD5BK\n\n@DaftLimmy https://t.co/lvFGkEjlG8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LimmysHomemadeShow",
+					"indices": [
+						26,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DaftLimmy",
+					"name": "Limmy",
+					"id": 215394809,
+					"id_str": "215394809",
+					"indices": [
+						87,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/12nWqMD5BK",
+					"expanded_url": "https://bbc.in/2VuhM0W",
+					"display_url": "bbc.in/2VuhM0W",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1252905254863147000,
+					"id_str": "1252905254863147008",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EWNIsofXkAEzuEa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWNIsofXkAEzuEa.jpg",
+					"url": "https://t.co/lvFGkEjlG8",
+					"display_url": "pic.twitter.com/lvFGkEjlG8",
+					"expanded_url": "https://twitter.com/BBCScotland/status/1300402706608128000/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252905254863147000,
+					"id_str": "1252905254863147008",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EWNIsofXkAEzuEa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWNIsofXkAEzuEa.jpg",
+					"url": "https://t.co/lvFGkEjlG8",
+					"display_url": "pic.twitter.com/lvFGkEjlG8",
+					"expanded_url": "https://twitter.com/BBCScotland/status/1300402706608128000/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 153320,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1252905254863147008/vid/720x720/CsYmrb6Ir6gcbf3u.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1252905254863147008/pl/xulIZVdMyO_AaEaS.m3u8?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1252905254863147008/vid/320x320/VVRrXWTfJGYRmhyP.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1252905254863147008/vid/480x480/kRVhZd1hL4YBN9lY.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "People Are Disgusting | Limmy's Homemade Show ",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.bbc.co.uk/iplayer/episodes/m000h5mf/limmys-homemade-show"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 622133,
+			"id_str": "622133",
+			"name": "BBC Scotland",
+			"screen_name": "BBCScotland",
+			"location": "Scotland",
+			"description": "All the latest from your BBC Scotland Also: @BBCRadioScot  @BBCScotlandNews @BBCSportScot @BBCtheSocial @BBCScotLearn",
+			"url": "https://t.co/GnrPQWirGy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GnrPQWirGy",
+							"expanded_url": "http://www.bbc.co.uk/scotland",
+							"display_url": "bbc.co.uk/scotland",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115145,
+			"friends_count": 603,
+			"listed_count": 837,
+			"created_at": "Wed Jan 10 15:37:54 +0000 2007",
+			"favourites_count": 18759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 79593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058317513677791232/nCLMTlZr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058317513677791232/nCLMTlZr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/622133/1593428768",
+			"profile_link_color": "5C2066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F2F0F6",
+			"profile_text_color": "5B5B5B",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 133,
+		"favorite_count": 748,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"People are disgusting!\"\n\n#LimmysHomemadeShow, streaming now! https://t.co/12nWqMD5BK\n\n@DaftLimmy https://t.co/lvFGkEjlG8"
+	},
+	{
 		"created_at": "Sun Aug 30 16:23:18 +0000 2020",
 		"id": 1300106834494320600,
 		"id_str": "1300106834494320644",
