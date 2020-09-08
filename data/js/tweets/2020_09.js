@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 07 17:27:57 +0000 2020",
+		"id": 1302946119664709600,
+		"id_str": "1303022204196720641",
+		"full_text": "UPDATED 2020 CALENDAR:\n\nJanuary: Coronavirus \nFebruary: Coronavirus \nMarch: Coronavirus \nApril: Coronavirus \nMay: Coronavirus \nJune: Coronavirus \nJuly: Everything is cake \nAugust: Coronavirus\nSeptember: Neil Buchanan isn’t Banksy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 232520849,
+			"id_str": "232520849",
+			"name": "Pundamentalism",
+			"screen_name": "Pundamentalism",
+			"location": "",
+			"description": "Sometimes writer. Sometimes wronger. All views my own, but will happily blame someone else.",
+			"url": "https://t.co/eLn6rE92Fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eLn6rE92Fj",
+							"expanded_url": "https://ko-fi.com/pundamentalism",
+							"display_url": "ko-fi.com/pundamentalism",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109082,
+			"friends_count": 1005,
+			"listed_count": 1126,
+			"created_at": "Fri Dec 31 11:25:48 +0000 2010",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956163595607224320/-3SNN-qj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956163595607224320/-3SNN-qj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/232520849/1509823639",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 429,
+		"favorite_count": 1723,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "UPDATED 2020 CALENDAR:\n\nJanuary: Coronavirus \nFebruary: Coronavirus \nMarch: Coronavirus \nApril: Coronavirus \nMay: Coronavirus \nJune: Coronavirus \nJuly: Everything is cake \nAugust: Coronavirus\nSeptember: Neil Buchanan isn’t Banksy"
+	},
+	{
 		"created_at": "Sun Sep 06 21:46:49 +0000 2020",
 		"id": 1302724962256646100,
 		"id_str": "1302724962256646145",
