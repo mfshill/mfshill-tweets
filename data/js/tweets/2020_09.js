@@ -1,6 +1,999 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 09 20:46:12 +0000 2020",
+		"id": 1290652398344700000,
+		"id_str": "1303796872646197249",
+		"full_text": "Hands. Face. Space......... oh and get a test! https://t.co/78HXGlBODw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1290652323702878200,
+					"id_str": "1290652323702878215",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EelRc0LXsAcMFFY.png",
+					"media_url_https": "https://pbs.twimg.com/media/EelRc0LXsAcMFFY.png",
+					"url": "https://t.co/78HXGlBODw",
+					"display_url": "pic.twitter.com/78HXGlBODw",
+					"expanded_url": "https://twitter.com/mfshill/status/1290652398344699904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 620,
+							"h": 350,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290652323702878200,
+					"id_str": "1290652323702878215",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EelRc0LXsAcMFFY.png",
+					"media_url_https": "https://pbs.twimg.com/media/EelRc0LXsAcMFFY.png",
+					"url": "https://t.co/78HXGlBODw",
+					"display_url": "pic.twitter.com/78HXGlBODw",
+					"expanded_url": "https://twitter.com/mfshill/status/1290652398344699904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 620,
+							"h": 350,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 257,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hands. Face. Space......... oh and get a test! https://t.co/78HXGlBODw"
+	},
+	{
+		"created_at": "Wed Sep 09 20:21:48 +0000 2020",
+		"id": 1303789645851959300,
+		"id_str": "1303790733682520069",
+		"full_text": "West Brom being in the Premier league this season means Nuno Espirito Santo finally has a challenger for best beard https://t.co/H8hyBgdEIR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303789641687011300,
+					"id_str": "1303789641687011329",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehf9xXaWkAEk_pU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehf9xXaWkAEk_pU.jpg",
+					"url": "https://t.co/H8hyBgdEIR",
+					"display_url": "pic.twitter.com/H8hyBgdEIR",
+					"expanded_url": "https://twitter.com/M0by_Duck/status/1303789645851959296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303789641687011300,
+					"id_str": "1303789641687011329",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehf9xXaWkAEk_pU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehf9xXaWkAEk_pU.jpg",
+					"url": "https://t.co/H8hyBgdEIR",
+					"display_url": "pic.twitter.com/H8hyBgdEIR",
+					"expanded_url": "https://twitter.com/M0by_Duck/status/1303789645851959296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303789643884884000,
+					"id_str": "1303789643884883970",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehf9xfmXcAIINUL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehf9xfmXcAIINUL.jpg",
+					"url": "https://t.co/H8hyBgdEIR",
+					"display_url": "pic.twitter.com/H8hyBgdEIR",
+					"expanded_url": "https://twitter.com/M0by_Duck/status/1303789645851959296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 259,
+							"h": 194,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 259,
+							"h": 194,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 259,
+							"h": 194,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22948138,
+			"id_str": "22948138",
+			"name": "a reasonable amount of malarkey 2020",
+			"screen_name": "M0by_Duck",
+			"location": "gone squatchin",
+			"description": "Vegan, 🙀 and 🐶 keeper, NUFC, He/him.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1361,
+			"friends_count": 407,
+			"listed_count": 31,
+			"created_at": "Thu Mar 05 17:31:06 +0000 2009",
+			"favourites_count": 4513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288879969628815366/sFyHu69Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288879969628815366/sFyHu69Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22948138/1540761813",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "West Brom being in the Premier league this season means Nuno Espirito Santo finally has a challenger for best beard https://t.co/H8hyBgdEIR"
+	},
+	{
+		"created_at": "Wed Sep 09 20:10:33 +0000 2020",
+		"id": 1303786503684882400,
+		"id_str": "1303787903177428992",
+		"full_text": "Three Vietnamese school students have designed a helmet that allows frontline health workers to have a snack or even scratch their nose https://t.co/laVOnNIrfn https://t.co/WTyZxAhF5K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/laVOnNIrfn",
+					"expanded_url": "https://reut.rs/33nmeTx",
+					"display_url": "reut.rs/33nmeTx",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1303779934641385500,
+					"id_str": "1303779934641385472",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1303779934641385472/img/qzO0bNW154qzsuM6.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1303779934641385472/img/qzO0bNW154qzsuM6.jpg",
+					"url": "https://t.co/WTyZxAhF5K",
+					"display_url": "pic.twitter.com/WTyZxAhF5K",
+					"expanded_url": "https://twitter.com/Reuters/status/1303786503684882437/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303779934641385500,
+					"id_str": "1303779934641385472",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1303779934641385472/img/qzO0bNW154qzsuM6.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1303779934641385472/img/qzO0bNW154qzsuM6.jpg",
+					"url": "https://t.co/WTyZxAhF5K",
+					"display_url": "pic.twitter.com/WTyZxAhF5K",
+					"expanded_url": "https://twitter.com/Reuters/status/1303786503684882437/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 82583,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1303779934641385472/pl/Jy-Kcra5z-nMwhzU.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1303779934641385472/vid/480x270/0lJe0xaAD-gqkWC8.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1303779934641385472/vid/1280x720/YpPcnVR0pONPVK5S.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1303779934641385472/vid/640x360/KmxNH0oudgspsRzi.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Helmet keeps frontline workers safe and comfy – News ",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.youtube.com/user/ReutersVideo"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1652541,
+			"id_str": "1652541",
+			"name": "Reuters",
+			"screen_name": "Reuters",
+			"location": "Around the world",
+			"description": "Top and breaking news, pictures and videos from Reuters. For more breaking business news, follow @ReutersBiz.",
+			"url": "http://t.co/BmHxhkm3Mh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/BmHxhkm3Mh",
+							"expanded_url": "http://www.reuters.com",
+							"display_url": "reuters.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22324268,
+			"friends_count": 1117,
+			"listed_count": 121388,
+			"created_at": "Tue Mar 20 17:46:05 +0000 2007",
+			"favourites_count": 750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 581730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "444444",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1573687397",
+			"profile_link_color": "006F97",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5F5F5",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 235,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Three Vietnamese school students have designed a helmet that allows frontline health workers to have a snack or even scratch their nose https://t.co/laVOnNIrfn https://t.co/WTyZxAhF5K"
+	},
+	{
+		"created_at": "Wed Sep 09 14:23:05 +0000 2020",
+		"id": 1303628565498548200,
+		"id_str": "1303700458792456193",
+		"full_text": "If anyone is wondering whether and why it actually matters that the UK is committed to the rule of international law and the binding force of that law, here are just a few recent examples.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133464445,
+			"id_str": "133464445",
+			"name": "Raphael Hogarth",
+			"screen_name": "Raphael_Hogarth",
+			"location": "London",
+			"description": "Associate @instituteforgov. Writer @thetimes. Visiting lecturer in public law @CityLawSchool. Public policy and public law. Views my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13292,
+			"friends_count": 993,
+			"listed_count": 262,
+			"created_at": "Thu Apr 15 21:41:29 +0000 2010",
+			"favourites_count": 5662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897511463987929089/pHNucANG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897511463987929089/pHNucANG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133464445/1569143726",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2321,
+		"favorite_count": 5180,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If anyone is wondering whether and why it actually matters that the UK is committed to the rule of international law and the binding force of that law, here are just a few recent examples."
+	},
+	{
+		"created_at": "Wed Sep 09 13:03:48 +0000 2020",
+		"id": 1303680506245132300,
+		"id_str": "1303680506245132293",
+		"full_text": "#Faith https://t.co/KJEcvpbIxX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Faith",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303680479686791200,
+					"id_str": "1303680479686791168",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/EheafTRXkAAFF_l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EheafTRXkAAFF_l.jpg",
+					"url": "https://t.co/KJEcvpbIxX",
+					"display_url": "pic.twitter.com/KJEcvpbIxX",
+					"expanded_url": "https://twitter.com/mfshill/status/1303680506245132293/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 1292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 368,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303680479686791200,
+					"id_str": "1303680479686791168",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/EheafTRXkAAFF_l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EheafTRXkAAFF_l.jpg",
+					"url": "https://t.co/KJEcvpbIxX",
+					"display_url": "pic.twitter.com/KJEcvpbIxX",
+					"expanded_url": "https://twitter.com/mfshill/status/1303680506245132293/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 1292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 368,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 257,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#Faith https://t.co/KJEcvpbIxX"
+	},
+	{
+		"created_at": "Wed Sep 09 13:03:18 +0000 2020",
+		"id": 1303680380130799600,
+		"id_str": "1303680380130799616",
+		"full_text": "https://t.co/kWkypC6CRH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303680376280354800,
+					"id_str": "1303680376280354818",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EheaZSDWkAI8DdU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EheaZSDWkAI8DdU.jpg",
+					"url": "https://t.co/kWkypC6CRH",
+					"display_url": "pic.twitter.com/kWkypC6CRH",
+					"expanded_url": "https://twitter.com/mfshill/status/1303680380130799616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 880,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 880,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303680376280354800,
+					"id_str": "1303680376280354818",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EheaZSDWkAI8DdU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EheaZSDWkAI8DdU.jpg",
+					"url": "https://t.co/kWkypC6CRH",
+					"display_url": "pic.twitter.com/kWkypC6CRH",
+					"expanded_url": "https://twitter.com/mfshill/status/1303680380130799616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 880,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 880,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 257,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/kWkypC6CRH"
+	},
+	{
 		"created_at": "Tue Sep 08 18:53:59 +0000 2020",
 		"id": 1303406244804337700,
 		"id_str": "1303406244804337666",
