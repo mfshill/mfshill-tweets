@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 17 18:29:48 +0000 2020",
+		"id": 1306588064806912000,
+		"id_str": "1306661648967626754",
+		"full_text": "I've never quite been the same since I learned about trovants. These are rocks, actual rocks, that not only 'grow' but MULTIPLY. https://t.co/T3LmD97ncg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306588062525259800,
+					"id_str": "1306588062525259776",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHu65aVgAARwyG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHu65aVgAARwyG.jpg",
+					"url": "https://t.co/T3LmD97ncg",
+					"display_url": "pic.twitter.com/T3LmD97ncg",
+					"expanded_url": "https://twitter.com/folkhorrormagpi/status/1306588064806912001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306588062525259800,
+					"id_str": "1306588062525259776",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EiHu65aVgAARwyG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiHu65aVgAARwyG.jpg",
+					"url": "https://t.co/T3LmD97ncg",
+					"display_url": "pic.twitter.com/T3LmD97ncg",
+					"expanded_url": "https://twitter.com/folkhorrormagpi/status/1306588064806912001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1267450441044025300,
+			"id_str": "1267450441044025344",
+			"name": "Folk Horror Magpie",
+			"screen_name": "folkhorrormagpi",
+			"location": "London, England",
+			"description": "🌾Collecting trinkets & curios of the folk horror genre.\nFolklore, oral tradition, rituals & festivals, psychogeography, forteana, revivalism & the occult🌾",
+			"url": "https://t.co/K0l4FzcwUy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K0l4FzcwUy",
+							"expanded_url": "https://www.etsy.com/uk/shop/FolkHorrorMagpie",
+							"display_url": "etsy.com/uk/shop/FolkHo…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5383,
+			"friends_count": 4733,
+			"listed_count": 28,
+			"created_at": "Mon Jun 01 13:38:39 +0000 2020",
+			"favourites_count": 364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267452216065044480/jihRNjgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267452216065044480/jihRNjgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1267450441044025344/1591027641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2861,
+		"favorite_count": 10398,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've never quite been the same since I learned about trovants. These are rocks, actual rocks, that not only 'grow' but MULTIPLY. https://t.co/T3LmD97ncg"
+	},
+	{
+		"created_at": "Thu Sep 17 13:41:45 +0000 2020",
+		"id": 1306589157985190000,
+		"id_str": "1306589157985189891",
+		"full_text": "surprised Adam Yates hasn't attacked. 3mins off top spot. #TDF2020",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TDF2020",
+					"indices": [
+						58,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1306588641729290200,
+		"in_reply_to_status_id_str": "1306588641729290250",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "surprised Adam Yates hasn't attacked. 3mins off top spot. #TDF2020"
+	},
+	{
 		"created_at": "Wed Sep 16 19:10:00 +0000 2020",
 		"id": 1306309377717153800,
 		"id_str": "1306309377717153793",
