@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 18 18:42:39 +0000 2020",
+		"id": 1307022495602618400,
+		"id_str": "1307027271853670404",
+		"full_text": "If there's a clear sky where you are tonight, remember to look up and feel absolutely terrified that we're just hurtling through space",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17336372,
+			"id_str": "17336372",
+			"name": "Frankie Boyle",
+			"screen_name": "frankieboyle",
+			"location": "www.frankieboyle.com",
+			"description": "Some laugh",
+			"url": "https://t.co/ANwcwPmQpN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANwcwPmQpN",
+							"expanded_url": "http://www.instagram.com/frankie_boyle",
+							"display_url": "instagram.com/frankie_boyle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2817918,
+			"friends_count": 1139,
+			"listed_count": 5417,
+			"created_at": "Wed Nov 12 09:48:13 +0000 2008",
+			"favourites_count": 6791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291746282437050368/sTu6-pNX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291746282437050368/sTu6-pNX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17336372/1596811288",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 498,
+		"favorite_count": 4433,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If there's a clear sky where you are tonight, remember to look up and feel absolutely terrified that we're just hurtling through space"
+	},
+	{
 		"created_at": "Thu Sep 17 18:29:48 +0000 2020",
 		"id": 1306588064806912000,
 		"id_str": "1306661648967626754",
