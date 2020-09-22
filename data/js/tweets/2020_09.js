@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 21 17:24:23 +0000 2020",
+		"id": 1308094736901824500,
+		"id_str": "1308094736901824512",
+		"full_text": "'Little more than good PR': why QPR have stopped taking a knee https://t.co/ZfqfIN9mru",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZfqfIN9mru",
+					"expanded_url": "https://www.theguardian.com/football/2020/sep/21/why-qpr-have-stopped-taking-a-knee-les-ferdinand?CMP=share_btn_tw",
+					"display_url": "theguardian.com/football/2020/…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Little more than good PR': why QPR have stopped taking a knee https://t.co/ZfqfIN9mru"
+	},
+	{
+		"created_at": "Mon Sep 21 10:27:19 +0000 2020",
+		"id": 1307725467873685500,
+		"id_str": "1307989778495950849",
+		"full_text": "'Johnson looks a sadder and more diminished figure by the day as he sits in Downing Street so pitifully out of his depth, a shallow and insecure man devoid of leadership skills'\n\n@ianbirrell \n\nhttps://t.co/jAYaAQtTqa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ianbirrell",
+					"name": "Ian Birrell",
+					"id": 142230413,
+					"id_str": "142230413",
+					"indices": [
+						179,
+						190
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jAYaAQtTqa",
+					"expanded_url": "https://inews.co.uk/opinion/boris-johnson-is-a-court-jester-placed-on-the-throne-and-now-were-suffering-the-consequences-654475",
+					"display_url": "inews.co.uk/opinion/boris-…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1027596394578812900,
+			"id_str": "1027596394578812929",
+			"name": "i opinion",
+			"screen_name": "ipaperviews",
+			"location": "",
+			"description": "@theipaper's opinion section: analysis, comment & real life stories. Sign up to our roundup of the best opinion from i and elsewhere: https://t.co/vMH9dA4qXO",
+			"url": "https://t.co/YLzIn4kJNu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YLzIn4kJNu",
+							"expanded_url": "https://inews.co.uk/opinion/",
+							"display_url": "inews.co.uk/opinion/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vMH9dA4qXO",
+							"expanded_url": "http://inews.co.uk/newsletter",
+							"display_url": "inews.co.uk/newsletter",
+							"indices": [
+								134,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2548,
+			"friends_count": 54,
+			"listed_count": 34,
+			"created_at": "Thu Aug 09 16:44:07 +0000 2018",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217048377076199427/VD5xOZZF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217048377076199427/VD5xOZZF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1027596394578812929/1537786522",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 386,
+		"favorite_count": 804,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Johnson looks a sadder and more diminished figure by the day as he sits in Downing Street so pitifully out of his depth, a shallow and insecure man devoid of leadership skills'\n\n@ianbirrell \n\nhttps://t.co/jAYaAQtTqa"
+	},
+	{
+		"created_at": "Mon Sep 21 10:10:29 +0000 2020",
+		"id": 1307981930655363000,
+		"id_str": "1307985545780441088",
+		"full_text": "Why do the government put on this pantomime every time they implement something new? \n\nSmall announcements hinting at the plan, dropping new buzz words, MPs appearing on TV shows. \n\nJust fucking announce the second lockdown and let’s get on with it.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73495980,
+			"id_str": "73495980",
+			"name": "Loose Cannon",
+			"screen_name": "misskirstielou",
+			"location": "Not up north nor down south",
+			"description": "Drinker of wine, giggler of face, eater of chocolate, teller of cheese jokes, sucker of thumb, amazer of card tricks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 814,
+			"friends_count": 203,
+			"listed_count": 0,
+			"created_at": "Fri Sep 11 21:58:44 +0000 2009",
+			"favourites_count": 1881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/686813788989960192/oYgmduZa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/686813788989960192/oYgmduZa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73495980/1360091185",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Why do the government put on this pantomime every time they implement something new? \n\nSmall announcements hinting at the plan, dropping new buzz words, MPs appearing on TV shows. \n\nJust fucking announce the second lockdown and let’s get on with it."
+	},
+	{
 		"created_at": "Sun Sep 20 11:33:28 +0000 2020",
 		"id": 1307644040310132700,
 		"id_str": "1307644040310132736",
