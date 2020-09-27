@@ -1,6 +1,795 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 26 16:28:20 +0000 2020",
+		"id": 1309465367778136000,
+		"id_str": "1309892572576460800",
+		"full_text": "How Dark Money Convinced You to Vote for Monsters @PeterKGeoghegan https://t.co/JCTG6k9k8c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeterKGeoghegan",
+					"name": "Peter Geoghegan",
+					"id": 119384544,
+					"id_str": "119384544",
+					"indices": [
+						50,
+						66
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1309268616387473400,
+					"id_str": "1309268616387473411",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/EiwE1cVWoAACMUZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiwE1cVWoAACMUZ.jpg",
+					"url": "https://t.co/JCTG6k9k8c",
+					"display_url": "pic.twitter.com/JCTG6k9k8c",
+					"expanded_url": "https://twitter.com/DoubleDownNews/status/1309465367778136065/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1309268616387473400,
+					"id_str": "1309268616387473411",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/EiwE1cVWoAACMUZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiwE1cVWoAACMUZ.jpg",
+					"url": "https://t.co/JCTG6k9k8c",
+					"display_url": "pic.twitter.com/JCTG6k9k8c",
+					"expanded_url": "https://twitter.com/DoubleDownNews/status/1309465367778136065/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 497820,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1309268616387473411/vid/720x720/3lwAFxA146aXfZrt.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1309268616387473411/vid/320x320/ZAwTMTDlH7PgE8qB.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1309268616387473411/vid/480x480/kRulcpjM_vS8Sbdn.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1309268616387473411/pl/gD7fgrorQntRXGsS.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 808638164411842600,
+			"id_str": "808638164411842560",
+			"name": "Double Down News",
+			"screen_name": "DoubleDownNews",
+			"location": "United Kingdom",
+			"description": "Join us: https://t.co/V0RZWehJE0 Support: https://t.co/BG2aXVXDbq",
+			"url": "https://t.co/mVcinH54Lh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVcinH54Lh",
+							"expanded_url": "http://www.doubledown.news",
+							"display_url": "doubledown.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/V0RZWehJE0",
+							"expanded_url": "http://patreon.com/DoubleDownNews",
+							"display_url": "patreon.com/DoubleDownNews",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/BG2aXVXDbq",
+							"expanded_url": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TLXUE9P9GA9ZC&source=url",
+							"display_url": "paypal.com/cgi-bin/webscr…",
+							"indices": [
+								42,
+								65
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 89874,
+			"friends_count": 2804,
+			"listed_count": 450,
+			"created_at": "Tue Dec 13 11:42:16 +0000 2016",
+			"favourites_count": 5358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016989764036284416/YDiA-t_T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016989764036284416/YDiA-t_T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/808638164411842560/1556546699",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1319,
+		"favorite_count": 2080,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How Dark Money Convinced You to Vote for Monsters @PeterKGeoghegan https://t.co/JCTG6k9k8c"
+	},
+	{
+		"created_at": "Fri Sep 25 21:56:04 +0000 2020",
+		"id": 1309612659105554400,
+		"id_str": "1309612659105554437",
+		"full_text": "so true https://t.co/8rSEjmxJIv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8rSEjmxJIv",
+					"expanded_url": "https://twitter.com/MonaLisa_1797/status/1309460412296028161",
+					"display_url": "twitter.com/MonaLisa_1797/…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1309612188362039300,
+		"in_reply_to_status_id_str": "1309612188362039298",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1309460412296028200,
+		"quoted_status_id_str": "1309460412296028161",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8rSEjmxJIv",
+			"expanded": "https://twitter.com/MonaLisa_1797/status/1309460412296028161",
+			"display": "twitter.com/MonaLisa_1797/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 25 11:51:05 +0000 2020",
+			"id": 1309460412296028200,
+			"id_str": "1309460412296028161",
+			"full_text": "The opening scene from #Utopia (2013-2014) really outsold the US remake's entire first episode 😌 https://t.co/9tx24LBQkW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Utopia",
+						"indices": [
+							23,
+							30
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1303830988997513200,
+						"id_str": "1303830988997513216",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1303830988997513216/pu/img/XTkBjpJfRNEE6kTx.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1303830988997513216/pu/img/XTkBjpJfRNEE6kTx.jpg",
+						"url": "https://t.co/9tx24LBQkW",
+						"display_url": "pic.twitter.com/9tx24LBQkW",
+						"expanded_url": "https://twitter.com/i/status/1303831157851795456/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1270,
+								"h": 522,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 279,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 493,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1303831157851795500,
+						"source_status_id_str": "1303831157851795456",
+						"source_user_id": 1213100642580873200,
+						"source_user_id_str": "1213100642580873227"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1303830988997513200,
+						"id_str": "1303830988997513216",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1303830988997513216/pu/img/XTkBjpJfRNEE6kTx.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1303830988997513216/pu/img/XTkBjpJfRNEE6kTx.jpg",
+						"url": "https://t.co/9tx24LBQkW",
+						"display_url": "pic.twitter.com/9tx24LBQkW",
+						"expanded_url": "https://twitter.com/i/status/1303831157851795456/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1270,
+								"h": 522,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 279,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 493,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1303831157851795500,
+						"source_status_id_str": "1303831157851795456",
+						"source_user_id": 1213100642580873200,
+						"source_user_id_str": "1213100642580873227",
+						"video_info": {
+							"aspect_ratio": [
+								635,
+								261
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1303830988997513216/pu/vid/1270x522/jD0CucfXUunvNHR8.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1303830988997513216/pu/pl/pj05Ei9N2ZrW7uC6.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1303830988997513216/pu/vid/874x360/zB0MyhG1PeIZURIV.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1303830988997513216/pu/vid/656x270/_biibOuTmv4moayq.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1213100642580873200,
+								"id_str": "1213100642580873227",
+								"name": "@MonaLisa_1797's backup lol 💾",
+								"screen_name": "amypond011",
+								"location": "",
+								"description": "",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 2,
+								"friends_count": 1,
+								"listed_count": 0,
+								"created_at": "Fri Jan 03 14:12:44 +0000 2020",
+								"favourites_count": 0,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 5,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1213101176381726720/70K-8SSw_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213101176381726720/70K-8SSw_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1213100642580873227/1578061178",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1038148084939862000,
+				"id_str": "1038148084939862016",
+				"name": "∞ Krojacica Sudbine ∞",
+				"screen_name": "MonaLisa_1797",
+				"location": "Windener Höhlen",
+				"description": "👱🏻‍♂️ ∞ Sic Mundus Creatus Est ∞ 👩🏻",
+				"url": "https://t.co/QjzcmiLNu1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QjzcmiLNu1",
+								"expanded_url": "https://youtu.be/IBFFUVp84_w",
+								"display_url": "youtu.be/IBFFUVp84_w",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 829,
+				"friends_count": 269,
+				"listed_count": 8,
+				"created_at": "Fri Sep 07 19:32:46 +0000 2018",
+				"favourites_count": 42604,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12514,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1274086087300919296/1p7U0bPs_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274086087300919296/1p7U0bPs_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1038148084939862016/1592601401",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 73,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "so true https://t.co/8rSEjmxJIv"
+	},
+	{
+		"created_at": "Fri Sep 25 21:55:49 +0000 2020",
+		"id": 1309612598376136700,
+		"id_str": "1309612598376136705",
+		"full_text": "@MonaLisa_1797 this remake is terrible.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MonaLisa_1797",
+					"name": "∞ Krojacica Sudbine ∞",
+					"id": 1038148084939862000,
+					"id_str": "1038148084939862016",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1309460412296028200,
+		"in_reply_to_status_id_str": "1309460412296028161",
+		"in_reply_to_user_id": 1038148084939862000,
+		"in_reply_to_user_id_str": "1038148084939862016",
+		"in_reply_to_screen_name": "MonaLisa_1797",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MonaLisa_1797 this remake is terrible."
+	},
+	{
+		"created_at": "Fri Sep 25 21:54:11 +0000 2020",
+		"id": 1309612188362039300,
+		"id_str": "1309612188362039298",
+		"full_text": "well the American version of #Utopia is missing everything that made the UK (2013) version great. Terrible casting, unimaginative script, poor cinematography etc etc. Don't waste your time and watch the original.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Utopia",
+					"indices": [
+						29,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "well the American version of #Utopia is missing everything that made the UK (2013) version great. Terrible casting, unimaginative script, poor cinematography etc etc. Don't waste your time and watch the original."
+	},
+	{
 		"created_at": "Wed Sep 23 20:35:04 +0000 2020",
 		"id": 1308867499434348500,
 		"id_str": "1308867499434348544",
