@@ -1,6 +1,486 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 27 20:54:21 +0000 2020",
+		"id": 1310321906197893000,
+		"id_str": "1310321906197893120",
+		"full_text": "Permitted Development Rights have been and will continue to be a massive mistake for the quality of housing across the country. ‘It's like an open prison’: the catastrophe of converting office blocks to homes https://t.co/FhBhgpNRDP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FhBhgpNRDP",
+					"expanded_url": "https://www.theguardian.com/society/2020/sep/27/housing-crisis-planning-converting-office-blocks-homes-catastrophe-jenrick?CMP=share_btn_tw",
+					"display_url": "theguardian.com/society/2020/s…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Permitted Development Rights have been and will continue to be a massive mistake for the quality of housing across the country. ‘It's like an open prison’: the catastrophe of converting office blocks to homes https://t.co/FhBhgpNRDP"
+	},
+	{
+		"created_at": "Sun Sep 27 16:13:43 +0000 2020",
+		"id": 1310248379272761300,
+		"id_str": "1310251281362149376",
+		"full_text": "In addition to the 5700 or so live socially distanced fans, the #Broncos will have the entire town of \"South Park\" in the stands today... https://t.co/QN1cEKfQpa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Broncos",
+					"indices": [
+						64,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1310248351208628200,
+					"id_str": "1310248351208628225",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei7v7vVU4AEQfPG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei7v7vVU4AEQfPG.jpg",
+					"url": "https://t.co/QN1cEKfQpa",
+					"display_url": "pic.twitter.com/QN1cEKfQpa",
+					"expanded_url": "https://twitter.com/AllbrightNFL/status/1310248379272761346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310248351208628200,
+					"id_str": "1310248351208628225",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei7v7vVU4AEQfPG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei7v7vVU4AEQfPG.jpg",
+					"url": "https://t.co/QN1cEKfQpa",
+					"display_url": "pic.twitter.com/QN1cEKfQpa",
+					"expanded_url": "https://twitter.com/AllbrightNFL/status/1310248379272761346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1310248359089680400,
+					"id_str": "1310248359089680387",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei7v8MsUMAM9gZ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei7v8MsUMAM9gZ4.jpg",
+					"url": "https://t.co/QN1cEKfQpa",
+					"display_url": "pic.twitter.com/QN1cEKfQpa",
+					"expanded_url": "https://twitter.com/AllbrightNFL/status/1310248379272761346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1088,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1088,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1310248366429802500,
+					"id_str": "1310248366429802496",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei7v8oCVkAAdeB0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei7v8oCVkAAdeB0.jpg",
+					"url": "https://t.co/QN1cEKfQpa",
+					"display_url": "pic.twitter.com/QN1cEKfQpa",
+					"expanded_url": "https://twitter.com/AllbrightNFL/status/1310248379272761346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1078,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1078,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1310248373727887400,
+					"id_str": "1310248373727887360",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei7v9DOVgAAzQUU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei7v9DOVgAAzQUU.jpg",
+					"url": "https://t.co/QN1cEKfQpa",
+					"display_url": "pic.twitter.com/QN1cEKfQpa",
+					"expanded_url": "https://twitter.com/AllbrightNFL/status/1310248379272761346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1079,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183636302,
+			"id_str": "183636302",
+			"name": "Benjamin Allbright",
+			"screen_name": "AllbrightNFL",
+			"location": "Denver, Colorado",
+			"description": "Host, reporter & analyst at the Broncos flagship. @KOAColorado \n\n2nd most accurate mock draft in the world, 2020.\n\n\nInquiries: BenjaminAllbright@iheartmedia.com",
+			"url": "https://t.co/W29iUzgAS3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W29iUzgAS3",
+							"expanded_url": "http://www.broncoscountrytonight.com",
+							"display_url": "broncoscountrytonight.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 92530,
+			"friends_count": 1485,
+			"listed_count": 1937,
+			"created_at": "Fri Aug 27 14:14:15 +0000 2010",
+			"favourites_count": 43106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 79082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1166860481052602368/D7YcpEzX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166860481052602368/D7YcpEzX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183636302/1564349901",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4159,
+		"favorite_count": 10920,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In addition to the 5700 or so live socially distanced fans, the #Broncos will have the entire town of \"South Park\" in the stands today... https://t.co/QN1cEKfQpa"
+	},
+	{
+		"created_at": "Sun Sep 27 11:17:50 +0000 2020",
+		"id": 1310176820780839000,
+		"id_str": "1310176820780838912",
+		"full_text": "all the action on the 1st lap. #RussianGP #F1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RussianGP",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"text": "F1",
+					"indices": [
+						42,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1310175976156995600,
+		"in_reply_to_status_id_str": "1310175976156995584",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "all the action on the 1st lap. #RussianGP #F1"
+	},
+	{
 		"created_at": "Sat Sep 26 16:28:20 +0000 2020",
 		"id": 1309465367778136000,
 		"id_str": "1309892572576460800",
@@ -531,7 +1011,7 @@ Grailbird.data.tweets_2020_09 =
 				"name": "∞ Krojacica Sudbine ∞",
 				"screen_name": "MonaLisa_1797",
 				"location": "Windener Höhlen",
-				"description": "👱🏻‍♂️ ∞ Sic Mundus Creatus Est ∞ 👩🏻",
+				"description": "👱🏻♂️ ∞ Sic Mundus Creatus Est ∞ 👩🏻",
 				"url": "https://t.co/QjzcmiLNu1",
 				"entities": {
 					"url": {
