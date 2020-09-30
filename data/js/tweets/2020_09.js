@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 29 21:38:40 +0000 2020",
+		"id": 1311057833253896200,
+		"id_str": "1311057833253896192",
+		"full_text": "Should be an interesting race this weekend - World record times possible at London Marathon if rain stays away https://t.co/xm5hTdqrA1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xm5hTdqrA1",
+					"expanded_url": "https://www.theguardian.com/sport/2020/sep/29/london-marathon-could-see-world-record-times-if-rain-stays-away?CMP=share_btn_tw",
+					"display_url": "theguardian.com/sport/2020/sep…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Should be an interesting race this weekend - World record times possible at London Marathon if rain stays away https://t.co/xm5hTdqrA1"
+	},
+	{
+		"created_at": "Tue Sep 29 15:02:36 +0000 2020",
+		"id": 1310942410109669400,
+		"id_str": "1310958159503200256",
+		"full_text": "Shark liver oil can help make vaccines stronger. That's bad news for sharks. https://t.co/Hi2R1qmHks",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hi2R1qmHks",
+					"expanded_url": "https://bit.ly/33cWxGj",
+					"display_url": "bit.ly/33cWxGj",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1245033248507469800,
+			"id_str": "1245033248507469870",
+			"name": "VICE World News",
+			"screen_name": "VICEWorldNews",
+			"location": "",
+			"description": "Original reporting on everything that matters.",
+			"url": "https://t.co/mVkJQ8MH1h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVkJQ8MH1h",
+							"expanded_url": "https://www.vice.com/en_us/section/world",
+							"display_url": "vice.com/en_us/section/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2767,
+			"friends_count": 41,
+			"listed_count": 42,
+			"created_at": "Tue Mar 31 17:00:43 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1296805537309437952/R5zbeRV9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296805537309437952/R5zbeRV9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1245033248507469870/1598021317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 135,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shark liver oil can help make vaccines stronger. That's bad news for sharks. https://t.co/Hi2R1qmHks"
+	},
+	{
 		"created_at": "Mon Sep 28 21:11:31 +0000 2020",
 		"id": 1310688612778795000,
 		"id_str": "1310688612778795008",
