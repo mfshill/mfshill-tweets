@@ -1,6 +1,642 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 30 21:31:55 +0000 2020",
+		"id": 1311417615810736000,
+		"id_str": "1311418520920563715",
+		"full_text": "Hands. Face. Space. https://t.co/hQDzd0DJQT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1311417607518654500,
+					"id_str": "1311417607518654464",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EjMXXahXkAAqpdd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjMXXahXkAAqpdd.jpg",
+					"url": "https://t.co/hQDzd0DJQT",
+					"display_url": "pic.twitter.com/hQDzd0DJQT",
+					"expanded_url": "https://twitter.com/GrahamOfTheDead/status/1311417615810736129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 308,
+							"h": 191,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 308,
+							"h": 191,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 308,
+							"h": 191,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311417607518654500,
+					"id_str": "1311417607518654464",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EjMXXahXkAAqpdd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjMXXahXkAAqpdd.jpg",
+					"url": "https://t.co/hQDzd0DJQT",
+					"display_url": "pic.twitter.com/hQDzd0DJQT",
+					"expanded_url": "https://twitter.com/GrahamOfTheDead/status/1311417615810736129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 308,
+							"h": 191,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 308,
+							"h": 191,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 308,
+							"h": 191,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1311417610358186000,
+					"id_str": "1311417610358185987",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EjMXXlGXYAMSaUM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjMXXlGXYAMSaUM.jpg",
+					"url": "https://t.co/hQDzd0DJQT",
+					"display_url": "pic.twitter.com/hQDzd0DJQT",
+					"expanded_url": "https://twitter.com/GrahamOfTheDead/status/1311417615810736129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 446,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 787,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 787,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1311417613315199000,
+					"id_str": "1311417613315198976",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EjMXXwHX0AA0h8Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjMXXwHX0AA0h8Q.jpg",
+					"url": "https://t.co/hQDzd0DJQT",
+					"display_url": "pic.twitter.com/hQDzd0DJQT",
+					"expanded_url": "https://twitter.com/GrahamOfTheDead/status/1311417615810736129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 346,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 687,
+							"h": 350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 687,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 138816564,
+			"id_str": "138816564",
+			"name": "Graham",
+			"screen_name": "GrahamOfTheDead",
+			"location": "Wallsend",
+			"description": "A little *too* Raph. Twitter's most muted. Artist formerly known as AnxiousBatman",
+			"url": "https://t.co/wMaY9KFRyB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wMaY9KFRyB",
+							"expanded_url": "http://www.twitch.tv/grahamofthedead",
+							"display_url": "twitch.tv/grahamofthedead",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1537,
+			"friends_count": 624,
+			"listed_count": 64,
+			"created_at": "Fri Apr 30 17:46:36 +0000 2010",
+			"favourites_count": 20570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1303376058641723393/Q8WH87sW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1303376058641723393/Q8WH87sW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/138816564/1599584249",
+			"profile_link_color": "002BFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hands. Face. Space. https://t.co/hQDzd0DJQT"
+	},
+	{
+		"created_at": "Wed Sep 30 19:09:06 +0000 2020",
+		"id": 1311382583087894500,
+		"id_str": "1311382583087894528",
+		"full_text": "Just like listening to a pair of nursing home residents argue over what channel the rec room TV should be on whilst an orderly fails to keep the peace. 'Biden and Trump trade insults in frenzied presidential debate' https://t.co/MsRQGFUcCo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MsRQGFUcCo",
+					"expanded_url": "https://youtu.be/-YZVu6IT_9c",
+					"display_url": "youtu.be/-YZVu6IT_9c",
+					"indices": [
+						216,
+						239
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just like listening to a pair of nursing home residents argue over what channel the rec room TV should be on whilst an orderly fails to keep the peace. 'Biden and Trump trade insults in frenzied presidential debate' https://t.co/MsRQGFUcCo"
+	},
+	{
+		"created_at": "Wed Sep 30 17:53:13 +0000 2020",
+		"id": 1311363483494211600,
+		"id_str": "1311363483494211589",
+		"full_text": "Quite possibly the worst into to a vid I've ever seen but a good track. 'Voltage - Life Of A DJ (feat. Demolition Man)' https://t.co/qeWw7UBCHb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qeWw7UBCHb",
+					"expanded_url": "https://youtu.be/PujYHc0-Ebs",
+					"display_url": "youtu.be/PujYHc0-Ebs",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Quite possibly the worst into to a vid I've ever seen but a good track. 'Voltage - Life Of A DJ (feat. Demolition Man)' https://t.co/qeWw7UBCHb"
+	},
+	{
+		"created_at": "Wed Sep 30 17:42:17 +0000 2020",
+		"id": 1311360733846921200,
+		"id_str": "1311360733846921217",
+		"full_text": "would have thought everyone was used to it by now.... https://t.co/33p4dFFQw7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/33p4dFFQw7",
+					"expanded_url": "https://twitter.com/PainInThArsenal/status/1311357771443560449",
+					"display_url": "twitter.com/PainInThArsena…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1311357771443560400,
+		"quoted_status_id_str": "1311357771443560449",
+		"quoted_status_permalink": {
+			"url": "https://t.co/33p4dFFQw7",
+			"expanded": "https://twitter.com/PainInThArsenal/status/1311357771443560449",
+			"display": "twitter.com/PainInThArsena…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 30 17:30:31 +0000 2020",
+			"id": 1311357771443560400,
+			"id_str": "1311357771443560449",
+			"full_text": "Is there anything more painful than the final few days of a transfer window where we still haven't signed who we need?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2535460231,
+				"id_str": "2535460231",
+				"name": "Pain In The Arsenal (at 🏡)",
+				"screen_name": "PainInThArsenal",
+				"location": "N5",
+				"description": "Arsenal News & Opinions | @FanSided. Podcast: https://t.co/K00gWOiQkA",
+				"url": "https://t.co/SUKpmHicRI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SUKpmHicRI",
+								"expanded_url": "https://paininthearsenal.com",
+								"display_url": "paininthearsenal.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/K00gWOiQkA",
+								"expanded_url": "https://itunes.apple.com/gb/podcast/pain-in-the-arsenal-podcast/id1314514440?mt=2",
+								"display_url": "itunes.apple.com/gb/podcast/pai…",
+								"indices": [
+									46,
+									69
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18968,
+				"friends_count": 322,
+				"listed_count": 171,
+				"created_at": "Fri May 30 16:40:27 +0000 2014",
+				"favourites_count": 157,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 25690,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/996117649363959808/IP-K-7Pk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/996117649363959808/IP-K-7Pk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2535460231/1596309952",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 72,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "would have thought everyone was used to it by now.... https://t.co/33p4dFFQw7"
+	},
+	{
 		"created_at": "Tue Sep 29 21:38:40 +0000 2020",
 		"id": 1311057833253896200,
 		"id_str": "1311057833253896192",
