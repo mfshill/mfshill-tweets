@@ -1,6 +1,983 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 18:14:05 +0000 2020",
+		"id": 1313543064900841500,
+		"id_str": "1313543064900841472",
+		"full_text": "@eops https://t.co/87y0gBJZVr",
+		"truncated": false,
+		"display_text_range": [
+			5,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313543057753636900,
+					"id_str": "1313543057753636866",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ejqkc5qWAAI61TX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ejqkc5qWAAI61TX.jpg",
+					"url": "https://t.co/87y0gBJZVr",
+					"display_url": "pic.twitter.com/87y0gBJZVr",
+					"expanded_url": "https://twitter.com/mfshill/status/1313543064900841472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313543057753636900,
+					"id_str": "1313543057753636866",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ejqkc5qWAAI61TX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ejqkc5qWAAI61TX.jpg",
+					"url": "https://t.co/87y0gBJZVr",
+					"display_url": "pic.twitter.com/87y0gBJZVr",
+					"expanded_url": "https://twitter.com/mfshill/status/1313543064900841472/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ejqkc5qWAAI61TX.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1313527936323063800,
+		"in_reply_to_status_id_str": "1313527936323063810",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@eops https://t.co/87y0gBJZVr"
+	},
+	{
+		"created_at": "Tue Oct 06 16:56:43 +0000 2020",
+		"id": 1313499577694158800,
+		"id_str": "1313523594559991811",
+		"full_text": "This should go beyond Arsenal. Gunnersaurus just becomes Ozil's mascot - on the pitch, sitting next to him on the bench, at training, at home - wherever Mezut goes, Gunnersaurus goes... https://t.co/VLjzFQ7OR9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VLjzFQ7OR9",
+					"expanded_url": "https://twitter.com/MesutOzil1088/status/1313486087181021190",
+					"display_url": "twitter.com/MesutOzil1088/…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20374935,
+			"id_str": "20374935",
+			"name": "Max Rushden",
+			"screen_name": "maxrushden",
+			"location": "London",
+			"description": "Sarcastic unless stated. Greying. Good touch for a big man | The Warm Up @talkSPORT | Football Weekly @guardian",
+			"url": "https://t.co/2aLNXGsdQ2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2aLNXGsdQ2",
+							"expanded_url": "http://facebook.com/amaxrushden",
+							"display_url": "facebook.com/amaxrushden",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303453,
+			"friends_count": 2750,
+			"listed_count": 975,
+			"created_at": "Sun Feb 08 16:21:04 +0000 2009",
+			"favourites_count": 13121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 71565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/543514689599049729/GgBkoCLy_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/543514689599049729/GgBkoCLy_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20374935/1418418281",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313486087181021200,
+		"quoted_status_id_str": "1313486087181021190",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VLjzFQ7OR9",
+			"expanded": "https://twitter.com/MesutOzil1088/status/1313486087181021190",
+			"display": "twitter.com/MesutOzil1088/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 06 14:27:41 +0000 2020",
+			"id": 1313486087181021200,
+			"id_str": "1313486087181021190",
+			"full_text": "I was so sad that Jerry Quy aka our famous &amp; loyal mascot @Gunnersaurus and integral part of our club was being made redundant after 27 years. As such, I’m offering to reimburse @Arsenal with the full salary of our big green guy as long as I will be an Arsenal player... https://t.co/IfWN38x62z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Gunnersaurus",
+						"name": "Gunnersaurus",
+						"id": 2744863988,
+						"id_str": "2744863988",
+						"indices": [
+							62,
+							75
+						]
+					},
+					{
+						"screen_name": "Arsenal",
+						"name": "Arsenal",
+						"id": 34613288,
+						"id_str": "34613288",
+						"indices": [
+							182,
+							190
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1313485069038817300,
+						"id_str": "1313485069038817289",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/Ejpvtg3WkAkhxk5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ejpvtg3WkAkhxk5.jpg",
+						"url": "https://t.co/IfWN38x62z",
+						"display_url": "pic.twitter.com/IfWN38x62z",
+						"expanded_url": "https://twitter.com/MesutOzil1088/status/1313486087181021190/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 459,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1381,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 809,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1313485069038817300,
+						"id_str": "1313485069038817289",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/Ejpvtg3WkAkhxk5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ejpvtg3WkAkhxk5.jpg",
+						"url": "https://t.co/IfWN38x62z",
+						"display_url": "pic.twitter.com/IfWN38x62z",
+						"expanded_url": "https://twitter.com/MesutOzil1088/status/1313486087181021190/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 459,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1381,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 809,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 533085085,
+				"id_str": "533085085",
+				"name": "Mesut Özil",
+				"screen_name": "MesutOzil1088",
+				"location": "England",
+				"description": "Football player for @Arsenal FC ⚽️ | Co-Founder @OneUnity 🌱 | 🎮 @m10esports",
+				"url": "https://t.co/NCZycDXWfR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NCZycDXWfR",
+								"expanded_url": "https://shop.m10esports.com/",
+								"display_url": "shop.m10esports.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25023177,
+				"friends_count": 126,
+				"listed_count": 14512,
+				"created_at": "Thu Mar 22 12:12:51 +0000 2012",
+				"favourites_count": 179,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1825,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1014497790897147909/tqXxm8-3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014497790897147909/tqXxm8-3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/533085085/1530711864",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 79601,
+			"favorite_count": 380219,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 99,
+		"favorite_count": 1485,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This should go beyond Arsenal. Gunnersaurus just becomes Ozil's mascot - on the pitch, sitting next to him on the bench, at training, at home - wherever Mezut goes, Gunnersaurus goes... https://t.co/VLjzFQ7OR9"
+	},
+	{
+		"created_at": "Tue Oct 06 12:34:42 +0000 2020",
+		"id": 1313457653058805800,
+		"id_str": "1313457653058805761",
+		"full_text": "autotuned afrobeat vocals are the musical equivalent of nails down a chalk board https://t.co/jWl5tVGdsX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313457646234751000,
+					"id_str": "1313457646234750977",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EjpWxS9X0AEE9-_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EjpWxS9X0AEE9-_.jpg",
+					"url": "https://t.co/jWl5tVGdsX",
+					"display_url": "pic.twitter.com/jWl5tVGdsX",
+					"expanded_url": "https://twitter.com/mfshill/status/1313457653058805761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 212,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 212,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 212,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313457646234751000,
+					"id_str": "1313457646234750977",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EjpWxS9X0AEE9-_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EjpWxS9X0AEE9-_.jpg",
+					"url": "https://t.co/jWl5tVGdsX",
+					"display_url": "pic.twitter.com/jWl5tVGdsX",
+					"expanded_url": "https://twitter.com/mfshill/status/1313457653058805761/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 212,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 212,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 212,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							106
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EjpWxS9X0AEE9-_.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "autotuned afrobeat vocals are the musical equivalent of nails down a chalk board https://t.co/jWl5tVGdsX"
+	},
+	{
+		"created_at": "Tue Oct 06 10:55:06 +0000 2020",
+		"id": 1312828941535715300,
+		"id_str": "1313432589244469249",
+		"full_text": "...decades without a league title. https://t.co/Fq7HK7ydJF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fq7HK7ydJF",
+					"expanded_url": "https://twitter.com/SpursOfficial/status/1312807592016654342",
+					"display_url": "twitter.com/SpursOfficial/…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 169548229,
+			"id_str": "169548229",
+			"name": "Quiggers",
+			"screen_name": "itsquiggers",
+			"location": "London, England",
+			"description": "my artwork is here @art_by_eq and here https://t.co/4R29WrEJ5L | don’t be a prick here, or anywhere | UTA",
+			"url": "https://t.co/CBu8ZorYz2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CBu8ZorYz2",
+							"expanded_url": "https://www.justgiving.com/crowdfunding/edward-quigley?utm_id=125",
+							"display_url": "justgiving.com/crowdfunding/e…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4R29WrEJ5L",
+							"expanded_url": "http://www.artbyeq.com",
+							"display_url": "artbyeq.com",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1235,
+			"friends_count": 995,
+			"listed_count": 30,
+			"created_at": "Thu Jul 22 16:14:44 +0000 2010",
+			"favourites_count": 32966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3D0B1A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1313588458821165057/2qFkGtv2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313588458821165057/2qFkGtv2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/169548229/1574200575",
+			"profile_link_color": "E61515",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1312807592016654300,
+		"quoted_status_id_str": "1312807592016654342",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Fq7HK7ydJF",
+			"expanded": "https://twitter.com/SpursOfficial/status/1312807592016654342",
+			"display": "twitter.com/SpursOfficial/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 04 17:31:35 +0000 2020",
+			"id": 1312807592016654300,
+			"id_str": "1312807592016654342",
+			"full_text": "Not one.\nNot two.\nNot three.\nNot four.\nNot five.\n\nSIX.\n\n#THFC ⚪️ #COYS https://t.co/0YCqKgrMCW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				70
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "THFC",
+						"indices": [
+							56,
+							61
+						]
+					},
+					{
+						"text": "COYS",
+						"indices": [
+							65,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1312805878186336300,
+						"id_str": "1312805878186336267",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/EjgF_ZxXYAsWCun.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjgF_ZxXYAsWCun.jpg",
+						"url": "https://t.co/0YCqKgrMCW",
+						"display_url": "pic.twitter.com/0YCqKgrMCW",
+						"expanded_url": "https://twitter.com/SpursOfficial/status/1312807592016654342/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 595,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 337,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1016,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1312805878186336300,
+						"id_str": "1312805878186336267",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/EjgF_ZxXYAsWCun.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjgF_ZxXYAsWCun.jpg",
+						"url": "https://t.co/0YCqKgrMCW",
+						"display_url": "pic.twitter.com/0YCqKgrMCW",
+						"expanded_url": "https://twitter.com/SpursOfficial/status/1312807592016654342/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 595,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 337,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1016,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 121402638,
+				"id_str": "121402638",
+				"name": "Tottenham Hotspur",
+				"screen_name": "SpursOfficial",
+				"location": "Tottenham, London, England",
+				"description": "The official Twitter account of Tottenham Hotspur.",
+				"url": "https://t.co/V8cMqMluK2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/V8cMqMluK2",
+								"expanded_url": "http://www.tottenhamhotspur.com",
+								"display_url": "tottenhamhotspur.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4952168,
+				"friends_count": 398,
+				"listed_count": 11071,
+				"created_at": "Tue Mar 09 11:36:02 +0000 2010",
+				"favourites_count": 4016,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 92839,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1312814947764711425/jxUe2bey_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312814947764711425/jxUe2bey_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/121402638/1601834111",
+				"profile_link_color": "2CB8EB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5945,
+			"favorite_count": 32859,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1243,
+		"favorite_count": 5402,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "...decades without a league title. https://t.co/Fq7HK7ydJF"
+	},
+	{
 		"created_at": "Mon Oct 05 23:22:28 +0000 2020",
 		"id": 1313258283986280400,
 		"id_str": "1313258283986280449",
