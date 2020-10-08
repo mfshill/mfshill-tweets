@@ -1,6 +1,553 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 07 21:17:03 +0000 2020",
+		"id": 1313779363637268500,
+		"id_str": "1313951497265328136",
+		"full_text": "WHY are twentysomething women not in charge of contact tracing?? you could show my friends a photo of a random pub full of men and have their ages, occupations, probable marital status and star signs in under 30 mins! @ the government let's GO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116010497,
+			"id_str": "116010497",
+			"name": "monicaheisey",
+			"screen_name": "monicaheisey",
+			"location": "toronto / london",
+			"description": "writer @ schitt’s creek, gary & his demons, baroness von sketch show, workin moms, the new york times, the guardian, the new yorker, and \"books\"",
+			"url": "https://t.co/y5Sn58j5O8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5Sn58j5O8",
+							"expanded_url": "http://monicaheisey.tumblr.com",
+							"display_url": "monicaheisey.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26689,
+			"friends_count": 1851,
+			"listed_count": 252,
+			"created_at": "Sat Feb 20 20:13:47 +0000 2010",
+			"favourites_count": 42971,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173760902690222080/VIJaIHVL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173760902690222080/VIJaIHVL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116010497/1462475773",
+			"profile_link_color": "3A2FCC",
+			"profile_sidebar_border_color": "143959",
+			"profile_sidebar_fill_color": "44A3B0",
+			"profile_text_color": "0A0909",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11566,
+		"favorite_count": 122540,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "WHY are twentysomething women not in charge of contact tracing?? you could show my friends a photo of a random pub full of men and have their ages, occupations, probable marital status and star signs in under 30 mins! @ the government let's GO"
+	},
+	{
+		"created_at": "Wed Oct 07 20:25:38 +0000 2020",
+		"id": 1313938557078327300,
+		"id_str": "1313938557078327298",
+		"full_text": "Joshua Cheptegei just smashed 10,000m world record!!! 26:11:02.... mental. #NNValenciaWRDay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NNValenciaWRDay",
+					"indices": [
+						75,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Joshua Cheptegei just smashed 10,000m world record!!! 26:11:02.... mental. #NNValenciaWRDay"
+	},
+	{
+		"created_at": "Wed Oct 07 19:54:39 +0000 2020",
+		"id": 1313930761255477200,
+		"id_str": "1313930761255477249",
+		"full_text": "WOW 14:06:65! that was an amazing 5,000m world record. well done Letesenbet Gidey  🤯#NNValenciaWRDay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NNValenciaWRDay",
+					"indices": [
+						84,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "WOW 14:06:65! that was an amazing 5,000m world record. well done Letesenbet Gidey  🤯#NNValenciaWRDay"
+	},
+	{
+		"created_at": "Wed Oct 07 17:58:17 +0000 2020",
+		"id": 1313901475807060000,
+		"id_str": "1313901475807059968",
+		"full_text": "https://t.co/kj4YSUz0uq https://t.co/keuUK5EfYS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kj4YSUz0uq",
+					"expanded_url": "https://twitter.com/wickychoo/status/1313898644542763019",
+					"display_url": "twitter.com/wickychoo/stat…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313901468936802300,
+					"id_str": "1313901468936802307",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EjvqbLXXkAMtSIK.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EjvqbLXXkAMtSIK.jpg",
+					"url": "https://t.co/keuUK5EfYS",
+					"display_url": "pic.twitter.com/keuUK5EfYS",
+					"expanded_url": "https://twitter.com/mfshill/status/1313901475807059968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 240,
+							"h": 98,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 240,
+							"h": 98,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 98,
+							"h": 98,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 240,
+							"h": 98,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313901468936802300,
+					"id_str": "1313901468936802307",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EjvqbLXXkAMtSIK.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EjvqbLXXkAMtSIK.jpg",
+					"url": "https://t.co/keuUK5EfYS",
+					"display_url": "pic.twitter.com/keuUK5EfYS",
+					"expanded_url": "https://twitter.com/mfshill/status/1313901475807059968/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 240,
+							"h": 98,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 240,
+							"h": 98,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 98,
+							"h": 98,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 240,
+							"h": 98,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							120,
+							49
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EjvqbLXXkAMtSIK.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313898644542763000,
+		"quoted_status_id_str": "1313898644542763019",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kj4YSUz0uq",
+			"expanded": "https://twitter.com/wickychoo/status/1313898644542763019",
+			"display": "twitter.com/wickychoo/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 07 17:47:02 +0000 2020",
+			"id": 1313898644542763000,
+			"id_str": "1313898644542763019",
+			"full_text": "So... I've just seen a house with a Christmas tree up...",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				56
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50783523,
+				"id_str": "50783523",
+				"name": "Amy",
+				"screen_name": "wickychoo",
+				"location": "Jazz limping",
+				"description": "Don’t let these waves wash away your hopes. \nRoller derby official & clinical trial manager. \nNonsense, typos, birb retweets and #derbytwitter She/her.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 248,
+				"friends_count": 402,
+				"listed_count": 6,
+				"created_at": "Thu Jun 25 21:56:17 +0000 2009",
+				"favourites_count": 8528,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 41619,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D9E079",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1131859071819223041/yeS3tPcp_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131859071819223041/yeS3tPcp_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50783523/1481374734",
+				"profile_link_color": "F1AB07",
+				"profile_sidebar_border_color": "070D33",
+				"profile_sidebar_fill_color": "F7F4F5",
+				"profile_text_color": "0A2BFF",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/kj4YSUz0uq https://t.co/keuUK5EfYS"
+	},
+	{
 		"created_at": "Tue Oct 06 18:14:05 +0000 2020",
 		"id": 1313543064900841500,
 		"id_str": "1313543064900841472",
