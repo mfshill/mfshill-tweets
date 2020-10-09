@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 08 17:04:31 +0000 2020",
+		"id": 1313786261308616700,
+		"id_str": "1314250333909127168",
+		"full_text": "Well twitter, I find myself seeking new employment. Looking for something in sales, ideally Sen Account Manager / Account Director / Client Relations type role, but have done tons of Biz-Dev too. Experience in events, creative industries &amp; tech.\n\nLondon / Oxon / Berks\n\nDM for CV https://t.co/uEZVt0rjR7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313786254761361400,
+					"id_str": "1313786254761361408",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EjuBo1HXgAA_S3L.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EjuBo1HXgAA_S3L.jpg",
+					"url": "https://t.co/uEZVt0rjR7",
+					"display_url": "pic.twitter.com/uEZVt0rjR7",
+					"expanded_url": "https://twitter.com/TC_Cornesto/status/1313786261308616704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313786254761361400,
+					"id_str": "1313786254761361408",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EjuBo1HXgAA_S3L.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EjuBo1HXgAA_S3L.jpg",
+					"url": "https://t.co/uEZVt0rjR7",
+					"display_url": "pic.twitter.com/uEZVt0rjR7",
+					"expanded_url": "https://twitter.com/TC_Cornesto/status/1313786261308616704/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							120,
+							67
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EjuBo1HXgAA_S3L.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19991214,
+			"id_str": "19991214",
+			"name": "TC Corono",
+			"screen_name": "TC_Cornesto",
+			"location": "",
+			"description": "Taciturn Bastard - Doomstruck Gimp - Fresh Idiot (kinki)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1469,
+			"friends_count": 1585,
+			"listed_count": 50,
+			"created_at": "Tue Feb 03 18:28:43 +0000 2009",
+			"favourites_count": 51460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 114411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1243499497319280648/PKRPF38C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1243499497319280648/PKRPF38C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19991214/1572949434",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well twitter, I find myself seeking new employment. Looking for something in sales, ideally Sen Account Manager / Account Director / Client Relations type role, but have done tons of Biz-Dev too. Experience in events, creative industries &amp; tech.\n\nLondon / Oxon / Berks\n\nDM for CV https://t.co/uEZVt0rjR7"
+	},
+	{
 		"created_at": "Wed Oct 07 21:17:03 +0000 2020",
 		"id": 1313779363637268500,
 		"id_str": "1313951497265328136",
