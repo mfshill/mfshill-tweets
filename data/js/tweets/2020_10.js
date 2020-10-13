@@ -1,6 +1,783 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 12 20:29:32 +0000 2020",
+		"id": 1315711935220940800,
+		"id_str": "1315751479530213379",
+		"full_text": "And here's your history lesson kids: Happy #ColumbusDay !\nA genocidal maniacal butcher https://t.co/2NNDjfOg6N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ColumbusDay",
+					"indices": [
+						43,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2NNDjfOg6N",
+					"expanded_url": "https://twitter.com/DoubleDownNews/status/1315695841475207168",
+					"display_url": "twitter.com/DoubleDownNews…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52855610,
+			"id_str": "52855610",
+			"name": "Julia Bradbury",
+			"screen_name": "JuliaBradbury",
+			"location": "clue = word peripatetic...",
+			"description": "Peripatetic TV Presenter. Mama of 3. The Greek Islands 💙 Britain's Top 100 Walks💚 Co-founder of The Outdoor Guide💚Mental Health: https://t.co/ttbb9dqkrt",
+			"url": "https://t.co/PQDgC7UTF0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PQDgC7UTF0",
+							"expanded_url": "http://www.juliabradbury.com/",
+							"display_url": "juliabradbury.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ttbb9dqkrt",
+							"expanded_url": "https://bit.ly/2T45JHj",
+							"display_url": "bit.ly/2T45JHj",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 94910,
+			"friends_count": 5866,
+			"listed_count": 699,
+			"created_at": "Wed Jul 01 21:22:59 +0000 2009",
+			"favourites_count": 16958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223647094260543488/es7sK4hq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223647094260543488/es7sK4hq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52855610/1483658148",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1315695841475207200,
+		"quoted_status_id_str": "1315695841475207168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2NNDjfOg6N",
+			"expanded": "https://twitter.com/DoubleDownNews/status/1315695841475207168",
+			"display": "twitter.com/DoubleDownNews…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 12 16:48:27 +0000 2020",
+			"id": 1315695841475207200,
+			"id_str": "1315695841475207168",
+			"full_text": "Happy Columbus Day! 🎉 @GeorgeMonbiot https://t.co/9cxlA6WxXk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				36
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GeorgeMonbiot",
+						"name": "George Monbiot",
+						"id": 198584761,
+						"id_str": "198584761",
+						"indices": [
+							22,
+							36
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1183482362811818000,
+						"id_str": "1183482362811817984",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/EGyYzUjXkAANnKP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGyYzUjXkAANnKP.jpg",
+						"url": "https://t.co/9cxlA6WxXk",
+						"display_url": "pic.twitter.com/9cxlA6WxXk",
+						"expanded_url": "https://twitter.com/DoubleDownNews/status/1315695841475207168/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1183482362811818000,
+						"id_str": "1183482362811817984",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/EGyYzUjXkAANnKP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGyYzUjXkAANnKP.jpg",
+						"url": "https://t.co/9cxlA6WxXk",
+						"display_url": "pic.twitter.com/9cxlA6WxXk",
+						"expanded_url": "https://twitter.com/DoubleDownNews/status/1315695841475207168/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 138340,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1183482362811817984/pl/sI4nsvyxWkoDbvPm.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1183482362811817984/vid/480x480/Gcyzs9q5TXEravFM.mp4?tag=13"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1183482362811817984/vid/320x320/ptuVWMunkMFSsZuG.mp4?tag=13"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1183482362811817984/vid/720x720/GSwAWjFx-sNcv5Ur.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 808638164411842600,
+				"id_str": "808638164411842560",
+				"name": "Double Down News",
+				"screen_name": "DoubleDownNews",
+				"location": "United Kingdom",
+				"description": "Join us: https://t.co/V0RZWehJE0 Support: https://t.co/BG2aXVXDbq",
+				"url": "https://t.co/mVcinH54Lh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mVcinH54Lh",
+								"expanded_url": "http://www.doubledown.news",
+								"display_url": "doubledown.news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/V0RZWehJE0",
+								"expanded_url": "http://patreon.com/DoubleDownNews",
+								"display_url": "patreon.com/DoubleDownNews",
+								"indices": [
+									9,
+									32
+								]
+							},
+							{
+								"url": "https://t.co/BG2aXVXDbq",
+								"expanded_url": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TLXUE9P9GA9ZC&source=url",
+								"display_url": "paypal.com/cgi-bin/webscr…",
+								"indices": [
+									42,
+									65
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 95233,
+				"friends_count": 2970,
+				"listed_count": 477,
+				"created_at": "Tue Dec 13 11:42:16 +0000 2016",
+				"favourites_count": 5488,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3387,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1016989764036284416/YDiA-t_T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016989764036284416/YDiA-t_T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/808638164411842560/1556546699",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 294,
+			"favorite_count": 478,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 59,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And here's your history lesson kids: Happy #ColumbusDay !\nA genocidal maniacal butcher https://t.co/2NNDjfOg6N"
+	},
+	{
+		"created_at": "Mon Oct 12 18:17:55 +0000 2020",
+		"id": 1315675990811652000,
+		"id_str": "1315718354276057088",
+		"full_text": "so now i am forced to become will from the inbetweeners?? https://t.co/HeVdsaXLD8 https://t.co/nQnB0V6SGq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HeVdsaXLD8",
+					"expanded_url": "https://twitter.com/matt_dathan/status/1315671170310602753",
+					"display_url": "twitter.com/matt_dathan/st…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315675964664361000,
+					"id_str": "1315675964664360961",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315675964664360961/pu/img/tc2sFFg6biRClSiB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315675964664360961/pu/img/tc2sFFg6biRClSiB.jpg",
+					"url": "https://t.co/nQnB0V6SGq",
+					"display_url": "pic.twitter.com/nQnB0V6SGq",
+					"expanded_url": "https://twitter.com/chloejessliz/status/1315675990811652096/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315675964664361000,
+					"id_str": "1315675964664360961",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315675964664360961/pu/img/tc2sFFg6biRClSiB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315675964664360961/pu/img/tc2sFFg6biRClSiB.jpg",
+					"url": "https://t.co/nQnB0V6SGq",
+					"display_url": "pic.twitter.com/nQnB0V6SGq",
+					"expanded_url": "https://twitter.com/chloejessliz/status/1315675990811652096/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							80,
+							37
+						],
+						"duration_millis": 9700,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1315675964664360961/pu/pl/ZiwRoqkf8SItBCdd.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315675964664360961/pu/vid/778x360/9ql8rTdwwvNl3xf_.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315675964664360961/pu/vid/1280x592/GFLpOTu6BthaOgIu.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315675964664360961/pu/vid/582x270/fa7l6bskWt7eoOWX.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2912815991,
+			"id_str": "2912815991",
+			"name": "chloe 👻",
+			"screen_name": "chloejessliz",
+			"location": "cardiff • she/her 💫",
+			"description": "you are not a burden • @photosdiff 🌹",
+			"url": "https://t.co/f8PYHwZ3Px",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f8PYHwZ3Px",
+							"expanded_url": "https://www.samaritans.org",
+							"display_url": "samaritans.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1604,
+			"friends_count": 836,
+			"listed_count": 2,
+			"created_at": "Tue Dec 09 15:01:53 +0000 2014",
+			"favourites_count": 18012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312112384618659842/NWgpC9gh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312112384618659842/NWgpC9gh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2912815991/1601593669",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1315671170310602800,
+		"quoted_status_id_str": "1315671170310602753",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HeVdsaXLD8",
+			"expanded": "https://twitter.com/matt_dathan/status/1315671170310602753",
+			"display": "twitter.com/matt_dathan/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 12 15:10:25 +0000 2020",
+			"id": 1315671170310602800,
+			"id_str": "1315671170310602753",
+			"full_text": "Pubs and restaurants can only serve alcohol in Tier 3 areas if the customer buys a meal",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 250104707,
+				"id_str": "250104707",
+				"name": "Matt Dathan",
+				"screen_name": "matt_dathan",
+				"location": "London",
+				"description": "Journalist | Deputy Political Editor @TheSun | Tweeting in a personal capacity | Campaigning for @DSAInfo | #BCFC",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12657,
+				"friends_count": 3559,
+				"listed_count": 365,
+				"created_at": "Thu Feb 10 12:41:24 +0000 2011",
+				"favourites_count": 1327,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14943,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1174465201925697536/1Wz_0ef4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174465201925697536/1Wz_0ef4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/250104707/1513642899",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 290,
+			"favorite_count": 1281,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 722,
+		"favorite_count": 2989,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "so now i am forced to become will from the inbetweeners?? https://t.co/HeVdsaXLD8 https://t.co/nQnB0V6SGq"
+	},
+	{
+		"created_at": "Mon Oct 12 12:27:48 +0000 2020",
+		"id": 1315381869479891000,
+		"id_str": "1315630247258329088",
+		"full_text": "Now we’ve left the EU, the government is trying to do a trade deal with the US. @Dispatches can exclusively reveal dangerous levels of contamination in American meat that could soon be stocked in UK supermarkets. 1/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dispatches",
+					"name": "Dispatches",
+					"id": 17706829,
+					"id_str": "17706829",
+					"indices": [
+						80,
+						91
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78298637,
+			"id_str": "78298637",
+			"name": "Channel 4 Dispatches",
+			"screen_name": "C4Dispatches",
+			"location": "UK",
+			"description": "Official account for @Channel4 award-winning current affairs series. Catchup on @All4 - also follow @Channel4News and @UnreportedWorld on Twitter, FB and YT",
+			"url": "https://t.co/9L0b6SGorJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9L0b6SGorJ",
+							"expanded_url": "http://www.channel4.com/programmes/dispatches",
+							"display_url": "channel4.com/programmes/dis…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75517,
+			"friends_count": 7787,
+			"listed_count": 648,
+			"created_at": "Tue Sep 29 12:51:14 +0000 2009",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1B1C17",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071088107280322561/ti6NN8f9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071088107280322561/ti6NN8f9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78298637/1544202296",
+			"profile_link_color": "E24718",
+			"profile_sidebar_border_color": "141A15",
+			"profile_sidebar_fill_color": "10100F",
+			"profile_text_color": "82857E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3020,
+		"favorite_count": 3594,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Now we’ve left the EU, the government is trying to do a trade deal with the US. @Dispatches can exclusively reveal dangerous levels of contamination in American meat that could soon be stocked in UK supermarkets. 1/"
+	},
+	{
 		"created_at": "Sun Oct 11 23:36:30 +0000 2020",
 		"id": 1315436143836627000,
 		"id_str": "1315436143836626944",
