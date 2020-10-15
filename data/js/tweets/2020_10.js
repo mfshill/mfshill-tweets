@@ -1,6 +1,768 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 14 22:40:26 +0000 2020",
+		"id": 1316509194640654300,
+		"id_str": "1316509194640654338",
+		"full_text": "@TC_Cornesto @andyparmo it's the world we've been living in for a while. good that a light gets shined on it so that you know the facade is starting to slip but also v depressing.",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC Corono",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "andyparmo",
+					"name": "Andy PAAAAAAAAARGHmo 🎃",
+					"id": 26238239,
+					"id_str": "26238239",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316507715359961000,
+		"in_reply_to_status_id_str": "1316507715359961088",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 259,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TC_Cornesto @andyparmo it's the world we've been living in for a while. good that a light gets shined on it so that you know the facade is starting to slip but also v depressing."
+	},
+	{
+		"created_at": "Wed Oct 14 22:33:33 +0000 2020",
+		"id": 1316506828344307700,
+		"id_str": "1316507464574144517",
+		"full_text": "\"A hermetically sealed restaurant that only allows covid deniers and doesn't let them out again - all food to be 20% more expensive\" https://t.co/S9vTXSqOyH https://t.co/8Cz3u0xEy5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S9vTXSqOyH",
+					"expanded_url": "https://twitter.com/pushathc/status/1316457824810078208",
+					"display_url": "twitter.com/pushathc/statu…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316506824561090600,
+					"id_str": "1316506824561090560",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EkUr-1ZXYAAbw0i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkUr-1ZXYAAbw0i.jpg",
+					"url": "https://t.co/8Cz3u0xEy5",
+					"display_url": "pic.twitter.com/8Cz3u0xEy5",
+					"expanded_url": "https://twitter.com/TC_Cornesto/status/1316506828344307718/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 587,
+							"h": 330,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 587,
+							"h": 330,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 587,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316506824561090600,
+					"id_str": "1316506824561090560",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EkUr-1ZXYAAbw0i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkUr-1ZXYAAbw0i.jpg",
+					"url": "https://t.co/8Cz3u0xEy5",
+					"display_url": "pic.twitter.com/8Cz3u0xEy5",
+					"expanded_url": "https://twitter.com/TC_Cornesto/status/1316506828344307718/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 587,
+							"h": 330,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 587,
+							"h": 330,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 587,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19991214,
+			"id_str": "19991214",
+			"name": "TC Corono",
+			"screen_name": "TC_Cornesto",
+			"location": "",
+			"description": "Taciturn Bastard - Doomstruck Gimp - Fresh Idiot (kinki)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1471,
+			"friends_count": 1588,
+			"listed_count": 50,
+			"created_at": "Tue Feb 03 18:28:43 +0000 2009",
+			"favourites_count": 51722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 114688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1243499497319280648/PKRPF38C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1243499497319280648/PKRPF38C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19991214/1572949434",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1316457824810078200,
+		"quoted_status_id_str": "1316457824810078208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/S9vTXSqOyH",
+			"expanded": "https://twitter.com/pushathc/status/1316457824810078208",
+			"display": "twitter.com/pushathc/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 14 19:16:18 +0000 2020",
+			"id": 1316457824810078200,
+			"id_str": "1316457824810078208",
+			"full_text": "I'd pay 20% more to shop and eat at a covid denying restaurant or grocery store.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				80
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3034918049,
+				"id_str": "3034918049",
+				"name": "Can't Miss",
+				"screen_name": "PushaThc",
+				"location": "midswest",
+				"description": "flavortown is in lockdown",
+				"url": "https://t.co/uy6OBUXoHK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uy6OBUXoHK",
+								"expanded_url": "http://freekyle.com",
+								"display_url": "freekyle.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 825,
+				"friends_count": 1856,
+				"listed_count": 5,
+				"created_at": "Fri Feb 13 16:03:12 +0000 2015",
+				"favourites_count": 13985,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17710,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1300618290872676352/WJCXDAK8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300618290872676352/WJCXDAK8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3034918049/1598926541",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"A hermetically sealed restaurant that only allows covid deniers and doesn't let them out again - all food to be 20% more expensive\" https://t.co/S9vTXSqOyH https://t.co/8Cz3u0xEy5"
+	},
+	{
+		"created_at": "Wed Oct 14 22:22:40 +0000 2020",
+		"id": 1316504722724003800,
+		"id_str": "1316504722724003841",
+		"full_text": "@TC_Cornesto @andyparmo 'it's just like flu' https://t.co/yIKycQcYLa https://t.co/B2Sg6dR4cW",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC Corono",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "andyparmo",
+					"name": "Andy PAAAAAAAAARGHmo 🎃",
+					"id": 26238239,
+					"id_str": "26238239",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yIKycQcYLa",
+					"expanded_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6815659/",
+					"display_url": "ncbi.nlm.nih.gov/pmc/articles/P…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316504623159677000,
+					"id_str": "1316504623159676931",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EkUp-siXkAMsP3a.png",
+					"media_url_https": "https://pbs.twimg.com/media/EkUp-siXkAMsP3a.png",
+					"url": "https://t.co/B2Sg6dR4cW",
+					"display_url": "pic.twitter.com/B2Sg6dR4cW",
+					"expanded_url": "https://twitter.com/mfshill/status/1316504722724003841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 206,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 688,
+							"h": 208,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 688,
+							"h": 208,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316504623159677000,
+					"id_str": "1316504623159676931",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EkUp-siXkAMsP3a.png",
+					"media_url_https": "https://pbs.twimg.com/media/EkUp-siXkAMsP3a.png",
+					"url": "https://t.co/B2Sg6dR4cW",
+					"display_url": "pic.twitter.com/B2Sg6dR4cW",
+					"expanded_url": "https://twitter.com/mfshill/status/1316504722724003841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 206,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 688,
+							"h": 208,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 688,
+							"h": 208,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316503685103485000,
+		"in_reply_to_status_id_str": "1316503685103484934",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 259,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@TC_Cornesto @andyparmo 'it's just like flu' https://t.co/yIKycQcYLa https://t.co/B2Sg6dR4cW"
+	},
+	{
+		"created_at": "Wed Oct 14 22:20:35 +0000 2020",
+		"id": 1316504201112023000,
+		"id_str": "1316504201112023041",
+		"full_text": "@andyparmo @TC_Cornesto the one thing this pandemic has made very clear, is that a rather large proportion of the public simply don't give a fuck about other ppl when it come to them living their lives how they want. no compromise, 'i'll do what i want!' https://t.co/hwYm41FVTu",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andyparmo",
+					"name": "Andy PAAAAAAAAARGHmo 🎃",
+					"id": 26238239,
+					"id_str": "26238239",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC Corono",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						11,
+						23
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316504193188925400,
+					"id_str": "1316504193188925440",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EkUplqxWkAA3NKY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EkUplqxWkAA3NKY.jpg",
+					"url": "https://t.co/hwYm41FVTu",
+					"display_url": "pic.twitter.com/hwYm41FVTu",
+					"expanded_url": "https://twitter.com/mfshill/status/1316504201112023041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316504193188925400,
+					"id_str": "1316504193188925440",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EkUplqxWkAA3NKY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EkUplqxWkAA3NKY.jpg",
+					"url": "https://t.co/hwYm41FVTu",
+					"display_url": "pic.twitter.com/hwYm41FVTu",
+					"expanded_url": "https://twitter.com/mfshill/status/1316504201112023041/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							139
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EkUplqxWkAA3NKY.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316503470309073000,
+		"in_reply_to_status_id_str": "1316503470309072896",
+		"in_reply_to_user_id": 26238239,
+		"in_reply_to_user_id_str": "26238239",
+		"in_reply_to_screen_name": "andyparmo",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 259,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182378753781125121/7rMCpq6M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@andyparmo @TC_Cornesto the one thing this pandemic has made very clear, is that a rather large proportion of the public simply don't give a fuck about other ppl when it come to them living their lives how they want. no compromise, 'i'll do what i want!' https://t.co/hwYm41FVTu"
+	},
+	{
 		"created_at": "Tue Oct 13 19:48:05 +0000 2020",
 		"id": 1316103432592412700,
 		"id_str": "1316103432592412672",
