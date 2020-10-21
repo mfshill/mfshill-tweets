@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 20 13:04:17 +0000 2020",
+		"id": 1318523884308660200,
+		"id_str": "1318538530252009474",
+		"full_text": "2020, drunk on its own power, pulling headline components out of a tombola.\n\n'Westminster... declares war on... Manchester.'\n\n'Lee Mack... Woodworking contest...' it spins the Wheel of Mystery '...Nazi face tattoos'",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20792012,
+			"id_str": "20792012",
+			"name": "A Skellington Inside Some Meat",
+			"screen_name": "Scriblit",
+			"location": "UK",
+			"description": "Comedy writer (News Quiz, Elephant in the Room, Horrible Histories, Homeschool History), author (Darkwood) & procrastinator (this hellsite)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24685,
+			"friends_count": 1125,
+			"listed_count": 365,
+			"created_at": "Fri Feb 13 18:17:30 +0000 2009",
+			"favourites_count": 48080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 144766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163461154620018689/0o79dLoJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163461154620018689/0o79dLoJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20792012/1446419111",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 672,
+		"favorite_count": 2519,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "2020, drunk on its own power, pulling headline components out of a tombola.\n\n'Westminster... declares war on... Manchester.'\n\n'Lee Mack... Woodworking contest...' it spins the Wheel of Mystery '...Nazi face tattoos'"
+	},
+	{
+		"created_at": "Tue Oct 20 11:01:43 +0000 2020",
+		"id": 1318493797513298000,
+		"id_str": "1318507685688627201",
+		"full_text": "RACIST? YOU CAN STAY MAD - a loving open letter doubly dedicated to my white guys, vanilla kings, gam fam 🌼🤠🌼 &amp; all the phenomenal black women who exist loudly &amp; taught me to speak up in their spaces 🌹♥️🌹 thank u all\nhttps://t.co/FaWSYLz4rK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FaWSYLz4rK",
+					"expanded_url": "https://www.bustle.com/entertainment/sophie-duker-responds-to-outrage-over-her-new-world-order-joke",
+					"display_url": "bustle.com/entertainment/…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 306128528,
+			"id_str": "306128528",
+			"name": "DUKER",
+			"screen_name": "sophiedukebox",
+			"location": "Tokyo",
+			"description": "slutty clown 🤡 she/her/that bitch 🧞‍♀️I too am enraged I’m doing so well 🔥",
+			"url": "https://t.co/LWBfILc5on",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LWBfILc5on",
+							"expanded_url": "https://www.bbc.co.uk/programmes/p08g2tm2",
+							"display_url": "bbc.co.uk/programmes/p08…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14845,
+			"friends_count": 1058,
+			"listed_count": 66,
+			"created_at": "Fri May 27 10:17:13 +0000 2011",
+			"favourites_count": 9820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057364902694797314/CGD3MPdl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057364902694797314/CGD3MPdl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/306128528/1478707357",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 469,
+		"favorite_count": 2117,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RACIST? YOU CAN STAY MAD - a loving open letter doubly dedicated to my white guys, vanilla kings, gam fam 🌼🤠🌼 &amp; all the phenomenal black women who exist loudly &amp; taught me to speak up in their spaces 🌹♥️🌹 thank u all\nhttps://t.co/FaWSYLz4rK"
+	},
+	{
 		"created_at": "Sun Oct 18 17:59:48 +0000 2020",
 		"id": 1317888122596790300,
 		"id_str": "1317888122596790273",
