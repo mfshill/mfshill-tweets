@@ -1,6 +1,606 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 22 18:36:32 +0000 2020",
+		"id": 1319320754043977700,
+		"id_str": "1319346920347893762",
+		"full_text": "Okay then, let's go Gunners!!! 😁❤️💪🏼 #UEL #COYG #YaGunnersYa #M1Ö @Arsenal https://t.co/aNIDFewHyy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UEL",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "COYG",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"text": "YaGunnersYa",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"text": "M1Ö",
+					"indices": [
+						61,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Arsenal",
+					"name": "Arsenal",
+					"id": 34613288,
+					"id_str": "34613288",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1319320747026878500,
+					"id_str": "1319320747026878466",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ek8rOrdXEAIgPlf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ek8rOrdXEAIgPlf.jpg",
+					"url": "https://t.co/aNIDFewHyy",
+					"display_url": "pic.twitter.com/aNIDFewHyy",
+					"expanded_url": "https://twitter.com/MesutOzil1088/status/1319320754043977729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319320747026878500,
+					"id_str": "1319320747026878466",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ek8rOrdXEAIgPlf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ek8rOrdXEAIgPlf.jpg",
+					"url": "https://t.co/aNIDFewHyy",
+					"display_url": "pic.twitter.com/aNIDFewHyy",
+					"expanded_url": "https://twitter.com/MesutOzil1088/status/1319320754043977729/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							55,
+							41
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ek8rOrdXEAIgPlf.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 533085085,
+			"id_str": "533085085",
+			"name": "Mesut Özil",
+			"screen_name": "MesutOzil1088",
+			"location": "England",
+			"description": "Football player for @Arsenal FC ⚽️ | Co-Founder @OneUnity 🌱 | 🎮 @m10esports",
+			"url": "https://t.co/NCZycDXWfR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NCZycDXWfR",
+							"expanded_url": "https://shop.m10esports.com/",
+							"display_url": "shop.m10esports.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25115111,
+			"friends_count": 133,
+			"listed_count": 14540,
+			"created_at": "Thu Mar 22 12:12:51 +0000 2012",
+			"favourites_count": 204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1014497790897147909/tqXxm8-3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014497790897147909/tqXxm8-3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/533085085/1530711864",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5682,
+		"favorite_count": 43073,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Okay then, let's go Gunners!!! 😁❤️💪🏼 #UEL #COYG #YaGunnersYa #M1Ö @Arsenal https://t.co/aNIDFewHyy"
+	},
+	{
+		"created_at": "Thu Oct 22 18:29:46 +0000 2020",
+		"id": 1319345218093785000,
+		"id_str": "1319345218093785088",
+		"full_text": "AUUUUUBAAAA!!!! great assist by Bellerin 1-2 #RWARS #UEL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RWARS",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "UEL",
+					"indices": [
+						52,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "AUUUUUBAAAA!!!! great assist by Bellerin 1-2 #RWARS #UEL"
+	},
+	{
+		"created_at": "Thu Oct 22 18:27:54 +0000 2020",
+		"id": 1319344744791789600,
+		"id_str": "1319344744791789570",
+		"full_text": "WHAT IS LENO DOING FFS! #RWARS #UEL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RWARS",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "UEL",
+					"indices": [
+						31,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "WHAT IS LENO DOING FFS! #RWARS #UEL"
+	},
+	{
+		"created_at": "Thu Oct 22 18:26:41 +0000 2020",
+		"id": 1319341944259121200,
+		"id_str": "1319344438385180672",
+		"full_text": "All Lives Matter\n\nNote: some exceptions apply:\n\nworking class kids\nteachers\ncarers\nnurses\nrefugees\nunaccompanied minors\npiccaninnies\nMuslims\nPalestinians\nYemenis\nminimum wage earners\nzero hours contract workers\nOAPs\nthe disabled\ncancer patients\nmental health sufferers\netc.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3249226408,
+			"id_str": "3249226408",
+			"name": "Boris Johnson #StayAlertControlTheVirus ᵖᵃʳᵒᵈʸ",
+			"screen_name": "GetBrexit_Done",
+			"location": "Shagging in a restroom",
+			"description": "Old Etonian tosser who f***ing hates ordinary people & still gets your vote! | Marrying a woman way out of my league | Just had 77th baby (est.) | Parody",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38705,
+			"friends_count": 36894,
+			"listed_count": 95,
+			"created_at": "Tue May 12 23:45:13 +0000 2015",
+			"favourites_count": 24005,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1319354072118472704/P2E0F8U6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319354072118472704/P2E0F8U6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3249226408/1577971141",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 772,
+		"favorite_count": 2495,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "All Lives Matter\n\nNote: some exceptions apply:\n\nworking class kids\nteachers\ncarers\nnurses\nrefugees\nunaccompanied minors\npiccaninnies\nMuslims\nPalestinians\nYemenis\nminimum wage earners\nzero hours contract workers\nOAPs\nthe disabled\ncancer patients\nmental health sufferers\netc."
+	},
+	{
+		"created_at": "Thu Oct 22 18:26:02 +0000 2020",
+		"id": 1319344277101645800,
+		"id_str": "1319344277101645825",
+		"full_text": "Luiz in to save us! 1-1 #RWARS #UEL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RWARS",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "UEL",
+					"indices": [
+						31,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Luiz in to save us! 1-1 #RWARS #UEL"
+	},
+	{
 		"created_at": "Thu Oct 22 00:12:44 +0000 2020",
 		"id": 1319069137856061400,
 		"id_str": "1319069137856061440",
