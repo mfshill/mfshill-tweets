@@ -1,6 +1,422 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 23 21:08:50 +0000 2020",
+		"id": 1319747636639957000,
+		"id_str": "1319747636639957004",
+		"full_text": "It is quite hard to tell what is staged and what's real in #BoratSubsequentMoviefilm but the Rudy Giuliani interview is an unbelievable car crash what was he thinking. Not as good as the 1st film but still worth a watch. 6/10. https://t.co/Z7bxbK4TCh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoratSubsequentMoviefilm",
+					"indices": [
+						59,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z7bxbK4TCh",
+					"expanded_url": "https://twitter.com/BoratSagdiyev/status/1319431436550561792",
+					"display_url": "twitter.com/BoratSagdiyev/…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1319431436550561800,
+		"quoted_status_id_str": "1319431436550561792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z7bxbK4TCh",
+			"expanded": "https://twitter.com/BoratSagdiyev/status/1319431436550561792",
+			"display": "twitter.com/BoratSagdiyev/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 23 00:12:22 +0000 2020",
+			"id": 1319431436550561800,
+			"id_str": "1319431436550561792",
+			"full_text": "OFFICIAL STATEMENT FROM BORAT SAGDIYEV https://t.co/vM92Lam5vV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				38
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1319431370343542800,
+						"id_str": "1319431370343542785",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1319431370343542785/pu/img/yMrMswCbEX58T--M.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1319431370343542785/pu/img/yMrMswCbEX58T--M.jpg",
+						"url": "https://t.co/vM92Lam5vV",
+						"display_url": "pic.twitter.com/vM92Lam5vV",
+						"expanded_url": "https://twitter.com/BoratSagdiyev/status/1319431436550561792/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 932,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 874,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 495,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1319431370343542800,
+						"id_str": "1319431370343542785",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1319431370343542785/pu/img/yMrMswCbEX58T--M.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1319431370343542785/pu/img/yMrMswCbEX58T--M.jpg",
+						"url": "https://t.co/vM92Lam5vV",
+						"display_url": "pic.twitter.com/vM92Lam5vV",
+						"expanded_url": "https://twitter.com/BoratSagdiyev/status/1319431436550561792/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 932,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 874,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 495,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								233,
+								320
+							],
+							"duration_millis": 34675,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1319431370343542785/pu/vid/360x494/dRm5J6LxyRmDaGm3.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1319431370343542785/pu/vid/320x438/LgRZxJJAWRG_0bMC.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1319431370343542785/pu/vid/720x988/1NWue79MLtLqaKLE.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1319431370343542785/pu/pl/npmrL-B6AlmKjyho.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1308908961538535400,
+				"id_str": "1308908961538535424",
+				"name": "Borat",
+				"screen_name": "BoratSagdiyev",
+				"location": "",
+				"description": "Name: Borat Sagdiyev • Age 536 moons • Length: 19.6 cm • Profession: #4 journalist Repubic of Kazakhstan • Health: Strong, crush syphilis 15 time! #Trump2020",
+				"url": "https://t.co/SLiMK0Qgxa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SLiMK0Qgxa",
+								"expanded_url": "https://www.amazon.com/dp/B08K4723DQ",
+								"display_url": "amazon.com/dp/B08K4723DQ",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 270474,
+				"friends_count": 34,
+				"listed_count": 363,
+				"created_at": "Wed Sep 23 23:20:39 +0000 2020",
+				"favourites_count": 68,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 41,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1313999242449416193/mY-iNLOf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313999242449416193/mY-iNLOf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1308908961538535424/1602116808",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18237,
+			"favorite_count": 73361,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It is quite hard to tell what is staged and what's real in #BoratSubsequentMoviefilm but the Rudy Giuliani interview is an unbelievable car crash what was he thinking. Not as good as the 1st film but still worth a watch. 6/10. https://t.co/Z7bxbK4TCh"
+	},
+	{
+		"created_at": "Fri Oct 23 17:32:15 +0000 2020",
+		"id": 1319693129822384000,
+		"id_str": "1319693129822384129",
+		"full_text": "Put Some Clothes On Man, Jesus Christ https://t.co/EgUU2IGfmG via @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EgUU2IGfmG",
+					"expanded_url": "https://youtu.be/-KW7BrkzI1s",
+					"display_url": "youtu.be/-KW7BrkzI1s",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Put Some Clothes On Man, Jesus Christ https://t.co/EgUU2IGfmG via @YouTube"
+	},
+	{
 		"created_at": "Thu Oct 22 18:36:32 +0000 2020",
 		"id": 1319320754043977700,
 		"id_str": "1319346920347893762",
