@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 30 18:04:35 +0000 2020",
+		"id": 1322214380877041700,
+		"id_str": "1322237980933824513",
+		"full_text": "This statement makes no sense ie wanking on all \"3's\" is more factually correct. Could be using something else like a warmed up  pie, or perhaps he can do the old \"artist formally known as prince\" trick?  \nI don't know for sure but I do know I've thought too much about it already https://t.co/aDHCvtK8oJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1322214378788343800,
+					"id_str": "1322214378788343808",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Elly-NyX0AA3L4R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elly-NyX0AA3L4R.jpg",
+					"url": "https://t.co/aDHCvtK8oJ",
+					"display_url": "pic.twitter.com/aDHCvtK8oJ",
+					"expanded_url": "https://twitter.com/Jamie_Dodger_/status/1322214380877041664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 940,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1378,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322214378788343800,
+					"id_str": "1322214378788343808",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Elly-NyX0AA3L4R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elly-NyX0AA3L4R.jpg",
+					"url": "https://t.co/aDHCvtK8oJ",
+					"display_url": "pic.twitter.com/aDHCvtK8oJ",
+					"expanded_url": "https://twitter.com/Jamie_Dodger_/status/1322214380877041664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 940,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1378,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27925847,
+			"id_str": "27925847",
+			"name": "Jamie_Dodger_",
+			"screen_name": "Jamie_Dodger_",
+			"location": "Essex, England.",
+			"description": "Grew up in the 80s. Wrong side of 40. Likes a moan and rant. Dislikes bigots. Bollocks to Brexit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1024,
+			"friends_count": 2561,
+			"listed_count": 23,
+			"created_at": "Tue Mar 31 18:08:16 +0000 2009",
+			"favourites_count": 7351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030103",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267756312131186688/OeGpcw6B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267756312131186688/OeGpcw6B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27925847/1603484393",
+			"profile_link_color": "FA8459",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "947974",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This statement makes no sense ie wanking on all \"3's\" is more factually correct. Could be using something else like a warmed up  pie, or perhaps he can do the old \"artist formally known as prince\" trick?  \nI don't know for sure but I do know I've thought too much about it already https://t.co/aDHCvtK8oJ"
+	},
+	{
 		"created_at": "Thu Oct 29 20:45:14 +0000 2020",
 		"id": 1321916022182551600,
 		"id_str": "1321916022182551553",
