@@ -1,6 +1,405 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 07 19:38:32 +0000 2020",
+		"id": 1325160726005158000,
+		"id_str": "1325160726005157895",
+		"full_text": "this is amazing, we need more of this on the news! https://t.co/4We5SvpLiV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4We5SvpLiV",
+					"expanded_url": "https://twitter.com/iambrattyb/status/1325147234573414400",
+					"display_url": "twitter.com/iambrattyb/sta…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1325147234573414400,
+		"quoted_status_id_str": "1325147234573414400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4We5SvpLiV",
+			"expanded": "https://twitter.com/iambrattyb/status/1325147234573414400",
+			"display": "twitter.com/iambrattyb/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 07 18:44:55 +0000 2020",
+			"id": 1325147234573414400,
+			"id_str": "1325147234573414400",
+			"full_text": "“How you doin pal” he wanted all the smoke LMAOO https://t.co/f9lTgnlHTI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1325147036505628700,
+						"id_str": "1325147036505628675",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1325147036505628675/pu/img/t-LX8vTV7VEwKeqD.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1325147036505628675/pu/img/t-LX8vTV7VEwKeqD.jpg",
+						"url": "https://t.co/f9lTgnlHTI",
+						"display_url": "pic.twitter.com/f9lTgnlHTI",
+						"expanded_url": "https://twitter.com/iambrattyb/status/1325147234573414400/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1325147036505628700,
+						"id_str": "1325147036505628675",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1325147036505628675/pu/img/t-LX8vTV7VEwKeqD.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1325147036505628675/pu/img/t-LX8vTV7VEwKeqD.jpg",
+						"url": "https://t.co/f9lTgnlHTI",
+						"display_url": "pic.twitter.com/f9lTgnlHTI",
+						"expanded_url": "https://twitter.com/iambrattyb/status/1325147234573414400/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 11000,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1325147036505628675/pu/vid/576x1024/pF6-WVPSom-X5MBi.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1325147036505628675/pu/vid/360x640/V8NsOPQRBt-H8DCu.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1325147036505628675/pu/vid/320x568/678Bo_CVOGcAbkoV.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1325147036505628675/pu/pl/rJIAMr3MFOFOg298.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 392303546,
+				"id_str": "392303546",
+				"name": "Ariam",
+				"screen_name": "iambrattyb",
+				"location": "Washington, DC",
+				"description": "Content Creator, 22, IG/TikTok: @iambrattyb, Email: ariamkid1@gmail.com (banner by @ebbybobebby) (she/her)",
+				"url": "https://t.co/O00f83j7JX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/O00f83j7JX",
+								"expanded_url": "http://youtube.com/user/ohsnapitsariam",
+								"display_url": "youtube.com/user/ohsnapits…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 92967,
+				"friends_count": 1033,
+				"listed_count": 66,
+				"created_at": "Sun Oct 16 20:44:15 +0000 2011",
+				"favourites_count": 138045,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 37145,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B688EB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1282222265896181760/uRvEI05q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282222265896181760/uRvEI05q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/392303546/1595618751",
+				"profile_link_color": "A66EE6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 86460,
+			"favorite_count": 329265,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is amazing, we need more of this on the news! https://t.co/4We5SvpLiV"
+	},
+	{
+		"created_at": "Sat Nov 07 18:52:42 +0000 2020",
+		"id": 1325121683712209000,
+		"id_str": "1325149194982629377",
+		"full_text": "December 14, 2020: A key date. That is when electoral college delegates in each state cast their votes for President and Vice President. It's a formality called \"Certificates of the Vote.\" \n\nTrump has - in theory - between now and Dec 14 to make legal maneuvers.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33647344,
+			"id_str": "33647344",
+			"name": "Gabriel Elizondo",
+			"screen_name": "elizondogabriel",
+			"location": "New York ",
+			"description": "Correspondent @AJEnglish. Previously based in São Paulo, Brazil from 2007-2014.",
+			"url": "https://t.co/9LmQxuSiXf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9LmQxuSiXf",
+							"expanded_url": "http://www.aljazeera.com/",
+							"display_url": "aljazeera.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19037,
+			"friends_count": 5126,
+			"listed_count": 738,
+			"created_at": "Mon Apr 20 20:19:14 +0000 2009",
+			"favourites_count": 4137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/647502401763713025/rFJQhdnr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/647502401763713025/rFJQhdnr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33647344/1459545811",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 282,
+		"favorite_count": 1204,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "December 14, 2020: A key date. That is when electoral college delegates in each state cast their votes for President and Vice President. It's a formality called \"Certificates of the Vote.\" \n\nTrump has - in theory - between now and Dec 14 to make legal maneuvers."
+	},
+	{
 		"created_at": "Fri Nov 06 23:06:04 +0000 2020",
 		"id": 1324850567072616400,
 		"id_str": "1324850567072616448",
