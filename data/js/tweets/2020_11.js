@@ -1,6 +1,538 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 23:05:35 +0000 2020",
+		"id": 1326269959073370000,
+		"id_str": "1326662386909143040",
+		"full_text": "Even we think this is a bit much #WildMountainThyme https://t.co/Pl7SA4JoK6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WildMountainThyme",
+					"indices": [
+						33,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pl7SA4JoK6",
+					"expanded_url": "https://twitter.com/RottenTomatoes/status/1326220124701945856",
+					"display_url": "twitter.com/RottenTomatoes…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 98681766,
+			"id_str": "98681766",
+			"name": "Leprechaun Museum",
+			"screen_name": "leprechaun_ie",
+			"location": "Dublin, Ireland",
+			"description": "The National Leprechaun Museum of Ireland. We're currently closed but we're sharing stories of Irish myth and folklore online, do tune in! #IrishMuseumsOnline",
+			"url": "https://t.co/w2iA2lDLQU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w2iA2lDLQU",
+							"expanded_url": "https://linktr.ee/LeprechaunMuseum",
+							"display_url": "linktr.ee/LeprechaunMuse…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4293,
+			"friends_count": 1577,
+			"listed_count": 95,
+			"created_at": "Tue Dec 22 17:34:56 +0000 2009",
+			"favourites_count": 3680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "246B0C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/832564677725007873/-sa2zZfK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/832564677725007873/-sa2zZfK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/98681766/1604505498",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "89D973",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1326220124701945900,
+		"quoted_status_id_str": "1326220124701945856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Pl7SA4JoK6",
+			"expanded": "https://twitter.com/RottenTomatoes/status/1326220124701945856",
+			"display": "twitter.com/RottenTomatoes…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 10 17:48:12 +0000 2020",
+			"id": 1326220124701945900,
+			"id_str": "1326220124701945856",
+			"full_text": "Emily Blunt, Jamie Dornan, Jon Hamm, and Christopher Walken star in the first trailer for their new romantic comedy  #WildMountainThyme. https://t.co/AMROW44VGJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				136
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WildMountainThyme",
+						"indices": [
+							117,
+							135
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1326218602756755500,
+						"id_str": "1326218602756755457",
+						"indices": [
+							137,
+							160
+						],
+						"media_url": "http://pbs.twimg.com/media/Emet1UYU4AAQwjq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Emet1UYU4AAQwjq.jpg",
+						"url": "https://t.co/AMROW44VGJ",
+						"display_url": "pic.twitter.com/AMROW44VGJ",
+						"expanded_url": "https://twitter.com/RottenTomatoes/status/1326220124701945856/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1326218602756755500,
+						"id_str": "1326218602756755457",
+						"indices": [
+							137,
+							160
+						],
+						"media_url": "http://pbs.twimg.com/media/Emet1UYU4AAQwjq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Emet1UYU4AAQwjq.jpg",
+						"url": "https://t.co/AMROW44VGJ",
+						"display_url": "pic.twitter.com/AMROW44VGJ",
+						"expanded_url": "https://twitter.com/RottenTomatoes/status/1326220124701945856/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 159993,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1326218602756755457/pl/SUKqCWahlZOpE0ce.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1326218602756755457/vid/640x360/Ry54kj7ephZwrMkA.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1326218602756755457/vid/1280x720/IBDBcIe3Uk15n-UR.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1326218602756755457/vid/480x270/iBdBA2dtWHi65Tta.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Wild Mountain Thyme - Trailer",
+							"description": "",
+							"embeddable": true,
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20108560,
+				"id_str": "20108560",
+				"name": "Rotten Tomatoes",
+				"screen_name": "RottenTomatoes",
+				"location": "Los Angeles",
+				"description": "Serving Up Fresh and Rotten Reviews for Movies and TV: https://t.co/Se7yZZNlSW",
+				"url": "https://t.co/kY8mEpg2hz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kY8mEpg2hz",
+								"expanded_url": "http://www.rottentomatoes.com",
+								"display_url": "rottentomatoes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Se7yZZNlSW",
+								"expanded_url": "http://rottentomatoes.com",
+								"display_url": "rottentomatoes.com",
+								"indices": [
+									55,
+									78
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2287300,
+				"friends_count": 1423,
+				"listed_count": 14272,
+				"created_at": "Thu Feb 05 00:06:55 +0000 2009",
+				"favourites_count": 7234,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 46272,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6EAE6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1145693812464816128/9ZMAMaoT_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145693812464816128/9ZMAMaoT_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20108560/1604357880",
+				"profile_link_color": "FA320A",
+				"profile_sidebar_border_color": "A9A659",
+				"profile_sidebar_fill_color": "EBE9B6",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 533,
+			"favorite_count": 5498,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 423,
+		"favorite_count": 2498,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Even we think this is a bit much #WildMountainThyme https://t.co/Pl7SA4JoK6"
+	},
+	{
+		"created_at": "Wed Nov 11 19:20:18 +0000 2020",
+		"id": 1326605689435922400,
+		"id_str": "1326605689435922432",
+		"full_text": "SUPER-SHOWDOWN-BOWL!\nhttps://t.co/ZAnFa8qPPz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZAnFa8qPPz",
+					"expanded_url": "https://www.youtube.com/watch?v=S6yLGIqyBM8",
+					"display_url": "youtube.com/watch?v=S6yLGI…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1326605590613856300,
+		"in_reply_to_status_id_str": "1326605590613856258",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 259,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SUPER-SHOWDOWN-BOWL!\nhttps://t.co/ZAnFa8qPPz"
+	},
+	{
+		"created_at": "Wed Nov 11 19:19:54 +0000 2020",
+		"id": 1326605590613856300,
+		"id_str": "1326605590613856258",
+		"full_text": "SUPER-VILLAIN-BOWL! \nhttps://t.co/hRtimsqHSb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hRtimsqHSb",
+					"expanded_url": "https://www.youtube.com/watch?v=YMnAGN2gRsw",
+					"display_url": "youtube.com/watch?v=YMnAGN…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1326605491133444000,
+		"in_reply_to_status_id_str": "1326605491133444098",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 259,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SUPER-VILLAIN-BOWL! \nhttps://t.co/hRtimsqHSb"
+	},
+	{
 		"created_at": "Tue Nov 10 20:39:57 +0000 2020",
 		"id": 1326263347365503000,
 		"id_str": "1326263347365502976",
