@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 19:37:31 +0000 2020",
+		"id": 1327334801393803300,
+		"id_str": "1327334801393803268",
+		"full_text": "hell yes! https://t.co/eWgWPBhVu5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eWgWPBhVu5",
+					"expanded_url": "https://twitter.com/hbomax/status/1327242694389755904",
+					"display_url": "twitter.com/hbomax/status/…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268,
+			"friends_count": 259,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1327242694389756000,
+		"quoted_status_id_str": "1327242694389755904",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eWgWPBhVu5",
+			"expanded": "https://twitter.com/hbomax/status/1327242694389755904",
+			"display": "twitter.com/hbomax/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 13 13:31:31 +0000 2020",
+			"id": 1327242694389756000,
+			"id_str": "1327242694389755904",
+			"full_text": "Now this is a story all about how the Freshest family on TV is getting back together 🤩🥳  Join the Banks family for the #FreshPrinceReunion November 19 only on HBO Max! https://t.co/8xRsGPUW4X",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				167
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FreshPrinceReunion",
+						"indices": [
+							119,
+							138
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1327133336486244400,
+						"id_str": "1327133336486244353",
+						"indices": [
+							168,
+							191
+						],
+						"media_url": "http://pbs.twimg.com/media/EmuyT3FVEAAJSBp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmuyT3FVEAAJSBp.jpg",
+						"url": "https://t.co/8xRsGPUW4X",
+						"display_url": "pic.twitter.com/8xRsGPUW4X",
+						"expanded_url": "https://twitter.com/hbomax/status/1327242694389755904/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1268,
+								"h": 1260,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1192,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 676,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1327133336486244400,
+						"id_str": "1327133336486244353",
+						"indices": [
+							168,
+							191
+						],
+						"media_url": "http://pbs.twimg.com/media/EmuyT3FVEAAJSBp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmuyT3FVEAAJSBp.jpg",
+						"url": "https://t.co/8xRsGPUW4X",
+						"display_url": "pic.twitter.com/8xRsGPUW4X",
+						"expanded_url": "https://twitter.com/hbomax/status/1327242694389755904/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 1268,
+								"h": 1260,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1192,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 676,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 124124,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1327133336486244353/vid/320x320/iT75twIvJkXWZ8fF.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1327133336486244353/vid/480x480/VgQ7sZKivgYl1nu3.mp4?tag=13"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1327133336486244353/vid/640x640/YHie-6yLRxElrk40.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1327133336486244353/pl/orz7hDvhceGdKNkz.m3u8?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89090040,
+				"id_str": "89090040",
+				"name": "HBO Max",
+				"screen_name": "hbomax",
+				"location": "Central Perk",
+				"description": "Now streaming all your faves and so much more. Need support? We've got you at @HBOMaxHelp. #HBOMax",
+				"url": "https://t.co/dqWnwE2JI3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dqWnwE2JI3",
+								"expanded_url": "https://hbom.ax/TW",
+								"display_url": "hbom.ax/TW",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 197061,
+				"friends_count": 281,
+				"listed_count": 755,
+				"created_at": "Wed Nov 11 02:51:54 +0000 2009",
+				"favourites_count": 3233,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10325,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "343D42",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1278833084759076865/anlX8aPn_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278833084759076865/anlX8aPn_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/89090040/1604888238",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "7A7A7A",
+				"profile_sidebar_fill_color": "E4EDF2",
+				"profile_text_color": "4D4D4D",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6765,
+			"favorite_count": 23029,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "hell yes! https://t.co/eWgWPBhVu5"
+	},
+	{
 		"created_at": "Thu Nov 12 23:16:06 +0000 2020",
 		"id": 1327027419090460700,
 		"id_str": "1327027419090460677",
