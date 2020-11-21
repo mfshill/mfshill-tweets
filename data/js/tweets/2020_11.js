@@ -1,6 +1,561 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 20 20:30:23 +0000 2020",
+		"id": 1329884817635336200,
+		"id_str": "1329884817635336192",
+		"full_text": "@TC_Cornesto https://t.co/86J0TOBuvc",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC CornesTotal Landscaping",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1329884809842323500,
+					"id_str": "1329884809842323456",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EnSzMELW8AAuGw5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EnSzMELW8AAuGw5.jpg",
+					"url": "https://t.co/86J0TOBuvc",
+					"display_url": "pic.twitter.com/86J0TOBuvc",
+					"expanded_url": "https://twitter.com/mfshill/status/1329884817635336192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 252,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 252,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 252,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1329884809842323500,
+					"id_str": "1329884809842323456",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EnSzMELW8AAuGw5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EnSzMELW8AAuGw5.jpg",
+					"url": "https://t.co/86J0TOBuvc",
+					"display_url": "pic.twitter.com/86J0TOBuvc",
+					"expanded_url": "https://twitter.com/mfshill/status/1329884817635336192/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 252,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 252,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 252,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							21
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EnSzMELW8AAuGw5.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1329883035513335800,
+		"in_reply_to_status_id_str": "1329883035513335808",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@TC_Cornesto https://t.co/86J0TOBuvc"
+	},
+	{
+		"created_at": "Fri Nov 20 19:45:30 +0000 2020",
+		"id": 1329873525218414600,
+		"id_str": "1329873525218414593",
+		"full_text": "@TC_Cornesto https://t.co/Y2pEYmAExF",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC CornesTotal Landscaping",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1329873517588967400,
+					"id_str": "1329873517588967424",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EnSo6xQW8AADV-p.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EnSo6xQW8AADV-p.jpg",
+					"url": "https://t.co/Y2pEYmAExF",
+					"display_url": "pic.twitter.com/Y2pEYmAExF",
+					"expanded_url": "https://twitter.com/mfshill/status/1329873525218414593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 374,
+							"h": 224,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 374,
+							"h": 224,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 374,
+							"h": 224,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1329873517588967400,
+					"id_str": "1329873517588967424",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EnSo6xQW8AADV-p.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EnSo6xQW8AADV-p.jpg",
+					"url": "https://t.co/Y2pEYmAExF",
+					"display_url": "pic.twitter.com/Y2pEYmAExF",
+					"expanded_url": "https://twitter.com/mfshill/status/1329873525218414593/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 374,
+							"h": 224,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 374,
+							"h": 224,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 374,
+							"h": 224,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							187,
+							112
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EnSo6xQW8AADV-p.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1329873449381146600,
+		"in_reply_to_status_id_str": "1329873449381146625",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@TC_Cornesto https://t.co/Y2pEYmAExF"
+	},
+	{
+		"created_at": "Fri Nov 20 19:45:12 +0000 2020",
+		"id": 1329873449381146600,
+		"id_str": "1329873449381146625",
+		"full_text": "@TC_Cornesto https://t.co/SVRXjO6R1I",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC CornesTotal Landscaping",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1329873441533595600,
+					"id_str": "1329873441533595651",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EnSo2V7WEAMi-hT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EnSo2V7WEAMi-hT.jpg",
+					"url": "https://t.co/SVRXjO6R1I",
+					"display_url": "pic.twitter.com/SVRXjO6R1I",
+					"expanded_url": "https://twitter.com/mfshill/status/1329873449381146625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1329873441533595600,
+					"id_str": "1329873441533595651",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EnSo2V7WEAMi-hT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EnSo2V7WEAMi-hT.jpg",
+					"url": "https://t.co/SVRXjO6R1I",
+					"display_url": "pic.twitter.com/SVRXjO6R1I",
+					"expanded_url": "https://twitter.com/mfshill/status/1329873449381146625/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EnSo2V7WEAMi-hT.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1329869936857059300,
+		"in_reply_to_status_id_str": "1329869936857059328",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@TC_Cornesto https://t.co/SVRXjO6R1I"
+	},
+	{
 		"created_at": "Thu Nov 19 19:33:25 +0000 2020",
 		"id": 1329406445222301700,
 		"id_str": "1329508096641732608",
