@@ -1,6 +1,523 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 25 20:51:01 +0000 2020",
+		"id": 1331644699946274800,
+		"id_str": "1331701948718993410",
+		"full_text": "Diego Maradona has died. An absolute legend.\n\nBut I never stop thinking about the time he did a line of blow right here,  after he scored on a penalty kick in an all-star game. https://t.co/wdwk1DHFax",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1331644603603189800,
+					"id_str": "1331644603603189761",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1331644603603189761/pu/img/2qPvMlHVdsdcCPgC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1331644603603189761/pu/img/2qPvMlHVdsdcCPgC.jpg",
+					"url": "https://t.co/wdwk1DHFax",
+					"display_url": "pic.twitter.com/wdwk1DHFax",
+					"expanded_url": "https://twitter.com/DannyDeraney/status/1331644699946274816/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 499,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 888,
+							"h": 652,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 888,
+							"h": 652,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331644603603189800,
+					"id_str": "1331644603603189761",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1331644603603189761/pu/img/2qPvMlHVdsdcCPgC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1331644603603189761/pu/img/2qPvMlHVdsdcCPgC.jpg",
+					"url": "https://t.co/wdwk1DHFax",
+					"display_url": "pic.twitter.com/wdwk1DHFax",
+					"expanded_url": "https://twitter.com/DannyDeraney/status/1331644699946274816/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 499,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 888,
+							"h": 652,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 888,
+							"h": 652,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							222,
+							163
+						],
+						"duration_millis": 71632,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1331644603603189761/pu/vid/366x270/7ighcJhg22Gjw8T8.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1331644603603189761/pu/pl/sMJtskVWZFC1zSw9.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1331644603603189761/pu/vid/490x360/uNjs80R_ak4pmszZ.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1331644603603189761/pu/vid/888x652/nJAYiZC_xFvPqQpe.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18309553,
+			"id_str": "18309553",
+			"name": "Danny Deraney",
+			"screen_name": "DannyDeraney",
+			"location": "LA-NYC",
+			"description": "Emmy Winning Entertainment Publicist | @DeraneyPR | Former Youngest Person in the World | Hummus Aficionado | #girldad | I Cleanse Your Timeline |",
+			"url": "https://t.co/uRU7H7xPTT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRU7H7xPTT",
+							"expanded_url": "http://deraneypr.com",
+							"display_url": "deraneypr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41544,
+			"friends_count": 1276,
+			"listed_count": 218,
+			"created_at": "Mon Dec 22 16:08:35 +0000 2008",
+			"favourites_count": 254542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 63878,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1328198362621902848/ISbWuyJo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1328198362621902848/ISbWuyJo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18309553/1494620535",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 275,
+		"favorite_count": 1344,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Diego Maradona has died. An absolute legend.\n\nBut I never stop thinking about the time he did a line of blow right here,  after he scored on a penalty kick in an all-star game. https://t.co/wdwk1DHFax"
+	},
+	{
+		"created_at": "Wed Nov 25 18:21:41 +0000 2020",
+		"id": 1331651609412198400,
+		"id_str": "1331664368556257282",
+		"full_text": "As warm ups go.... Diego had more silks than a kimono shop\nhttps://t.co/1XHpcvW6SH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1XHpcvW6SH",
+					"expanded_url": "https://youtu.be/Cdf6D19Etmc",
+					"display_url": "youtu.be/Cdf6D19Etmc",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20243240,
+			"id_str": "20243240",
+			"name": "BlackWaxSolution",
+			"screen_name": "eops",
+			"location": "LDN /east",
+			"description": "DJ/Radio/Podcast. https://t.co/ktphYVfi7n https://t.co/f3w4hzkaM7 https://t.co/bNdWAaZNg4 https://t.co/9LmRMZW6Mi",
+			"url": "https://t.co/QdVzWepwt7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QdVzWepwt7",
+							"expanded_url": "http://www.mixcloud.com/eops",
+							"display_url": "mixcloud.com/eops",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ktphYVfi7n",
+							"expanded_url": "http://ko-fi.com/BlackWaxSolution",
+							"display_url": "ko-fi.com/BlackWaxSoluti…",
+							"indices": [
+								18,
+								41
+							]
+						},
+						{
+							"url": "https://t.co/f3w4hzkaM7",
+							"expanded_url": "http://PayPal.me/djeops",
+							"display_url": "PayPal.me/djeops",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/bNdWAaZNg4",
+							"expanded_url": "http://Instagram.com/BlackWaxSolution",
+							"display_url": "Instagram.com/BlackWaxSoluti…",
+							"indices": [
+								66,
+								89
+							]
+						},
+						{
+							"url": "https://t.co/9LmRMZW6Mi",
+							"expanded_url": "http://Facebook.com/BlackWaxSolution",
+							"display_url": "Facebook.com/BlackWaxSoluti…",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3672,
+			"friends_count": 3248,
+			"listed_count": 102,
+			"created_at": "Fri Feb 06 15:14:44 +0000 2009",
+			"favourites_count": 60380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 169935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172688305395253248/EpwBrh4V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172688305395253248/EpwBrh4V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20243240/1568426673",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As warm ups go.... Diego had more silks than a kimono shop\nhttps://t.co/1XHpcvW6SH"
+	},
+	{
+		"created_at": "Wed Nov 25 14:56:06 +0000 2020",
+		"id": 1331612634731454500,
+		"id_str": "1331612634731454465",
+		"full_text": "Fielding and Lucas were unbearably unfunny in this series. The 'Mr Spoon' thing was just plain odd in covid times. #GBBOFinal https://t.co/YUtm3XUznW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GBBOFinal",
+					"indices": [
+						115,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1331612584278184000,
+					"id_str": "1331612584278183944",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EnrWlxhXUAgth-W.png",
+					"media_url_https": "https://pbs.twimg.com/media/EnrWlxhXUAgth-W.png",
+					"url": "https://t.co/YUtm3XUznW",
+					"display_url": "pic.twitter.com/YUtm3XUznW",
+					"expanded_url": "https://twitter.com/mfshill/status/1331612634731454465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 620,
+							"h": 178,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 178,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 178,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331612584278184000,
+					"id_str": "1331612584278183944",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EnrWlxhXUAgth-W.png",
+					"media_url_https": "https://pbs.twimg.com/media/EnrWlxhXUAgth-W.png",
+					"url": "https://t.co/YUtm3XUznW",
+					"display_url": "pic.twitter.com/YUtm3XUznW",
+					"expanded_url": "https://twitter.com/mfshill/status/1331612634731454465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 620,
+							"h": 178,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 178,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 178,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268,
+			"friends_count": 258,
+			"listed_count": 23,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fielding and Lucas were unbearably unfunny in this series. The 'Mr Spoon' thing was just plain odd in covid times. #GBBOFinal https://t.co/YUtm3XUznW"
+	},
+	{
 		"created_at": "Tue Nov 24 21:48:05 +0000 2020",
 		"id": 1331268549944496000,
 		"id_str": "1331353925086220289",
