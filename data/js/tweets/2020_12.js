@@ -1,6 +1,157 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 12 19:58:26 +0000 2020",
+		"id": 1337845864786702300,
+		"id_str": "1337849309652545537",
+		"full_text": "Hey it’s Saturday night! That means the #StreamOfDreams starts in 15 minutes! Join us as we take it to church, go round the house, catch a flying Tiger and climb disco mountain before parachuting into the jungle. Ain’t no limits. \n⛪ 🏡 🐅 💃 ⛰ 🌱 \nhttps://t.co/8PrprUx5Gl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StreamOfDreams",
+					"indices": [
+						40,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8PrprUx5Gl",
+					"expanded_url": "http://Mixcloud.com/live/eops",
+					"display_url": "Mixcloud.com/live/eops",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20243240,
+			"id_str": "20243240",
+			"name": "BlackWaxSolution",
+			"screen_name": "eops",
+			"location": "LDN /east",
+			"description": "DJ/Radio/Podcast. https://t.co/ktphYVfi7n https://t.co/f3w4hzkaM7 https://t.co/bNdWAaZNg4 https://t.co/9LmRMZW6Mi",
+			"url": "https://t.co/QdVzWepwt7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QdVzWepwt7",
+							"expanded_url": "http://www.mixcloud.com/eops",
+							"display_url": "mixcloud.com/eops",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ktphYVfi7n",
+							"expanded_url": "http://ko-fi.com/BlackWaxSolution",
+							"display_url": "ko-fi.com/BlackWaxSoluti…",
+							"indices": [
+								18,
+								41
+							]
+						},
+						{
+							"url": "https://t.co/f3w4hzkaM7",
+							"expanded_url": "http://PayPal.me/djeops",
+							"display_url": "PayPal.me/djeops",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/bNdWAaZNg4",
+							"expanded_url": "http://Instagram.com/BlackWaxSolution",
+							"display_url": "Instagram.com/BlackWaxSoluti…",
+							"indices": [
+								66,
+								89
+							]
+						},
+						{
+							"url": "https://t.co/9LmRMZW6Mi",
+							"expanded_url": "http://Facebook.com/BlackWaxSolution",
+							"display_url": "Facebook.com/BlackWaxSoluti…",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3682,
+			"friends_count": 3265,
+			"listed_count": 102,
+			"created_at": "Fri Feb 06 15:14:44 +0000 2009",
+			"favourites_count": 61225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 170545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172688305395253248/EpwBrh4V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172688305395253248/EpwBrh4V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20243240/1568426673",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey it’s Saturday night! That means the #StreamOfDreams starts in 15 minutes! Join us as we take it to church, go round the house, catch a flying Tiger and climb disco mountain before parachuting into the jungle. Ain’t no limits. \n⛪ 🏡 🐅 💃 ⛰ 🌱 \nhttps://t.co/8PrprUx5Gl"
+	},
+	{
 		"created_at": "Thu Dec 10 19:43:18 +0000 2020",
 		"id": 1337119272095637500,
 		"id_str": "1337120726701236227",
