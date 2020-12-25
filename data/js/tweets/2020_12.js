@@ -1,6 +1,499 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 24 19:41:11 +0000 2020",
+		"id": 1342193625317470200,
+		"id_str": "1342193625317470213",
+		"full_text": "@PainInThArsenal @SwedishRoss with zero expectations it makes the wins* all that much sweeter. \n\n*as and when they come like ships passing in the night",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PainInThArsenal",
+					"name": "Pain In The Arsenal (at 🏡)",
+					"id": 2535460231,
+					"id_str": "2535460231",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "SwedishRoss",
+					"name": "Ross",
+					"id": 706480633305047000,
+					"id_str": "706480633305047040",
+					"indices": [
+						17,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1342193153374351400,
+		"in_reply_to_status_id_str": "1342193153374351360",
+		"in_reply_to_user_id": 2535460231,
+		"in_reply_to_user_id_str": "2535460231",
+		"in_reply_to_screen_name": "PainInThArsenal",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 259,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PainInThArsenal @SwedishRoss with zero expectations it makes the wins* all that much sweeter. \n\n*as and when they come like ships passing in the night"
+	},
+	{
+		"created_at": "Thu Dec 24 19:35:50 +0000 2020",
+		"id": 1342192276232089600,
+		"id_str": "1342192276232089601",
+		"full_text": "called it https://t.co/3ljlfjZohK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3ljlfjZohK",
+					"expanded_url": "https://twitter.com/electrolemon/status/1341985766575013889",
+					"display_url": "twitter.com/electrolemon/s…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 259,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1341985766575014000,
+		"quoted_status_id_str": "1341985766575013889",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3ljlfjZohK",
+			"expanded": "https://twitter.com/electrolemon/status/1341985766575013889",
+			"display": "twitter.com/electrolemon/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 24 05:55:14 +0000 2020",
+			"id": 1341985766575014000,
+			"id_str": "1341985766575013889",
+			"full_text": "oh no just remembered we might get another weird kevin spacey video in two days",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				79
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15331408,
+				"id_str": "15331408",
+				"name": "demi adejuyigbe",
+				"screen_name": "electrolemon",
+				"location": "los angeles",
+				"description": "comedian (@theshowisgreat) screenwriter (@nbcthegoodplace @newwarriors @latelateshow @ambermruffin etc) i donate $2 per tweet bc this place is bad. he/him",
+				"url": "https://t.co/H7iJaNvp94",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H7iJaNvp94",
+								"expanded_url": "https://www.northstarhealthcollective.org/donate",
+								"display_url": "northstarhealthcollective.org/donate",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 222723,
+				"friends_count": 280,
+				"listed_count": 1208,
+				"created_at": "Sun Jul 06 07:54:20 +0000 2008",
+				"favourites_count": 97213,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 36081,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1242982955166756864/0Aa9lo1__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242982955166756864/0Aa9lo1__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15331408/1459588649",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 330,
+			"favorite_count": 8587,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "called it https://t.co/3ljlfjZohK"
+	},
+	{
+		"created_at": "Thu Dec 24 19:30:46 +0000 2020",
+		"id": 1342191003902619600,
+		"id_str": "1342191003902619648",
+		"full_text": "@PainInThArsenal @SwedishRoss we're fucked and the worse thing is, I'm kinda getting used to how terrible we are 😪",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PainInThArsenal",
+					"name": "Pain In The Arsenal (at 🏡)",
+					"id": 2535460231,
+					"id_str": "2535460231",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "SwedishRoss",
+					"name": "Ross",
+					"id": 706480633305047000,
+					"id_str": "706480633305047040",
+					"indices": [
+						17,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1342190591912906800,
+		"in_reply_to_status_id_str": "1342190591912906754",
+		"in_reply_to_user_id": 2535460231,
+		"in_reply_to_user_id_str": "2535460231",
+		"in_reply_to_screen_name": "PainInThArsenal",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 259,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PainInThArsenal @SwedishRoss we're fucked and the worse thing is, I'm kinda getting used to how terrible we are 😪"
+	},
+	{
+		"created_at": "Thu Dec 24 19:10:48 +0000 2020",
+		"id": 1342185978149150700,
+		"id_str": "1342185978149150720",
+		"full_text": "@SmashrunHQ hi guys n gals, any chance you can change the 'tags' on the data export to separate .csv columns?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SmashrunHQ",
+					"name": "Smashrun Team",
+					"id": 293600304,
+					"id_str": "293600304",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 293600304,
+		"in_reply_to_user_id_str": "293600304",
+		"in_reply_to_screen_name": "SmashrunHQ",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 259,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317792662104297473/Coj3BUfH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SmashrunHQ hi guys n gals, any chance you can change the 'tags' on the data export to separate .csv columns?"
+	},
+	{
 		"created_at": "Tue Dec 22 22:05:32 +0000 2020",
 		"id": 1341505176239272000,
 		"id_str": "1341505176239271936",
