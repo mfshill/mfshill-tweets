@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 03 22:30:24 +0000 2021",
+		"id": 1345860089123631000,
+		"id_str": "1345860089123631105",
+		"full_text": "#APerfectPlanet is another fantastic BBC nature series. All episodes available on iplayer now. https://t.co/Nk7sMqSaRk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "APerfectPlanet",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nk7sMqSaRk",
+					"expanded_url": "https://www.bbc.co.uk/iplayer/episode/p08xc2v8/a-perfect-planet-series-1-1-volcano",
+					"display_url": "bbc.co.uk/iplayer/episod…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#APerfectPlanet is another fantastic BBC nature series. All episodes available on iplayer now. https://t.co/Nk7sMqSaRk"
+	},
+	{
+		"created_at": "Sun Jan 03 20:35:33 +0000 2021",
+		"id": 1345328284922425300,
+		"id_str": "1345831185537245186",
+		"full_text": "Me: “Quarantine won’t take that long”.\n\nQuarantine: https://t.co/uaZ0g7RDa8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1345328280103170000,
+					"id_str": "1345328280103170052",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EquQ8WHWMAQA03g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EquQ8WHWMAQA03g.jpg",
+					"url": "https://t.co/uaZ0g7RDa8",
+					"display_url": "pic.twitter.com/uaZ0g7RDa8",
+					"expanded_url": "https://twitter.com/xruiztru/status/1345328284922425344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 829,
+							"h": 518,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 829,
+							"h": 518,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1345328280103170000,
+					"id_str": "1345328280103170052",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EquQ8WHWMAQA03g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EquQ8WHWMAQA03g.jpg",
+					"url": "https://t.co/uaZ0g7RDa8",
+					"display_url": "pic.twitter.com/uaZ0g7RDa8",
+					"expanded_url": "https://twitter.com/xruiztru/status/1345328284922425344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 829,
+							"h": 518,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 829,
+							"h": 518,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1326389646,
+			"id_str": "1326389646",
+			"name": "Xavi Ruiz",
+			"screen_name": "xruiztru",
+			"location": "📍 Brussels - Barcelona",
+			"description": "International Relations & History 📚 • Social Media Consultant 📲 • Before @UEenPeru • I like to post maps and graphs 🌍📊",
+			"url": "https://t.co/KUJffAPgF5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KUJffAPgF5",
+							"expanded_url": "https://www.linkedin.com/in/xavi-ruiz-trullols-4b941997/",
+							"display_url": "linkedin.com/in/xavi-ruiz-t…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21662,
+			"friends_count": 801,
+			"listed_count": 239,
+			"created_at": "Thu Apr 04 07:52:50 +0000 2013",
+			"favourites_count": 118030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331214965152378887/UF_ONGXV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331214965152378887/UF_ONGXV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1326389646/1517922500",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26674,
+		"favorite_count": 225235,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Me: “Quarantine won’t take that long”.\n\nQuarantine: https://t.co/uaZ0g7RDa8"
+	},
+	{
 		"created_at": "Sat Jan 02 22:04:10 +0000 2021",
 		"id": 1345491098781802500,
 		"id_str": "1345491098781802504",
