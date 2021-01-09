@@ -1,6 +1,758 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 08 20:28:15 +0000 2021",
+		"id": 1347641286107541500,
+		"id_str": "1347641286107541507",
+		"full_text": "Liverpool have started up the banter bus 1-1 #AVLLIV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AVLLIV",
+					"indices": [
+						45,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Liverpool have started up the banter bus 1-1 #AVLLIV"
+	},
+	{
+		"created_at": "Fri Jan 08 19:19:01 +0000 2021",
+		"id": 1347623865837617200,
+		"id_str": "1347623865837617157",
+		"full_text": "TUNE! #NowPlaying  'Speechless (Radio Slave Panorama Garage Remix feat. Thomas Gandey)' https://t.co/NWmab7Gx1x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NowPlaying",
+					"indices": [
+						6,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NWmab7Gx1x",
+					"expanded_url": "https://youtu.be/oJjeARbNavU",
+					"display_url": "youtu.be/oJjeARbNavU",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TUNE! #NowPlaying  'Speechless (Radio Slave Panorama Garage Remix feat. Thomas Gandey)' https://t.co/NWmab7Gx1x"
+	},
+	{
+		"created_at": "Fri Jan 08 19:00:15 +0000 2021",
+		"id": 1347619142619295700,
+		"id_str": "1347619142619295746",
+		"full_text": "i would never have thought it would be possible for a 74yo to fully embody a petulant 5yo, but there you go. https://t.co/p7E2Vj7SX7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p7E2Vj7SX7",
+					"expanded_url": "https://twitter.com/realDonaldTrump/status/1347569870578266115",
+					"display_url": "twitter.com/realDonaldTrum…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1347569870578266000,
+		"quoted_status_id_str": "1347569870578266115",
+		"quoted_status_permalink": {
+			"url": "https://t.co/p7E2Vj7SX7",
+			"expanded": "https://twitter.com/realDonaldTrump/status/1347569870578266115",
+			"display": "twitter.com/realDonaldTrum…"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i would never have thought it would be possible for a 74yo to fully embody a petulant 5yo, but there you go. https://t.co/p7E2Vj7SX7"
+	},
+	{
+		"created_at": "Fri Jan 08 18:49:04 +0000 2021",
+		"id": 1347608257049800700,
+		"id_str": "1347616325103988736",
+		"full_text": "For those who are wondering why so much attention has been focused on the response of the Capitol Police to the Trump-inspired riots, here’s a data-driven article that provides some useful frame of reference. \n\nhttps://t.co/MAdlWGRd23",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MAdlWGRd23",
+					"expanded_url": "https://fivethirtyeight.com/features/the-polices-tepid-response-to-the-capitol-breach-wasnt-an-aberration/",
+					"display_url": "fivethirtyeight.com/features/the-p…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 813286,
+			"id_str": "813286",
+			"name": "Barack Obama",
+			"screen_name": "BarackObama",
+			"location": "Washington, DC",
+			"description": "Dad, husband, President, citizen.",
+			"url": "https://t.co/FPuJ0CENpo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FPuJ0CENpo",
+							"expanded_url": "http://obamabook.com",
+							"display_url": "obamabook.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127899881,
+			"friends_count": 596733,
+			"listed_count": 222531,
+			"created_at": "Mon Mar 05 22:08:25 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "77B0DC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+			"profile_link_color": "2574AD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C2E0F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22795,
+		"favorite_count": 85010,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For those who are wondering why so much attention has been focused on the response of the Capitol Police to the Trump-inspired riots, here’s a data-driven article that provides some useful frame of reference. \n\nhttps://t.co/MAdlWGRd23"
+	},
+	{
+		"created_at": "Fri Jan 08 11:24:51 +0000 2021",
+		"id": 1347504537209348000,
+		"id_str": "1347504537209348099",
+		"full_text": "well this is not at all surprising https://t.co/S9Dydk5zgz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S9Dydk5zgz",
+					"expanded_url": "https://twitter.com/rmayemsinger/status/1347250902785093639",
+					"display_url": "twitter.com/rmayemsinger/s…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1347250902785093600,
+		"quoted_status_id_str": "1347250902785093639",
+		"quoted_status_permalink": {
+			"url": "https://t.co/S9Dydk5zgz",
+			"expanded": "https://twitter.com/rmayemsinger/status/1347250902785093639",
+			"display": "twitter.com/rmayemsinger/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 07 18:37:00 +0000 2021",
+			"id": 1347250902785093600,
+			"id_str": "1347250902785093639",
+			"full_text": "The president and his co-conspirators watched, cheered and danced... as the violence they incited was about to go down. This needs to be way more viral. \nhttps://t.co/SOrJmBbLKD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1347175353421353000,
+						"id_str": "1347175353421352960",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1347175353421352960/pu/img/SjZsS8_tqay6roqz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1347175353421352960/pu/img/SjZsS8_tqay6roqz.jpg",
+						"url": "https://t.co/SOrJmBbLKD",
+						"display_url": "pic.twitter.com/SOrJmBbLKD",
+						"expanded_url": "https://twitter.com/edi_samira/status/1347176030495272960/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 352,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 352,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 352,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1347176030495273000,
+						"source_status_id_str": "1347176030495272960",
+						"source_user_id": 1324731807976378400,
+						"source_user_id_str": "1324731807976378370"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1347175353421353000,
+						"id_str": "1347175353421352960",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1347175353421352960/pu/img/SjZsS8_tqay6roqz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1347175353421352960/pu/img/SjZsS8_tqay6roqz.jpg",
+						"url": "https://t.co/SOrJmBbLKD",
+						"display_url": "pic.twitter.com/SOrJmBbLKD",
+						"expanded_url": "https://twitter.com/edi_samira/status/1347176030495272960/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 352,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 352,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 352,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1347176030495273000,
+						"source_status_id_str": "1347176030495272960",
+						"source_user_id": 1324731807976378400,
+						"source_user_id_str": "1324731807976378370",
+						"video_info": {
+							"aspect_ratio": [
+								11,
+								20
+							],
+							"duration_millis": 140030,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1347175353421352960/pu/vid/352x640/jcCHU9s60WoG04f2.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1347175353421352960/pu/vid/320x580/NL-2EDxqUpai0516.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1347175353421352960/pu/pl/JJULN6M_dmuxxoHc.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1324731807976378400,
+								"id_str": "1324731807976378370",
+								"name": "Samira Edi🌹ImpeachTrumpAgain",
+								"screen_name": "edi_samira",
+								"location": "New York, USA, London UK",
+								"description": "Banker|Chronicler| Polemicist & A godless succubus 🇨🇲🇳🇬🇬🇧🇺🇸🇨🇦🇫🇷",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 831,
+								"friends_count": 233,
+								"listed_count": 5,
+								"created_at": "Fri Nov 06 15:14:46 +0000 2020",
+								"favourites_count": 4013,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 1417,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1324747572402098178/POTkcoPF_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324747572402098178/POTkcoPF_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1324731807976378370/1604770017",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 372563164,
+				"id_str": "372563164",
+				"name": "Randi Mayem Singer",
+				"screen_name": "rmayemsinger",
+				"location": "",
+				"description": "Screenwriter of Mrs. Doubtfire, some other stuff you didn't see and lots of stuff my name isn't on. Opinions are correct.",
+				"url": "https://t.co/kDzaQ7Y7ix",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kDzaQ7Y7ix",
+								"expanded_url": "http://www.imdb.me/randimayemsinger",
+								"display_url": "imdb.me/randimayemsing…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 126258,
+				"friends_count": 873,
+				"listed_count": 794,
+				"created_at": "Tue Sep 13 00:33:07 +0000 2011",
+				"favourites_count": 44750,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7544,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1325124726864293889/2MQbvVdx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325124726864293889/2MQbvVdx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/372563164/1610153108",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8297,
+			"favorite_count": 9252,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "well this is not at all surprising https://t.co/S9Dydk5zgz"
+	},
+	{
 		"created_at": "Thu Jan 07 22:28:42 +0000 2021",
 		"id": 1347309212674744300,
 		"id_str": "1347309212674744324",
@@ -1882,7 +2634,7 @@ Grailbird.data.tweets_2021_01 =
 		"created_at": "Thu Jan 07 12:47:29 +0000 2021",
 		"id": 1347162945336303600,
 		"id_str": "1347162945336303617",
-		"full_text": "hands in the air 🙅🏾‍♂️🙆🏾‍♀️#NowPlaying 'CJ Bolland - Sugar Is Sweeter (Armand Van Helden's Drum 'n' Bass Mix)' https://t.co/hKrMyZ93RL",
+		"full_text": "hands in the air 🙅🏾♂️🙆🏾♀️#NowPlaying 'CJ Bolland - Sugar Is Sweeter (Armand Van Helden's Drum 'n' Bass Mix)' https://t.co/hKrMyZ93RL",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1977,7 +2729,7 @@ Grailbird.data.tweets_2021_01 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "hands in the air 🙅🏾‍♂️🙆🏾‍♀️#NowPlaying 'CJ Bolland - Sugar Is Sweeter (Armand Van Helden's Drum 'n' Bass Mix)' https://t.co/hKrMyZ93RL"
+		"text": "hands in the air 🙅🏾♂️🙆🏾♀️#NowPlaying 'CJ Bolland - Sugar Is Sweeter (Armand Van Helden's Drum 'n' Bass Mix)' https://t.co/hKrMyZ93RL"
 	},
 	{
 		"created_at": "Thu Jan 07 12:33:31 +0000 2021",
