@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 10 16:56:31 +0000 2021",
+		"id": 1348312778675781600,
+		"id_str": "1348312778675781632",
+		"full_text": "London hospital trust cancels urgent cancer surgery due to Covid https://t.co/fp6m3c7KbT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fp6m3c7KbT",
+					"expanded_url": "https://www.theguardian.com/society/2021/jan/10/london-hospital-trust-cancels-urgent-cancer-surgery-covid-barts",
+					"display_url": "theguardian.com/society/2021/j…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "London hospital trust cancels urgent cancer surgery due to Covid https://t.co/fp6m3c7KbT"
+	},
+	{
+		"created_at": "Sun Jan 10 14:12:55 +0000 2021",
+		"id": 1348249481284874200,
+		"id_str": "1348271606599200769",
+		"full_text": "My message to my fellow Americans and friends around the world following this week's attack on the Capitol. https://t.co/blOy35LWJ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348183758160031700,
+					"id_str": "1348183758160031747",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/ErW28J8UcAI0Hik.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErW28J8UcAI0Hik.jpg",
+					"url": "https://t.co/blOy35LWJ5",
+					"display_url": "pic.twitter.com/blOy35LWJ5",
+					"expanded_url": "https://twitter.com/Schwarzenegger/status/1348249481284874240/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1170,
+							"h": 662,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 662,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348183758160031700,
+					"id_str": "1348183758160031747",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/ErW28J8UcAI0Hik.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErW28J8UcAI0Hik.jpg",
+					"url": "https://t.co/blOy35LWJ5",
+					"display_url": "pic.twitter.com/blOy35LWJ5",
+					"expanded_url": "https://twitter.com/Schwarzenegger/status/1348249481284874240/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1170,
+							"h": 662,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 662,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 458625,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1348183758160031747/vid/480x270/Oevvdv1h19OyZO0S.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1348183758160031747/vid/640x360/oIPliHBOtIiVP_VH.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1348183758160031747/vid/1280x720/kx8LzeiBpewLyYSc.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1348183758160031747/pl/7Ba_MNpvfziYiCk3.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Message regarding the attack on our Capitol ",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12044602,
+			"id_str": "12044602",
+			"name": "Arnold",
+			"screen_name": "Schwarzenegger",
+			"location": "Los Angeles, California",
+			"description": "Former Mr. Olympia, Conan, Terminator, and Governor of California. I killed the Predator. I told you I'd be back. TikTok & Snapchat: ArnoldSchnitzel",
+			"url": "https://t.co/DpyFq5QUj2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DpyFq5QUj2",
+							"expanded_url": "https://linktr.ee/Schwarzenegger",
+							"display_url": "linktr.ee/Schwarzenegger",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4854415,
+			"friends_count": 403,
+			"listed_count": 30400,
+			"created_at": "Wed Jan 09 21:12:40 +0000 2008",
+			"favourites_count": 1245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251628359668256768/EZOYSIzd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251628359668256768/EZOYSIzd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12044602/1554505308",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 261524,
+		"favorite_count": 871325,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My message to my fellow Americans and friends around the world following this week's attack on the Capitol. https://t.co/blOy35LWJ5"
+	},
+	{
 		"created_at": "Sat Jan 09 23:18:45 +0000 2021",
 		"id": 1347963567233003500,
 		"id_str": "1348046581115875328",
