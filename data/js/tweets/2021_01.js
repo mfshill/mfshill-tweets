@@ -1,6 +1,646 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 11 22:38:55 +0000 2021",
+		"id": 1348700957924851700,
+		"id_str": "1348761334532493312",
+		"full_text": "Note to the free speech warriors celebrating Angela Merkel calling the Trump Twitter ban \"problematic\": Germany has some of the toughest hate speech rules in the world. What she's saying is that govt should have censorship monopoly, not private companies.  https://t.co/XhFC3HSlbS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XhFC3HSlbS",
+					"expanded_url": "https://techcrunch.com/2020/06/19/germany-tightens-online-hate-speech-rules-to-make-platforms-send-reports-straight-to-the-feds/",
+					"display_url": "techcrunch.com/2020/06/19/ger…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24382468,
+			"id_str": "24382468",
+			"name": "Borzou Daragahi 🖊🗒",
+			"screen_name": "borzou",
+			"location": "Agrabah",
+			"description": "International Correspondent for @Independent. Senior Fellow at @ACScowcroft. DMs open for ideas, tips, questions",
+			"url": "https://t.co/rz4Lwv1lFa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz4Lwv1lFa",
+							"expanded_url": "http://www.borzou.com",
+							"display_url": "borzou.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85536,
+			"friends_count": 1523,
+			"listed_count": 2876,
+			"created_at": "Sat Mar 14 15:27:33 +0000 2009",
+			"favourites_count": 4775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216837767818358785/xPu51uEK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216837767818358785/xPu51uEK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24382468/1579158577",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 303,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Note to the free speech warriors celebrating Angela Merkel calling the Trump Twitter ban \"problematic\": Germany has some of the toughest hate speech rules in the world. What she's saying is that govt should have censorship monopoly, not private companies.  https://t.co/XhFC3HSlbS"
+	},
+	{
+		"created_at": "Mon Jan 11 19:14:06 +0000 2021",
+		"id": 1348709456222285800,
+		"id_str": "1348709790764171265",
+		"full_text": "The Society of Homeopaths was *actually* registered? As what - a  water company? 🤷🏼‍♂️\n\nhttps://t.co/zJ7SignQeV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zJ7SignQeV",
+					"expanded_url": "https://humanism.org.uk/2021/01/11/professional-standards-authority-suspends-accreditation-of-society-of-homeopaths/",
+					"display_url": "humanism.org.uk/2021/01/11/pro…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19145660,
+			"id_str": "19145660",
+			"name": "Brent A. Martin",
+			"screen_name": "zeitgeistlondon",
+			"location": "London, UK",
+			"description": "London-based criminal Barrister. Regular road cyclist, sometime photographer; social/political comments when I'm in the mood. Husband to @londonginge  \n日本語でもOK！",
+			"url": "https://t.co/MEwu5DAR6T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MEwu5DAR6T",
+							"expanded_url": "http://ukcounsel.link/brentmartin",
+							"display_url": "ukcounsel.link/brentmartin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8277,
+			"friends_count": 7830,
+			"listed_count": 245,
+			"created_at": "Sun Jan 18 14:40:52 +0000 2009",
+			"favourites_count": 737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334202014432174081/MQ6MOpZR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334202014432174081/MQ6MOpZR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19145660/1607278330",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Society of Homeopaths was *actually* registered? As what - a  water company? 🤷🏼‍♂️\n\nhttps://t.co/zJ7SignQeV"
+	},
+	{
+		"created_at": "Mon Jan 11 13:10:31 +0000 2021",
+		"id": 1348602213011251200,
+		"id_str": "1348618290529243137",
+		"full_text": "&lt;insert BigOof.gif&gt; https://t.co/2s81V4ce0T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2s81V4ce0T",
+					"expanded_url": "https://twitter.com/bitburner/status/1348558563019427842",
+					"display_url": "twitter.com/bitburner/stat…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 50783523,
+			"id_str": "50783523",
+			"name": "Amy",
+			"screen_name": "wickychoo",
+			"location": "Oxford, England",
+			"description": "Don’t let these waves wash away your hopes. \nRoller derby official & clinical trial manager. \nNonsense, typos, retweets and #derbytwitter She/her.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 410,
+			"listed_count": 5,
+			"created_at": "Thu Jun 25 21:56:17 +0000 2009",
+			"favourites_count": 9449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 42138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9E079",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131859071819223041/yeS3tPcp_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131859071819223041/yeS3tPcp_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/50783523/1481374734",
+			"profile_link_color": "F1AB07",
+			"profile_sidebar_border_color": "070D33",
+			"profile_sidebar_fill_color": "F7F4F5",
+			"profile_text_color": "0A2BFF",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1348558563019427800,
+		"quoted_status_id_str": "1348558563019427842",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2s81V4ce0T",
+			"expanded": "https://twitter.com/bitburner/status/1348558563019427842",
+			"display": "twitter.com/bitburner/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 11 09:13:11 +0000 2021",
+			"id": 1348558563019427800,
+			"id_str": "1348558563019427842",
+			"full_text": "PARLER GOT FUCKING OWNED BAD...and I mean BAD 😂\n\n\"This group of Internet Warriors then used that account, to create a handful of other ADMINISTRATION accounts, and then created a script that ended up creating MILLIONS of fake administration accounts.\"\n\nHOLY SHIT HAHAHA 😂🤣 https://t.co/bS3GSRsxET",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1348558259842474000,
+						"id_str": "1348558259842473984",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/ErcKl6TUYAAMwp8.png",
+						"media_url_https": "https://pbs.twimg.com/media/ErcKl6TUYAAMwp8.png",
+						"url": "https://t.co/bS3GSRsxET",
+						"display_url": "pic.twitter.com/bS3GSRsxET",
+						"expanded_url": "https://twitter.com/bitburner/status/1348558563019427842/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 701,
+								"h": 678,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 658,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 701,
+								"h": 678,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1348558259842474000,
+						"id_str": "1348558259842473984",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/ErcKl6TUYAAMwp8.png",
+						"media_url_https": "https://pbs.twimg.com/media/ErcKl6TUYAAMwp8.png",
+						"url": "https://t.co/bS3GSRsxET",
+						"display_url": "pic.twitter.com/bS3GSRsxET",
+						"expanded_url": "https://twitter.com/bitburner/status/1348558563019427842/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 701,
+								"h": 678,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 658,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 701,
+								"h": 678,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1348558268780564500,
+						"id_str": "1348558268780564480",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/ErcKmbmU0AApFwf.png",
+						"media_url_https": "https://pbs.twimg.com/media/ErcKmbmU0AApFwf.png",
+						"url": "https://t.co/bS3GSRsxET",
+						"display_url": "pic.twitter.com/bS3GSRsxET",
+						"expanded_url": "https://twitter.com/bitburner/status/1348558563019427842/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 483,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 696,
+								"h": 494,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 696,
+								"h": 494,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 217654510,
+				"id_str": "217654510",
+				"name": "B̤̿it̺̕B͓̚ur͍̒neȑ🔥 k33p !7 m0v!n",
+				"screen_name": "bitburner",
+				"location": "1999",
+				"description": "I do shit\n\n§Ƚåçķβȋț£ȑ çȑ£Ψ \n\n#OSINT #NETSEC #DUBSTEP #NFT #CRYPTOART\nhttps://t.co/RbQIVW4Ojb\nhttps://t.co/hEXfZfEgc0\nhttps://t.co/j86J0PvhGs",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RbQIVW4Ojb",
+								"expanded_url": "http://soundcloud.com/bitburner",
+								"display_url": "soundcloud.com/bitburner",
+								"indices": [
+									69,
+									92
+								]
+							},
+							{
+								"url": "https://t.co/hEXfZfEgc0",
+								"expanded_url": "http://app.rarible.com/bitburner/",
+								"display_url": "app.rarible.com/bitburner/",
+								"indices": [
+									93,
+									116
+								]
+							},
+							{
+								"url": "https://t.co/j86J0PvhGs",
+								"expanded_url": "http://keybase.io/bitburner",
+								"display_url": "keybase.io/bitburner",
+								"indices": [
+									117,
+									140
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 15016,
+				"friends_count": 4546,
+				"listed_count": 182,
+				"created_at": "Sat Nov 20 03:40:07 +0000 2010",
+				"favourites_count": 83934,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 50876,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1346298639191134209/yZ8Ak89K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346298639191134209/yZ8Ak89K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/217654510/1610359029",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "949494",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10555,
+			"favorite_count": 29865,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "&lt;insert BigOof.gif&gt; https://t.co/2s81V4ce0T"
+	},
+	{
+		"created_at": "Mon Jan 11 11:37:53 +0000 2021",
+		"id": 1348594980495962000,
+		"id_str": "1348594980495962112",
+		"full_text": "great, long, afro deep house mix by @aegishouse \nhttps://t.co/gCNkywTRva",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aegishouse",
+					"name": "Aegis House",
+					"id": 2199363426,
+					"id_str": "2199363426",
+					"indices": [
+						36,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gCNkywTRva",
+					"expanded_url": "https://www.youtube.com/watch?v=Bq_Efxti5ds",
+					"display_url": "youtube.com/watch?v=Bq_Efx…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "great, long, afro deep house mix by @aegishouse \nhttps://t.co/gCNkywTRva"
+	},
+	{
 		"created_at": "Sun Jan 10 16:56:31 +0000 2021",
 		"id": 1348312778675781600,
 		"id_str": "1348312778675781632",
