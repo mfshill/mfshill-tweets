@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 13 23:22:03 +0000 2021",
+		"id": 1349496965600575500,
+		"id_str": "1349496965600575490",
+		"full_text": "https://t.co/b5UQv4a8qm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1349496956746403800,
+					"id_str": "1349496956746403841",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ErpgVQxXEAE0XFf.png",
+					"media_url_https": "https://pbs.twimg.com/media/ErpgVQxXEAE0XFf.png",
+					"url": "https://t.co/b5UQv4a8qm",
+					"display_url": "pic.twitter.com/b5UQv4a8qm",
+					"expanded_url": "https://twitter.com/mfshill/status/1349496965600575490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 868,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 868,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 649,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349496956746403800,
+					"id_str": "1349496956746403841",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ErpgVQxXEAE0XFf.png",
+					"media_url_https": "https://pbs.twimg.com/media/ErpgVQxXEAE0XFf.png",
+					"url": "https://t.co/b5UQv4a8qm",
+					"display_url": "pic.twitter.com/b5UQv4a8qm",
+					"expanded_url": "https://twitter.com/mfshill/status/1349496965600575490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 868,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 868,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 649,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/b5UQv4a8qm"
+	},
+	{
+		"created_at": "Wed Jan 13 13:18:11 +0000 2021",
+		"id": 1349343851073441800,
+		"id_str": "1349344994935660545",
+		"full_text": "Nearly half of staff working in intensive care units in England in the COVID-19 pandemic have severe anxiety, depression or post-traumatic stress disorder, with some reporting feeling they’d be better off dead, according to a study https://t.co/kTZwTDCUVo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kTZwTDCUVo",
+					"expanded_url": "https://reut.rs/35BeS0B",
+					"display_url": "reut.rs/35BeS0B",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1652541,
+			"id_str": "1652541",
+			"name": "Reuters",
+			"screen_name": "Reuters",
+			"location": "Around the world",
+			"description": "Top and breaking news, pictures and videos from Reuters. For more breaking business news, follow @ReutersBiz.",
+			"url": "http://t.co/BmHxhkm3Mh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/BmHxhkm3Mh",
+							"expanded_url": "http://www.reuters.com",
+							"display_url": "reuters.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22900830,
+			"friends_count": 1137,
+			"listed_count": 124495,
+			"created_at": "Tue Mar 20 17:46:05 +0000 2007",
+			"favourites_count": 760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 638614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "444444",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1573687397",
+			"profile_link_color": "006F97",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5F5F5",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 187,
+		"favorite_count": 305,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nearly half of staff working in intensive care units in England in the COVID-19 pandemic have severe anxiety, depression or post-traumatic stress disorder, with some reporting feeling they’d be better off dead, according to a study https://t.co/kTZwTDCUVo"
+	},
+	{
 		"created_at": "Wed Jan 13 00:13:50 +0000 2021",
 		"id": 1349147606581211100,
 		"id_str": "1349147606581211145",
