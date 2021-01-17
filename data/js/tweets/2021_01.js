@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 16 11:31:13 +0000 2021",
+		"id": 1350405239283843000,
+		"id_str": "1350405239283843074",
+		"full_text": "@JohnnyFocal @GreenlandMovie ha, great analogy.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JohnnyFocal",
+					"name": "Jon Thompson",
+					"id": 20022608,
+					"id_str": "20022608",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "GreenlandMovie",
+					"name": "Greenland",
+					"id": 1139297516002766800,
+					"id_str": "1139297516002766848",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1350404653381546000,
+		"in_reply_to_status_id_str": "1350404653381545986",
+		"in_reply_to_user_id": 20022608,
+		"in_reply_to_user_id_str": "20022608",
+		"in_reply_to_screen_name": "JohnnyFocal",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JohnnyFocal @GreenlandMovie ha, great analogy."
+	},
+	{
+		"created_at": "Sat Jan 16 11:26:57 +0000 2021",
+		"id": 1350220962499850200,
+		"id_str": "1350404169073614848",
+		"full_text": "I'm loving #WandaVision! https://t.co/gNpDO3m1hH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WandaVision",
+					"indices": [
+						11,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1350220864395104300,
+					"id_str": "1350220864395104256",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/ErzyuO6XUAA1WU4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErzyuO6XUAA1WU4.jpg",
+					"url": "https://t.co/gNpDO3m1hH",
+					"display_url": "pic.twitter.com/gNpDO3m1hH",
+					"expanded_url": "https://twitter.com/HistoryMuppet/status/1350220962499850240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 499,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350220864395104300,
+					"id_str": "1350220864395104256",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/ErzyuO6XUAA1WU4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErzyuO6XUAA1WU4.jpg",
+					"url": "https://t.co/gNpDO3m1hH",
+					"display_url": "pic.twitter.com/gNpDO3m1hH",
+					"expanded_url": "https://twitter.com/HistoryMuppet/status/1350220962499850240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 499,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1049365727705288700,
+			"id_str": "1049365727705288704",
+			"name": "Muppet History",
+			"screen_name": "HistoryMuppet",
+			"location": "",
+			"description": "Continuing the spirit and silliness of Jim Henson! NOT affiliated with Henson or Disney. (He/Him) Created by @HalfHearted_JG Contact: MuppetHistory@outlook.com",
+			"url": "https://t.co/y9916NTqJS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y9916NTqJS",
+							"expanded_url": "https://linktr.ee/MuppetHistory",
+							"display_url": "linktr.ee/MuppetHistory",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168435,
+			"friends_count": 1251,
+			"listed_count": 554,
+			"created_at": "Mon Oct 08 18:27:40 +0000 2018",
+			"favourites_count": 41198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1348780975644409856/KljseVW9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1348780975644409856/KljseVW9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1049365727705288704/1609185342",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 463,
+		"favorite_count": 3901,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm loving #WandaVision! https://t.co/gNpDO3m1hH"
+	},
+	{
 		"created_at": "Fri Jan 15 18:05:36 +0000 2021",
 		"id": 1350129708311191600,
 		"id_str": "1350142101485477893",
