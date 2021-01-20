@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 19 10:31:17 +0000 2021",
+		"id": 1350782855564112000,
+		"id_str": "1351477321996378112",
+		"full_text": "vaccine wellerman let’s gooooo #seashantytok https://t.co/JUv0l82cf3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "seashantytok",
+					"indices": [
+						31,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1350781962944983000,
+					"id_str": "1350781962944983040",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1350781962944983040/pu/img/1aswdXI3_HKxNYtw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1350781962944983040/pu/img/1aswdXI3_HKxNYtw.jpg",
+					"url": "https://t.co/JUv0l82cf3",
+					"display_url": "pic.twitter.com/JUv0l82cf3",
+					"expanded_url": "https://twitter.com/acapellascience/status/1350782855564111875/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350781962944983000,
+					"id_str": "1350781962944983040",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1350781962944983040/pu/img/1aswdXI3_HKxNYtw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1350781962944983040/pu/img/1aswdXI3_HKxNYtw.jpg",
+					"url": "https://t.co/JUv0l82cf3",
+					"display_url": "pic.twitter.com/JUv0l82cf3",
+					"expanded_url": "https://twitter.com/acapellascience/status/1350782855564111875/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 60096,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350781962944983040/pu/vid/720x1280/GXoizzoZEP10I0y8.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1350781962944983040/pu/pl/BtRtRPO8YeCNHkln.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350781962944983040/pu/vid/320x568/naY_M23Okl-IMXGE.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350781962944983040/pu/vid/360x640/MLRH74vy5M4f2Y7w.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 780993961,
+			"id_str": "780993961",
+			"name": "Tim ➐",
+			"screen_name": "acapellascience",
+			"location": "",
+			"description": "Physics Master. EduTubertainer. Singer and Hacky Instrumentalist. Procrastinator. Undiagnosed ADHD Probably. Looking for performance gigs: DMs open so be nice!",
+			"url": "https://t.co/UYYTrv6Oq5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UYYTrv6Oq5",
+							"expanded_url": "http://linktr.ee/acapellascience",
+							"display_url": "linktr.ee/acapellascience",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9795,
+			"friends_count": 980,
+			"listed_count": 199,
+			"created_at": "Sat Aug 25 20:01:10 +0000 2012",
+			"favourites_count": 5533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317372539832848384/_3CT2LEW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/780993961/1599374222",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6971,
+		"favorite_count": 15123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "vaccine wellerman let’s gooooo #seashantytok https://t.co/JUv0l82cf3"
+	},
+	{
 		"created_at": "Mon Jan 18 22:31:09 +0000 2021",
 		"id": 1351293229623345200,
 		"id_str": "1351296093942906889",
