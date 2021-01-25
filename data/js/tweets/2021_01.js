@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 24 21:55:01 +0000 2021",
+		"id": 1353458718239715300,
+		"id_str": "1353461327801569281",
+		"full_text": "Donald Trump Jr. is what I imagine Ellis would have looked like had he survived the Seige of Nakatomi Plaza... -@FuzzyDunlop1 \n🤣🤣🤣🤣\n\n#HansBubbyImYourWhiteKnight https://t.co/P2lfxQVjGo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HansBubbyImYourWhiteKnight",
+					"indices": [
+						133,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FuzzyDunlop1",
+					"name": "Dave Pugsley",
+					"id": 65538136,
+					"id_str": "65538136",
+					"indices": [
+						112,
+						125
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1353458715748348000,
+					"id_str": "1353458715748347905",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Eshzh_JWMAEz0pb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eshzh_JWMAEz0pb.jpg",
+					"url": "https://t.co/P2lfxQVjGo",
+					"display_url": "pic.twitter.com/P2lfxQVjGo",
+					"expanded_url": "https://twitter.com/Jamie_Dodger_/status/1353458718239715330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 902,
+							"h": 494,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 902,
+							"h": 494,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1353458715748348000,
+					"id_str": "1353458715748347905",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Eshzh_JWMAEz0pb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eshzh_JWMAEz0pb.jpg",
+					"url": "https://t.co/P2lfxQVjGo",
+					"display_url": "pic.twitter.com/P2lfxQVjGo",
+					"expanded_url": "https://twitter.com/Jamie_Dodger_/status/1353458718239715330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 902,
+							"h": 494,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 902,
+							"h": 494,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27925847,
+			"id_str": "27925847",
+			"name": "Jamie_Dodger_",
+			"screen_name": "Jamie_Dodger_",
+			"location": "Essex, England.",
+			"description": "Grew up in the 80s. Wrong side of 40. Likes a moan and rant. Dislikes bigots. Bollocks to Brexit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1025,
+			"friends_count": 2570,
+			"listed_count": 23,
+			"created_at": "Tue Mar 31 18:08:16 +0000 2009",
+			"favourites_count": 7713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030103",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350180085928767491/AXruArZ__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350180085928767491/AXruArZ__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27925847/1603484393",
+			"profile_link_color": "FA8459",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "947974",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Donald Trump Jr. is what I imagine Ellis would have looked like had he survived the Seige of Nakatomi Plaza... -@FuzzyDunlop1 \n🤣🤣🤣🤣\n\n#HansBubbyImYourWhiteKnight https://t.co/P2lfxQVjGo"
+	},
+	{
+		"created_at": "Sun Jan 24 19:56:58 +0000 2021",
+		"id": 1353431619093164000,
+		"id_str": "1353431619093164034",
+		"full_text": "well this looks totally ridiculous, but hopefully fun https://t.co/Ylah38P2fq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ylah38P2fq",
+					"expanded_url": "https://youtu.be/gBS6vaNFcx4",
+					"display_url": "youtu.be/gBS6vaNFcx4",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "well this looks totally ridiculous, but hopefully fun https://t.co/Ylah38P2fq"
+	},
+	{
 		"created_at": "Sat Jan 23 22:52:56 +0000 2021",
 		"id": 1353113517294035000,
 		"id_str": "1353113517294034945",
