@@ -1,6 +1,650 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 28 22:50:03 +0000 2021",
+		"id": 1354924727748456400,
+		"id_str": "1354924727748456451",
+		"full_text": "https://t.co/55Bw5jvy0i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1354924721645768700,
+					"id_str": "1354924721645768706",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Es2o2wsXUAIl55w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Es2o2wsXUAIl55w.jpg",
+					"url": "https://t.co/55Bw5jvy0i",
+					"display_url": "pic.twitter.com/55Bw5jvy0i",
+					"expanded_url": "https://twitter.com/mfshill/status/1354924727748456451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354924721645768700,
+					"id_str": "1354924721645768706",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Es2o2wsXUAIl55w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Es2o2wsXUAIl55w.jpg",
+					"url": "https://t.co/55Bw5jvy0i",
+					"display_url": "pic.twitter.com/55Bw5jvy0i",
+					"expanded_url": "https://twitter.com/mfshill/status/1354924727748456451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/55Bw5jvy0i"
+	},
+	{
+		"created_at": "Thu Jan 28 20:04:46 +0000 2021",
+		"id": 1354883135381635000,
+		"id_str": "1354883135381635091",
+		"full_text": "very lucky. 0-0 #TOTLIV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TOTLIV",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "very lucky. 0-0 #TOTLIV"
+	},
+	{
+		"created_at": "Thu Jan 28 20:00:47 +0000 2021",
+		"id": 1354882132276088800,
+		"id_str": "1354882132276088832",
+		"full_text": "@albertkiko it was working about 60mins ago",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "albertkiko",
+					"name": "Alberto Quijada",
+					"id": 18784019,
+					"id_str": "18784019",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1354881430820704300,
+		"in_reply_to_status_id_str": "1354881430820704259",
+		"in_reply_to_user_id": 18784019,
+		"in_reply_to_user_id_str": "18784019",
+		"in_reply_to_screen_name": "albertkiko",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@albertkiko it was working about 60mins ago"
+	},
+	{
+		"created_at": "Thu Jan 28 18:55:50 +0000 2021",
+		"id": 1354490055692316700,
+		"id_str": "1354865789036326913",
+		"full_text": "Pandemic Day 25: I made bread :)\n\nDay 95: I sure do miss my friends\n\n....\n\nDay 310: The White House appears to be under the control of a shirtless man in a Viking helmet \n\nDay 330: Reddit’s coordinated attack on Wall Street is going as planned",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 246369073,
+			"id_str": "246369073",
+			"name": "Bird Facts",
+			"screen_name": "SupramanTrax",
+			"location": "Austin, Texas",
+			"description": "Boys Noize Trax|Main Course|#FEELINGS|Joanna Newsom Stan|he/him|tracks go to supramantrax@gmail.com",
+			"url": "https://t.co/ZkXrCWWTXg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZkXrCWWTXg",
+							"expanded_url": "http://www.soundcloud.com/supramantrax",
+							"display_url": "soundcloud.com/supramantrax",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2820,
+			"friends_count": 1261,
+			"listed_count": 13,
+			"created_at": "Wed Feb 02 17:26:49 +0000 2011",
+			"favourites_count": 12235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1346142602802982913/PM2My-rt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346142602802982913/PM2My-rt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/246369073/1413592595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85135,
+		"favorite_count": 410466,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Pandemic Day 25: I made bread :)\n\nDay 95: I sure do miss my friends\n\n....\n\nDay 310: The White House appears to be under the control of a shirtless man in a Viking helmet \n\nDay 330: Reddit’s coordinated attack on Wall Street is going as planned"
+	},
+	{
+		"created_at": "Thu Jan 28 18:40:45 +0000 2021",
+		"id": 1354861991836397600,
+		"id_str": "1354861991836397569",
+		"full_text": "2021 continues to be weird https://t.co/UobNtHlsbA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UobNtHlsbA",
+					"expanded_url": "https://twitter.com/jarule/status/1354812123080138759",
+					"display_url": "twitter.com/jarule/status/…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1354812123080138800,
+		"quoted_status_id_str": "1354812123080138759",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UobNtHlsbA",
+			"expanded": "https://twitter.com/jarule/status/1354812123080138759",
+			"display": "twitter.com/jarule/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 28 15:22:35 +0000 2021",
+			"id": 1354812123080138800,
+			"id_str": "1354812123080138759",
+			"full_text": "Yo this is a fucking CRIME what @RobinhoodApp is doing DO NOT SELL!!! HOLD THE LINE... WTF 🤬",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RobinhoodApp",
+						"name": "Robinhood",
+						"id": 1265037073,
+						"id_str": "1265037073",
+						"indices": [
+							32,
+							45
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26842030,
+				"id_str": "26842030",
+				"name": "Ja Rule",
+				"screen_name": "jarule",
+				"location": "Queens N.Y.",
+				"description": "Mogul... Jarule Instagram/@jarule  FOR BOOKINGS...",
+				"url": "https://t.co/GVhmqu3fhq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GVhmqu3fhq",
+								"expanded_url": "http://iconn.me/Jarule",
+								"display_url": "iconn.me/Jarule",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 239516,
+				"friends_count": 878,
+				"listed_count": 1185,
+				"created_at": "Thu Mar 26 20:29:52 +0000 2009",
+				"favourites_count": 348,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19876,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1218546689457426432/WlK1FcMU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218546689457426432/WlK1FcMU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26842030/1546146338",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19372,
+			"favorite_count": 111534,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2021 continues to be weird https://t.co/UobNtHlsbA"
+	},
+	{
 		"created_at": "Wed Jan 27 22:10:51 +0000 2021",
 		"id": 1354552475609653200,
 		"id_str": "1354552475609653258",
