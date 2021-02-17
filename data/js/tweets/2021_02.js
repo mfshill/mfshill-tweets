@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 16 10:47:12 +0000 2021",
+		"id": 1361086554588995600,
+		"id_str": "1361628188909199360",
+		"full_text": "thinking about this episode where batman's villains actually were the rigged jury for his mock trial, and how they still honestly ruled in his favor because somehow facts mattered more to literal Batman villains than to real-life Senators https://t.co/8PXLSxjAPZ https://t.co/4yXpW1aL6B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8PXLSxjAPZ",
+					"expanded_url": "https://twitter.com/damnyouwillis/status/1361053086509379584",
+					"display_url": "twitter.com/damnyouwillis/…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1361085993651220500,
+					"id_str": "1361085993651220480",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EuOMf_hXMAAQ1ql.png",
+					"media_url_https": "https://pbs.twimg.com/media/EuOMf_hXMAAQ1ql.png",
+					"url": "https://t.co/4yXpW1aL6B",
+					"display_url": "pic.twitter.com/4yXpW1aL6B",
+					"expanded_url": "https://twitter.com/damnyouwillis/status/1361086554588995585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361085993651220500,
+					"id_str": "1361085993651220480",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EuOMf_hXMAAQ1ql.png",
+					"media_url_https": "https://pbs.twimg.com/media/EuOMf_hXMAAQ1ql.png",
+					"url": "https://t.co/4yXpW1aL6B",
+					"display_url": "pic.twitter.com/4yXpW1aL6B",
+					"expanded_url": "https://twitter.com/damnyouwillis/status/1361086554588995585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14134942,
+			"id_str": "14134942",
+			"name": "David Willis Total Landscaping",
+			"screen_name": "damnyouwillis",
+			"location": "Columbus, Ohio",
+			"description": "https://t.co/pUaos6CV6P  Internet Pornlord. Thought Leader (on butts). Transformers Wiki. Taco Bell.  Acts 10:13  he/they",
+			"url": "https://t.co/sceVfeR2cP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sceVfeR2cP",
+							"expanded_url": "http://www.dumbingofage.com",
+							"display_url": "dumbingofage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pUaos6CV6P",
+							"expanded_url": "http://dumbingofage.com",
+							"display_url": "dumbingofage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19547,
+			"friends_count": 586,
+			"listed_count": 778,
+			"created_at": "Wed Mar 12 20:22:11 +0000 2008",
+			"favourites_count": 83025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 174808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253424434964131849/QHMQ9Jpw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253424434964131849/QHMQ9Jpw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14134942/1594442540",
+			"profile_link_color": "EB3850",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFBBF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1361053086509379600,
+		"quoted_status_id_str": "1361053086509379584",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8PXLSxjAPZ",
+			"expanded": "https://twitter.com/damnyouwillis/status/1361053086509379584",
+			"display": "twitter.com/damnyouwillis/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 14 20:41:57 +0000 2021",
+			"id": 1361053086509379600,
+			"id_str": "1361053086509379584",
+			"full_text": "fascinated by the selection of iteration for each villain https://t.co/lbPLB2A4SS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				57
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1361053084915556400,
+						"id_str": "1361053084915556353",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/EuNukc7XYAEqli2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuNukc7XYAEqli2.jpg",
+						"url": "https://t.co/lbPLB2A4SS",
+						"display_url": "pic.twitter.com/lbPLB2A4SS",
+						"expanded_url": "https://twitter.com/damnyouwillis/status/1361053086509379584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 640,
+								"h": 452,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 452,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 452,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1361053084915556400,
+						"id_str": "1361053084915556353",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/EuNukc7XYAEqli2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuNukc7XYAEqli2.jpg",
+						"url": "https://t.co/lbPLB2A4SS",
+						"display_url": "pic.twitter.com/lbPLB2A4SS",
+						"expanded_url": "https://twitter.com/damnyouwillis/status/1361053086509379584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 640,
+								"h": 452,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 452,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 452,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14134942,
+				"id_str": "14134942",
+				"name": "David Willis Total Landscaping",
+				"screen_name": "damnyouwillis",
+				"location": "Columbus, Ohio",
+				"description": "https://t.co/pUaos6CV6P  Internet Pornlord. Thought Leader (on butts). Transformers Wiki. Taco Bell.  Acts 10:13  he/they",
+				"url": "https://t.co/sceVfeR2cP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sceVfeR2cP",
+								"expanded_url": "http://www.dumbingofage.com",
+								"display_url": "dumbingofage.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/pUaos6CV6P",
+								"expanded_url": "http://dumbingofage.com",
+								"display_url": "dumbingofage.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 19547,
+				"friends_count": 586,
+				"listed_count": 778,
+				"created_at": "Wed Mar 12 20:22:11 +0000 2008",
+				"favourites_count": 83025,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 174808,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1253424434964131849/QHMQ9Jpw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253424434964131849/QHMQ9Jpw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14134942/1594442540",
+				"profile_link_color": "EB3850",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFBBF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 93,
+			"favorite_count": 674,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1810,
+		"favorite_count": 4782,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "thinking about this episode where batman's villains actually were the rigged jury for his mock trial, and how they still honestly ruled in his favor because somehow facts mattered more to literal Batman villains than to real-life Senators https://t.co/8PXLSxjAPZ https://t.co/4yXpW1aL6B"
+	},
+	{
 		"created_at": "Mon Feb 15 22:26:59 +0000 2021",
 		"id": 1361441906044121000,
 		"id_str": "1361441906044121094",
