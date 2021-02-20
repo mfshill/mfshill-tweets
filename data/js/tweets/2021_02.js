@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 19 20:18:06 +0000 2021",
+		"id": 1359488600170258400,
+		"id_str": "1362859024660783107",
+		"full_text": "Trying to reject cookies. https://t.co/r082bvPu79",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359487988049322000,
+					"id_str": "1359487988049321987",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359487988049321987/pu/img/H_D7BSWcL8oTud88.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359487988049321987/pu/img/H_D7BSWcL8oTud88.jpg",
+					"url": "https://t.co/r082bvPu79",
+					"display_url": "pic.twitter.com/r082bvPu79",
+					"expanded_url": "https://twitter.com/SeanBurkeShow/status/1359488600170258432/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359487988049322000,
+					"id_str": "1359487988049321987",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359487988049321987/pu/img/H_D7BSWcL8oTud88.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359487988049321987/pu/img/H_D7BSWcL8oTud88.jpg",
+					"url": "https://t.co/r082bvPu79",
+					"display_url": "pic.twitter.com/r082bvPu79",
+					"expanded_url": "https://twitter.com/SeanBurkeShow/status/1359488600170258432/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 66333,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359487988049321987/pu/vid/320x400/7ij4E6faHuI2bsYn.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359487988049321987/pu/vid/360x450/X9iPsaYXb20o1Yt3.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359487988049321987/pu/vid/720x900/0k_Nv57ZJSNFa67n.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1359487988049321987/pu/pl/O_Pt5M3O_z8fCTTp.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 248904891,
+			"id_str": "248904891",
+			"name": "Seán Burke",
+			"screen_name": "SeanBurkeShow",
+			"location": "London",
+			"description": "Comedian. Actor. Voice Over. List maker. \"Very funny guy\" - Dwayne 'The Rock' Johnson. Agent: jadeen@johnnoel.com Brand Enquiries: hello@collabagency.com",
+			"url": "https://t.co/WySzLzwEhN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WySzLzwEhN",
+							"expanded_url": "https://www.instagram.com/seanburkeshow",
+							"display_url": "instagram.com/seanburkeshow",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37396,
+			"friends_count": 888,
+			"listed_count": 94,
+			"created_at": "Mon Feb 07 23:42:24 +0000 2011",
+			"favourites_count": 12158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213064708795830274/0kpLHM7Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213064708795830274/0kpLHM7Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/248904891/1586787927",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2152,
+		"favorite_count": 8259,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trying to reject cookies. https://t.co/r082bvPu79"
+	},
+	{
+		"created_at": "Fri Feb 19 20:13:06 +0000 2021",
+		"id": 1362711400041353200,
+		"id_str": "1362857766713503748",
+		"full_text": "Every episode of Popular Space Show™ https://t.co/KlwA6vGwSV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1362710548392083500,
+					"id_str": "1362710548392083459",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1362710548392083459/pu/img/LFJipQ0GfOm3cciQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1362710548392083459/pu/img/LFJipQ0GfOm3cciQ.jpg",
+					"url": "https://t.co/KlwA6vGwSV",
+					"display_url": "pic.twitter.com/KlwA6vGwSV",
+					"expanded_url": "https://twitter.com/MisterABK/status/1362711400041353219/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362710548392083500,
+					"id_str": "1362710548392083459",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1362710548392083459/pu/img/LFJipQ0GfOm3cciQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1362710548392083459/pu/img/LFJipQ0GfOm3cciQ.jpg",
+					"url": "https://t.co/KlwA6vGwSV",
+					"display_url": "pic.twitter.com/KlwA6vGwSV",
+					"expanded_url": "https://twitter.com/MisterABK/status/1362711400041353219/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 64680,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1362710548392083459/pu/pl/Q5jkFtwqB_CNySpT.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1362710548392083459/pu/vid/480x270/jsLqqRyjsu4L2rf6.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1362710548392083459/pu/vid/1280x720/NHReeRwODxR2k42z.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1362710548392083459/pu/vid/640x360/ueCdgdgv59KHFWnn.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2860266381,
+			"id_str": "2860266381",
+			"name": "Alasdair Beckett-King",
+			"screen_name": "MisterABK",
+			"location": "",
+			"description": "Comedian / District Attorney\n@loremenpod\nhttps://t.co/nhaz228eiF \nhttps://t.co/xGBIUfvQdX\n(Pronouns like a butler coughing: \"he him\")",
+			"url": "https://t.co/ze1SzPHCcB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ze1SzPHCcB",
+							"expanded_url": "http://www.abeckettking.com",
+							"display_url": "abeckettking.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nhaz228eiF",
+							"expanded_url": "http://ko-fi.com/misterabk",
+							"display_url": "ko-fi.com/misterabk",
+							"indices": [
+								41,
+								64
+							]
+						},
+						{
+							"url": "https://t.co/xGBIUfvQdX",
+							"expanded_url": "http://www.youtube.com/c/ABeckettKing",
+							"display_url": "youtube.com/c/ABeckettKing",
+							"indices": [
+								66,
+								89
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38370,
+			"friends_count": 2160,
+			"listed_count": 128,
+			"created_at": "Tue Nov 04 10:20:39 +0000 2014",
+			"favourites_count": 24671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "090C0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309441922822483974/De64apgi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309441922822483974/De64apgi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2860266381/1572014341",
+			"profile_link_color": "F5912F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7943,
+		"favorite_count": 30906,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Every episode of Popular Space Show™ https://t.co/KlwA6vGwSV"
+	},
+	{
 		"created_at": "Thu Feb 18 21:17:46 +0000 2021",
 		"id": 1362511652957147100,
 		"id_str": "1362511652957147138",
