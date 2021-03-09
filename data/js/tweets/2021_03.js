@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Mon Mar 08 19:27:45 +0000 2021",
+		"id": 1368956539902566400,
+		"id_str": "1369006947932966914",
+		"full_text": "that time piers morgan had on someone he thought would be an easy target to berate live on air but instead hilariously got his ass handed to him and was exposed for the fragile man-child he is. \"you look like honey-glazed gammon\" lmao https://t.co/uJtBzTXacy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1368956377855627300,
+					"id_str": "1368956377855627269",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1368956377855627269/pu/img/hTskT7B2GITyPEyA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1368956377855627269/pu/img/hTskT7B2GITyPEyA.jpg",
+					"url": "https://t.co/uJtBzTXacy",
+					"display_url": "pic.twitter.com/uJtBzTXacy",
+					"expanded_url": "https://twitter.com/zei_squirrel/status/1368956539902566409/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1368956377855627300,
+					"id_str": "1368956377855627269",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1368956377855627269/pu/img/hTskT7B2GITyPEyA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1368956377855627269/pu/img/hTskT7B2GITyPEyA.jpg",
+					"url": "https://t.co/uJtBzTXacy",
+					"display_url": "pic.twitter.com/uJtBzTXacy",
+					"expanded_url": "https://twitter.com/zei_squirrel/status/1368956539902566409/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 92767,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1368956377855627269/pu/vid/640x360/aWU7i8Q6Qzn0vejy.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1368956377855627269/pu/vid/480x270/3DxWF3dszvE4wltv.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1368956377855627269/pu/vid/1280x720/aWRPaYMmShCN2rLW.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1368956377855627269/pu/pl/gOTzlB19VtEVXyDx.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2786053933,
+			"id_str": "2786053933",
+			"name": "☀️👀",
+			"screen_name": "zei_squirrel",
+			"location": "",
+			"description": "Injustice anywhere is a threat to justice everywhere | https://t.co/ldEI3MUnnH | zei.squirrel@gmail.com",
+			"url": "https://t.co/laOdZZhzQ4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/laOdZZhzQ4",
+							"expanded_url": "https://www.instagram.com/zei_squirrel",
+							"display_url": "instagram.com/zei_squirrel",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ldEI3MUnnH",
+							"expanded_url": "http://youtube.com/ZeiSquirrel",
+							"display_url": "youtube.com/ZeiSquirrel",
+							"indices": [
+								55,
+								78
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 73898,
+			"friends_count": 0,
+			"listed_count": 398,
+			"created_at": "Tue Sep 02 13:46:47 +0000 2014",
+			"favourites_count": 118626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/951980805542350848/Xx1LczLK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/951980805542350848/Xx1LczLK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2786053933/1522626292",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7067,
+		"favorite_count": 38641,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "that time piers morgan had on someone he thought would be an easy target to berate live on air but instead hilariously got his ass handed to him and was exposed for the fragile man-child he is. \"you look like honey-glazed gammon\" lmao https://t.co/uJtBzTXacy"
+	},
+	{
+		"created_at": "Mon Mar 08 18:33:00 +0000 2021",
+		"id": 1368992946771660800,
+		"id_str": "1368993166490275843",
+		"full_text": "If your channel or newspaper is running various mental health campaigns and you are hiring journalists that say that suicidal thoughts are attention seeking then your campaigns are worthless",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108140114,
+			"id_str": "108140114",
+			"name": "TechnicallyRon",
+			"screen_name": "TechnicallyRon",
+			"location": "",
+			"description": "Writer etc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 178184,
+			"friends_count": 1009,
+			"listed_count": 1242,
+			"created_at": "Mon Jan 25 00:18:06 +0000 2010",
+			"favourites_count": 16240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 44243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197053190732230656/s78J8STZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197053190732230656/s78J8STZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108140114/1603722556",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 359,
+		"favorite_count": 1708,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If your channel or newspaper is running various mental health campaigns and you are hiring journalists that say that suicidal thoughts are attention seeking then your campaigns are worthless"
+	},
+	{
 		"created_at": "Sun Mar 07 22:32:05 +0000 2021",
 		"id": 1368690946750156800,
 		"id_str": "1368690946750156800",
