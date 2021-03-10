@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Tue Mar 09 18:56:58 +0000 2021",
+		"id": 1369131348494061600,
+		"id_str": "1369361588185149440",
+		"full_text": "Gold. Just gold. https://t.co/AOynBPDX4a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1368963076385554400,
+					"id_str": "1368963076385554442",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1368963076385554442/pu/img/XJN5D6RuQc5MNNyA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1368963076385554442/pu/img/XJN5D6RuQc5MNNyA.jpg",
+					"url": "https://t.co/AOynBPDX4a",
+					"display_url": "pic.twitter.com/AOynBPDX4a",
+					"expanded_url": "https://twitter.com/O_Dolly/status/1368963124422991875/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 886,
+							"h": 486,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 886,
+							"h": 486,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1368963124422992000,
+					"source_status_id_str": "1368963124422991875",
+					"source_user_id": 26324373,
+					"source_user_id_str": "26324373"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1368963076385554400,
+					"id_str": "1368963076385554442",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1368963076385554442/pu/img/XJN5D6RuQc5MNNyA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1368963076385554442/pu/img/XJN5D6RuQc5MNNyA.jpg",
+					"url": "https://t.co/AOynBPDX4a",
+					"display_url": "pic.twitter.com/AOynBPDX4a",
+					"expanded_url": "https://twitter.com/O_Dolly/status/1368963124422991875/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 886,
+							"h": 486,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 886,
+							"h": 486,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1368963124422992000,
+					"source_status_id_str": "1368963124422991875",
+					"source_user_id": 26324373,
+					"source_user_id_str": "26324373",
+					"video_info": {
+						"aspect_ratio": [
+							443,
+							243
+						],
+						"duration_millis": 26273,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1368963076385554442/pu/vid/492x270/jfd2E12SD0siTHbm.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1368963076385554442/pu/vid/656x360/tOYzWmnQsptdzRSH.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1368963076385554442/pu/pl/WpKsZxR6tfOFib8S.m3u8?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1368963076385554442/pu/vid/886x486/_loPR1s9_sJYdD0E.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 26324373,
+							"id_str": "26324373",
+							"name": "Michael Keaton",
+							"screen_name": "O_Dolly",
+							"location": "in a field of daisies, Bronx",
+							"description": "I have been known to laugh when old people fall, I am evil. I have a secret lair in my apartment where I build useless weapons and perform social experiments.",
+							"url": "https://t.co/RT3VQ0qJoo",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/RT3VQ0qJoo",
+											"expanded_url": "https://www.instagram.com/o_dolly/",
+											"display_url": "instagram.com/o_dolly/",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 5105,
+							"friends_count": 613,
+							"listed_count": 50,
+							"created_at": "Tue Mar 24 21:07:08 +0000 2009",
+							"favourites_count": 20719,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 190391,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1364783864296714244/pFmEIzym_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364783864296714244/pFmEIzym_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/26324373/1605671168",
+							"profile_link_color": "009999",
+							"profile_sidebar_border_color": "178A0C",
+							"profile_sidebar_fill_color": "F0E91A",
+							"profile_text_color": "437305",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14235543,
+			"id_str": "14235543",
+			"name": "Leslie Mac",
+			"screen_name": "LeslieMac",
+			"location": "The Frontline",
+			"description": "she/her/hers Digital Strategist • Comms Dir @WeJoinFrontline Hire/Book: https://t.co/t5RwcMLPIK",
+			"url": "https://t.co/CePP2Sc1yn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CePP2Sc1yn",
+							"expanded_url": "https://www.flow.page/lesliemac",
+							"display_url": "flow.page/lesliemac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t5RwcMLPIK",
+							"expanded_url": "http://lesliemac.com/contact",
+							"display_url": "lesliemac.com/contact",
+							"indices": [
+								72,
+								95
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 62804,
+			"friends_count": 2544,
+			"listed_count": 635,
+			"created_at": "Thu Mar 27 14:30:43 +0000 2008",
+			"favourites_count": 70906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 155063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1351738681674129411/QkP13Xgf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351738681674129411/QkP13Xgf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14235543/1601785738",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9072,
+		"favorite_count": 65961,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gold. Just gold. https://t.co/AOynBPDX4a"
+	},
+	{
 		"created_at": "Mon Mar 08 19:27:45 +0000 2021",
 		"id": 1368956539902566400,
 		"id_str": "1369006947932966914",
