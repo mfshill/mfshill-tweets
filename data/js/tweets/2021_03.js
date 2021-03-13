@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Fri Mar 12 12:22:34 +0000 2021",
+		"id": 1368675005349965800,
+		"id_str": "1370349495762976768",
+		"full_text": "Heard from a very reliable source that all UK clubs will be enforcing a 70% piano house rule for the first month of reopening, and all DJs who don’t adhere get kicked off the decks and drink token confiscated",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3229327762,
+			"id_str": "3229327762",
+			"name": "genevieve",
+			"screen_name": "genofeves",
+			"location": "Northern Ireland, United Kingdom",
+			"description": "👨🏻‍🌾🍄 publicist @tt_mgmt | mental health first aider | chips lover | acab | genevieve@triplethreatmgmt.com",
+			"url": "https://t.co/oF91am4pWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oF91am4pWX",
+							"expanded_url": "https://docs.google.com/document/d/1WzyCDhTb48aF0LGMWknQ6AfVl-CJclF5UMN8ZVQ-LLQ/edit",
+							"display_url": "docs.google.com/document/d/1Wz…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1530,
+			"friends_count": 3315,
+			"listed_count": 4,
+			"created_at": "Sat May 02 22:49:25 +0000 2015",
+			"favourites_count": 50639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/844594966701588481/yFFzoGPC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/844594966701588481/yFFzoGPC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3229327762/1585739648",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 1349,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Heard from a very reliable source that all UK clubs will be enforcing a 70% piano house rule for the first month of reopening, and all DJs who don’t adhere get kicked off the decks and drink token confiscated"
+	},
+	{
 		"created_at": "Fri Mar 12 00:11:20 +0000 2021",
 		"id": 1370159925851263000,
 		"id_str": "1370165476580540420",
