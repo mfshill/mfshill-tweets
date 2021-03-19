@@ -1,6 +1,814 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Thu Mar 18 20:36:22 +0000 2021",
+		"id": 1372647271498723300,
+		"id_str": "1372648090524651524",
+		"full_text": "@charles_watts https://t.co/kQSylmbYi1",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "charles_watts",
+					"name": "Charles Watts",
+					"id": 305734622,
+					"id_str": "305734622",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1372647225474609200,
+					"id_str": "1372647225474609152",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1372647225474609152/pu/img/xVikVVLny4r1otG-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1372647225474609152/pu/img/xVikVVLny4r1otG-.jpg",
+					"url": "https://t.co/kQSylmbYi1",
+					"display_url": "pic.twitter.com/kQSylmbYi1",
+					"expanded_url": "https://twitter.com/Samyboyswaggg10/status/1372647271498723328/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 846,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 846,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 666,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1372647225474609200,
+					"id_str": "1372647225474609152",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1372647225474609152/pu/img/xVikVVLny4r1otG-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1372647225474609152/pu/img/xVikVVLny4r1otG-.jpg",
+					"url": "https://t.co/kQSylmbYi1",
+					"display_url": "pic.twitter.com/kQSylmbYi1",
+					"expanded_url": "https://twitter.com/Samyboyswaggg10/status/1372647271498723328/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 846,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 846,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 666,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							46,
+							47
+						],
+						"duration_millis": 16952,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1372647225474609152/pu/vid/720x734/r0RgTxU5JZj-bTCV.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1372647225474609152/pu/vid/480x490/gH_cNwsCcnEyWU1L.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1372647225474609152/pu/vid/320x326/eYjiUYixTT7qNAo-.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1372647225474609152/pu/pl/7Gi7IGcs6A0riXhg.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1372646611587829800,
+		"in_reply_to_status_id_str": "1372646611587829764",
+		"in_reply_to_user_id": 305734622,
+		"in_reply_to_user_id_str": "305734622",
+		"in_reply_to_screen_name": "charles_watts",
+		"user": {
+			"id": 504905328,
+			"id_str": "504905328",
+			"name": "S a m s o n",
+			"screen_name": "Samyboyswaggg10",
+			"location": "United Kingdom",
+			"description": "Don't Quit ... Suffer now and live the rest of your life as a champion Muhammad Ali ... God Is Love ... Snapchat : Samyboyswaggg10",
+			"url": "https://t.co/GbbM7nuLxN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GbbM7nuLxN",
+							"expanded_url": "https://www.instagram.com/sam_freshoutthegym",
+							"display_url": "instagram.com/sam_freshoutth…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 600,
+			"listed_count": 2,
+			"created_at": "Sun Feb 26 19:45:44 +0000 2012",
+			"favourites_count": 8911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1328375813805387776/55bteHjE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1328375813805387776/55bteHjE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/504905328/1590787877",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3ba55ee536210b59",
+			"url": "https://api.twitter.com/1.1/geo/id/3ba55ee536210b59.json",
+			"place_type": "city",
+			"name": "Seaforth",
+			"full_name": "Seaforth, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-3.058666,
+							53.438332
+						],
+						[
+							-2.950246,
+							53.438332
+						],
+						[
+							-2.950246,
+							53.501369
+						],
+						[
+							-3.058666,
+							53.501369
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 391,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@charles_watts https://t.co/kQSylmbYi1"
+	},
+	{
+		"created_at": "Thu Mar 18 20:26:38 +0000 2021",
+		"id": 1372645642846240800,
+		"id_str": "1372645642846240770",
+		"full_text": "'tepid tottenham'",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "'tepid tottenham'"
+	},
+	{
+		"created_at": "Thu Mar 18 20:26:18 +0000 2021",
+		"id": 1372645560025546800,
+		"id_str": "1372645560025546757",
+		"full_text": "not laughing #spursy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "spursy",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "not laughing #spursy"
+	},
+	{
+		"created_at": "Thu Mar 18 19:17:40 +0000 2021",
+		"id": 1372628286908604400,
+		"id_str": "1372628286908604430",
+		"full_text": "@Callum_McMullen @PainInThArsenal agreed. looked like it was straight at him",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Callum_McMullen",
+					"name": "Callum #COYG",
+					"id": 2871478710,
+					"id_str": "2871478710",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "PainInThArsenal",
+					"name": "Pain In The Arsenal",
+					"id": 2535460231,
+					"id_str": "2535460231",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1372627881935970300,
+		"in_reply_to_status_id_str": "1372627881935970308",
+		"in_reply_to_user_id": 2871478710,
+		"in_reply_to_user_id_str": "2871478710",
+		"in_reply_to_screen_name": "Callum_McMullen",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Callum_McMullen @PainInThArsenal agreed. looked like it was straight at him"
+	},
+	{
+		"created_at": "Thu Mar 18 19:06:06 +0000 2021",
+		"id": 1372625172520444000,
+		"id_str": "1372625374341906437",
+		"full_text": "Luiz gave him half of the Emirates there",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2535460231,
+			"id_str": "2535460231",
+			"name": "Pain In The Arsenal",
+			"screen_name": "PainInThArsenal",
+			"location": "N5",
+			"description": "Arsenal News & Opinions | @FanSided. Podcast: https://t.co/K00gWOiQkA",
+			"url": "https://t.co/SUKpmHicRI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUKpmHicRI",
+							"expanded_url": "https://paininthearsenal.com",
+							"display_url": "paininthearsenal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K00gWOiQkA",
+							"expanded_url": "https://itunes.apple.com/gb/podcast/pain-in-the-arsenal-podcast/id1314514440?mt=2",
+							"display_url": "itunes.apple.com/gb/podcast/pai…",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19627,
+			"friends_count": 322,
+			"listed_count": 204,
+			"created_at": "Fri May 30 16:40:27 +0000 2014",
+			"favourites_count": 506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/996117649363959808/IP-K-7Pk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/996117649363959808/IP-K-7Pk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2535460231/1596309952",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Luiz gave him half of the Emirates there"
+	},
+	{
+		"created_at": "Thu Mar 18 19:05:57 +0000 2021",
+		"id": 1372625339940270000,
+		"id_str": "1372625339940270083",
+		"full_text": "horrendous defending.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1372625209187041300,
+		"in_reply_to_status_id_str": "1372625209187041285",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "es",
+		"text": "horrendous defending."
+	},
+	{
+		"created_at": "Thu Mar 18 19:05:26 +0000 2021",
+		"id": 1372625209187041300,
+		"id_str": "1372625209187041285",
+		"full_text": "so predicable. 0-1 #ARSOLY #UEL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ARSOLY",
+					"indices": [
+						19,
+						26
+					]
+				},
+				{
+					"text": "UEL",
+					"indices": [
+						27,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "es",
+		"text": "so predicable. 0-1 #ARSOLY #UEL"
+	},
+	{
 		"created_at": "Wed Mar 17 19:29:50 +0000 2021",
 		"id": 1372218678108958700,
 		"id_str": "1372268960062771216",
