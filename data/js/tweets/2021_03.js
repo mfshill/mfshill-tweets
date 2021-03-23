@@ -1,6 +1,618 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Mon Mar 22 21:14:33 +0000 2021",
+		"id": 1374100113111576600,
+		"id_str": "1374107253725356033",
+		"full_text": "Biggest downside to a new phone..teaching it that at no point do I ever mean \"ducking\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 92260590,
+			"id_str": "92260590",
+			"name": "James",
+			"screen_name": "mrfazj",
+			"location": "",
+			"description": "Ambulance driver, sleep deprived Dad and all round sarcastic fool.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 690,
+			"listed_count": 4,
+			"created_at": "Tue Nov 24 12:26:54 +0000 2009",
+			"favourites_count": 189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413092133/Rhodes_Balcony_James_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413092133/Rhodes_Balcony_James_normal.jpg",
+			"profile_link_color": "000680",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "969C9C",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Biggest downside to a new phone..teaching it that at no point do I ever mean \"ducking\""
+	},
+	{
+		"created_at": "Mon Mar 22 21:12:59 +0000 2021",
+		"id": 1374106857934106600,
+		"id_str": "1374106857934106625",
+		"full_text": "https://t.co/AV40oY4HME",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1374106812874690600,
+					"id_str": "1374106812874690560",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ExHO3bDXEAAc_c5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExHO3bDXEAAc_c5.jpg",
+					"url": "https://t.co/AV40oY4HME",
+					"display_url": "pic.twitter.com/AV40oY4HME",
+					"expanded_url": "https://twitter.com/mfshill/status/1374106857934106625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374106812874690600,
+					"id_str": "1374106812874690560",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ExHO3bDXEAAc_c5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExHO3bDXEAAc_c5.jpg",
+					"url": "https://t.co/AV40oY4HME",
+					"display_url": "pic.twitter.com/AV40oY4HME",
+					"expanded_url": "https://twitter.com/mfshill/status/1374106857934106625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/AV40oY4HME"
+	},
+	{
+		"created_at": "Mon Mar 22 20:26:18 +0000 2021",
+		"id": 1297191195584663600,
+		"id_str": "1374095110992957447",
+		"full_text": "Unpopular opinion: I don’t think your life has to have a purpose, or you a grand ambition; I think it’s okay to just wander through life finding interesting things until you die",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16000792,
+			"id_str": "16000792",
+			"name": "Amber Sparks",
+			"screen_name": "ambernoelle",
+			"location": "",
+			"description": "Your garbage mom; wrote AND I DO NOT FORGIVE YOU; @ParisReview, @NYMag; rep’d by @KentDWolf; she/her, #BlackLivesMatter; #1u. I just want you to be happy, honey",
+			"url": "https://t.co/DnTDXZbi2i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DnTDXZbi2i",
+							"expanded_url": "https://www.indiebound.org/book/9781631496202",
+							"display_url": "indiebound.org/book/978163149…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30414,
+			"friends_count": 2390,
+			"listed_count": 243,
+			"created_at": "Tue Aug 26 18:46:38 +0000 2008",
+			"favourites_count": 201170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305518245517160448/oPSPd--q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305518245517160448/oPSPd--q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16000792/1605150898",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67169,
+		"favorite_count": 362626,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Unpopular opinion: I don’t think your life has to have a purpose, or you a grand ambition; I think it’s okay to just wander through life finding interesting things until you die"
+	},
+	{
+		"created_at": "Mon Mar 22 12:57:39 +0000 2021",
+		"id": 1373965206213292000,
+		"id_str": "1373982206058766339",
+		"full_text": "lemme get a pic for the gram\n\nhttps://t.co/DX32HYzNE7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1373963024281796600,
+					"id_str": "1373963024281796611",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1373963024281796611/pu/img/n-OvCR6P1yyzN-pT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1373963024281796611/pu/img/n-OvCR6P1yyzN-pT.jpg",
+					"url": "https://t.co/DX32HYzNE7",
+					"display_url": "pic.twitter.com/DX32HYzNE7",
+					"expanded_url": "https://twitter.com/ScarcityStudios/status/1373963048227065857/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1373963048227065900,
+					"source_status_id_str": "1373963048227065857",
+					"source_user_id": 3094184785,
+					"source_user_id_str": "3094184785"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1373963024281796600,
+					"id_str": "1373963024281796611",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1373963024281796611/pu/img/n-OvCR6P1yyzN-pT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1373963024281796611/pu/img/n-OvCR6P1yyzN-pT.jpg",
+					"url": "https://t.co/DX32HYzNE7",
+					"display_url": "pic.twitter.com/DX32HYzNE7",
+					"expanded_url": "https://twitter.com/ScarcityStudios/status/1373963048227065857/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1373963048227065900,
+					"source_status_id_str": "1373963048227065857",
+					"source_user_id": 3094184785,
+					"source_user_id_str": "3094184785",
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 6100,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1373963024281796611/pu/vid/478x270/TStZGEX3yw5GxGou.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1373963024281796611/pu/pl/ay2o3QC10rpJrsSk.m3u8?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1373963024281796611/pu/vid/720x406/FHiJlAVM_JLrRF9d.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3094184785,
+							"id_str": "3094184785",
+							"name": "Music/StreetNews",
+							"screen_name": "ScarcityStudios",
+							"location": "England",
+							"description": "https://t.co/tnRPK6SUJM https://t.co/EZlj9mZb1x Music News/ StreetNews donate with bitcoin 12Lw7NvwAP7ZXWUVdKJqUNFWPuUbAqQ3dk",
+							"url": "https://t.co/zuExXHCNfq",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/zuExXHCNfq",
+											"expanded_url": "http://www.youtube.com/c/scarcitystudios",
+											"display_url": "youtube.com/c/scarcitystud…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/tnRPK6SUJM",
+											"expanded_url": "http://youtube.com/scarcitystudiosb",
+											"display_url": "youtube.com/scarcitystudio…",
+											"indices": [
+												0,
+												23
+											]
+										},
+										{
+											"url": "https://t.co/EZlj9mZb1x",
+											"expanded_url": "https://Instagram.com/scarcitystudios",
+											"display_url": "Instagram.com/scarcitystudios",
+											"indices": [
+												24,
+												47
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 12618,
+							"friends_count": 281,
+							"listed_count": 17,
+							"created_at": "Tue Mar 17 15:46:19 +0000 2015",
+							"favourites_count": 12808,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 4883,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1249431845739077632/HensixV9_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249431845739077632/HensixV9_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3094184785/1598448664",
+							"profile_link_color": "1B95E0",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19991214,
+			"id_str": "19991214",
+			"name": "TC Cornesto",
+			"screen_name": "TC_Cornesto",
+			"location": "",
+			"description": "Taciturn Bastard - Doomstruck Gimp - Fresh Idiot (kinkï)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1491,
+			"friends_count": 1711,
+			"listed_count": 51,
+			"created_at": "Tue Feb 03 18:28:43 +0000 2009",
+			"favourites_count": 57934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 122652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323193346890891266/1iUIvuUi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323193346890891266/1iUIvuUi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19991214/1604308821",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "lemme get a pic for the gram\n\nhttps://t.co/DX32HYzNE7"
+	},
+	{
 		"created_at": "Sun Mar 21 16:41:31 +0000 2021",
 		"id": 1373676155757338600,
 		"id_str": "1373676155757338628",
