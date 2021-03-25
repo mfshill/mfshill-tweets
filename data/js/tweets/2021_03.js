@@ -1,6 +1,885 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 24 23:14:46 +0000 2021",
+		"id": 1374862280786075600,
+		"id_str": "1374862280786075655",
+		"full_text": "ok, this documentary gets much much better. the narrator continues to be annoying but the info put forward is enlightening. 6/10.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1374844555577659400,
+		"in_reply_to_status_id_str": "1374844555577659392",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "ok, this documentary gets much much better. the narrator continues to be annoying but the info put forward is enlightening. 6/10."
+	},
+	{
+		"created_at": "Wed Mar 24 22:04:20 +0000 2021",
+		"id": 1374844555577659400,
+		"id_str": "1374844555577659392",
+		"full_text": "15mins into 'Seaspiracy' and the terrible narration is such a distraction, the dumb stunts are incredibly unprofessional. shame as this is an important subject that should be covered properly. https://t.co/MgAzB2TyZ8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MgAzB2TyZ8",
+					"expanded_url": "https://www.netflix.com/title/81014008",
+					"display_url": "netflix.com/title/81014008",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "15mins into 'Seaspiracy' and the terrible narration is such a distraction, the dumb stunts are incredibly unprofessional. shame as this is an important subject that should be covered properly. https://t.co/MgAzB2TyZ8"
+	},
+	{
+		"created_at": "Wed Mar 24 19:34:48 +0000 2021",
+		"id": 1374806927591489500,
+		"id_str": "1374806927591489536",
+		"full_text": "@TalontedLex seems odd they're not confident in their own product...",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TalontedLex",
+					"name": "Lex 💅🏻",
+					"id": 17819613,
+					"id_str": "17819613",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1374802748114407400,
+		"in_reply_to_status_id_str": "1374802748114407424",
+		"in_reply_to_user_id": 17819613,
+		"in_reply_to_user_id_str": "17819613",
+		"in_reply_to_screen_name": "TalontedLex",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TalontedLex seems odd they're not confident in their own product..."
+	},
+	{
+		"created_at": "Wed Mar 24 18:46:42 +0000 2021",
+		"id": 1374794822255530000,
+		"id_str": "1374794822255529984",
+		"full_text": "Carl is an absolute legend, managed to seem him live numerous times and each time his sets were epic. https://t.co/N0AiCs0JOu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N0AiCs0JOu",
+					"expanded_url": "https://twitter.com/Mixmag/status/1374771485366226947",
+					"display_url": "twitter.com/Mixmag/status/…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1374771485366227000,
+		"quoted_status_id_str": "1374771485366226947",
+		"quoted_status_permalink": {
+			"url": "https://t.co/N0AiCs0JOu",
+			"expanded": "https://twitter.com/Mixmag/status/1374771485366226947",
+			"display": "twitter.com/Mixmag/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 24 17:13:58 +0000 2021",
+			"id": 1374771485366227000,
+			"id_str": "1374771485366226947",
+			"full_text": "The book is described as “a remarkably candid and intimate portrait of an artist who has never lost touch with the people who share the dancefloor with him”\n\nhttps://t.co/HLpu7HAsPZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HLpu7HAsPZ",
+						"expanded_url": "https://www.mixmag.net/read/carl-cox-oh-yes-oh-yes-book-cover-news",
+						"display_url": "mixmag.net/read/carl-cox-…",
+						"indices": [
+							158,
+							181
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18672145,
+				"id_str": "18672145",
+				"name": "Mixmag",
+				"screen_name": "Mixmag",
+				"location": "Worldwide",
+				"description": "Dance music + club culture 🙏\nDance music news to your DMs 👉  https://t.co/y6CS3CViQV",
+				"url": "https://t.co/xS4dkYYFDJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xS4dkYYFDJ",
+								"expanded_url": "http://www.mixmag.net",
+								"display_url": "mixmag.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/y6CS3CViQV",
+								"expanded_url": "http://m.me/MixmagMagazine",
+								"display_url": "m.me/MixmagMagazine",
+								"indices": [
+									61,
+									84
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 324774,
+				"friends_count": 1393,
+				"listed_count": 3377,
+				"created_at": "Tue Jan 06 12:30:05 +0000 2009",
+				"favourites_count": 4265,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 76519,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1374026910443958279/zGZO1mMk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374026910443958279/zGZO1mMk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18672145/1593591839",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Carl is an absolute legend, managed to seem him live numerous times and each time his sets were epic. https://t.co/N0AiCs0JOu"
+	},
+	{
+		"created_at": "Wed Mar 24 18:38:57 +0000 2021",
+		"id": 1374688225516748800,
+		"id_str": "1374792872160067585",
+		"full_text": "Today’s Comic: We are all, in our own little way, that ship. https://t.co/GVDjLxzErX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1374688218025762800,
+					"id_str": "1374688218025762817",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/ExPfpqBXIAECMa2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExPfpqBXIAECMa2.jpg",
+					"url": "https://t.co/GVDjLxzErX",
+					"display_url": "pic.twitter.com/GVDjLxzErX",
+					"expanded_url": "https://twitter.com/chazhutton/status/1374688225516748801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374688218025762800,
+					"id_str": "1374688218025762817",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/ExPfpqBXIAECMa2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExPfpqBXIAECMa2.jpg",
+					"url": "https://t.co/GVDjLxzErX",
+					"display_url": "pic.twitter.com/GVDjLxzErX",
+					"expanded_url": "https://twitter.com/chazhutton/status/1374688225516748801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43644872,
+			"id_str": "43644872",
+			"name": "Chaz Hutton",
+			"screen_name": "chazhutton",
+			"location": "Berlin, Germany",
+			"description": "Professional Idiot. The guy who draws https://t.co/5PaQQN0uUF You can also buy stuff here: https://t.co/PK7fas3C03",
+			"url": "https://t.co/WNYOtHb959",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WNYOtHb959",
+							"expanded_url": "http://patreon.com/ChazHutton",
+							"display_url": "patreon.com/ChazHutton",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5PaQQN0uUF",
+							"expanded_url": "http://Instagram.com/instachaaz/",
+							"display_url": "Instagram.com/instachaaz/",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/PK7fas3C03",
+							"expanded_url": "https://instachaaz.threadless.com/",
+							"display_url": "instachaaz.threadless.com",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19250,
+			"friends_count": 2779,
+			"listed_count": 205,
+			"created_at": "Sun May 31 05:00:59 +0000 2009",
+			"favourites_count": 16655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/784018366960984064/Hl3aIJA3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/784018366960984064/Hl3aIJA3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43644872/1472635324",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5825,
+		"favorite_count": 19666,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today’s Comic: We are all, in our own little way, that ship. https://t.co/GVDjLxzErX"
+	},
+	{
+		"created_at": "Wed Mar 24 18:38:42 +0000 2021",
+		"id": 1374792808494727200,
+		"id_str": "1374792808494727170",
+		"full_text": "This manages to sound like both a good and bad idea simultaneously. I second Norton for the voice over \nà la Eurovision... \nhttps://t.co/3Cp42vV6X2 https://t.co/mjUornKAYe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3Cp42vV6X2",
+					"expanded_url": "https://www.theguardian.com/culture/2021/mar/24/festival-of-brexit-first-events-for-divisive-120m-project-announced",
+					"display_url": "theguardian.com/culture/2021/m…",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/mjUornKAYe",
+					"expanded_url": "https://twitter.com/christopherward/status/1374782306175565824",
+					"display_url": "twitter.com/christopherwar…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343985344266592262/egU9-x71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1374782306175565800,
+		"quoted_status_id_str": "1374782306175565824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mjUornKAYe",
+			"expanded": "https://twitter.com/christopherward/status/1374782306175565824",
+			"display": "twitter.com/christopherwar…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 24 17:56:58 +0000 2021",
+			"id": 1374782306175565800,
+			"id_str": "1374782306175565824",
+			"full_text": "I really really really hope they televise the Brexit festival. With Graham Norton narrating. Please make this happen.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17616581,
+				"id_str": "17616581",
+				"name": "Chris Ward is finally diagnosed w/ ADHD 🏳️‍🌈🇪🇺",
+				"screen_name": "christopherward",
+				"location": "Schöneberg, Berlin",
+				"description": "Berliner. Very Mentally Ill™.  Gay for Europe and Gillian Anderson. Android Dev. MSc AI. Kampagnen @sozialliberale. 👬 @joshuagladwin. He/Him. #BLM #TLM",
+				"url": "https://t.co/A7NMdURvlC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/A7NMdURvlC",
+								"expanded_url": "http://www.chrisward.de",
+								"display_url": "chrisward.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6377,
+				"friends_count": 5024,
+				"listed_count": 102,
+				"created_at": "Tue Nov 25 10:11:43 +0000 2008",
+				"favourites_count": 24497,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 43362,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1370098940264206337/6SXuWfrc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1370098940264206337/6SXuWfrc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17616581/1501664759",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This manages to sound like both a good and bad idea simultaneously. I second Norton for the voice over \nà la Eurovision... \nhttps://t.co/3Cp42vV6X2 https://t.co/mjUornKAYe"
+	},
+	{
 		"created_at": "Tue Mar 23 22:28:15 +0000 2021",
 		"id": 1374488189339979800,
 		"id_str": "1374488189339979777",
