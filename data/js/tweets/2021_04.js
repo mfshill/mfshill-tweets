@@ -1,6 +1,689 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 04 19:09:49 +0000 2021",
+		"id": 1378314424239460400,
+		"id_str": "1378786904238403584",
+		"full_text": "All 533,000,000 Facebook records were just leaked for free.\n\nThis means that if you have a Facebook account, it is extremely likely the phone number used for the account was leaked.\n\nI have yet to see Facebook acknowledging this absolute negligence of your data. https://t.co/ysGCPZm5U3 https://t.co/nM0Fu4GDY8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			286
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ysGCPZm5U3",
+					"expanded_url": "https://twitter.com/UnderTheBreach/status/1349671294808285184",
+					"display_url": "twitter.com/UnderTheBreach…",
+					"indices": [
+						263,
+						286
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1378314311542710300,
+					"id_str": "1378314311542710272",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/EyDBkFBXIAAYTz9.png",
+					"media_url_https": "https://pbs.twimg.com/media/EyDBkFBXIAAYTz9.png",
+					"url": "https://t.co/nM0Fu4GDY8",
+					"display_url": "pic.twitter.com/nM0Fu4GDY8",
+					"expanded_url": "https://twitter.com/UnderTheBreach/status/1378314424239460352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 787,
+							"h": 567,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 490,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 787,
+							"h": 567,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1378314311542710300,
+					"id_str": "1378314311542710272",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/EyDBkFBXIAAYTz9.png",
+					"media_url_https": "https://pbs.twimg.com/media/EyDBkFBXIAAYTz9.png",
+					"url": "https://t.co/nM0Fu4GDY8",
+					"display_url": "pic.twitter.com/nM0Fu4GDY8",
+					"expanded_url": "https://twitter.com/UnderTheBreach/status/1378314424239460352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 787,
+							"h": 567,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 490,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 787,
+							"h": 567,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1378314329330749400,
+					"id_str": "1378314329330749440",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/EyDBlHSXEAARm8p.png",
+					"media_url_https": "https://pbs.twimg.com/media/EyDBlHSXEAARm8p.png",
+					"url": "https://t.co/nM0Fu4GDY8",
+					"display_url": "pic.twitter.com/nM0Fu4GDY8",
+					"expanded_url": "https://twitter.com/UnderTheBreach/status/1378314424239460352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 975,
+							"h": 654,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 975,
+							"h": 654,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1378314343159378000,
+					"id_str": "1378314343159377920",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/EyDBl6zXMAAyDNU.png",
+					"media_url_https": "https://pbs.twimg.com/media/EyDBl6zXMAAyDNU.png",
+					"url": "https://t.co/nM0Fu4GDY8",
+					"display_url": "pic.twitter.com/nM0Fu4GDY8",
+					"expanded_url": "https://twitter.com/UnderTheBreach/status/1378314424239460352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1430,
+							"h": 276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 131,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 232,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1160992928577310700,
+			"id_str": "1160992928577310720",
+			"name": "Alon Gal (Under the Breach)",
+			"screen_name": "UnderTheBreach",
+			"location": "Israel",
+			"description": "Co-Founder & CTO @ Hudson Rock @hrock Always behind 7 proxies ישראל 🇮🇱 https://t.co/YPteOz6Zkd #Bitcoin",
+			"url": "https://t.co/Lc0A2uGN62",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Lc0A2uGN62",
+							"expanded_url": "https://www.linkedin.com/in/alon-gal-UTB/",
+							"display_url": "linkedin.com/in/alon-gal-UT…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YPteOz6Zkd",
+							"expanded_url": "http://underthebreach.medium.com",
+							"display_url": "underthebreach.medium.com",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 44550,
+			"friends_count": 1300,
+			"listed_count": 377,
+			"created_at": "Mon Aug 12 19:14:19 +0000 2019",
+			"favourites_count": 6221,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364107350748053512/VFKQXcPJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364107350748053512/VFKQXcPJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160992928577310720/1582467352",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1349671294808285200,
+		"quoted_status_id_str": "1349671294808285184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ysGCPZm5U3",
+			"expanded": "https://twitter.com/UnderTheBreach/status/1349671294808285184",
+			"display": "twitter.com/UnderTheBreach…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 14 10:54:47 +0000 2021",
+			"id": 1349671294808285200,
+			"id_str": "1349671294808285184",
+			"full_text": "In early 2020 a vulnerability that enabled seeing the phone number linked to every Facebook account was exploited, creating a database containing the information 533m users across all countries.\n\nIt was severely under-reported and today the database became much more worrisome 1/2 https://t.co/ryQ5HuF1Cm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1349669875904557000,
+						"id_str": "1349669875904557057",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/Err9me1WMAERNUf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Err9me1WMAERNUf.jpg",
+						"url": "https://t.co/ryQ5HuF1Cm",
+						"display_url": "pic.twitter.com/ryQ5HuF1Cm",
+						"expanded_url": "https://twitter.com/UnderTheBreach/status/1349671294808285184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 403,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1163,
+								"h": 690,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1163,
+								"h": 690,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1349669875904557000,
+						"id_str": "1349669875904557057",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/Err9me1WMAERNUf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Err9me1WMAERNUf.jpg",
+						"url": "https://t.co/ryQ5HuF1Cm",
+						"display_url": "pic.twitter.com/ryQ5HuF1Cm",
+						"expanded_url": "https://twitter.com/UnderTheBreach/status/1349671294808285184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 403,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1163,
+								"h": 690,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1163,
+								"h": 690,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1349669890794385400,
+						"id_str": "1349669890794385408",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/Err9nWTW8AA8DjX.png",
+						"media_url_https": "https://pbs.twimg.com/media/Err9nWTW8AA8DjX.png",
+						"url": "https://t.co/ryQ5HuF1Cm",
+						"display_url": "pic.twitter.com/ryQ5HuF1Cm",
+						"expanded_url": "https://twitter.com/UnderTheBreach/status/1349671294808285184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 179,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 101,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1478,
+								"h": 220,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1160992928577310700,
+				"id_str": "1160992928577310720",
+				"name": "Alon Gal (Under the Breach)",
+				"screen_name": "UnderTheBreach",
+				"location": "Israel",
+				"description": "Co-Founder & CTO @ Hudson Rock @hrock Always behind 7 proxies ישראל 🇮🇱 https://t.co/YPteOz6Zkd #Bitcoin",
+				"url": "https://t.co/Lc0A2uGN62",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Lc0A2uGN62",
+								"expanded_url": "https://www.linkedin.com/in/alon-gal-UTB/",
+								"display_url": "linkedin.com/in/alon-gal-UT…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YPteOz6Zkd",
+								"expanded_url": "http://underthebreach.medium.com",
+								"display_url": "underthebreach.medium.com",
+								"indices": [
+									71,
+									94
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 44550,
+				"friends_count": 1300,
+				"listed_count": 377,
+				"created_at": "Mon Aug 12 19:14:19 +0000 2019",
+				"favourites_count": 6221,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3890,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1364107350748053512/VFKQXcPJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364107350748053512/VFKQXcPJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160992928577310720/1582467352",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1669,
+			"favorite_count": 2623,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7219,
+		"favorite_count": 7642,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All 533,000,000 Facebook records were just leaked for free.\n\nThis means that if you have a Facebook account, it is extremely likely the phone number used for the account was leaked.\n\nI have yet to see Facebook acknowledging this absolute negligence of your data. https://t.co/ysGCPZm5U3 https://t.co/nM0Fu4GDY8"
+	},
+	{
+		"created_at": "Sun Apr 04 14:49:50 +0000 2021",
+		"id": 1378721477575512000,
+		"id_str": "1378721477575512072",
+		"full_text": "had to be Willock! 2-2 #NEWTOT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWTOT",
+					"indices": [
+						23,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "had to be Willock! 2-2 #NEWTOT"
+	},
+	{
+		"created_at": "Sun Apr 04 12:40:26 +0000 2021",
+		"id": 1378688912592371700,
+		"id_str": "1378688912592371717",
+		"full_text": "#NowPlaying 'Sander van Doorn - Drink To Get Drunk (Eli &amp; Fur Remix)' https://t.co/uPWGvwbtKv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NowPlaying",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uPWGvwbtKv",
+					"expanded_url": "https://youtu.be/rfwUwMOVtkI",
+					"display_url": "youtu.be/rfwUwMOVtkI",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#NowPlaying 'Sander van Doorn - Drink To Get Drunk (Eli &amp; Fur Remix)' https://t.co/uPWGvwbtKv"
+	},
+	{
 		"created_at": "Sat Apr 03 20:55:55 +0000 2021",
 		"id": 1378448289775939600,
 		"id_str": "1378451219342065664",
