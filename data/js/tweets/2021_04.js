@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 05 21:42:11 +0000 2021",
+		"id": 1379179852796944400,
+		"id_str": "1379187635583877123",
+		"full_text": "“Joe isn’t Doctor Who!” Not a line I was expecting to hear in this  #ShootingJoeExotic documentary! 😄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShootingJoeExotic",
+					"indices": [
+						68,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://onloft.com/tweetlogix\" rel=\"nofollow\">Tweetlogix</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 62667680,
+			"id_str": "62667680",
+			"name": "Gavin Winters",
+			"screen_name": "GavinWinters",
+			"location": "Waterford, Ireland",
+			"description": "Lays claim to being Ireland's biggest Doctor Who fan. Has brain ridiculously full of useless geek-level trivia on all manner of subjects.",
+			"url": "https://t.co/vP8YmnVfPh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vP8YmnVfPh",
+							"expanded_url": "http://www.facebook.com/gavin.winters1",
+							"display_url": "facebook.com/gavin.winters1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 190,
+			"listed_count": 33,
+			"created_at": "Tue Aug 04 00:31:03 +0000 2009",
+			"favourites_count": 1098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1166218854781116417/OtXDswpt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166218854781116417/OtXDswpt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/62667680/1517353864",
+			"profile_link_color": "3830D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“Joe isn’t Doctor Who!” Not a line I was expecting to hear in this  #ShootingJoeExotic documentary! 😄"
+	},
+	{
+		"created_at": "Mon Apr 05 21:42:07 +0000 2021",
+		"id": 1379176215756562400,
+		"id_str": "1379187619767140352",
+		"full_text": "#shootingjoeexotic he has religious candles of Joe Exotic 😂🤣 https://t.co/eFMyDqaRTP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "shootingjoeexotic",
+					"indices": [
+						0,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1379176210807320600,
+					"id_str": "1379176210807320578",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EyPRdN_W8AIHSoI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyPRdN_W8AIHSoI.jpg",
+					"url": "https://t.co/eFMyDqaRTP",
+					"display_url": "pic.twitter.com/eFMyDqaRTP",
+					"expanded_url": "https://twitter.com/NathanMinto/status/1379176215756562439/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1379176210807320600,
+					"id_str": "1379176210807320578",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EyPRdN_W8AIHSoI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyPRdN_W8AIHSoI.jpg",
+					"url": "https://t.co/eFMyDqaRTP",
+					"display_url": "pic.twitter.com/eFMyDqaRTP",
+					"expanded_url": "https://twitter.com/NathanMinto/status/1379176215756562439/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19999505,
+			"id_str": "19999505",
+			"name": "Nathan Minto",
+			"screen_name": "NathanMinto",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273,
+			"friends_count": 343,
+			"listed_count": 0,
+			"created_at": "Tue Feb 03 20:09:43 +0000 2009",
+			"favourites_count": 6890,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1371573037468909571/YJJfbwzQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1371573037468909571/YJJfbwzQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19999505/1526220823",
+			"profile_link_color": "E8C825",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#shootingjoeexotic he has religious candles of Joe Exotic 😂🤣 https://t.co/eFMyDqaRTP"
+	},
+	{
+		"created_at": "Mon Apr 05 21:42:05 +0000 2021",
+		"id": 1379177654591570000,
+		"id_str": "1379187611886092291",
+		"full_text": "Right @louistheroux finding Joe exotics dick pics in his old hoose and describing them as ‘reproductive make organs in a state of arousal’\n\n🤣🤣🤣🤣🤣🤣\n\nI’m actually crying laughing here 🤣🤣🤣 #shootingjoeexotic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "shootingjoeexotic",
+					"indices": [
+						186,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "louistheroux",
+					"name": "Louis Theroux",
+					"id": 76351820,
+					"id_str": "76351820",
+					"indices": [
+						6,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 72142454,
+			"id_str": "72142454",
+			"name": "Lynsey",
+			"screen_name": "wannabwinehouse",
+			"location": "Glasgow, Scotland",
+			"description": "0114/AM. Treading Water Feat: Winged Eyeliner. Fun House Runner Up ‘94. Peep Show Quotes Are My Basic Vocabulary. Opinions Are Mine & They’re Loud. Still Yes",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3128,
+			"friends_count": 2723,
+			"listed_count": 18,
+			"created_at": "Sun Sep 06 22:41:37 +0000 2009",
+			"favourites_count": 58663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 108287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361683204600700936/a5jGFSCn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361683204600700936/a5jGFSCn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/72142454/1616595788",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Right @louistheroux finding Joe exotics dick pics in his old hoose and describing them as ‘reproductive make organs in a state of arousal’\n\n🤣🤣🤣🤣🤣🤣\n\nI’m actually crying laughing here 🤣🤣🤣 #shootingjoeexotic"
+	},
+	{
 		"created_at": "Sun Apr 04 19:09:49 +0000 2021",
 		"id": 1378314424239460400,
 		"id_str": "1378786904238403584",
