@@ -1,6 +1,1261 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 19 21:25:22 +0000 2021",
+		"id": 1384124917273161700,
+		"id_str": "1384256837525008390",
+		"full_text": "You took the CL off Free-To-Air television with ITV, charged fans to watch it, even more during the pandemic and on top of that, you have us listen to Steve Mcmanaman for those games. \n\nPlease sit down. https://t.co/rP5ceNRpuj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rP5ceNRpuj",
+					"expanded_url": "https://twitter.com/btsport/status/1384119612753682441",
+					"display_url": "twitter.com/btsport/status…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 830550239723528200,
+			"id_str": "830550239723528192",
+			"name": "Kilioo Mbaku",
+			"screen_name": "419simsim",
+			"location": "Cairo, London, West Africa",
+			"description": "Avant-garde tweets about bare stuff una",
+			"url": "https://t.co/e4T7rvwxbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e4T7rvwxbV",
+							"expanded_url": "http://instagram.com/somepicsandshit",
+							"display_url": "instagram.com/somepicsandshit",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5853,
+			"friends_count": 949,
+			"listed_count": 50,
+			"created_at": "Sat Feb 11 22:53:02 +0000 2017",
+			"favourites_count": 20196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383804229786112002/Kr-Zc6Oi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383804229786112002/Kr-Zc6Oi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/830550239723528192/1618759616",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1384119612753682400,
+		"quoted_status_id_str": "1384119612753682441",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rP5ceNRpuj",
+			"expanded": "https://twitter.com/btsport/status/1384119612753682441",
+			"display": "twitter.com/btsport/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 19 12:20:06 +0000 2021",
+			"id": 1384119612753682400,
+			"id_str": "1384119612753682441",
+			"full_text": "BT statement on the European Super League developments. https://t.co/y35IGqXmSD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				55
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1384119607363965000,
+						"id_str": "1384119607363964934",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/EzVhcxOVEAY638s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzVhcxOVEAY638s.jpg",
+						"url": "https://t.co/y35IGqXmSD",
+						"display_url": "pic.twitter.com/y35IGqXmSD",
+						"expanded_url": "https://twitter.com/btsport/status/1384119612753682441/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1384119607363965000,
+						"id_str": "1384119607363964934",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/EzVhcxOVEAY638s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzVhcxOVEAY638s.jpg",
+						"url": "https://t.co/y35IGqXmSD",
+						"display_url": "pic.twitter.com/y35IGqXmSD",
+						"expanded_url": "https://twitter.com/btsport/status/1384119612753682441/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 124189302,
+				"id_str": "124189302",
+				"name": "BT Sport",
+				"screen_name": "btsport",
+				"location": "Be There",
+				"description": "At the heart of sport.",
+				"url": "https://t.co/zpAEMEJaDp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zpAEMEJaDp",
+								"expanded_url": "http://bt.com/sport/box-office",
+								"display_url": "bt.com/sport/box-offi…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 778278,
+				"friends_count": 526,
+				"listed_count": 1920,
+				"created_at": "Thu Mar 18 15:08:06 +0000 2010",
+				"favourites_count": 2474,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40834,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1335711049174163458/xMsHxbFk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335711049174163458/xMsHxbFk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189302/1616240388",
+				"profile_link_color": "6400AA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 754,
+			"favorite_count": 5925,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2616,
+		"favorite_count": 8785,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You took the CL off Free-To-Air television with ITV, charged fans to watch it, even more during the pandemic and on top of that, you have us listen to Steve Mcmanaman for those games. \n\nPlease sit down. https://t.co/rP5ceNRpuj"
+	},
+	{
+		"created_at": "Mon Apr 19 19:07:49 +0000 2021",
+		"id": 1384222220952621000,
+		"id_str": "1384222220952621059",
+		"full_text": "@AlvinAl3978 had 'Gotham' on this morn, pretty good. https://t.co/duneNxQmEu",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlvinAl3978",
+					"name": "AlvinAl3978",
+					"id": 153453124,
+					"id_str": "153453124",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/duneNxQmEu",
+					"expanded_url": "https://www.youtube.com/watch?v=vT2w4DX9-uQ&list=OLAK5uy_mbHgby_AKHCrVci3DysV-AjZbaFXVonmA",
+					"display_url": "youtube.com/watch?v=vT2w4D…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1384221006974263300,
+		"in_reply_to_status_id_str": "1384221006974263303",
+		"in_reply_to_user_id": 153453124,
+		"in_reply_to_user_id_str": "153453124",
+		"in_reply_to_screen_name": "AlvinAl3978",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@AlvinAl3978 had 'Gotham' on this morn, pretty good. https://t.co/duneNxQmEu"
+	},
+	{
+		"created_at": "Mon Apr 19 18:55:21 +0000 2021",
+		"id": 1384219084443701200,
+		"id_str": "1384219084443701255",
+		"full_text": "@AlvinAl3978 have stuck it on, so good. had 'the coming' 25th anniversary on yesterday. Rap/hip hop used to be so so good.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlvinAl3978",
+					"name": "AlvinAl3978",
+					"id": 153453124,
+					"id_str": "153453124",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1384216846371487700,
+		"in_reply_to_status_id_str": "1384216846371487748",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AlvinAl3978 have stuck it on, so good. had 'the coming' 25th anniversary on yesterday. Rap/hip hop used to be so so good."
+	},
+	{
+		"created_at": "Mon Apr 19 18:46:28 +0000 2021",
+		"id": 1384216846371487700,
+		"id_str": "1384216846371487748",
+		"full_text": "@AlvinAl3978 👍🏾",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlvinAl3978",
+					"name": "AlvinAl3978",
+					"id": 153453124,
+					"id_str": "153453124",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1384216449883930600,
+		"in_reply_to_status_id_str": "1384216449883930634",
+		"in_reply_to_user_id": 153453124,
+		"in_reply_to_user_id_str": "153453124",
+		"in_reply_to_screen_name": "AlvinAl3978",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@AlvinAl3978 👍🏾"
+	},
+	{
+		"created_at": "Mon Apr 19 17:06:02 +0000 2021",
+		"id": 1384191570753122300,
+		"id_str": "1384191570753122311",
+		"full_text": "Just a reminder of how this went down with the creation of the premier league. https://t.co/hQIydVYuPU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hQIydVYuPU",
+					"expanded_url": "https://www.theguardian.com/football/from-the-archive-blog/2012/feb/02/20-years-premier-league-football-1992",
+					"display_url": "theguardian.com/football/from-…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just a reminder of how this went down with the creation of the premier league. https://t.co/hQIydVYuPU"
+	},
+	{
+		"created_at": "Mon Apr 19 17:04:41 +0000 2021",
+		"id": 1384191231220064300,
+		"id_str": "1384191231220064266",
+		"full_text": "@TC_Cornesto he's probs already got a membership...",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC Cornesto",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1384187224833486800,
+		"in_reply_to_status_id_str": "1384187224833486858",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TC_Cornesto he's probs already got a membership..."
+	},
+	{
+		"created_at": "Mon Apr 19 15:02:53 +0000 2021",
+		"id": 1384160582081794000,
+		"id_str": "1384160582081794068",
+		"full_text": "@eops i have a feeling they know what they're doing and UEFA can't do shit about it. https://t.co/vdCLlSA78n",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vdCLlSA78n",
+					"expanded_url": "https://www.dailymail.co.uk/sport/sportsnews/article-9486681/European-Super-League-clubs-WIN-court-case-brought-UEFA-FIFA-says-legal-expert.html",
+					"display_url": "dailymail.co.uk/sport/sportsne…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1384159651814535200,
+		"in_reply_to_status_id_str": "1384159651814535179",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@eops i have a feeling they know what they're doing and UEFA can't do shit about it. https://t.co/vdCLlSA78n"
+	},
+	{
+		"created_at": "Mon Apr 19 14:56:57 +0000 2021",
+		"id": 1384159087768703000,
+		"id_str": "1384159087768702977",
+		"full_text": "@eops hello fellow superleaguer, looks like we're gonna get kick out of the prem, CL/EL, and none of our players will get to play for their countries. Great start to the week!",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1384158301466677200,
+		"in_reply_to_status_id_str": "1384158301466677256",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eops hello fellow superleaguer, looks like we're gonna get kick out of the prem, CL/EL, and none of our players will get to play for their countries. Great start to the week!"
+	},
+	{
+		"created_at": "Mon Apr 19 12:06:12 +0000 2021",
+		"id": 1384105527395819500,
+		"id_str": "1384116118013444107",
+		"full_text": "A board member of one of the ‘big 6’ tells Sky Sports 🗣 “Our job is to maximise our revenues. The wider good of the game is a secondary concern.\"\n\nHe also confirms the clubs don’t care about the backlash and opinions of the fans.\n\nWhat a disgrace. https://t.co/yhi9iHAIJI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1384103261624438800,
+					"id_str": "1384103261624438785",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/EzVSuI0VoAcghJU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzVSuI0VoAcghJU.jpg",
+					"url": "https://t.co/yhi9iHAIJI",
+					"display_url": "pic.twitter.com/yhi9iHAIJI",
+					"expanded_url": "https://twitter.com/footballdaily/status/1384103420533956616/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1384103420533956600,
+					"source_status_id_str": "1384103420533956616",
+					"source_user_id": 278038673,
+					"source_user_id_str": "278038673"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1384103261624438800,
+					"id_str": "1384103261624438785",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/EzVSuI0VoAcghJU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzVSuI0VoAcghJU.jpg",
+					"url": "https://t.co/yhi9iHAIJI",
+					"display_url": "pic.twitter.com/yhi9iHAIJI",
+					"expanded_url": "https://twitter.com/footballdaily/status/1384103420533956616/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1384103420533956600,
+					"source_status_id_str": "1384103420533956616",
+					"source_user_id": 278038673,
+					"source_user_id_str": "278038673",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 92480,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1384103261624438785/vid/640x360/kon_kbOCzUbk9D9D.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1384103261624438785/vid/1280x720/9HFUftmfTpUx6sP8.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1384103261624438785/pl/zU2bGx--sN8TuLns.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1384103261624438785/vid/480x270/e952G9jSDsgiXxlt.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"embeddable": true,
+						"monetizable": true,
+						"source_user": {
+							"id": 278038673,
+							"id_str": "278038673",
+							"name": "Football Daily",
+							"screen_name": "footballdaily",
+							"location": "London, UK",
+							"description": "Breaking news, press conferences, interviews & viral clips from the world of football 🌏 ⚽️\n\nContact: footballdailyuk@gmail.com",
+							"url": "https://t.co/4pisJDWZh5",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/4pisJDWZh5",
+											"expanded_url": "http://bit.ly/14rIxTv",
+											"display_url": "bit.ly/14rIxTv",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 215563,
+							"friends_count": 1133,
+							"listed_count": 949,
+							"created_at": "Wed Apr 06 13:48:45 +0000 2011",
+							"favourites_count": 4388,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 60680,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "D1D1D1",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1019576634117062656/whCdKrtY_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019576634117062656/whCdKrtY_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/278038673/1568817611",
+							"profile_link_color": "00CCFF",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "F6F6F6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11096152,
+			"id_str": "11096152",
+			"name": "101 Great Goals",
+			"screen_name": "101greatgoals",
+			"location": "",
+			"description": "Follow @102greatgoals. Facebook: https://t.co/SqTkALsq0z 18+",
+			"url": "https://t.co/jcqeXYwo3s",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jcqeXYwo3s",
+							"expanded_url": "http://www.101greatgoals.com",
+							"display_url": "101greatgoals.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/SqTkALsq0z",
+							"expanded_url": "http://bit.ly/2lQ11uG",
+							"display_url": "bit.ly/2lQ11uG",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 185344,
+			"friends_count": 1251,
+			"listed_count": 2405,
+			"created_at": "Wed Dec 12 17:35:21 +0000 2007",
+			"favourites_count": 1297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 222630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/517655069643124736/F2__fgt7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/517655069643124736/F2__fgt7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11096152/1616087806",
+			"profile_link_color": "06B821",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0E319",
+			"profile_text_color": "141314",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 647,
+		"favorite_count": 1522,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A board member of one of the ‘big 6’ tells Sky Sports 🗣 “Our job is to maximise our revenues. The wider good of the game is a secondary concern.\"\n\nHe also confirms the clubs don’t care about the backlash and opinions of the fans.\n\nWhat a disgrace. https://t.co/yhi9iHAIJI"
+	},
+	{
 		"created_at": "Sun Apr 18 22:42:22 +0000 2021",
 		"id": 1383910607989076000,
 		"id_str": "1383913824823042049",
