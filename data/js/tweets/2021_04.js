@@ -1,6 +1,2624 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 20 22:13:35 +0000 2021",
+		"id": 1384631356156780500,
+		"id_str": "1384631356156780544",
+		"full_text": "well that was an entertaining 48hours, goodnight y'all.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "well that was an entertaining 48hours, goodnight y'all."
+	},
+	{
+		"created_at": "Tue Apr 20 22:04:07 +0000 2021",
+		"id": 1384628791058833400,
+		"id_str": "1384628974081413120",
+		"full_text": "Strongest of the statements from the clubs pulling out of ESL. \n\nThe apology sends the right message but still unclear how it wasn’t obvious to these clubs how bad the reception would be. https://t.co/3AUktCT0Dc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3AUktCT0Dc",
+					"expanded_url": "https://twitter.com/arsenal/status/1384626900056805379",
+					"display_url": "twitter.com/arsenal/status…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20481323,
+			"id_str": "20481323",
+			"name": "Mark Mann-Bryans",
+			"screen_name": "MarkyMBryans",
+			"location": "London",
+			"description": "Sports Journalist for @pasport - covering Arsenal and England. \n\nElneny Merchant.",
+			"url": "https://t.co/LZG0Y2oOiB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LZG0Y2oOiB",
+							"expanded_url": "https://www.pressassociation.com/sport/",
+							"display_url": "pressassociation.com/sport/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17186,
+			"friends_count": 1095,
+			"listed_count": 324,
+			"created_at": "Tue Feb 10 00:38:07 +0000 2009",
+			"favourites_count": 1888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1365719908840071172/twl4e-eh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1365719908840071172/twl4e-eh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20481323/1601381777",
+			"profile_link_color": "ED2F4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C3E353",
+			"profile_text_color": "FE243C",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1384626900056805400,
+		"quoted_status_id_str": "1384626900056805379",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3AUktCT0Dc",
+			"expanded": "https://twitter.com/arsenal/status/1384626900056805379",
+			"display": "twitter.com/arsenal/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 20 21:55:52 +0000 2021",
+			"id": 1384626900056805400,
+			"id_str": "1384626900056805379",
+			"full_text": "As a result of listening to you and the wider football community over recent days we are withdrawing from the proposed Super League. \n\nWe made a mistake, and we apologise for it.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				178
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers (legacy)</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34613288,
+				"id_str": "34613288",
+				"name": "Arsenal",
+				"screen_name": "Arsenal",
+				"location": "London",
+				"description": "The official account of Arsenal Football Club.",
+				"url": "https://t.co/FOfFQDMIj1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FOfFQDMIj1",
+								"expanded_url": "https://www.arsenal.com",
+								"display_url": "arsenal.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17359249,
+				"friends_count": 150237,
+				"listed_count": 29514,
+				"created_at": "Thu Apr 23 13:38:19 +0000 2009",
+				"favourites_count": 6550,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 95926,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "AA0000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1356161793098444800/E0PYc-tU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356161793098444800/E0PYc-tU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34613288/1618911765",
+				"profile_link_color": "AA0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F2F2F2",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33019,
+			"favorite_count": 121804,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 16,
+		"favorite_count": 147,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Strongest of the statements from the clubs pulling out of ESL. \n\nThe apology sends the right message but still unclear how it wasn’t obvious to these clubs how bad the reception would be. https://t.co/3AUktCT0Dc"
+	},
+	{
+		"created_at": "Tue Apr 20 22:03:58 +0000 2021",
+		"id": 1384628936601133000,
+		"id_str": "1384628936601133056",
+		"full_text": "at least @Arsenal apologised!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Arsenal",
+					"name": "Arsenal",
+					"id": 34613288,
+					"id_str": "34613288",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "at least @Arsenal apologised!"
+	},
+	{
+		"created_at": "Tue Apr 20 21:00:23 +0000 2021",
+		"id": 1384611911044583400,
+		"id_str": "1384612937768345603",
+		"full_text": "Here’s a poem called ‘Football is ...’\n\n#SuperLeagueOut https://t.co/dLG2Bhf73q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperLeagueOut",
+					"indices": [
+						40,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1384611906682556400,
+					"id_str": "1384611906682556416",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EzchMXGXEAAxrCl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzchMXGXEAAxrCl.jpg",
+					"url": "https://t.co/dLG2Bhf73q",
+					"display_url": "pic.twitter.com/dLG2Bhf73q",
+					"expanded_url": "https://twitter.com/brian_bilston/status/1384611911044583429/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 694,
+							"h": 1062,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 694,
+							"h": 1062,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1384611906682556400,
+					"id_str": "1384611906682556416",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EzchMXGXEAAxrCl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzchMXGXEAAxrCl.jpg",
+					"url": "https://t.co/dLG2Bhf73q",
+					"display_url": "pic.twitter.com/dLG2Bhf73q",
+					"expanded_url": "https://twitter.com/brian_bilston/status/1384611911044583429/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 694,
+							"h": 1062,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 694,
+							"h": 1062,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1663413990,
+			"id_str": "1663413990",
+			"name": "Brian Bilston",
+			"screen_name": "brian_bilston",
+			"location": "I live locally.",
+			"description": "Ceci n'est pas un poème. New poetry collection, ‘Alexa, what is there to know about love?’, publishing January 2021 (Picador). Represented by @jounwin",
+			"url": "https://t.co/11s3pe5K9m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/11s3pe5K9m",
+							"expanded_url": "https://uk.bookshop.org/shop/brianbilston",
+							"display_url": "uk.bookshop.org/shop/brianbils…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82171,
+			"friends_count": 1037,
+			"listed_count": 588,
+			"created_at": "Sun Aug 11 20:57:54 +0000 2013",
+			"favourites_count": 48499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121413206394716160/0CNazc_H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121413206394716160/0CNazc_H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1663413990/1610982343",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 360,
+		"favorite_count": 1225,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here’s a poem called ‘Football is ...’\n\n#SuperLeagueOut https://t.co/dLG2Bhf73q"
+	},
+	{
+		"created_at": "Tue Apr 20 18:54:20 +0000 2021",
+		"id": 1384581215202812000,
+		"id_str": "1384581215202811905",
+		"full_text": "amazing! https://t.co/jZqcE5fbdK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jZqcE5fbdK",
+					"expanded_url": "https://twitter.com/talkSPORT/status/1384580215016460288",
+					"display_url": "twitter.com/talkSPORT/stat…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1384580215016460300,
+		"quoted_status_id_str": "1384580215016460288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jZqcE5fbdK",
+			"expanded": "https://twitter.com/talkSPORT/status/1384580215016460288",
+			"display": "twitter.com/talkSPORT/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 20 18:50:22 +0000 2021",
+			"id": 1384580215016460300,
+			"id_str": "1384580215016460288",
+			"full_text": "BREAKING: Ed Woodward has resigned as chairman of Manchester United.\n\nWoodward’s decision comes after the backlash over the European Super League.\n\n- talkSPORT sources understand\n\n📻 Listen → https://t.co/VJgUHnqdM1 https://t.co/gNcRfW5xdp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				214
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VJgUHnqdM1",
+						"expanded_url": "http://talkSPORT.com/Live",
+						"display_url": "talkSPORT.com/Live",
+						"indices": [
+							191,
+							214
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1384580211329708000,
+						"id_str": "1384580211329708033",
+						"indices": [
+							215,
+							238
+						],
+						"media_url": "http://pbs.twimg.com/media/EzcEXctXsAEBscq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzcEXctXsAEBscq.jpg",
+						"url": "https://t.co/gNcRfW5xdp",
+						"display_url": "pic.twitter.com/gNcRfW5xdp",
+						"expanded_url": "https://twitter.com/talkSPORT/status/1384580215016460288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1122,
+								"h": 632,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1122,
+								"h": 632,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1384580211329708000,
+						"id_str": "1384580211329708033",
+						"indices": [
+							215,
+							238
+						],
+						"media_url": "http://pbs.twimg.com/media/EzcEXctXsAEBscq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzcEXctXsAEBscq.jpg",
+						"url": "https://t.co/gNcRfW5xdp",
+						"display_url": "pic.twitter.com/gNcRfW5xdp",
+						"expanded_url": "https://twitter.com/talkSPORT/status/1384580215016460288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1122,
+								"h": 632,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1122,
+								"h": 632,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15332636,
+				"id_str": "15332636",
+				"name": "talkSPORT",
+				"screen_name": "talkSPORT",
+				"location": "United Kingdom",
+				"description": "News, videos and more from the world’s biggest sports radio station → https://t.co/9LO85paK30",
+				"url": "https://t.co/WSN34Cc5hA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WSN34Cc5hA",
+								"expanded_url": "http://talkSPORT.com",
+								"display_url": "talkSPORT.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/9LO85paK30",
+								"expanded_url": "http://talkSPORT.com/Live",
+								"display_url": "talkSPORT.com/Live",
+								"indices": [
+									70,
+									93
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1510036,
+				"friends_count": 2189,
+				"listed_count": 4953,
+				"created_at": "Sun Jul 06 13:22:54 +0000 2008",
+				"favourites_count": 6075,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 182728,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1343551079892602881/-SBw3syf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343551079892602881/-SBw3syf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15332636/1600178872",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15764,
+			"favorite_count": 45412,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "amazing! https://t.co/jZqcE5fbdK"
+	},
+	{
+		"created_at": "Tue Apr 20 18:31:25 +0000 2021",
+		"id": 1384575449121140700,
+		"id_str": "1384575449121140737",
+		"full_text": "really do feel sorry for anyone on here who isn't in the slightest bit interested in football.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "really do feel sorry for anyone on here who isn't in the slightest bit interested in football."
+	},
+	{
+		"created_at": "Tue Apr 20 18:30:51 +0000 2021",
+		"id": 1384574250644824000,
+		"id_str": "1384575304862158848",
+		"full_text": "Stan Kroenke seeing everyone withdraw from the Super League https://t.co/npPC0RgBpF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1384574210060738600,
+					"id_str": "1384574210060738560",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1384574210060738560/pu/img/L51vxBI2uyOYdBeQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1384574210060738560/pu/img/L51vxBI2uyOYdBeQ.jpg",
+					"url": "https://t.co/npPC0RgBpF",
+					"display_url": "pic.twitter.com/npPC0RgBpF",
+					"expanded_url": "https://twitter.com/SimpsonsArsenal/status/1384574250644824064/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1384574210060738600,
+					"id_str": "1384574210060738560",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1384574210060738560/pu/img/L51vxBI2uyOYdBeQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1384574210060738560/pu/img/L51vxBI2uyOYdBeQ.jpg",
+					"url": "https://t.co/npPC0RgBpF",
+					"display_url": "pic.twitter.com/npPC0RgBpF",
+					"expanded_url": "https://twitter.com/SimpsonsArsenal/status/1384574250644824064/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 30142,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1384574210060738560/pu/vid/480x270/bu_watgr-Rg5OKDY.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1384574210060738560/pu/vid/640x360/HFEG_6NsfA7hq2Mt.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1384574210060738560/pu/vid/854x480/RxogWUFHVLZD3Ons.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1384574210060738560/pu/pl/pAxrqivsHrxNnkK6.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1096703520798056400,
+			"id_str": "1096703520798056450",
+			"name": "Simpsons Arsenal",
+			"screen_name": "SimpsonsArsenal",
+			"location": "London, England",
+			"description": "Just an Arsenal fan posting Simpsons quotes and gifs",
+			"url": "https://t.co/KCaX1PHEyx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KCaX1PHEyx",
+							"expanded_url": "http://instagram.com/simpsonsarsenal",
+							"display_url": "instagram.com/simpsonsarsenal",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51468,
+			"friends_count": 60,
+			"listed_count": 321,
+			"created_at": "Sat Feb 16 09:31:09 +0000 2019",
+			"favourites_count": 6508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161285080226127874/sqXr48eC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161285080226127874/sqXr48eC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1096703520798056450/1559308826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 253,
+		"favorite_count": 1197,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stan Kroenke seeing everyone withdraw from the Super League https://t.co/npPC0RgBpF"
+	},
+	{
+		"created_at": "Tue Apr 20 18:27:12 +0000 2021",
+		"id": 1384574385772802000,
+		"id_str": "1384574385772802056",
+		"full_text": "Quote tweet this with an image from a film you love unconditionally that no one talks about https://t.co/cmJ5QeUWS1 https://t.co/sZsyzRMEmL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cmJ5QeUWS1",
+					"expanded_url": "https://twitter.com/TC_Cornesto/status/1384269184654188556",
+					"display_url": "twitter.com/TC_Cornesto/st…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1384574360481063000,
+					"id_str": "1384574360481062922",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezb_C4mWYAoY7UF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezb_C4mWYAoY7UF.jpg",
+					"url": "https://t.co/sZsyzRMEmL",
+					"display_url": "pic.twitter.com/sZsyzRMEmL",
+					"expanded_url": "https://twitter.com/mfshill/status/1384574385772802056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 795,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 795,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1384574360481063000,
+					"id_str": "1384574360481062922",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezb_C4mWYAoY7UF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezb_C4mWYAoY7UF.jpg",
+					"url": "https://t.co/sZsyzRMEmL",
+					"display_url": "pic.twitter.com/sZsyzRMEmL",
+					"expanded_url": "https://twitter.com/mfshill/status/1384574385772802056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 795,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 795,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1384269184654188500,
+		"quoted_status_id_str": "1384269184654188556",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cmJ5QeUWS1",
+			"expanded": "https://twitter.com/TC_Cornesto/status/1384269184654188556",
+			"display": "twitter.com/TC_Cornesto/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 19 22:14:26 +0000 2021",
+			"id": 1384269184654188500,
+			"id_str": "1384269184654188556",
+			"full_text": "Quote tweet this with an image from a film you love unconditionally that no one talks about https://t.co/rlXgVn7j8W https://t.co/REePRSxiXa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rlXgVn7j8W",
+						"expanded_url": "https://twitter.com/whittingtondic/status/1384267571315167242",
+						"display_url": "twitter.com/whittingtondic…",
+						"indices": [
+							92,
+							115
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1384269180568887300,
+						"id_str": "1384269180568887299",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/EzXpfE1UYAMeyGp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzXpfE1UYAMeyGp.jpg",
+						"url": "https://t.co/REePRSxiXa",
+						"display_url": "pic.twitter.com/REePRSxiXa",
+						"expanded_url": "https://twitter.com/TC_Cornesto/status/1384269184654188556/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 780,
+								"h": 439,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 780,
+								"h": 439,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1384269180568887300,
+						"id_str": "1384269180568887299",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/EzXpfE1UYAMeyGp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzXpfE1UYAMeyGp.jpg",
+						"url": "https://t.co/REePRSxiXa",
+						"display_url": "pic.twitter.com/REePRSxiXa",
+						"expanded_url": "https://twitter.com/TC_Cornesto/status/1384269184654188556/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 780,
+								"h": 439,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 780,
+								"h": 439,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19991214,
+				"id_str": "19991214",
+				"name": "TC Cornesto",
+				"screen_name": "TC_Cornesto",
+				"location": "",
+				"description": "Taciturn Bastard - Doomstruck Gimp - Fresh Idiot (kinkï) - Commanding but not Cunty (apparently)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1497,
+				"friends_count": 1717,
+				"listed_count": 50,
+				"created_at": "Tue Feb 03 18:28:43 +0000 2009",
+				"favourites_count": 58705,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 123637,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1323193346890891266/1iUIvuUi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323193346890891266/1iUIvuUi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19991214/1604308821",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1384267571315167200,
+			"quoted_status_id_str": "1384267571315167242",
+			"quoted_status_permalink": {
+				"url": "https://t.co/rlXgVn7j8W",
+				"expanded": "https://twitter.com/whittingtondic/status/1384267571315167242",
+				"display": "twitter.com/whittingtondic…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Quote tweet this with an image from a film you love unconditionally that no one talks about https://t.co/cmJ5QeUWS1 https://t.co/sZsyzRMEmL"
+	},
+	{
+		"created_at": "Tue Apr 20 18:25:15 +0000 2021",
+		"id": 1384572320346382300,
+		"id_str": "1384573893667606534",
+		"full_text": "BREAKING: All 12 clubs are meeting tonight to discuss disbanding the Super League. \n\n- talkSPORT sources understand.\n\n📻 Listen → https://t.co/VJgUHnHODz https://t.co/72d2cqaAea",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VJgUHnHODz",
+					"expanded_url": "http://talkSPORT.com/Live",
+					"display_url": "talkSPORT.com/Live",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1384572315581755400,
+					"id_str": "1384572315581755393",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezb9L2wXMAE0EzZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezb9L2wXMAE0EzZ.jpg",
+					"url": "https://t.co/72d2cqaAea",
+					"display_url": "pic.twitter.com/72d2cqaAea",
+					"expanded_url": "https://twitter.com/talkSPORT/status/1384572320346382336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1122,
+							"h": 632,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1122,
+							"h": 632,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1384572315581755400,
+					"id_str": "1384572315581755393",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezb9L2wXMAE0EzZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezb9L2wXMAE0EzZ.jpg",
+					"url": "https://t.co/72d2cqaAea",
+					"display_url": "pic.twitter.com/72d2cqaAea",
+					"expanded_url": "https://twitter.com/talkSPORT/status/1384572320346382336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1122,
+							"h": 632,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1122,
+							"h": 632,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15332636,
+			"id_str": "15332636",
+			"name": "talkSPORT",
+			"screen_name": "talkSPORT",
+			"location": "United Kingdom",
+			"description": "News, videos and more from the world’s biggest sports radio station → https://t.co/9LO85paK30",
+			"url": "https://t.co/WSN34Cc5hA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WSN34Cc5hA",
+							"expanded_url": "http://talkSPORT.com",
+							"display_url": "talkSPORT.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9LO85paK30",
+							"expanded_url": "http://talkSPORT.com/Live",
+							"display_url": "talkSPORT.com/Live",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1510036,
+			"friends_count": 2189,
+			"listed_count": 4953,
+			"created_at": "Sun Jul 06 13:22:54 +0000 2008",
+			"favourites_count": 6075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 182728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343551079892602881/-SBw3syf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343551079892602881/-SBw3syf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15332636/1600178872",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4216,
+		"favorite_count": 12777,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BREAKING: All 12 clubs are meeting tonight to discuss disbanding the Super League. \n\n- talkSPORT sources understand.\n\n📻 Listen → https://t.co/VJgUHnHODz https://t.co/72d2cqaAea"
+	},
+	{
+		"created_at": "Tue Apr 20 18:07:03 +0000 2021",
+		"id": 1384569316075622400,
+		"id_str": "1384569316075622409",
+		"full_text": "https://t.co/QddetNMFzD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1384569285268418600,
+					"id_str": "1384569285268418560",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezb6bd9XMAApMyO.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ezb6bd9XMAApMyO.png",
+					"url": "https://t.co/QddetNMFzD",
+					"display_url": "pic.twitter.com/QddetNMFzD",
+					"expanded_url": "https://twitter.com/mfshill/status/1384569316075622409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 594,
+							"h": 514,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 594,
+							"h": 514,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 594,
+							"h": 514,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1384569285268418600,
+					"id_str": "1384569285268418560",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezb6bd9XMAApMyO.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ezb6bd9XMAApMyO.png",
+					"url": "https://t.co/QddetNMFzD",
+					"display_url": "pic.twitter.com/QddetNMFzD",
+					"expanded_url": "https://twitter.com/mfshill/status/1384569316075622409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 594,
+							"h": 514,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 594,
+							"h": 514,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 594,
+							"h": 514,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/QddetNMFzD"
+	},
+	{
+		"created_at": "Tue Apr 20 17:47:21 +0000 2021",
+		"id": 1384564356986413000,
+		"id_str": "1384564356986413061",
+		"full_text": "@TC_Cornesto still a few hours left and we might get a last minute banger",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC Cornesto",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1384564102421524500,
+		"in_reply_to_status_id_str": "1384564102421524482",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TC_Cornesto still a few hours left and we might get a last minute banger"
+	},
+	{
+		"created_at": "Tue Apr 20 17:44:47 +0000 2021",
+		"id": 1384563709725511700,
+		"id_str": "1384563709725511687",
+		"full_text": "@TC_Cornesto possible winner for tweet of the day",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC Cornesto",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1384562838820245500,
+		"in_reply_to_status_id_str": "1384562838820245504",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TC_Cornesto possible winner for tweet of the day"
+	},
+	{
+		"created_at": "Tue Apr 20 17:44:17 +0000 2021",
+		"id": 1384562838820245500,
+		"id_str": "1384563587784581124",
+		"full_text": "\"I SAID NICE ONE BOZZAAAAA\" https://t.co/Fl2GrqdrcV https://t.co/jUH3OeUKUy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fl2GrqdrcV",
+					"expanded_url": "https://twitter.com/politicsforali/status/1384538488121479168",
+					"display_url": "twitter.com/politicsforali…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1384562825264255000,
+					"id_str": "1384562825264254976",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ezb0jckWUAAUUtT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ezb0jckWUAAUUtT.jpg",
+					"url": "https://t.co/jUH3OeUKUy",
+					"display_url": "pic.twitter.com/jUH3OeUKUy",
+					"expanded_url": "https://twitter.com/TC_Cornesto/status/1384562838820245504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 280,
+							"h": 210,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 280,
+							"h": 210,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 280,
+							"h": 210,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1384562825264255000,
+					"id_str": "1384562825264254976",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ezb0jckWUAAUUtT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ezb0jckWUAAUUtT.jpg",
+					"url": "https://t.co/jUH3OeUKUy",
+					"display_url": "pic.twitter.com/jUH3OeUKUy",
+					"expanded_url": "https://twitter.com/TC_Cornesto/status/1384562838820245504/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 280,
+							"h": 210,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 280,
+							"h": 210,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 280,
+							"h": 210,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ezb0jckWUAAUUtT.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19991214,
+			"id_str": "19991214",
+			"name": "TC Cornesto",
+			"screen_name": "TC_Cornesto",
+			"location": "",
+			"description": "Taciturn Bastard - Doomstruck Gimp - Fresh Idiot (kinkï) - Commanding but not Cunty (apparently)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1497,
+			"friends_count": 1717,
+			"listed_count": 50,
+			"created_at": "Tue Feb 03 18:28:43 +0000 2009",
+			"favourites_count": 58705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 123637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323193346890891266/1iUIvuUi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323193346890891266/1iUIvuUi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19991214/1604308821",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1384538488121479200,
+		"quoted_status_id_str": "1384538488121479168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Fl2GrqdrcV",
+			"expanded": "https://twitter.com/politicsforali/status/1384538488121479168",
+			"display": "twitter.com/politicsforali…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 20 16:04:33 +0000 2021",
+			"id": 1384538488121479200,
+			"id_str": "1384538488121479168",
+			"full_text": "🚨 | NEW: Boris Johnson has announced plans to give pills to people with coronavirus",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				83
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1166419406685188000,
+				"id_str": "1166419406685188101",
+				"name": "Politics For All",
+				"screen_name": "PoliticsForAlI",
+				"location": "",
+				"description": "The Official Politics For All Twitter Page • Follow For Strictly Impartial Political News, Polls and Videos • {DM for stories/tips}",
+				"url": "https://t.co/aoPUDLYaTs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aoPUDLYaTs",
+								"expanded_url": "https://instagram.com/politics.forall?igshid=1nj5gw43an43q",
+								"display_url": "instagram.com/politics.foral…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 91084,
+				"friends_count": 7664,
+				"listed_count": 268,
+				"created_at": "Tue Aug 27 18:37:18 +0000 2019",
+				"favourites_count": 20,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1907,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1288477347629408256/9RrQVCqT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288477347629408256/9RrQVCqT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1166419406685188101/1596031914",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 380,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"I SAID NICE ONE BOZZAAAAA\" https://t.co/Fl2GrqdrcV https://t.co/jUH3OeUKUy"
+	},
+	{
+		"created_at": "Tue Apr 20 17:44:03 +0000 2021",
+		"id": 1384560372611494000,
+		"id_str": "1384563527394988033",
+		"full_text": "And more footage... heated atmosphere... https://t.co/a1Ln9a1Egl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1384559481829347300,
+					"id_str": "1384559481829347331",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1384559481829347331/pu/img/k-W6KScic03trbCg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1384559481829347331/pu/img/k-W6KScic03trbCg.jpg",
+					"url": "https://t.co/a1Ln9a1Egl",
+					"display_url": "pic.twitter.com/a1Ln9a1Egl",
+					"expanded_url": "https://twitter.com/FCBW_A7/status/1384559821135953920/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1384559821135954000,
+					"source_status_id_str": "1384559821135953920",
+					"source_user_id": 344611368,
+					"source_user_id_str": "344611368"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1384559481829347300,
+					"id_str": "1384559481829347331",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1384559481829347331/pu/img/k-W6KScic03trbCg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1384559481829347331/pu/img/k-W6KScic03trbCg.jpg",
+					"url": "https://t.co/a1Ln9a1Egl",
+					"display_url": "pic.twitter.com/a1Ln9a1Egl",
+					"expanded_url": "https://twitter.com/FCBW_A7/status/1384559821135953920/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1384559821135954000,
+					"source_status_id_str": "1384559821135953920",
+					"source_user_id": 344611368,
+					"source_user_id_str": "344611368",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15003,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1384559481829347331/pu/pl/RaILQ7U0_KizfJ1D.m3u8?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1384559481829347331/pu/vid/480x852/SDd-vtHm2gzQ-Yrb.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1384559481829347331/pu/vid/320x568/B7_w35hS9EfY-tGT.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1384559481829347331/pu/vid/720x1280/PI5mY7Iz0PqMlGH3.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 344611368,
+							"id_str": "344611368",
+							"name": "FCB World",
+							"screen_name": "FCBW_A7",
+							"location": "",
+							"description": "عالم البارسا مصدرك ووجهتك الأولى لكل مايخص نادي برشلونة، إحدى الحسابات التابعة لشبكة برشلونة العربية، للتواصل twitter@forcabarca.com",
+							"url": "https://t.co/dBL9pblWHQ",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/dBL9pblWHQ",
+											"expanded_url": "http://forcabarca.com",
+											"display_url": "forcabarca.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 745818,
+							"friends_count": 0,
+							"listed_count": 2115,
+							"created_at": "Fri Jul 29 09:42:54 +0000 2011",
+							"favourites_count": 411,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 232337,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "EBEBEB",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1381627083928055817/R8ORzpcD_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1381627083928055817/R8ORzpcD_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/344611368/1618240542",
+							"profile_link_color": "91D2FA",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "F3F3F3",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1384560185272934400,
+		"in_reply_to_status_id_str": "1384560185272934406",
+		"in_reply_to_user_id": 3324689194,
+		"in_reply_to_user_id_str": "3324689194",
+		"in_reply_to_screen_name": "TheEuropeanLad",
+		"user": {
+			"id": 3324689194,
+			"id_str": "3324689194",
+			"name": "𝐀𝐅𝐂 𝐀𝐉𝐀𝐗 💎",
+			"screen_name": "TheEuropeanLad",
+			"location": "The Netherlands ",
+			"description": "@AFCAjax • ʜᴇʀᴇ ᴛᴏ ᴛᴡᴇᴇᴛ ᴀʙᴏᴜᴛ ᴀᴊᴀx ᴀɴᴅ ᴀʟʟ ᴏᴛʜᴇʀ ᴇᴜʀᴏᴘᴇᴀɴ ғᴏᴏᴛʙᴀʟʟ • ᴍᴇssɪ ᴀɴᴅ ғʀᴇɴᴋɪᴇ ᴇɴᴛʜᴜsɪᴀsᴛ •",
+			"url": "https://t.co/xDsOlI8Exe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xDsOlI8Exe",
+							"expanded_url": "https://www.instagram.com/theeuropeanlad/",
+							"display_url": "instagram.com/theeuropeanlad/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77717,
+			"friends_count": 142,
+			"listed_count": 281,
+			"created_at": "Sun Jun 14 10:57:43 +0000 2015",
+			"favourites_count": 70190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384517472913657858/rln2o02V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384517472913657858/rln2o02V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3324689194/1618929701",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 1055,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And more footage... heated atmosphere... https://t.co/a1Ln9a1Egl"
+	},
+	{
 		"created_at": "Mon Apr 19 21:25:22 +0000 2021",
 		"id": 1384124917273161700,
 		"id_str": "1384256837525008390",
