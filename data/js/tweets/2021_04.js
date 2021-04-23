@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 22 17:46:39 +0000 2021",
+		"id": 1385288957039100000,
+		"id_str": "1385288957039099914",
+		"full_text": "@Orbinho @OptaAnalyst link at bottom of article https://t.co/BjgEZdaANw",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Orbinho",
+					"name": "Orbinho",
+					"id": 60026651,
+					"id_str": "60026651",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "OptaAnalyst",
+					"name": "The Analyst",
+					"id": 179500584,
+					"id_str": "179500584",
+					"indices": [
+						9,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1385288944028377000,
+					"id_str": "1385288944028377091",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EzmI9HwWYAMaQVM.png",
+					"media_url_https": "https://pbs.twimg.com/media/EzmI9HwWYAMaQVM.png",
+					"url": "https://t.co/BjgEZdaANw",
+					"display_url": "pic.twitter.com/BjgEZdaANw",
+					"expanded_url": "https://twitter.com/mfshill/status/1385288957039099914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 223,
+							"h": 41,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 223,
+							"h": 41,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 41,
+							"h": 41,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 223,
+							"h": 41,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1385288944028377000,
+					"id_str": "1385288944028377091",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EzmI9HwWYAMaQVM.png",
+					"media_url_https": "https://pbs.twimg.com/media/EzmI9HwWYAMaQVM.png",
+					"url": "https://t.co/BjgEZdaANw",
+					"display_url": "pic.twitter.com/BjgEZdaANw",
+					"expanded_url": "https://twitter.com/mfshill/status/1385288957039099914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 223,
+							"h": 41,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 223,
+							"h": 41,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 41,
+							"h": 41,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 223,
+							"h": 41,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1385288089191452700,
+		"in_reply_to_status_id_str": "1385288089191452678",
+		"in_reply_to_user_id": 60026651,
+		"in_reply_to_user_id_str": "60026651",
+		"in_reply_to_screen_name": "Orbinho",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Orbinho @OptaAnalyst link at bottom of article https://t.co/BjgEZdaANw"
+	},
+	{
 		"created_at": "Wed Apr 21 22:34:38 +0000 2021",
 		"id": 1384999044804759600,
 		"id_str": "1384999044804759561",
