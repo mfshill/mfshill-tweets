@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 28 22:25:58 +0000 2021",
+		"id": 1387186813085884400,
+		"id_str": "1387533577848512518",
+		"full_text": "Good news: Prancer, the 13-pound gremlin Chihuahua who hates men and children, and was described as a \"vessel for a traumatized Victorian child,\" has been adopted by a 36-year-old single lesbian in Connecticut.\nhttps://t.co/3xrCpWemVn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3xrCpWemVn",
+					"expanded_url": "https://trib.al/4eP0EtY",
+					"display_url": "trib.al/4eP0EtY",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5392522,
+			"id_str": "5392522",
+			"name": "NPR",
+			"screen_name": "NPR",
+			"location": "",
+			"description": "News. Arts & Life. Music & more. This is NPR.\n\n🕵️ Securely send us news tips: https://t.co/LPkf6Tsozm",
+			"url": "http://t.co/SoL86ga4RI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/SoL86ga4RI",
+							"expanded_url": "http://www.npr.org",
+							"display_url": "npr.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LPkf6Tsozm",
+							"expanded_url": "http://securedrop.npr.org",
+							"display_url": "securedrop.npr.org",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8741224,
+			"friends_count": 68696,
+			"listed_count": 69020,
+			"created_at": "Sun Apr 22 05:10:15 +0000 2007",
+			"favourites_count": 2543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 214921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208165423109292032/_oEEIsvx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208165423109292032/_oEEIsvx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5392522/1575653448",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8909,
+		"favorite_count": 53830,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good news: Prancer, the 13-pound gremlin Chihuahua who hates men and children, and was described as a \"vessel for a traumatized Victorian child,\" has been adopted by a 36-year-old single lesbian in Connecticut.\nhttps://t.co/3xrCpWemVn"
+	},
+	{
+		"created_at": "Wed Apr 28 19:29:52 +0000 2021",
+		"id": 1387489258009661400,
+		"id_str": "1387489258009661442",
+		"full_text": "@hotukdeals @Dominos_UK sign the petition https://t.co/i4QsgVlf5O",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hotukdeals",
+					"name": "hotukdeals",
+					"id": 20056434,
+					"id_str": "20056434",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Dominos_UK",
+					"name": "Domino's Pizza UK",
+					"id": 89214789,
+					"id_str": "89214789",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i4QsgVlf5O",
+					"expanded_url": "https://www.change.org/p/domino-s-pizza-uk-bring-back-domino-s-double-decadence-bases",
+					"display_url": "change.org/p/domino-s-piz…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1387463795661017000,
+		"in_reply_to_status_id_str": "1387463795661017095",
+		"in_reply_to_user_id": 20056434,
+		"in_reply_to_user_id_str": "20056434",
+		"in_reply_to_screen_name": "hotukdeals",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1231,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@hotukdeals @Dominos_UK sign the petition https://t.co/i4QsgVlf5O"
+	},
+	{
+		"created_at": "Wed Apr 28 12:08:11 +0000 2021",
+		"id": 1387378107678699500,
+		"id_str": "1387378107678699522",
+		"full_text": "10 years https://t.co/0MggP2jT4g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0MggP2jT4g",
+					"expanded_url": "https://twitter.com/edballs/status/63623585020915713",
+					"display_url": "twitter.com/edballs/status…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 254,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1231,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 63623585020915710,
+		"quoted_status_id_str": "63623585020915713",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0MggP2jT4g",
+			"expanded": "https://twitter.com/edballs/status/63623585020915713",
+			"display": "twitter.com/edballs/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 28 15:20:19 +0000 2011",
+			"id": 63623585020915710,
+			"id_str": "63623585020915713",
+			"full_text": "Ed Balls",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				8
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://erased734497.com\" rel=\"nofollow\">erased734497</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16708655,
+				"id_str": "16708655",
+				"name": "Ed Balls",
+				"screen_name": "edballs",
+				"location": "London-Castleford-Cambridge MA",
+				"description": "Dad, cook, pianist, economist, author, King's Professor, Harvard, Holocaust Fn co-Chair, #NCFC, retired dancer, former Cabinet minister, sometimes on TV & Radio",
+				"url": "https://t.co/LLA7IEiOLE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LLA7IEiOLE",
+								"expanded_url": "http://www.edballs.co.uk",
+								"display_url": "edballs.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 286259,
+				"friends_count": 1971,
+				"listed_count": 2444,
+				"created_at": "Sun Oct 12 15:15:01 +0000 2008",
+				"favourites_count": 103,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 7822,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1381164154007007232/XvYzqJwE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1381164154007007232/XvYzqJwE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16708655/1618221678",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 110808,
+			"favorite_count": 109567,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "10 years https://t.co/0MggP2jT4g"
+	},
+	{
 		"created_at": "Tue Apr 27 20:57:45 +0000 2021",
 		"id": 1387148986574835700,
 		"id_str": "1387148986574835716",
