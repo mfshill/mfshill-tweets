@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 03 20:19:44 +0000 2021",
+		"id": 1389257303677882400,
+		"id_str": "1389313746456166400",
+		"full_text": "the whole story is even more awesome: https://t.co/rcJzrLBiP7 https://t.co/b9wACHQ3Y0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rcJzrLBiP7",
+					"expanded_url": "https://twitter.com/aaronfullerton/status/1372582558752415744",
+					"display_url": "twitter.com/aaronfullerton…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1389257298451763200,
+					"id_str": "1389257298451763210",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/E0eiJv_WEAoBvEg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0eiJv_WEAoBvEg.jpg",
+					"url": "https://t.co/b9wACHQ3Y0",
+					"display_url": "pic.twitter.com/b9wACHQ3Y0",
+					"expanded_url": "https://twitter.com/alexdecampi/status/1389257303677882380/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 414,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 731,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1845,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1389257298451763200,
+					"id_str": "1389257298451763210",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/E0eiJv_WEAoBvEg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0eiJv_WEAoBvEg.jpg",
+					"url": "https://t.co/b9wACHQ3Y0",
+					"display_url": "pic.twitter.com/b9wACHQ3Y0",
+					"expanded_url": "https://twitter.com/alexdecampi/status/1389257303677882380/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 414,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 731,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1845,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1389257298523132000,
+					"id_str": "1389257298523131907",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/E0eiJwQXEAMyvgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0eiJwQXEAMyvgt.jpg",
+					"url": "https://t.co/b9wACHQ3Y0",
+					"display_url": "pic.twitter.com/b9wACHQ3Y0",
+					"expanded_url": "https://twitter.com/alexdecampi/status/1389257303677882380/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 2042,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 375,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 661,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15182368,
+			"id_str": "15182368",
+			"name": "Alex de Campi",
+			"screen_name": "alexdecampi",
+			"location": "New York City",
+			"description": "At the intersection of Rambo and Rimbaud. Reps: @NepheleTempest at @KnightAgency (lit) / Sean Berard @ Grandview (film / TV). She/her",
+			"url": "https://t.co/gHSbzGBohM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gHSbzGBohM",
+							"expanded_url": "https://bookshop.org/shop/alexdecampi",
+							"display_url": "bookshop.org/shop/alexdecam…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20831,
+			"friends_count": 2602,
+			"listed_count": 397,
+			"created_at": "Fri Jun 20 17:53:01 +0000 2008",
+			"favourites_count": 163461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 87879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000401020627/6a58ea1452ebd15381fa0542e5eb4592_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000401020627/6a58ea1452ebd15381fa0542e5eb4592_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15182368/1617629166",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1372582558752415700,
+		"quoted_status_id_str": "1372582558752415744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rcJzrLBiP7",
+			"expanded": "https://twitter.com/aaronfullerton/status/1372582558752415744",
+			"display": "twitter.com/aaronfullerton…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 18 16:15:58 +0000 2021",
+			"id": 1372582558752415700,
+			"id_str": "1372582558752415744",
+			"full_text": "Shoot for the moon. Even if you miss, you’ll land among the stars. https://t.co/NiUSwhDUSw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				66
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1372582554398728200,
+						"id_str": "1372582554398728194",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/Ewxkj5vVoAIlhfI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ewxkj5vVoAIlhfI.jpg",
+						"url": "https://t.co/NiUSwhDUSw",
+						"display_url": "pic.twitter.com/NiUSwhDUSw",
+						"expanded_url": "https://twitter.com/AaronFullerton/status/1372582558752415744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 729,
+								"h": 270,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 252,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 729,
+								"h": 270,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1372582554398728200,
+						"id_str": "1372582554398728194",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/Ewxkj5vVoAIlhfI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ewxkj5vVoAIlhfI.jpg",
+						"url": "https://t.co/NiUSwhDUSw",
+						"display_url": "pic.twitter.com/NiUSwhDUSw",
+						"expanded_url": "https://twitter.com/AaronFullerton/status/1372582558752415744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 729,
+								"h": 270,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 252,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 729,
+								"h": 270,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17507545,
+				"id_str": "17507545",
+				"name": "Aaron Fullerton",
+				"screen_name": "AaronFullerton",
+				"location": "Not a Disco/Not a Country Club",
+				"description": "TV writer. Cancer survivor. 'We Didn't Start The Fire' Guy. Constantly feeling lucky.",
+				"url": "https://t.co/5rQh0sqsNH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5rQh0sqsNH",
+								"expanded_url": "http://aaronlaughswithcancer.tumblr.com",
+								"display_url": "aaronlaughswithcancer.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19407,
+				"friends_count": 1450,
+				"listed_count": 567,
+				"created_at": "Thu Nov 20 08:16:01 +0000 2008",
+				"favourites_count": 81889,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37316,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B88C8D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1129482572457762819/tt4xiHfy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129482572457762819/tt4xiHfy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17507545/1484548703",
+				"profile_link_color": "A8CC26",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "3B2D2E",
+				"profile_text_color": "080008",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24933,
+			"favorite_count": 158066,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3055,
+		"favorite_count": 7697,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the whole story is even more awesome: https://t.co/rcJzrLBiP7 https://t.co/b9wACHQ3Y0"
+	},
+	{
 		"created_at": "Sat May 01 19:52:45 +0000 2021",
 		"id": 1388582183061934000,
 		"id_str": "1388582183061934080",
