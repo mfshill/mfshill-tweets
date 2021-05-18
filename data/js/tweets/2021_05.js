@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 17 21:24:06 +0000 2021",
+		"id": 1394403377870774300,
+		"id_str": "1394403377870774272",
+		"full_text": "this is... https://t.co/S44Nn70Fav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S44Nn70Fav",
+					"expanded_url": "https://twitter.com/Rubberbandits/status/1394211540438499329",
+					"display_url": "twitter.com/Rubberbandits/…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 256,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377742009331552262/TqL7HwuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1394211540438499300,
+		"quoted_status_id_str": "1394211540438499329",
+		"quoted_status_permalink": {
+			"url": "https://t.co/S44Nn70Fav",
+			"expanded": "https://twitter.com/Rubberbandits/status/1394211540438499329",
+			"display": "twitter.com/Rubberbandits/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 17 08:41:49 +0000 2021",
+			"id": 1394211540438499300,
+			"id_str": "1394211540438499329",
+			"full_text": "Good old Cliff and Norm from Cheers. Playing washed up old men. 35 and 33 years old respectively. Today they’d be called “young people” because of the housing crisis https://t.co/RYc2J36BRW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1394211536437121000,
+						"id_str": "1394211536437121028",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/E1k8AWsWEAQAuYq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1k8AWsWEAQAuYq.jpg",
+						"url": "https://t.co/RYc2J36BRW",
+						"display_url": "pic.twitter.com/RYc2J36BRW",
+						"expanded_url": "https://twitter.com/Rubberbandits/status/1394211540438499329/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 514,
+								"h": 387,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 514,
+								"h": 387,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 514,
+								"h": 387,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1394211536437121000,
+						"id_str": "1394211536437121028",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/E1k8AWsWEAQAuYq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1k8AWsWEAQAuYq.jpg",
+						"url": "https://t.co/RYc2J36BRW",
+						"display_url": "pic.twitter.com/RYc2J36BRW",
+						"expanded_url": "https://twitter.com/Rubberbandits/status/1394211540438499329/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 514,
+								"h": 387,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 514,
+								"h": 387,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 514,
+								"h": 387,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 68151046,
+				"id_str": "68151046",
+				"name": "The Blindboy Podcast",
+				"screen_name": "Rubberbandits",
+				"location": "Limerick Ireland",
+				"description": "https://t.co/T6O9k48Ycu\nRun by admin, while Blindboyboatclub is writing his next book and creates his weekly podcast. Tweets by BB",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/T6O9k48Ycu",
+								"expanded_url": "https://linktr.ee/Blindboyboatclub",
+								"display_url": "linktr.ee/Blindboyboatcl…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 252952,
+				"friends_count": 4652,
+				"listed_count": 632,
+				"created_at": "Sun Aug 23 14:08:48 +0000 2009",
+				"favourites_count": 25888,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 37653,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1656175483/Serious_about_men_cover__1__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1656175483/Serious_about_men_cover__1__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/68151046/1427232506",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 934,
+			"favorite_count": 6081,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is... https://t.co/S44Nn70Fav"
+	},
+	{
 		"created_at": "Sun May 16 21:00:06 +0000 2021",
 		"id": 1394034948722602000,
 		"id_str": "1394034948722601999",
