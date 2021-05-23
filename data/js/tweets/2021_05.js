@@ -1,10 +1,303 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 22 17:57:32 +0000 2021",
+		"id": 1396124821545685000,
+		"id_str": "1396163332965535749",
+		"full_text": "🍟🌊 https://t.co/Fj2xbQGFJs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1396123753180958700,
+					"id_str": "1396123753180958720",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/E2AHKBLWEAAUO3c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2AHKBLWEAAUO3c.jpg",
+					"url": "https://t.co/Fj2xbQGFJs",
+					"display_url": "pic.twitter.com/Fj2xbQGFJs",
+					"expanded_url": "https://twitter.com/FalseKnees/status/1396124821545684993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1396123753180958700,
+					"id_str": "1396123753180958720",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/E2AHKBLWEAAUO3c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2AHKBLWEAAUO3c.jpg",
+					"url": "https://t.co/Fj2xbQGFJs",
+					"display_url": "pic.twitter.com/Fj2xbQGFJs",
+					"expanded_url": "https://twitter.com/FalseKnees/status/1396124821545684993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1396123795598020600,
+					"id_str": "1396123795598020609",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/E2AHMfMXEAEmv14.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2AHMfMXEAEmv14.jpg",
+					"url": "https://t.co/Fj2xbQGFJs",
+					"display_url": "pic.twitter.com/Fj2xbQGFJs",
+					"expanded_url": "https://twitter.com/FalseKnees/status/1396124821545684993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1396123810789826600,
+					"id_str": "1396123810789826562",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/E2AHNXyXoAIi_Fs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2AHNXyXoAIi_Fs.jpg",
+					"url": "https://t.co/Fj2xbQGFJs",
+					"display_url": "pic.twitter.com/Fj2xbQGFJs",
+					"expanded_url": "https://twitter.com/FalseKnees/status/1396124821545684993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1396123820461858800,
+					"id_str": "1396123820461858818",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/E2AHN70XIAIoOiB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2AHN70XIAIoOiB.jpg",
+					"url": "https://t.co/Fj2xbQGFJs",
+					"display_url": "pic.twitter.com/Fj2xbQGFJs",
+					"expanded_url": "https://twitter.com/FalseKnees/status/1396124821545684993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 829773470,
+			"id_str": "829773470",
+			"name": "False Knees",
+			"screen_name": "FalseKnees",
+			"location": "Canada",
+			"description": "bird/human hybrid. comic and art prints available here: https://t.co/JjBHw76iut",
+			"url": "https://t.co/PqmZJFAcsB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PqmZJFAcsB",
+							"expanded_url": "https://www.patreon.com/falseknees",
+							"display_url": "patreon.com/falseknees",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JjBHw76iut",
+							"expanded_url": "https://store.falseknees.com/",
+							"display_url": "store.falseknees.com",
+							"indices": [
+								56,
+								79
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 135745,
+			"friends_count": 251,
+			"listed_count": 700,
+			"created_at": "Mon Sep 17 20:39:54 +0000 2012",
+			"favourites_count": 3614,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C28E25",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/580146785957474304/kUHhXZkQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/580146785957474304/kUHhXZkQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/829773470/1573920143",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "93A644",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7096,
+		"favorite_count": 35967,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🍟🌊 https://t.co/Fj2xbQGFJs"
+	},
+	{
 		"created_at": "Fri May 21 19:36:12 +0000 2021",
 		"id": 1395825773299314700,
 		"id_str": "1395825773299314688",
-		"full_text": "@VirginMoney @LondonMarathon Who wouldn't want to run the best marathon in the world?! I'd love to run with @sqwirral and get this one chalked off the bucket list. 🏃🏾🏃🏼‍♂️",
+		"full_text": "@VirginMoney @LondonMarathon Who wouldn't want to run the best marathon in the world?! I'd love to run with @sqwirral and get this one chalked off the bucket list. 🏃🏾🏃🏼♂️",
 		"truncated": false,
 		"display_text_range": [
 			29,
@@ -112,7 +405,7 @@ Grailbird.data.tweets_2021_05 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@VirginMoney @LondonMarathon Who wouldn't want to run the best marathon in the world?! I'd love to run with @sqwirral and get this one chalked off the bucket list. 🏃🏾🏃🏼‍♂️"
+		"text": "@VirginMoney @LondonMarathon Who wouldn't want to run the best marathon in the world?! I'd love to run with @sqwirral and get this one chalked off the bucket list. 🏃🏾🏃🏼♂️"
 	},
 	{
 		"created_at": "Wed May 19 19:55:02 +0000 2021",
