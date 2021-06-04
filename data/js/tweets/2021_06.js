@@ -1,6 +1,115 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 03 18:25:29 +0000 2021",
+		"id": 1400519018608476200,
+		"id_str": "1400519018608476161",
+		"full_text": "#NowPlaying️ #Tune! 'Nu:Tone - Jonas' https://t.co/foDPJ3zEGc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NowPlaying️",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "Tune",
+					"indices": [
+						13,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/foDPJ3zEGc",
+					"expanded_url": "https://youtu.be/WfdNa1y2LZg",
+					"display_url": "youtu.be/WfdNa1y2LZg",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 256,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "lv",
+		"text": "#NowPlaying️ #Tune! 'Nu:Tone - Jonas' https://t.co/foDPJ3zEGc"
+	},
+	{
 		"created_at": "Wed Jun 02 19:18:55 +0000 2021",
 		"id": 1399860017512300500,
 		"id_str": "1400170080307232779",
@@ -175,7 +284,7 @@ Grailbird.data.tweets_2021_06 =
 			"created_at": "Tue Jun 01 10:50:55 +0000 2021",
 			"id": 1399679851003527200,
 			"id_str": "1399679851003527174",
-			"full_text": "Who would you like to see drive around with James Corden? 👨‍🎤🚗 #CarpoolKaraoke https://t.co/aG5iN65ZOW",
+			"full_text": "Who would you like to see drive around with James Corden? 👨🎤🚗 #CarpoolKaraoke https://t.co/aG5iN65ZOW",
 			"truncated": false,
 			"display_text_range": [
 				0,
