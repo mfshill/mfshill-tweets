@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 13 15:41:33 +0000 2021",
+		"id": 1403945556813222000,
+		"id_str": "1404101645617741829",
+		"full_text": "It was the OWWWW for me 😂😂😂 https://t.co/m972czJiuK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1403945523170660400,
+					"id_str": "1403945523170660353",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1403945523170660353/pu/img/MF-W9urfCPjc2u0f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1403945523170660353/pu/img/MF-W9urfCPjc2u0f.jpg",
+					"url": "https://t.co/m972czJiuK",
+					"display_url": "pic.twitter.com/m972czJiuK",
+					"expanded_url": "https://twitter.com/edcitoo/status/1403945556813221890/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1136,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403945523170660400,
+					"id_str": "1403945523170660353",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1403945523170660353/pu/img/MF-W9urfCPjc2u0f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1403945523170660353/pu/img/MF-W9urfCPjc2u0f.jpg",
+					"url": "https://t.co/m972czJiuK",
+					"display_url": "pic.twitter.com/m972czJiuK",
+					"expanded_url": "https://twitter.com/edcitoo/status/1403945556813221890/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1136,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							319,
+							568
+						],
+						"duration_millis": 14867,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1403945523170660353/pu/vid/480x854/WV7LW9lWXVJ4HbbR.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1403945523170660353/pu/pl/TMg4BpVS1Bj7F5uy.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1403945523170660353/pu/vid/638x1136/0Yh5cYyX7mgodDC8.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1403945523170660353/pu/vid/320x568/XvzFDT1ykXJNQSw3.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1228790549169217500,
+			"id_str": "1228790549169217537",
+			"name": "✨ Ed🤦🏽‍♂️ ✨",
+			"screen_name": "edcitoo",
+			"location": "",
+			"description": "CPA 💰• MBA 📊 • culture 🏺• music 🎶 • movies 🎥",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 824,
+			"friends_count": 1017,
+			"listed_count": 6,
+			"created_at": "Sat Feb 15 21:18:28 +0000 2020",
+			"favourites_count": 165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1355733848672378880/5CkwJp-o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1355733848672378880/5CkwJp-o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1228790549169217537/1619454952",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 170,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It was the OWWWW for me 😂😂😂 https://t.co/m972czJiuK"
+	},
+	{
+		"created_at": "Sun Jun 13 14:03:02 +0000 2021",
+		"id": 1404076852575182800,
+		"id_str": "1404076852575182849",
+		"full_text": "@Legendarybeepa made a world of difference. injecting some life and humour into the game",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Legendarybeepa",
+					"name": "Legendarybeepa",
+					"id": 54299159,
+					"id_str": "54299159",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1404068652224286700,
+		"in_reply_to_status_id_str": "1404068652224286721",
+		"in_reply_to_user_id": 54299159,
+		"in_reply_to_user_id_str": "54299159",
+		"in_reply_to_screen_name": "Legendarybeepa",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 256,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Legendarybeepa made a world of difference. injecting some life and humour into the game"
+	},
+	{
 		"created_at": "Sat Jun 12 18:39:26 +0000 2021",
 		"id": 1403783336607326200,
 		"id_str": "1403784021893648385",
