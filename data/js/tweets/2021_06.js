@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 19 16:30:04 +0000 2021",
+		"id": 1406280614899224600,
+		"id_str": "1406288179108454407",
+		"full_text": "There's a double standard for patriotism in America. We connect the dots between Black Lives Matter protests and another major protest you probably learned about that set the course for the country. https://t.co/7zxlioLNGT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1308465944528711700,
+					"id_str": "1308465944528711680",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EiilUQ1UMAIbVGZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiilUQ1UMAIbVGZ.jpg",
+					"url": "https://t.co/7zxlioLNGT",
+					"display_url": "pic.twitter.com/7zxlioLNGT",
+					"expanded_url": "https://twitter.com/VICENews/status/1406280614899224577/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308465944528711700,
+					"id_str": "1308465944528711680",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EiilUQ1UMAIbVGZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiilUQ1UMAIbVGZ.jpg",
+					"url": "https://t.co/7zxlioLNGT",
+					"display_url": "pic.twitter.com/7zxlioLNGT",
+					"expanded_url": "https://twitter.com/VICENews/status/1406280614899224577/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 234968,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1308465944528711680/vid/640x360/EWUdXjCftlgvsCz8.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1308465944528711680/vid/1280x720/vfEJi3wF1dVjHrDz.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1308465944528711680/pl/xfi64uLt70QdjQhh.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1308465944528711680/vid/480x270/f0bJf8eXsqvcQcIP.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "The Double Standard for Patriotism in America",
+						"description": "Watch #VICENewsTonight Monday–Thursday on @VICETV.",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1630896181,
+			"id_str": "1630896181",
+			"name": "VICE News",
+			"screen_name": "VICENews",
+			"location": "Worldwide",
+			"description": "#VICENewsTonight airs Monday–Thursday on @VICETV / #VICEonSHO on @Showtime / Sign up for the VICE News Daily Brief https://t.co/iAmmxEdiz4",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iAmmxEdiz4",
+							"expanded_url": "http://bit.ly/2NnkJOD",
+							"display_url": "bit.ly/2NnkJOD",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1009617,
+			"friends_count": 948,
+			"listed_count": 11091,
+			"created_at": "Mon Jul 29 17:40:09 +0000 2013",
+			"favourites_count": 4740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 127129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1233501220351938561/EDFKNAdi_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233501220351938561/EDFKNAdi_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1630896181/1593214220",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There's a double standard for patriotism in America. We connect the dots between Black Lives Matter protests and another major protest you probably learned about that set the course for the country. https://t.co/7zxlioLNGT"
+	},
+	{
 		"created_at": "Fri Jun 18 21:29:42 +0000 2021",
 		"id": 1406001197560086500,
 		"id_str": "1406001197560086530",
@@ -511,7 +717,7 @@ Grailbird.data.tweets_2021_06 =
 		"created_at": "Fri Jun 18 20:53:26 +0000 2021",
 		"id": 1405992072931332000,
 		"id_str": "1405992072931332101",
-		"full_text": "@misskirstielou 🧘🏾‍♀️🍷👍🏾",
+		"full_text": "@misskirstielou 🧘🏾♀️🍷👍🏾",
 		"truncated": false,
 		"display_text_range": [
 			16,
@@ -599,7 +805,7 @@ Grailbird.data.tweets_2021_06 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "und",
-		"text": "@misskirstielou 🧘🏾‍♀️🍷👍🏾"
+		"text": "@misskirstielou 🧘🏾♀️🍷👍🏾"
 	},
 	{
 		"created_at": "Fri Jun 18 20:49:44 +0000 2021",
