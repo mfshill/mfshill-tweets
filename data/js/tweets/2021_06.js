@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 20 21:51:39 +0000 2021",
+		"id": 1406723783717789700,
+		"id_str": "1406731499391565826",
+		"full_text": "https://t.co/1mqB8r3nAF https://t.co/kZNVsIEe4l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1mqB8r3nAF",
+					"expanded_url": "https://twitter.com/amerix/status/1406205161542987778",
+					"display_url": "twitter.com/amerix/status/…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1406723728248033300,
+					"id_str": "1406723728248033291",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E4WvxxdWUAsvBAq.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E4WvxxdWUAsvBAq.jpg",
+					"url": "https://t.co/kZNVsIEe4l",
+					"display_url": "pic.twitter.com/kZNVsIEe4l",
+					"expanded_url": "https://twitter.com/TC_Cornesto/status/1406723783717789703/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 283,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1406723728248033300,
+					"id_str": "1406723728248033291",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E4WvxxdWUAsvBAq.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E4WvxxdWUAsvBAq.jpg",
+					"url": "https://t.co/kZNVsIEe4l",
+					"display_url": "pic.twitter.com/kZNVsIEe4l",
+					"expanded_url": "https://twitter.com/TC_Cornesto/status/1406723783717789703/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 283,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							12,
+							5
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E4WvxxdWUAsvBAq.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19991214,
+			"id_str": "19991214",
+			"name": "TC Cornesto",
+			"screen_name": "TC_Cornesto",
+			"location": "",
+			"description": "Taciturn Bastard - Doomstruck Gimp - Fresh Idiot (kinkï) - Commanding but not Cunty (apparently)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1502,
+			"friends_count": 1737,
+			"listed_count": 49,
+			"created_at": "Tue Feb 03 18:28:43 +0000 2009",
+			"favourites_count": 59796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323193346890891266/1iUIvuUi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323193346890891266/1iUIvuUi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19991214/1604308821",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1406205161542987800,
+		"quoted_status_id_str": "1406205161542987778",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1mqB8r3nAF",
+			"expanded": "https://twitter.com/amerix/status/1406205161542987778",
+			"display": "twitter.com/amerix/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 19 11:00:11 +0000 2021",
+			"id": 1406205161542987800,
+			"id_str": "1406205161542987778",
+			"full_text": "Men,\n\nIf you see a woman online past 10 PM,\n\nDon't even touch her with a 10-FOOT POLE.\n\nShe is desperately looking for attention from strangers since, in her real life, no man is attracted to her or ready to touch her.\n\nAvoid her and FOCUS ON YOUR LIFE.\n\n#MasculinitySaturday",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MasculinitySaturday",
+						"indices": [
+							255,
+							275
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34908371,
+				"id_str": "34908371",
+				"name": "Eric",
+				"screen_name": "amerix",
+				"location": "Minneapolis, MN. Kenya",
+				"description": "Mandela Washington Fellow | @HHHSchool | Men's Health & Lifestyle Medicine | email: eric@amerix.co.ke",
+				"url": "https://t.co/tYUa1UeJsV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tYUa1UeJsV",
+								"expanded_url": "https://www.amerix.co.ke",
+								"display_url": "amerix.co.ke",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 330866,
+				"friends_count": 990,
+				"listed_count": 368,
+				"created_at": "Fri Apr 24 12:07:14 +0000 2009",
+				"favourites_count": 2423,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 156095,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1398393807041929219/EZUbnPO9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398393807041929219/EZUbnPO9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34908371/1617726139",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 996,
+			"favorite_count": 4129,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/1mqB8r3nAF https://t.co/kZNVsIEe4l"
+	},
+	{
 		"created_at": "Sat Jun 19 16:30:04 +0000 2021",
 		"id": 1406280614899224600,
 		"id_str": "1406288179108454407",
