@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 25 22:36:42 +0000 2021",
+		"id": 1408539929798484000,
+		"id_str": "1408554772370690050",
+		"full_text": "God this is even worse with the audio https://t.co/PAWVtisRor",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408539514092597200,
+					"id_str": "1408539514092597250",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1408539514092597250/pu/img/R7S_SB03PsroaCcn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1408539514092597250/pu/img/R7S_SB03PsroaCcn.jpg",
+					"url": "https://t.co/PAWVtisRor",
+					"display_url": "pic.twitter.com/PAWVtisRor",
+					"expanded_url": "https://twitter.com/OFalafel/status/1408539929798483972/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408539514092597200,
+					"id_str": "1408539514092597250",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1408539514092597250/pu/img/R7S_SB03PsroaCcn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1408539514092597250/pu/img/R7S_SB03PsroaCcn.jpg",
+					"url": "https://t.co/PAWVtisRor",
+					"display_url": "pic.twitter.com/PAWVtisRor",
+					"expanded_url": "https://twitter.com/OFalafel/status/1408539929798483972/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60200,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408539514092597250/pu/vid/720x720/xaCHyfb6kmtpBxDs.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1408539514092597250/pu/pl/7WVztQ7mkdptKgJw.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408539514092597250/pu/vid/320x320/5BQKMOLBf2_m9PIA.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408539514092597250/pu/vid/540x540/uzhE03KB3BAHVyMj.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 781096099,
+			"id_str": "781096099",
+			"name": "Olaf Falafel",
+			"screen_name": "OFalafel",
+			"location": "✏️WATCH ART CLUB HERE:",
+			"description": "Funniest Joke Of The Edinburgh Fringe - Comedian, kids book author, illustrator & CEO of Art Club. #LTFC You can buy me a coffee here: https://t.co/Rp9KHVlKSl",
+			"url": "https://t.co/rlz7UvAWA8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rlz7UvAWA8",
+							"expanded_url": "https://www.youtube.com/user/OlafFalafel",
+							"display_url": "youtube.com/user/OlafFalaf…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Rp9KHVlKSl",
+							"expanded_url": "https://ko-fi.com/olaf",
+							"display_url": "ko-fi.com/olaf",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 56137,
+			"friends_count": 986,
+			"listed_count": 281,
+			"created_at": "Sat Aug 25 21:05:30 +0000 2012",
+			"favourites_count": 19932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142004765540458496/QE94ezSD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142004765540458496/QE94ezSD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/781096099/1598615414",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1327,
+		"favorite_count": 4874,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "God this is even worse with the audio https://t.co/PAWVtisRor"
+	},
+	{
+		"created_at": "Fri Jun 25 21:10:44 +0000 2021",
+		"id": 1408533141304840200,
+		"id_str": "1408533141304840195",
+		"full_text": "nope. as soon as the pacers dropped out he started to slow. shame.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1408519758232920000,
+		"in_reply_to_status_id_str": "1408519758232920065",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "nope. as soon as the pacers dropped out he started to slow. shame."
+	},
+	{
 		"created_at": "Thu Jun 24 14:17:20 +0000 2021",
 		"id": 1408051890861060000,
 		"id_str": "1408066717197103117",
