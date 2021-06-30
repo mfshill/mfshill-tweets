@@ -1,6 +1,1279 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 29 19:43:37 +0000 2021",
+		"id": 1409960769446465500,
+		"id_str": "1409960769446465540",
+		"full_text": "game on! 1-1 #SWEUKR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SWEUKR",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 257,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "game on! 1-1 #SWEUKR"
+	},
+	{
+		"created_at": "Tue Jun 29 17:51:58 +0000 2021",
+		"id": 1409932669480312800,
+		"id_str": "1409932669480312837",
+		"full_text": "it is now. unexpected! 2-0 #ENGGER #EURO2020",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ENGGER",
+					"indices": [
+						27,
+						34
+					]
+				},
+				{
+					"text": "EURO2020",
+					"indices": [
+						35,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1409930474391224300,
+		"in_reply_to_status_id_str": "1409930474391224324",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 257,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "it is now. unexpected! 2-0 #ENGGER #EURO2020"
+	},
+	{
+		"created_at": "Tue Jun 29 17:43:14 +0000 2021",
+		"id": 1409930474391224300,
+		"id_str": "1409930474391224324",
+		"full_text": "it 'might' be all over. 2-0 #ENGGER #EURO2020",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ENGGER",
+					"indices": [
+						28,
+						35
+					]
+				},
+				{
+					"text": "EURO2020",
+					"indices": [
+						36,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1409927861448945700,
+		"in_reply_to_status_id_str": "1409927861448945668",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 257,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "it 'might' be all over. 2-0 #ENGGER #EURO2020"
+	},
+	{
+		"created_at": "Tue Jun 29 17:32:52 +0000 2021",
+		"id": 1409927861448945700,
+		"id_str": "1409927861448945668",
+		"full_text": "get in Raheem! 1-0 #ENGGER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ENGGER",
+					"indices": [
+						19,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1409904183344603100,
+		"in_reply_to_status_id_str": "1409904183344603139",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 257,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "get in Raheem! 1-0 #ENGGER"
+	},
+	{
+		"created_at": "Tue Jun 29 17:20:05 +0000 2021",
+		"id": 1409921129960161300,
+		"id_str": "1409924645172678661",
+		"full_text": "@BorisJohnson https://t.co/c4FQ7PJW0C",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BorisJohnson",
+					"name": "Boris Johnson",
+					"id": 3131144855,
+					"id_str": "3131144855",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409921124998303700,
+					"id_str": "1409921124998303748",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/E5ELywjX0AQdw8t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5ELywjX0AQdw8t.jpg",
+					"url": "https://t.co/c4FQ7PJW0C",
+					"display_url": "pic.twitter.com/c4FQ7PJW0C",
+					"expanded_url": "https://twitter.com/MrSiLaw/status/1409921129960161283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409921124998303700,
+					"id_str": "1409921124998303748",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/E5ELywjX0AQdw8t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5ELywjX0AQdw8t.jpg",
+					"url": "https://t.co/c4FQ7PJW0C",
+					"display_url": "pic.twitter.com/c4FQ7PJW0C",
+					"expanded_url": "https://twitter.com/MrSiLaw/status/1409921129960161283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1409919708107845600,
+		"in_reply_to_status_id_str": "1409919708107845633",
+		"in_reply_to_user_id": 3131144855,
+		"in_reply_to_user_id_str": "3131144855",
+		"in_reply_to_screen_name": "BorisJohnson",
+		"user": {
+			"id": 187412652,
+			"id_str": "187412652",
+			"name": "Simon Lawson",
+			"screen_name": "MrSiLaw",
+			"location": "Darwen, Lancashire",
+			"description": "A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 451,
+			"friends_count": 793,
+			"listed_count": 13,
+			"created_at": "Mon Sep 06 04:20:01 +0000 2010",
+			"favourites_count": 1773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1408005795862790146/EE9KMHd5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408005795862790146/EE9KMHd5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187412652/1623159506",
+			"profile_link_color": "168035",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1647,
+		"favorite_count": 10191,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@BorisJohnson https://t.co/c4FQ7PJW0C"
+	},
+	{
+		"created_at": "Tue Jun 29 16:39:37 +0000 2021",
+		"id": 1409914378980315100,
+		"id_str": "1409914462426091529",
+		"full_text": "Kane's heat map https://t.co/TzZug4LlBK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409914371812249600,
+					"id_str": "1409914371812249613",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E5EFpq-WUA0UQMc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E5EFpq-WUA0UQMc.jpg",
+					"url": "https://t.co/TzZug4LlBK",
+					"display_url": "pic.twitter.com/TzZug4LlBK",
+					"expanded_url": "https://twitter.com/Orbinho/status/1409914378980315136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409914371812249600,
+					"id_str": "1409914371812249613",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E5EFpq-WUA0UQMc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E5EFpq-WUA0UQMc.jpg",
+					"url": "https://t.co/TzZug4LlBK",
+					"display_url": "pic.twitter.com/TzZug4LlBK",
+					"expanded_url": "https://twitter.com/Orbinho/status/1409914378980315136/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 230,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							50,
+							23
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E5EFpq-WUA0UQMc.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60026651,
+			"id_str": "60026651",
+			"name": "Orbinho",
+			"screen_name": "Orbinho",
+			"location": "London-ish",
+			"description": "Arsenal facts. Head of Opta Data Editorial since the end of the 20th Century. Creator of @OptaJoe Trying to convince people to use data better.",
+			"url": "https://t.co/cRoW8ZO4IK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cRoW8ZO4IK",
+							"expanded_url": "https://www.statsperform.com/",
+							"display_url": "statsperform.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88242,
+			"friends_count": 1235,
+			"listed_count": 1802,
+			"created_at": "Sat Jul 25 09:55:31 +0000 2009",
+			"favourites_count": 711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/588984322130083840/bc56JV5r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/588984322130083840/bc56JV5r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60026651/1356111874",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 143,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kane's heat map https://t.co/TzZug4LlBK"
+	},
+	{
+		"created_at": "Tue Jun 29 16:20:21 +0000 2021",
+		"id": 1409909612422250500,
+		"id_str": "1409909612422250497",
+		"full_text": "great burst of acceleration from Cav! https://t.co/kDhuUTBeKY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kDhuUTBeKY",
+					"expanded_url": "https://twitter.com/LeTour/status/1409896690308587528",
+					"display_url": "twitter.com/LeTour/status/…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 257,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1409896690308587500,
+		"quoted_status_id_str": "1409896690308587528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kDhuUTBeKY",
+			"expanded": "https://twitter.com/LeTour/status/1409896690308587528",
+			"display": "twitter.com/LeTour/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 29 15:29:00 +0000 2021",
+			"id": 1409896690308587500,
+			"id_str": "1409896690308587528",
+			"full_text": "🦅 An aerial view of @MarkCavendish's winning sprint!\n\n🦅  Une vue aérienne du sprint final du @MarkCavendish !\n\n#TDF2021 https://t.co/ZbDDGryvSL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				119
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TDF2021",
+						"indices": [
+							111,
+							119
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MarkCavendish",
+						"name": "Mark Cavendish",
+						"id": 275575393,
+						"id_str": "275575393",
+						"indices": [
+							20,
+							34
+						]
+					},
+					{
+						"screen_name": "MarkCavendish",
+						"name": "Mark Cavendish",
+						"id": 275575393,
+						"id_str": "275575393",
+						"indices": [
+							93,
+							107
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1409892781372358700,
+						"id_str": "1409892781372358663",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1409892781372358663/img/XZFSODKQu9-0QHU4.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1409892781372358663/img/XZFSODKQu9-0QHU4.jpg",
+						"url": "https://t.co/ZbDDGryvSL",
+						"display_url": "pic.twitter.com/ZbDDGryvSL",
+						"expanded_url": "https://twitter.com/LeTour/status/1409896690308587528/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1409892781372358700,
+						"id_str": "1409892781372358663",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1409892781372358663/img/XZFSODKQu9-0QHU4.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1409892781372358663/img/XZFSODKQu9-0QHU4.jpg",
+						"url": "https://t.co/ZbDDGryvSL",
+						"display_url": "pic.twitter.com/ZbDDGryvSL",
+						"expanded_url": "https://twitter.com/LeTour/status/1409896690308587528/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 30320,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1409892781372358663/vid/1280x720/zGZxQ9jaP2AJwxUw.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1409892781372358663/vid/640x360/9Q8NajXP4VVrVFrC.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1409892781372358663/vid/480x270/AkB4-RPtdCyTK1Zm.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1409892781372358663/pl/U4kU0NujnMxJdZTp.m3u8?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 153403071,
+				"id_str": "153403071",
+				"name": "Tour de France™",
+				"screen_name": "LeTour",
+				"location": "",
+				"description": "La plus grande course cycliste au monde. The world's biggest cycling race. 2020 🏆 : @TamauPogi  🗓️ #TDF2021 : 26 juin - 18 juillet / June 26 - July 18",
+				"url": "https://t.co/AhovSTK7lA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AhovSTK7lA",
+								"expanded_url": "http://www.letour.fr/",
+								"display_url": "letour.fr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3100536,
+				"friends_count": 1018,
+				"listed_count": 9372,
+				"created_at": "Tue Jun 08 13:18:00 +0000 2010",
+				"favourites_count": 3077,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 36216,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAD905",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182279755552428033/8mX_dsXW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/153403071/1624981109",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 332,
+			"favorite_count": 1442,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "great burst of acceleration from Cav! https://t.co/kDhuUTBeKY"
+	},
+	{
+		"created_at": "Tue Jun 29 16:18:43 +0000 2021",
+		"id": 1409904689919967200,
+		"id_str": "1409909202026438657",
+		"full_text": "White supremacists fetishise ancient Rome – but antiquity was more diverse and polychromatic than racists will admit https://t.co/1gG7D16biA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1gG7D16biA",
+					"expanded_url": "https://aeon.co/essays/colonialism-is-built-on-the-rubble-of-a-false-idea-of-ancient-rome",
+					"display_url": "aeon.co/essays/colonia…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 481943972,
+			"id_str": "481943972",
+			"name": "Aeon+Psyche",
+			"screen_name": "aeonmag",
+			"location": "",
+			"description": "Aeon is a magazine of ideas and culture. Psyche is our new sister magazine focused on the human condition. Visit https://t.co/dKH9SdpOWn and https://t.co/bZBO9exqKa for more.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dKH9SdpOWn",
+							"expanded_url": "http://aeon.co",
+							"display_url": "aeon.co",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/bZBO9exqKa",
+							"expanded_url": "http://psyche.co",
+							"display_url": "psyche.co",
+							"indices": [
+								141,
+								164
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 161228,
+			"friends_count": 2598,
+			"listed_count": 4293,
+			"created_at": "Fri Feb 03 10:43:27 +0000 2012",
+			"favourites_count": 18085,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 49251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262278554672230401/wuvpECl5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262278554672230401/wuvpECl5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/481943972/1616047783",
+			"profile_link_color": "0A4171",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "White supremacists fetishise ancient Rome – but antiquity was more diverse and polychromatic than racists will admit https://t.co/1gG7D16biA"
+	},
+	{
+		"created_at": "Tue Jun 29 15:58:46 +0000 2021",
+		"id": 1409904183344603100,
+		"id_str": "1409904183344603139",
+		"full_text": "120mins and we go out on pens like old times?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1409903862195105800,
+		"in_reply_to_status_id_str": "1409903862195105792",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 257,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "120mins and we go out on pens like old times?"
+	},
+	{
 		"created_at": "Mon Jun 28 22:26:43 +0000 2021",
 		"id": 1409639427039633400,
 		"id_str": "1409639427039633409",
