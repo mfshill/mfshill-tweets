@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 05 15:29:34 +0000 2021",
+		"id": 1412015438423281700,
+		"id_str": "1412071163065520130",
+		"full_text": "https://t.co/nufyWCLi1j https://t.co/C7QpkjjLot",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nufyWCLi1j",
+					"expanded_url": "https://twitter.com/England/status/1411792994412421130",
+					"display_url": "twitter.com/England/status…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412015424686989300,
+					"id_str": "1412015424686989319",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/E5h8jC3XIAcKyD-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5h8jC3XIAcKyD-.jpg",
+					"url": "https://t.co/C7QpkjjLot",
+					"display_url": "pic.twitter.com/C7QpkjjLot",
+					"expanded_url": "https://twitter.com/GraceOnFootball/status/1412015438423281664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412015424686989300,
+					"id_str": "1412015424686989319",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/E5h8jC3XIAcKyD-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5h8jC3XIAcKyD-.jpg",
+					"url": "https://t.co/C7QpkjjLot",
+					"display_url": "pic.twitter.com/C7QpkjjLot",
+					"expanded_url": "https://twitter.com/GraceOnFootball/status/1412015438423281664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 988555385215823900,
+			"id_str": "988555385215823873",
+			"name": "Grace Robertson 🏳️‍⚧️",
+			"screen_name": "GraceOnFootball",
+			"location": "UK",
+			"description": "Football writer. Newsletter-er. Seen in @FiveThirtyEight @Eurosport_UK @StatsBomb @VanityFair et al. Trans, she/her.",
+			"url": "https://t.co/VYnPSN1S8w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VYnPSN1S8w",
+							"expanded_url": "http://onfootball.substack.com",
+							"display_url": "onfootball.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29303,
+			"friends_count": 660,
+			"listed_count": 556,
+			"created_at": "Mon Apr 23 23:09:05 +0000 2018",
+			"favourites_count": 34896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 31912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196903008992452615/4OlyGKSn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196903008992452615/4OlyGKSn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/988555385215823873/1623012528",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1411792994412421000,
+		"quoted_status_id_str": "1411792994412421130",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nufyWCLi1j",
+			"expanded": "https://twitter.com/England/status/1411792994412421130",
+			"display": "twitter.com/England/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 04 21:04:14 +0000 2021",
+			"id": 1411792994412421000,
+			"id_str": "1411792994412421130",
+			"full_text": "We know you're a creative lot... so let's see what you've got.\n\nIt's time for a photo edit challenge – @BukayoSaka87 style! https://t.co/7tRxd3ClAk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				123
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BukayoSaka87",
+						"name": "Bukayo Saka",
+						"id": 1038874580956442600,
+						"id_str": "1038874580956442625",
+						"indices": [
+							103,
+							116
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1411791595620417500,
+						"id_str": "1411791595620417536",
+						"indices": [
+							124,
+							147
+						],
+						"media_url": "http://pbs.twimg.com/media/E5ew-enWQAAqoSI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5ew-enWQAAqoSI.jpg",
+						"url": "https://t.co/7tRxd3ClAk",
+						"display_url": "pic.twitter.com/7tRxd3ClAk",
+						"expanded_url": "https://twitter.com/England/status/1411792994412421130/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1504,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 881,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1411791595620417500,
+						"id_str": "1411791595620417536",
+						"indices": [
+							124,
+							147
+						],
+						"media_url": "http://pbs.twimg.com/media/E5ew-enWQAAqoSI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5ew-enWQAAqoSI.jpg",
+						"url": "https://t.co/7tRxd3ClAk",
+						"display_url": "pic.twitter.com/7tRxd3ClAk",
+						"expanded_url": "https://twitter.com/England/status/1411792994412421130/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1504,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 881,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1903382054,
+				"id_str": "1903382054",
+				"name": "England",
+				"screen_name": "England",
+				"location": "St. George's Park, England",
+				"description": "Home of @EnglandFootball's national teams: the #ThreeLions, @Lionesses, #YoungLions and Para Lions. Contact us: https://t.co/pENvsHJf69",
+				"url": "https://t.co/nO0G6F5WxG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nO0G6F5WxG",
+								"expanded_url": "http://www.EnglandFootball.com",
+								"display_url": "EnglandFootball.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/pENvsHJf69",
+								"expanded_url": "http://the-fa.com/dnt0Rz",
+								"display_url": "the-fa.com/dnt0Rz",
+								"indices": [
+									112,
+									135
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4656959,
+				"friends_count": 361,
+				"listed_count": 5655,
+				"created_at": "Wed Sep 25 08:23:07 +0000 2013",
+				"favourites_count": 13662,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 42594,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DEDEDE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1338913004751032321/UGvsqQL6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1338913004751032321/UGvsqQL6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1903382054/1619027893",
+				"profile_link_color": "005BAA",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 898,
+			"favorite_count": 13853,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 201,
+		"favorite_count": 4333,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/nufyWCLi1j https://t.co/C7QpkjjLot"
+	},
+	{
 		"created_at": "Sun Jul 04 21:51:26 +0000 2021",
 		"id": 1411776879619674000,
 		"id_str": "1411804871322374149",
