@@ -1,6 +1,904 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 22:41:52 +0000 2021",
+		"id": 1413267116694950000,
+		"id_str": "1413267116694949893",
+		"full_text": "https://t.co/BXDC9L0tow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413267108969029600,
+					"id_str": "1413267108969029640",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E5zu8qLXoAgp25l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5zu8qLXoAgp25l.jpg",
+					"url": "https://t.co/BXDC9L0tow",
+					"display_url": "pic.twitter.com/BXDC9L0tow",
+					"expanded_url": "https://twitter.com/mfshill/status/1413267116694949893/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 212,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 281,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 281,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413267108969029600,
+					"id_str": "1413267108969029640",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E5zu8qLXoAgp25l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5zu8qLXoAgp25l.jpg",
+					"url": "https://t.co/BXDC9L0tow",
+					"display_url": "pic.twitter.com/BXDC9L0tow",
+					"expanded_url": "https://twitter.com/mfshill/status/1413267116694949893/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 212,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 281,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 281,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 258,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/BXDC9L0tow"
+	},
+	{
+		"created_at": "Thu Jul 08 12:10:59 +0000 2021",
+		"id": 1413108348594106400,
+		"id_str": "1413108348594106379",
+		"full_text": "@SarainLondon England need all the help they can get https://t.co/XsWkYlK3xR",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarainLondon",
+					"name": "Sara",
+					"id": 340812945,
+					"id_str": "340812945",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XsWkYlK3xR",
+					"expanded_url": "https://twitter.com/SkySportsNews/status/1413098566948687877",
+					"display_url": "twitter.com/SkySportsNews/…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1413082187222630400,
+		"in_reply_to_status_id_str": "1413082187222630400",
+		"in_reply_to_user_id": 340812945,
+		"in_reply_to_user_id_str": "340812945",
+		"in_reply_to_screen_name": "SarainLondon",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 258,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1413098566948688000,
+		"quoted_status_id_str": "1413098566948687877",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XsWkYlK3xR",
+			"expanded": "https://twitter.com/SkySportsNews/status/1413098566948687877",
+			"display": "twitter.com/SkySportsNews/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 08 11:32:07 +0000 2021",
+			"id": 1413098566948688000,
+			"id_str": "1413098566948687877",
+			"full_text": "\"Never a penalty in a million years!\" 👀\n\nGary Neville says #DEN are entitled to feel aggrieved about the spot-kick #ENG were awarded during extra-time of their #Euro2020 semi-final...😬 https://t.co/3d1b55VMV1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				184
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DEN",
+						"indices": [
+							59,
+							63
+						]
+					},
+					{
+						"text": "ENG",
+						"indices": [
+							115,
+							119
+						]
+					},
+					{
+						"text": "Euro2020",
+						"indices": [
+							160,
+							169
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1413098373666807800,
+						"id_str": "1413098373666807812",
+						"indices": [
+							185,
+							208
+						],
+						"media_url": "http://pbs.twimg.com/media/E5xVp69XEAMCqdZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5xVp69XEAMCqdZ.jpg",
+						"url": "https://t.co/3d1b55VMV1",
+						"display_url": "pic.twitter.com/3d1b55VMV1",
+						"expanded_url": "https://twitter.com/SkySportsNews/status/1413098566948687877/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1413098373666807800,
+						"id_str": "1413098373666807812",
+						"indices": [
+							185,
+							208
+						],
+						"media_url": "http://pbs.twimg.com/media/E5xVp69XEAMCqdZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5xVp69XEAMCqdZ.jpg",
+						"url": "https://t.co/3d1b55VMV1",
+						"display_url": "pic.twitter.com/3d1b55VMV1",
+						"expanded_url": "https://twitter.com/SkySportsNews/status/1413098566948687877/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 96600,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1413098373666807812/vid/320x320/YUluWIhnH9-IDLiB.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1413098373666807812/vid/540x540/KQfkPnHhcsIwPv10.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1413098373666807812/pl/h8OV2EMTIw5a437e.m3u8?tag=14"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1413098373666807812/vid/720x720/4SoNb1hZzxkhMyZ0.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"embeddable": true,
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 108568373,
+				"id_str": "108568373",
+				"name": "Sky Sports News",
+				"screen_name": "SkySportsNews",
+				"location": "England",
+				"description": "The official Twitter account for Sky Sports News. Your home of sports news on channel 409.",
+				"url": "https://t.co/YB3Plq85ry",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YB3Plq85ry",
+								"expanded_url": "http://www.skysports.com",
+								"display_url": "skysports.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8910354,
+				"friends_count": 80,
+				"listed_count": 16324,
+				"created_at": "Tue Jan 26 10:22:29 +0000 2010",
+				"favourites_count": 401,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 88641,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1346184104346267648/DMeDS04X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346184104346267648/DMeDS04X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/108568373/1512372230",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 170,
+			"favorite_count": 1952,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SarainLondon England need all the help they can get https://t.co/XsWkYlK3xR"
+	},
+	{
+		"created_at": "Thu Jul 08 09:59:58 +0000 2021",
+		"id": 1412895848028151800,
+		"id_str": "1413075379347148804",
+		"full_text": "https://t.co/zye1XvJ43B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412895844207153200,
+					"id_str": "1412895844207153161",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E5udSNKX0Ak463u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5udSNKX0Ak463u.jpg",
+					"url": "https://t.co/zye1XvJ43B",
+					"display_url": "pic.twitter.com/zye1XvJ43B",
+					"expanded_url": "https://twitter.com/nerdjpg/status/1412895848028151815/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1553,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 742,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412895844207153200,
+					"id_str": "1412895844207153161",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E5udSNKX0Ak463u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5udSNKX0Ak463u.jpg",
+					"url": "https://t.co/zye1XvJ43B",
+					"display_url": "pic.twitter.com/zye1XvJ43B",
+					"expanded_url": "https://twitter.com/nerdjpg/status/1412895848028151815/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1553,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 742,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2193296227,
+			"id_str": "2193296227",
+			"name": "alicia",
+			"screen_name": "nerdjpg",
+			"location": "Nonbinary",
+			"description": "I’m only on here to complain • ☭ • mutuals follow: @aliciajpg",
+			"url": "https://t.co/0G43FDRYzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0G43FDRYzj",
+							"expanded_url": "http://linktr.ee/nerdjpg",
+							"display_url": "linktr.ee/nerdjpg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20531,
+			"friends_count": 923,
+			"listed_count": 89,
+			"created_at": "Thu Nov 14 01:38:06 +0000 2013",
+			"favourites_count": 241195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DECE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238549871537336322/jp79pBKG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238549871537336322/jp79pBKG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2193296227/1598487310",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3179,
+		"favorite_count": 30936,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/zye1XvJ43B"
+	},
+	{
+		"created_at": "Thu Jul 08 09:56:24 +0000 2021",
+		"id": 1413074481812320300,
+		"id_str": "1413074481812320256",
+		"full_text": "@JurgenKloppDog @riverthistle @TC_Cornesto 😂",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JurgenKloppDog",
+					"name": "Halksmush Number Two.",
+					"id": 3919944803,
+					"id_str": "3919944803",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "riverthistle",
+					"name": "ℝ𝕚𝕧𝕖𝕣𝕋𝕙𝕚𝕤𝕥𝕝𝕖 sʞɔnp ɹǝɥ puɐ",
+					"id": 1580164657,
+					"id_str": "1580164657",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC Cornesto",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						30,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1413060195723489300,
+		"in_reply_to_status_id_str": "1413060195723489281",
+		"in_reply_to_user_id": 3919944803,
+		"in_reply_to_user_id_str": "3919944803",
+		"in_reply_to_screen_name": "JurgenKloppDog",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 258,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@JurgenKloppDog @riverthistle @TC_Cornesto 😂"
+	},
+	{
+		"created_at": "Thu Jul 08 09:51:42 +0000 2021",
+		"id": 1413068842541097000,
+		"id_str": "1413073299534405635",
+		"full_text": "“We don’t want to just protect a certain genre and certain era.\" https://t.co/tFd8yuxgAJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tFd8yuxgAJ",
+					"expanded_url": "https://mixmag.net/read/doomsday-vault-svalbard-preserve-best-music-news",
+					"display_url": "mixmag.net/read/doomsday-…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18672145,
+			"id_str": "18672145",
+			"name": "Mixmag",
+			"screen_name": "Mixmag",
+			"location": "Worldwide",
+			"description": "Dance music + club culture 🙏",
+			"url": "https://t.co/Hi9vaB20Wl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hi9vaB20Wl",
+							"expanded_url": "http://www.mixmag.net",
+							"display_url": "mixmag.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322767,
+			"friends_count": 1415,
+			"listed_count": 3375,
+			"created_at": "Tue Jan 06 12:30:05 +0000 2009",
+			"favourites_count": 4396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 78398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409560165184069635/IDibFJet_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409560165184069635/IDibFJet_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18672145/1616767621",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“We don’t want to just protect a certain genre and certain era.\" https://t.co/tFd8yuxgAJ"
+	},
+	{
 		"created_at": "Wed Jul 07 21:36:54 +0000 2021",
 		"id": 1412888379734335500,
 		"id_str": "1412888379734335496",
