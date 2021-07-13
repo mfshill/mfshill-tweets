@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 12 20:03:44 +0000 2021",
+		"id": 1414655312074784800,
+		"id_str": "1414676872504434692",
+		"full_text": "You don’t get to stoke the fire at the beginning of the tournament by labelling our anti-racism message as ‘Gesture Politics’ &amp; then pretend to be disgusted when the very thing we’re campaigning against, happens. https://t.co/fdTKHsxTB2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fdTKHsxTB2",
+					"expanded_url": "https://twitter.com/pritipatel/status/1414483365558951937",
+					"display_url": "twitter.com/pritipatel/sta…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2731071940,
+			"id_str": "2731071940",
+			"name": "Tyrone Mings",
+			"screen_name": "OfficialTM_3",
+			"location": "",
+			"description": "Football. Business. Philanthropy. Warzone. @keysportsmgmt @rocnationsports",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192953,
+			"friends_count": 630,
+			"listed_count": 312,
+			"created_at": "Fri Aug 01 21:11:26 +0000 2014",
+			"favourites_count": 4774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1411657816604041217/FXk1gmbT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1411657816604041217/FXk1gmbT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2731071940/1625400426",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1414483365558952000,
+		"quoted_status_id_str": "1414483365558951937",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fdTKHsxTB2",
+			"expanded": "https://twitter.com/pritipatel/status/1414483365558951937",
+			"display": "twitter.com/pritipatel/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 12 07:14:48 +0000 2021",
+			"id": 1414483365558952000,
+			"id_str": "1414483365558951937",
+			"full_text": "I am disgusted that @England players who have given so much for our country this summer have been subject to vile racist abuse on social media. \n\nIt has no place in our country and I back the police to hold those responsible accountable.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				237
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "England",
+						"name": "England",
+						"id": 1903382054,
+						"id_str": "1903382054",
+						"indices": [
+							20,
+							28
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 61660254,
+				"id_str": "61660254",
+				"name": "Priti Patel",
+				"screen_name": "pritipatel",
+				"location": "",
+				"description": "@Conservatives Member of Parliament for Witham Home Secretary 🇬🇧",
+				"url": "https://t.co/p3jU40fc6B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/p3jU40fc6B",
+								"expanded_url": "http://joiningthepolice.co.uk",
+								"display_url": "joiningthepolice.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 340370,
+				"friends_count": 538,
+				"listed_count": 1579,
+				"created_at": "Fri Jul 31 01:51:32 +0000 2009",
+				"favourites_count": 2161,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5552,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1414127006829187073/mHnt3Ygn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1414127006829187073/mHnt3Ygn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/61660254/1618734765",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1611,
+			"favorite_count": 14470,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 117434,
+		"favorite_count": 375345,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You don’t get to stoke the fire at the beginning of the tournament by labelling our anti-racism message as ‘Gesture Politics’ &amp; then pretend to be disgusted when the very thing we’re campaigning against, happens. https://t.co/fdTKHsxTB2"
+	},
+	{
+		"created_at": "Mon Jul 12 19:31:39 +0000 2021",
+		"id": 1414668798557368300,
+		"id_str": "1414668798557368323",
+		"full_text": "https://t.co/jo0uNRb9de",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414668789099245600,
+					"id_str": "1414668789099245568",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E6HpxLkXsAAbYwF.png",
+					"media_url_https": "https://pbs.twimg.com/media/E6HpxLkXsAAbYwF.png",
+					"url": "https://t.co/jo0uNRb9de",
+					"display_url": "pic.twitter.com/jo0uNRb9de",
+					"expanded_url": "https://twitter.com/mfshill/status/1414668798557368323/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 598,
+							"h": 598,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 598,
+							"h": 598,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 598,
+							"h": 598,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414668789099245600,
+					"id_str": "1414668789099245568",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E6HpxLkXsAAbYwF.png",
+					"media_url_https": "https://pbs.twimg.com/media/E6HpxLkXsAAbYwF.png",
+					"url": "https://t.co/jo0uNRb9de",
+					"display_url": "pic.twitter.com/jo0uNRb9de",
+					"expanded_url": "https://twitter.com/mfshill/status/1414668798557368323/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 598,
+							"h": 598,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 598,
+							"h": 598,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 598,
+							"h": 598,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/jo0uNRb9de"
+	},
+	{
 		"created_at": "Sun Jul 11 23:35:14 +0000 2021",
 		"id": 1414357807453937700,
 		"id_str": "1414367710344007680",
