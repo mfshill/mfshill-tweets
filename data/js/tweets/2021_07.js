@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 16 20:00:42 +0000 2021",
+		"id": 1415800123024724000,
+		"id_str": "1416125659546591246",
+		"full_text": "oh my gosh it’s just like paris &lt;3 https://t.co/D3Xw22PWCx https://t.co/6aRB6aaFgP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D3Xw22PWCx",
+					"expanded_url": "https://twitter.com/politicsforali/status/1415794020069089285",
+					"display_url": "twitter.com/politicsforali…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415800116527652900,
+					"id_str": "1415800116527652868",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/E6XutGqWYAQ5KRs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6XutGqWYAQ5KRs.jpg",
+					"url": "https://t.co/6aRB6aaFgP",
+					"display_url": "pic.twitter.com/6aRB6aaFgP",
+					"expanded_url": "https://twitter.com/meIisactu/status/1415800123024723968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1169,
+							"h": 864,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1169,
+							"h": 864,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415800116527652900,
+					"id_str": "1415800116527652868",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/E6XutGqWYAQ5KRs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6XutGqWYAQ5KRs.jpg",
+					"url": "https://t.co/6aRB6aaFgP",
+					"display_url": "pic.twitter.com/6aRB6aaFgP",
+					"expanded_url": "https://twitter.com/meIisactu/status/1415800123024723968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1169,
+							"h": 864,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1169,
+							"h": 864,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1400899950389645300,
+			"id_str": "1400899950389645312",
+			"name": "meIisa tourt.",
+			"screen_name": "meIisactu",
+			"location": "burmingum",
+			"description": "🏴󠁧󠁢󠁥󠁮󠁧󠁿🇹🇷|kremlin funded influencer|@londonneolibs",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 759,
+			"friends_count": 753,
+			"listed_count": 0,
+			"created_at": "Fri Jun 04 19:39:18 +0000 2021",
+			"favourites_count": 8873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1414222564906487816/xJ-49utC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1414222564906487816/xJ-49utC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1400899950389645312/1625251136",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1415794020069089300,
+		"quoted_status_id_str": "1415794020069089285",
+		"quoted_status_permalink": {
+			"url": "https://t.co/D3Xw22PWCx",
+			"expanded": "https://twitter.com/politicsforali/status/1415794020069089285",
+			"display": "twitter.com/politicsforali…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 15 22:02:53 +0000 2021",
+			"id": 1415794020069089300,
+			"id_str": "1415794020069089285",
+			"full_text": "🚨 | NEW: Outdoor café culture is set to become a permanent fixture of Britain’s streets\n\nVia @thetimes",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thetimes",
+						"name": "The Times",
+						"id": 6107422,
+						"id_str": "6107422",
+						"indices": [
+							93,
+							102
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1166419406685188000,
+				"id_str": "1166419406685188101",
+				"name": "Politics For All",
+				"screen_name": "PoliticsForAlI",
+				"location": "",
+				"description": "The Official Politics For All Twitter Page • The Latest Political News All In One Place • Enquiries@forallmedia.co.uk",
+				"url": "https://t.co/pcgiGEX89n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pcgiGEX89n",
+								"expanded_url": "https://www.patreon.com/PoliticsForAll",
+								"display_url": "patreon.com/PoliticsForAll",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 236992,
+				"friends_count": 303,
+				"listed_count": 467,
+				"created_at": "Tue Aug 27 18:37:18 +0000 2019",
+				"favourites_count": 66,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7205,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1288477347629408256/9RrQVCqT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288477347629408256/9RrQVCqT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1166419406685188101/1596031914",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 53,
+			"favorite_count": 2084,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 4042,
+		"favorite_count": 46918,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "oh my gosh it’s just like paris &lt;3 https://t.co/D3Xw22PWCx https://t.co/6aRB6aaFgP"
+	},
+	{
 		"created_at": "Wed Jul 14 22:09:13 +0000 2021",
 		"id": 1415433228257796000,
 		"id_str": "1415433228257796100",
