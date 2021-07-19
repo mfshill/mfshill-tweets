@@ -1,6 +1,629 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 18 16:21:43 +0000 2021",
+		"id": 1416795327240315000,
+		"id_str": "1416795327240314886",
+		"full_text": "🤣 https://t.co/jDUCDVE9qU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jDUCDVE9qU",
+					"expanded_url": "https://twitter.com/RepsLando/status/1416329463936299008",
+					"display_url": "twitter.com/RepsLando/stat…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1416329463936299000,
+		"quoted_status_id_str": "1416329463936299008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jDUCDVE9qU",
+			"expanded": "https://twitter.com/RepsLando/status/1416329463936299008",
+			"display": "twitter.com/RepsLando/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 17 09:30:32 +0000 2021",
+			"id": 1416329463936299000,
+			"id_str": "1416329463936299008",
+			"full_text": "Mazepin and Schumacher every race weekend https://t.co/0HTXOhgAIk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1416075712042307600,
+						"id_str": "1416075712042307590",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1416075712042307590/pu/img/LZEKNii74bGq6kCm.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1416075712042307590/pu/img/LZEKNii74bGq6kCm.jpg",
+						"url": "https://t.co/0HTXOhgAIk",
+						"display_url": "pic.twitter.com/0HTXOhgAIk",
+						"expanded_url": "https://twitter.com/robwattsf1/status/1416075891826991106/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1416075891826991000,
+						"source_status_id_str": "1416075891826991106",
+						"source_user_id": 295633729,
+						"source_user_id_str": "295633729"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1416075712042307600,
+						"id_str": "1416075712042307590",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1416075712042307590/pu/img/LZEKNii74bGq6kCm.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1416075712042307590/pu/img/LZEKNii74bGq6kCm.jpg",
+						"url": "https://t.co/0HTXOhgAIk",
+						"display_url": "pic.twitter.com/0HTXOhgAIk",
+						"expanded_url": "https://twitter.com/robwattsf1/status/1416075891826991106/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1416075891826991000,
+						"source_status_id_str": "1416075891826991106",
+						"source_user_id": 295633729,
+						"source_user_id_str": "295633729",
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 30497,
+							"variants": [
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1416075712042307590/pu/vid/480x852/1lhrvyN-SLcd55Pi.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1416075712042307590/pu/vid/720x1280/U_FA3QbfP9Up96LX.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1416075712042307590/pu/pl/ESlIH8yxARn5ILp1.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1416075712042307590/pu/vid/320x568/TQwGQ1pP0NqbL9F2.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 295633729,
+								"id_str": "295633729",
+								"name": "Rob Watts",
+								"screen_name": "robwattsf1",
+								"location": "Brighton, England",
+								"description": "Work in motorsport » Co-founder of @InsideElectric » Social/content for @F1_Experiences » 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+								"url": "https://t.co/3ksHCIBcOb",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/3ksHCIBcOb",
+												"expanded_url": "http://buymeacoffee.com/robwattsf1",
+												"display_url": "buymeacoffee.com/robwattsf1",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 5710,
+								"friends_count": 987,
+								"listed_count": 117,
+								"created_at": "Mon May 09 11:56:32 +0000 2011",
+								"favourites_count": 16686,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 16814,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F9F9F9",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1256504035823190016/laaIojVT_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256504035823190016/laaIojVT_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/295633729/1585498238",
+								"profile_link_color": "A42436",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "EFEFEF",
+								"profile_text_color": "333333",
+								"profile_use_background_image": false,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1216056066338959400,
+				"id_str": "1216056066338959362",
+				"name": ".",
+				"screen_name": "RepsLando",
+				"location": "  #98 #63",
+				"description": "@lfc| Fan account |Sebastian Vettel and Lewis Hamilton are the greatest of all time| Please don’t take me seriously (most of the time)|",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1118,
+				"friends_count": 487,
+				"listed_count": 9,
+				"created_at": "Sat Jan 11 17:55:46 +0000 2020",
+				"favourites_count": 126159,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 36448,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1416050534063169536/_YRCLjzS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1416050534063169536/_YRCLjzS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1216056066338959362/1626448638",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 234,
+			"favorite_count": 2109,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🤣 https://t.co/jDUCDVE9qU"
+	},
+	{
+		"created_at": "Sun Jul 18 16:02:24 +0000 2021",
+		"id": 1416790466817822700,
+		"id_str": "1416790466817822725",
+		"full_text": "fantastic win for Lewis in the end. race full of action. shame Max wasn't fighting him all the way #BritishGP #F1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BritishGP",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"text": "F1",
+					"indices": [
+						110,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "fantastic win for Lewis in the end. race full of action. shame Max wasn't fighting him all the way #BritishGP #F1"
+	},
+	{
+		"created_at": "Sun Jul 18 14:47:05 +0000 2021",
+		"id": 1416535062171078700,
+		"id_str": "1416771510262452228",
+		"full_text": "At no point in this headline did I know what the next word was going to be https://t.co/b2D6nEm119",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1416535058282864600,
+					"id_str": "1416535058282864641",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/E6iLIWDWYAED-5k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6iLIWDWYAED-5k.jpg",
+					"url": "https://t.co/b2D6nEm119",
+					"display_url": "pic.twitter.com/b2D6nEm119",
+					"expanded_url": "https://twitter.com/Pale_0ntologist/status/1416535062171078658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1416535058282864600,
+					"id_str": "1416535058282864641",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/E6iLIWDWYAED-5k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6iLIWDWYAED-5k.jpg",
+					"url": "https://t.co/b2D6nEm119",
+					"display_url": "pic.twitter.com/b2D6nEm119",
+					"expanded_url": "https://twitter.com/Pale_0ntologist/status/1416535062171078658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220478170,
+			"id_str": "1220478170",
+			"name": "Jimmy—#SaveSilwan—Rothschild",
+			"screen_name": "Pale_0ntologist",
+			"location": "Chicago, IL",
+			"description": "Notorious Jewish Baker—Leftist Jewish narishkeit—cat dad—Chicago and MN politics—he/him—my views own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5054,
+			"friends_count": 1872,
+			"listed_count": 30,
+			"created_at": "Tue Feb 26 04:40:26 +0000 2013",
+			"favourites_count": 115187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331028030307885056/FtAzrsee_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331028030307885056/FtAzrsee_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220478170/1614261354",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10255,
+		"favorite_count": 51324,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At no point in this headline did I know what the next word was going to be https://t.co/b2D6nEm119"
+	},
+	{
 		"created_at": "Sat Jul 17 18:53:38 +0000 2021",
 		"id": 1416471168584978400,
 		"id_str": "1416471168584978433",
