@@ -1,6 +1,441 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 19 21:56:42 +0000 2021",
+		"id": 1417242016879108000,
+		"id_str": "1417242016879108097",
+		"full_text": "toasty ☀️🥵 https://t.co/Zskp8DdO21",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zskp8DdO21",
+					"expanded_url": "https://twitter.com/metoffice/status/1417144097895297025",
+					"display_url": "twitter.com/metoffice/stat…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1417144097895297000,
+		"quoted_status_id_str": "1417144097895297025",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Zskp8DdO21",
+			"expanded": "https://twitter.com/metoffice/status/1417144097895297025",
+			"display": "twitter.com/metoffice/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 19 15:27:36 +0000 2021",
+			"id": 1417144097895297000,
+			"id_str": "1417144097895297025",
+			"full_text": "⚠️⚠️ Amber Weather Warning issued ⚠️⚠️\n\nExtreme Heat across parts of South Wales, West Midlands, southern and southwestern England\n\nValid until 23:59 Thursday\n\nThis is the first ever Extreme Heat Warning issued\n#Heatwave\n\nLatest info 👉 https://t.co/QwDLMfRBfs\nStay #WeatherAware https://t.co/bTHUyFL6uL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Heatwave",
+						"indices": [
+							211,
+							220
+						]
+					},
+					{
+						"text": "WeatherAware",
+						"indices": [
+							265,
+							278
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QwDLMfRBfs",
+						"expanded_url": "http://bit.ly/WxWarning",
+						"display_url": "bit.ly/WxWarning",
+						"indices": [
+							236,
+							259
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1417141316346130400,
+						"id_str": "1417141316346130434",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1417141316346130434/pu/img/6lQ1ow0BAfStCmgH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1417141316346130434/pu/img/6lQ1ow0BAfStCmgH.jpg",
+						"url": "https://t.co/bTHUyFL6uL",
+						"display_url": "pic.twitter.com/bTHUyFL6uL",
+						"expanded_url": "https://twitter.com/metoffice/status/1417144097895297025/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1417141316346130400,
+						"id_str": "1417141316346130434",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1417141316346130434/pu/img/6lQ1ow0BAfStCmgH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1417141316346130434/pu/img/6lQ1ow0BAfStCmgH.jpg",
+						"url": "https://t.co/bTHUyFL6uL",
+						"display_url": "pic.twitter.com/bTHUyFL6uL",
+						"expanded_url": "https://twitter.com/metoffice/status/1417144097895297025/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 16567,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1417141316346130434/pu/vid/540x540/UC5c4Bqlzi1-FFbx.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1417141316346130434/pu/pl/VwnpCcv2I5K8jhym.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1417141316346130434/pu/vid/720x720/VgVscV-DQzUIjLSO.mp4?tag=12"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1417141316346130434/pu/vid/320x320/qQGutMHNvgVMMxnR.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19282280,
+				"id_str": "19282280",
+				"name": "Met Office",
+				"screen_name": "metoffice",
+				"location": "Exeter",
+				"description": "Official UK Met Office account. Here 24/7/365 Stay #WeatherAware follow @metofficeUK for warnings. Our book is out now! https://t.co/fB599U2hVG",
+				"url": "http://t.co/SnqRaTsNEj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SnqRaTsNEj",
+								"expanded_url": "http://www.metoffice.gov.uk",
+								"display_url": "metoffice.gov.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/fB599U2hVG",
+								"expanded_url": "https://linktr.ee/MOContent",
+								"display_url": "linktr.ee/MOContent",
+								"indices": [
+									120,
+									143
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 835264,
+				"friends_count": 602,
+				"listed_count": 4310,
+				"created_at": "Wed Jan 21 09:47:40 +0000 2009",
+				"favourites_count": 19496,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 194121,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410554678807609348/fj9hdIzg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410554678807609348/fj9hdIzg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19282280/1618824021",
+				"profile_link_color": "7B9E45",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1341,
+			"favorite_count": 1525,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "toasty ☀️🥵 https://t.co/Zskp8DdO21"
+	},
+	{
+		"created_at": "Mon Jul 19 21:55:01 +0000 2021",
+		"id": 1417241592646283300,
+		"id_str": "1417241592646283273",
+		"full_text": "great mini series covering the build-up to London 2012 'Gold Rush: Our Race to Olympic Glory' https://t.co/RnbjCtQT9u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RnbjCtQT9u",
+					"expanded_url": "https://www.bbc.co.uk/programmes/m000xpmd",
+					"display_url": "bbc.co.uk/programmes/m00…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\"\n(Strength, balance, courage & common sense)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "great mini series covering the build-up to London 2012 'Gold Rush: Our Race to Olympic Glory' https://t.co/RnbjCtQT9u"
+	},
+	{
 		"created_at": "Sun Jul 18 16:21:43 +0000 2021",
 		"id": 1416795327240315000,
 		"id_str": "1416795327240314886",
