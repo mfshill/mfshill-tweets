@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 24 23:52:37 +0000 2021",
+		"id": 1418986892142551000,
+		"id_str": "1419083128916824064",
+		"full_text": "'Cower from'. What a dreadful, dreadful thing to write, particularly by a health secretary. Callous godawful gibberish. https://t.co/IDGkbwAJF2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IDGkbwAJF2",
+					"expanded_url": "https://twitter.com/sajidjavid/status/1418932718847541248",
+					"display_url": "twitter.com/sajidjavid/sta…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21202851,
+			"id_str": "21202851",
+			"name": "Ian Dunt",
+			"screen_name": "IanDunt",
+			"location": "London",
+			"description": "Jumped-up baldy. Editor-at-large of https://t.co/wOraaKxK8o. Host on @OhGodWhatNowPod. Author of 'How To Be A Liberal'. Columnist at The New European and the i.",
+			"url": "https://t.co/VBCTn4csRW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VBCTn4csRW",
+							"expanded_url": "https://www.canburypress.com/products/how-to-be-a-liberal-by-ian-dunt-hardback-ISBN9781912454419",
+							"display_url": "canburypress.com/products/how-t…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wOraaKxK8o",
+							"expanded_url": "http://Politics.co.uk",
+							"display_url": "Politics.co.uk",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 331085,
+			"friends_count": 4230,
+			"listed_count": 3399,
+			"created_at": "Wed Feb 18 14:58:28 +0000 2009",
+			"favourites_count": 79555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 136431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019495827839078400/YicoZp0G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019495827839078400/YicoZp0G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21202851/1616688545",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1418932718847541200,
+		"quoted_status_id_str": "1418932718847541248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IDGkbwAJF2",
+			"expanded": "https://twitter.com/sajidjavid/status/1418932718847541248",
+			"display": "twitter.com/sajidjavid/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 24 13:54:57 +0000 2021",
+			"id": 1418932718847541200,
+			"id_str": "1418932718847541248",
+			"full_text": "Full recovery from Covid a week after testing positive. \n\nSymptoms were very mild, thanks to amazing vaccines. \n\nPlease - if you haven’t yet - get your jab, as we learn to live with, rather than cower from, this virus. https://t.co/OmuaUGp173",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				218
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OmuaUGp173",
+						"expanded_url": "https://twitter.com/sajidjavid/status/1416506402487554056",
+						"display_url": "twitter.com/sajidjavid/sta…",
+						"indices": [
+							219,
+							242
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20052899,
+				"id_str": "20052899",
+				"name": "Sajid Javid",
+				"screen_name": "sajidjavid",
+				"location": "Bromsgrove",
+				"description": "Member of Parliament for Bromsgrove & Secretary of State for Health and Social Care",
+				"url": "https://t.co/H3vlkKwUI8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H3vlkKwUI8",
+								"expanded_url": "http://www.sajidjavid.com/",
+								"display_url": "sajidjavid.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 246189,
+				"friends_count": 1009,
+				"listed_count": 1720,
+				"created_at": "Wed Feb 04 13:35:33 +0000 2009",
+				"favourites_count": 1415,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9887,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/594127224061693952/DJvO75lt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/594127224061693952/DJvO75lt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20052899/1625579929",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1416506402487554000,
+			"quoted_status_id_str": "1416506402487554056",
+			"quoted_status_permalink": {
+				"url": "https://t.co/OmuaUGp173",
+				"expanded": "https://twitter.com/sajidjavid/status/1416506402487554056",
+				"display": "twitter.com/sajidjavid/sta…"
+			},
+			"retweet_count": 342,
+			"favorite_count": 1960,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2236,
+		"favorite_count": 11075,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Cower from'. What a dreadful, dreadful thing to write, particularly by a health secretary. Callous godawful gibberish. https://t.co/IDGkbwAJF2"
+	},
+	{
 		"created_at": "Fri Jul 23 11:41:43 +0000 2021",
 		"id": 1418536800608563200,
 		"id_str": "1418536800608563202",
