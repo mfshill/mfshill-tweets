@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 27 19:11:01 +0000 2021",
+		"id": 1419787260107559000,
+		"id_str": "1420099425213550592",
+		"full_text": "I went to the Marble Arch Mound today. It cost £2 million to build, and today was launch day, but it was still quite quiet.\n\nHere is a short thread with info.\n\nFirst, the original plan drawings and the marketing description do not quite match reality. https://t.co/Km4YFbxySm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1419787243804401700,
+					"id_str": "1419787243804401665",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/E7QY-dOXoAEEaYi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7QY-dOXoAEEaYi.jpg",
+					"url": "https://t.co/Km4YFbxySm",
+					"display_url": "pic.twitter.com/Km4YFbxySm",
+					"expanded_url": "https://twitter.com/danbarker/status/1419787260107558918/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 566,
+							"h": 358,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 566,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 566,
+							"h": 358,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1419787243804401700,
+					"id_str": "1419787243804401665",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/E7QY-dOXoAEEaYi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7QY-dOXoAEEaYi.jpg",
+					"url": "https://t.co/Km4YFbxySm",
+					"display_url": "pic.twitter.com/Km4YFbxySm",
+					"expanded_url": "https://twitter.com/danbarker/status/1419787260107558918/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 566,
+							"h": 358,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 566,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 566,
+							"h": 358,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1419787247440781300,
+					"id_str": "1419787247440781315",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/E7QY-qxWYAMfjQz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7QY-qxWYAMfjQz.jpg",
+					"url": "https://t.co/Km4YFbxySm",
+					"display_url": "pic.twitter.com/Km4YFbxySm",
+					"expanded_url": "https://twitter.com/danbarker/status/1419787260107558918/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14672744,
+			"id_str": "14672744",
+			"name": "dan barker",
+			"screen_name": "danbarker",
+			"location": "I live between Covent Garden, Sheffield, Newcastle, & Germany",
+			"description": "Worked for more than 100 companies doing various bits & bobs. Interested in marketing, ecommerce, media, data, politics, people, & more. Do follow & say hello.",
+			"url": "https://t.co/aiwtOXhGI9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aiwtOXhGI9",
+							"expanded_url": "http://www.barker.co.uk?utm_source=twbio",
+							"display_url": "barker.co.uk/?utm_source=tw…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29024,
+			"friends_count": 7092,
+			"listed_count": 978,
+			"created_at": "Tue May 06 12:48:04 +0000 2008",
+			"favourites_count": 35154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/430041229/me_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/430041229/me_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14672744/1468952964",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1662,
+		"favorite_count": 7423,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I went to the Marble Arch Mound today. It cost £2 million to build, and today was launch day, but it was still quite quiet.\n\nHere is a short thread with info.\n\nFirst, the original plan drawings and the marketing description do not quite match reality. https://t.co/Km4YFbxySm"
+	},
+	{
 		"created_at": "Sun Jul 25 21:54:22 +0000 2021",
 		"id": 1419137012808835000,
 		"id_str": "1419415754701774856",
