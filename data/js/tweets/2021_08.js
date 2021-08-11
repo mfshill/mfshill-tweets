@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 10 12:08:37 +0000 2021",
+		"id": 1424443073526968300,
+		"id_str": "1425066552974626816",
+		"full_text": "https://t.co/Vf46emWFPE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1424443071526318000,
+					"id_str": "1424443071526318083",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E8SjbTEXsAMZjhb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8SjbTEXsAMZjhb.jpg",
+					"url": "https://t.co/Vf46emWFPE",
+					"display_url": "pic.twitter.com/Vf46emWFPE",
+					"expanded_url": "https://twitter.com/UltranusAbitbol/status/1424443073526968326/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424443071526318000,
+					"id_str": "1424443071526318083",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E8SjbTEXsAMZjhb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8SjbTEXsAMZjhb.jpg",
+					"url": "https://t.co/Vf46emWFPE",
+					"display_url": "pic.twitter.com/Vf46emWFPE",
+					"expanded_url": "https://twitter.com/UltranusAbitbol/status/1424443073526968326/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 242260896,
+			"id_str": "242260896",
+			"name": "Anus Dumbledore",
+			"screen_name": "UltranusAbitbol",
+			"location": "",
+			"description": "J'aime pas trop les voleurs, et les fils de pute.",
+			"url": "https://t.co/FqguWkHFdY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FqguWkHFdY",
+							"expanded_url": "http://instagram.com/ultrns",
+							"display_url": "instagram.com/ultrns",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18660,
+			"friends_count": 644,
+			"listed_count": 301,
+			"created_at": "Mon Jan 24 10:35:24 +0000 2011",
+			"favourites_count": 419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353661111510446080/UR8YMd_A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353661111510446080/UR8YMd_A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/242260896/1611572934",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "67A2B3",
+			"profile_sidebar_fill_color": "F7D0D0",
+			"profile_text_color": "ED5A8E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5286,
+		"favorite_count": 39153,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/Vf46emWFPE"
+	},
+	{
 		"created_at": "Sun Aug 08 22:37:33 +0000 2021",
 		"id": 1424500053096509400,
 		"id_str": "1424500053096509452",
