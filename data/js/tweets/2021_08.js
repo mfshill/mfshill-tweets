@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 20 20:23:21 +0000 2021",
+		"id": 1208126164381950000,
+		"id_str": "1428814936109629446",
+		"full_text": "Social media is like looking in the fridge over &amp; over. You know there's nothing good but you check it so many times that eventually you start consuming things you don't even like.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22665816,
+			"id_str": "22665816",
+			"name": "mark normand",
+			"screen_name": "marknorm",
+			"location": "NYC",
+			"description": "New York Comedienne. New hour special \"Out To Lunch\" on the Youtubes now!! My pod: \"Tuesdays with Stories” or “We Might be Drunk” Link 👇👇 Praise Allah!",
+			"url": "https://t.co/D5ELGPjODU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D5ELGPjODU",
+							"expanded_url": "https://bit.ly/2zkLQVP",
+							"display_url": "bit.ly/2zkLQVP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 210679,
+			"friends_count": 407,
+			"listed_count": 981,
+			"created_at": "Tue Mar 03 19:41:34 +0000 2009",
+			"favourites_count": 210045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903769803768217600/EKtan_aM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903769803768217600/EKtan_aM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22665816/1588866257",
+			"profile_link_color": "28BD9F",
+			"profile_sidebar_border_color": "FFB908",
+			"profile_sidebar_fill_color": "FFB908",
+			"profile_text_color": "4D3E3E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "2526edd24c06e60c",
+			"url": "https://api.twitter.com/1.1/geo/id/2526edd24c06e60c.json",
+			"place_type": "admin",
+			"name": "Missouri",
+			"full_name": "Missouri, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-95.774704,
+							35.995476
+						],
+						[
+							-89.098843,
+							35.995476
+						],
+						[
+							-89.098843,
+							40.613641
+						],
+						[
+							-95.774704,
+							40.613641
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1778,
+		"favorite_count": 7978,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Social media is like looking in the fridge over &amp; over. You know there's nothing good but you check it so many times that eventually you start consuming things you don't even like."
+	},
+	{
 		"created_at": "Wed Aug 18 21:22:10 +0000 2021",
 		"id": 1428104961490100200,
 		"id_str": "1428104961490100228",
