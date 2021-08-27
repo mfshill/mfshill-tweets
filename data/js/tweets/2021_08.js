@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 26 18:26:01 +0000 2021",
+		"id": 1430944309881319400,
+		"id_str": "1430959733461164038",
+		"full_text": "Nosferatu (1922) established the convention of vampires dying from exposure to sunlight. In the novel Dracula, which Nosferatu was based on, sunlight was only an irritant to vampires https://t.co/0XiWMPLRHK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430943816371028000,
+					"id_str": "1430943816371027968",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E9u70cxWQAAmwWh.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E9u70cxWQAAmwWh.jpg",
+					"url": "https://t.co/0XiWMPLRHK",
+					"display_url": "pic.twitter.com/0XiWMPLRHK",
+					"expanded_url": "https://twitter.com/silentmoviegifs/status/1430944309881319426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 506,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 506,
+							"h": 380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430943816371028000,
+					"id_str": "1430943816371027968",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E9u70cxWQAAmwWh.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E9u70cxWQAAmwWh.jpg",
+					"url": "https://t.co/0XiWMPLRHK",
+					"display_url": "pic.twitter.com/0XiWMPLRHK",
+					"expanded_url": "https://twitter.com/silentmoviegifs/status/1430944309881319426/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 506,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 506,
+							"h": 380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 380,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							253,
+							190
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E9u70cxWQAAmwWh.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2993751197,
+			"id_str": "2993751197",
+			"name": "Silent Movie GIFs",
+			"screen_name": "silentmoviegifs",
+			"location": "Toronto, Ontario",
+			"description": "I like to watch silent movies, and then make gifs from them.\n\nCreated by @dmchoull",
+			"url": "https://t.co/V2Q9UwA3SL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V2Q9UwA3SL",
+							"expanded_url": "https://www.reddit.com/r/silentmoviegifs/",
+							"display_url": "reddit.com/r/silentmovieg…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 136890,
+			"friends_count": 690,
+			"listed_count": 1543,
+			"created_at": "Fri Jan 23 07:06:12 +0000 2015",
+			"favourites_count": 8799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220268712453988352/8lQKyKQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220268712453988352/8lQKyKQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2993751197/1579803867",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 229,
+		"favorite_count": 1073,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nosferatu (1922) established the convention of vampires dying from exposure to sunlight. In the novel Dracula, which Nosferatu was based on, sunlight was only an irritant to vampires https://t.co/0XiWMPLRHK"
+	},
+	{
 		"created_at": "Wed Aug 25 20:40:20 +0000 2021",
 		"id": 1430630409008730000,
 		"id_str": "1430631150091968512",
