@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 08 09:54:58 +0000 2021",
+		"id": 1435534509341040600,
+		"id_str": "1435542167582355458",
+		"full_text": "Ronald Mcdonald and the @lfc team release their new 3rd kit\n\nDo you want fries with that? 🤣🤣🤣 https://t.co/8qLliPS8ib",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LFC",
+					"name": "Liverpool FC",
+					"id": 19583545,
+					"id_str": "19583545",
+					"indices": [
+						24,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435533603102990300,
+					"id_str": "1435533603102990339",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/E-wKNMwXIAM2Gyi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-wKNMwXIAM2Gyi.jpg",
+					"url": "https://t.co/8qLliPS8ib",
+					"display_url": "pic.twitter.com/8qLliPS8ib",
+					"expanded_url": "https://twitter.com/Westywwfc/status/1435534509341040640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 255,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 255,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435533603102990300,
+					"id_str": "1435533603102990339",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/E-wKNMwXIAM2Gyi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-wKNMwXIAM2Gyi.jpg",
+					"url": "https://t.co/8qLliPS8ib",
+					"display_url": "pic.twitter.com/8qLliPS8ib",
+					"expanded_url": "https://twitter.com/Westywwfc/status/1435534509341040640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 255,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 255,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 255,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435533637965975600,
+					"id_str": "1435533637965975552",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/E-wKPOoWEAA37Lb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-wKPOoWEAA37Lb.jpg",
+					"url": "https://t.co/8qLliPS8ib",
+					"display_url": "pic.twitter.com/8qLliPS8ib",
+					"expanded_url": "https://twitter.com/Westywwfc/status/1435534509341040640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435533683683909600,
+					"id_str": "1435533683683909632",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/E-wKR48WYAAdPDT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-wKR48WYAAdPDT.jpg",
+					"url": "https://t.co/8qLliPS8ib",
+					"display_url": "pic.twitter.com/8qLliPS8ib",
+					"expanded_url": "https://twitter.com/Westywwfc/status/1435534509341040640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435533730660159500,
+					"id_str": "1435533730660159491",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/E-wKUn8XEAMEMqi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-wKUn8XEAMEMqi.jpg",
+					"url": "https://t.co/8qLliPS8ib",
+					"display_url": "pic.twitter.com/8qLliPS8ib",
+					"expanded_url": "https://twitter.com/Westywwfc/status/1435534509341040640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 876479048,
+			"id_str": "876479048",
+			"name": "Westy",
+			"screen_name": "Westywwfc",
+			"location": "",
+			"description": "@wolves #wwfc\n\nPresident of Max Kilman Appreciation Society\n\nFollows back",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2469,
+			"friends_count": 1943,
+			"listed_count": 1,
+			"created_at": "Fri Oct 12 21:36:37 +0000 2012",
+			"favourites_count": 13742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432608792781406208/ccAHL3Si_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432608792781406208/ccAHL3Si_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/876479048/1623243505",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 251,
+		"favorite_count": 1318,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ronald Mcdonald and the @lfc team release their new 3rd kit\n\nDo you want fries with that? 🤣🤣🤣 https://t.co/8qLliPS8ib"
+	},
+	{
 		"created_at": "Tue Sep 07 13:18:32 +0000 2021",
 		"id": 1435231009520423000,
 		"id_str": "1435231009520422914",
