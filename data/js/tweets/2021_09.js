@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 12 23:21:58 +0000 2021",
+		"id": 1383366474618708000,
+		"id_str": "1437194809287090178",
+		"full_text": "Count Dracula was 412 when he moved to England in search of new blood.\n\nSauron was 54,000 years old when he forged The One Ring.\n\nCthulhu had seen galaxies flare into life and fade to darkness before he put madness in the minds of men.\n\nIt's never too late to follow your dreams!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17169523,
+			"id_str": "17169523",
+			"name": "Angry Robot",
+			"screen_name": "angryrobotbooks",
+			"location": "London, Earth, The Universe",
+			"description": "Your favourite independent, genrefluid fiction publisher, bringing you the very best in SF, F & WTF!?\n\nInsta & FB: @angryrobotbooks\nYouTube: Angry Robot Books",
+			"url": "https://t.co/md9XJMz6Tw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/md9XJMz6Tw",
+							"expanded_url": "https://www.angryrobotbooks.com",
+							"display_url": "angryrobotbooks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34860,
+			"friends_count": 1674,
+			"listed_count": 1235,
+			"created_at": "Tue Nov 04 21:26:09 +0000 2008",
+			"favourites_count": 25875,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 28017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323212391073648640/hFZ49O5M_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323212391073648640/hFZ49O5M_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17169523/1577787291",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13145,
+		"favorite_count": 32828,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Count Dracula was 412 when he moved to England in search of new blood.\n\nSauron was 54,000 years old when he forged The One Ring.\n\nCthulhu had seen galaxies flare into life and fade to darkness before he put madness in the minds of men.\n\nIt's never too late to follow your dreams!"
+	},
+	{
 		"created_at": "Thu Sep 09 10:12:04 +0000 2021",
 		"id": 1435908858401202200,
 		"id_str": "1435908858401202176",
