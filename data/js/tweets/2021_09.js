@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 11:26:43 +0000 2021",
+		"id": 1437739583509340200,
+		"id_str": "1437739583509340161",
+		"full_text": "this was a funny moment, his analogies/metaphors are always slightly surreal https://t.co/KNmDfEpKwz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KNmDfEpKwz",
+					"expanded_url": "https://twitter.com/ITVNewsPolitics/status/1437735553689137153",
+					"display_url": "twitter.com/ITVNewsPolitic…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1437735553689137200,
+		"quoted_status_id_str": "1437735553689137153",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KNmDfEpKwz",
+			"expanded": "https://twitter.com/ITVNewsPolitics/status/1437735553689137153",
+			"display": "twitter.com/ITVNewsPolitic…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 14 11:10:42 +0000 2021",
+			"id": 1437735553689137200,
+			"id_str": "1437735553689137153",
+			"full_text": "'I don't know if many of you are used to crawling into small tents on mountain sides...'\n\nAnother analogy from Professor Jonathan Van-Tam as he explains why Covid booster jabs will be important https://t.co/zAA6lWswp6 https://t.co/X1XVI8zNyn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				217
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zAA6lWswp6",
+						"expanded_url": "https://www.itv.com/news/2021-09-14/minister-says-covid-booster-jabs-will-be-final-piece-of-jigsaw-to-end-pandemic",
+						"display_url": "itv.com/news/2021-09-1…",
+						"indices": [
+							194,
+							217
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1437735061953163300,
+						"id_str": "1437735061953163268",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1437735061953163268/img/HrJlDwdKDrxIOBDT.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1437735061953163268/img/HrJlDwdKDrxIOBDT.jpg",
+						"url": "https://t.co/X1XVI8zNyn",
+						"display_url": "pic.twitter.com/X1XVI8zNyn",
+						"expanded_url": "https://twitter.com/ITVNewsPolitics/status/1437735553689137153/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1437735061953163300,
+						"id_str": "1437735061953163268",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1437735061953163268/img/HrJlDwdKDrxIOBDT.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1437735061953163268/img/HrJlDwdKDrxIOBDT.jpg",
+						"url": "https://t.co/X1XVI8zNyn",
+						"display_url": "pic.twitter.com/X1XVI8zNyn",
+						"expanded_url": "https://twitter.com/ITVNewsPolitics/status/1437735553689137153/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 46720,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1437735061953163268/vid/320x320/e91Nt6lBwJny92dr.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1437735061953163268/pl/pH_iUhrW2nKg0ubi.m3u8?tag=14"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1437735061953163268/vid/720x720/36zm5RKCU6n6MIQW.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1437735061953163268/vid/540x540/-D85oo3R_gImt9ti.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3761378175,
+				"id_str": "3761378175",
+				"name": "ITV News Politics",
+				"screen_name": "ITVNewsPolitics",
+				"location": "",
+				"description": "Political news and analysis from ITV News. \nListen and subscribe to the Calling Peston podcast: https://t.co/IWQWixnw9q",
+				"url": "https://t.co/aFhKWdeYQd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aFhKWdeYQd",
+								"expanded_url": "http://www.itv.com/news",
+								"display_url": "itv.com/news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/IWQWixnw9q",
+								"expanded_url": "http://apple.co/2DdVmZv",
+								"display_url": "apple.co/2DdVmZv",
+								"indices": [
+									96,
+									119
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18074,
+				"friends_count": 173,
+				"listed_count": 275,
+				"created_at": "Thu Sep 24 15:26:10 +0000 2015",
+				"favourites_count": 79,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13414,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1158372857107427328/zqtbayxQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158372857107427328/zqtbayxQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3761378175/1565012586",
+				"profile_link_color": "006473",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 102,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this was a funny moment, his analogies/metaphors are always slightly surreal https://t.co/KNmDfEpKwz"
+	},
+	{
 		"created_at": "Sun Sep 12 23:21:58 +0000 2021",
 		"id": 1383366474618708000,
 		"id_str": "1437194809287090178",
