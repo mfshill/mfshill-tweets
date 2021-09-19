@@ -1,6 +1,774 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 18 23:04:28 +0000 2021",
+		"id": 1439363608199286800,
+		"id_str": "1439364728388730884",
+		"full_text": "Siri, Alexa, and almost every other AI voice has been feminine. Here's why. https://t.co/dCX8H1kaga",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417917326096208000,
+					"id_str": "1417917326096207876",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/E619vSkXoAgyL-s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E619vSkXoAgyL-s.jpg",
+					"url": "https://t.co/dCX8H1kaga",
+					"display_url": "pic.twitter.com/dCX8H1kaga",
+					"expanded_url": "https://twitter.com/VICENews/status/1439363608199286792/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417917326096208000,
+					"id_str": "1417917326096207876",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/E619vSkXoAgyL-s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E619vSkXoAgyL-s.jpg",
+					"url": "https://t.co/dCX8H1kaga",
+					"display_url": "pic.twitter.com/dCX8H1kaga",
+					"expanded_url": "https://twitter.com/VICENews/status/1439363608199286792/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 219352,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417917326096207876/vid/480x270/HwuFxoV30oKfiuPP.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417917326096207876/vid/1280x720/iXJXUtm9VhVzi6v8.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1417917326096207876/pl/wdOD0HPNSudwKBdH.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417917326096207876/vid/640x360/k2a82au7a9Y88Gh7.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Why Siri, Alexa, & Almost Every Other AI Voice Has Been Feminine",
+						"description": "Watch #VICENewsTonight Monday–Thursday on @VICETV.",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1630896181,
+			"id_str": "1630896181",
+			"name": "VICE News",
+			"screen_name": "VICENews",
+			"location": "Worldwide",
+			"description": "#VICENewsTonight airs Monday–Thursday on @VICETV / #VICEonSHO on @Showtime / Sign up for the VICE News Daily Brief https://t.co/iAmmxEdiz4",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iAmmxEdiz4",
+							"expanded_url": "http://bit.ly/2NnkJOD",
+							"display_url": "bit.ly/2NnkJOD",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1015871,
+			"friends_count": 960,
+			"listed_count": 11191,
+			"created_at": "Mon Jul 29 17:40:09 +0000 2013",
+			"favourites_count": 4777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 129602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1233501220351938561/EDFKNAdi_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233501220351938561/EDFKNAdi_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1630896181/1593214220",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Siri, Alexa, and almost every other AI voice has been feminine. Here's why. https://t.co/dCX8H1kaga"
+	},
+	{
+		"created_at": "Sat Sep 18 20:12:11 +0000 2021",
+		"id": 1439143632989261800,
+		"id_str": "1439321374913335299",
+		"full_text": "Any product design leaders looking for a gig somewhere that takes its values as seriously as its venture? \n\nIf you have experience of leading product design teams and operations, and you know content design isn’t just an afterthought, slide in to my DMs. 👀🐝💛",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 262456166,
+			"id_str": "262456166",
+			"name": "Candi. 🍍",
+			"screen_name": "candiwrites",
+			"location": "Bristol City.",
+			"description": "Head of Content Design @Bumble by day. 🐝 Author by night. 📚 Fan of words, inclusive design, social justice, food, crystals and wine. #BlackLivesStillMatter🤎",
+			"url": "https://t.co/zlJ7SCAbiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zlJ7SCAbiq",
+							"expanded_url": "https://linktr.ee/candwrites",
+							"display_url": "linktr.ee/candwrites",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3805,
+			"friends_count": 1371,
+			"listed_count": 120,
+			"created_at": "Tue Mar 08 02:35:24 +0000 2011",
+			"favourites_count": 5297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CF0CC2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419786496576532481/kurBqMeB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419786496576532481/kurBqMeB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/262456166/1553852898",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "9AE69A",
+			"profile_text_color": "B3223F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Any product design leaders looking for a gig somewhere that takes its values as seriously as its venture? \n\nIf you have experience of leading product design teams and operations, and you know content design isn’t just an afterthought, slide in to my DMs. 👀🐝💛"
+	},
+	{
+		"created_at": "Sat Sep 18 20:09:00 +0000 2021",
+		"id": 1439320572480135200,
+		"id_str": "1439320572480135169",
+		"full_text": "Alexander the embodiment of 'Billy no- mates' https://t.co/0ct6XcCZMr https://t.co/1M2iUjyEUt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0ct6XcCZMr",
+					"expanded_url": "https://twitter.com/Independent/status/1439188955283410951",
+					"display_url": "twitter.com/Independent/st…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1439320564263436300,
+					"id_str": "1439320564263436305",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/E_l-bWbWQBEgLIZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_l-bWbWQBEgLIZ.jpg",
+					"url": "https://t.co/1M2iUjyEUt",
+					"display_url": "pic.twitter.com/1M2iUjyEUt",
+					"expanded_url": "https://twitter.com/mfshill/status/1439320572480135169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 465,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 465,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 465,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439320564263436300,
+					"id_str": "1439320564263436305",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/E_l-bWbWQBEgLIZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_l-bWbWQBEgLIZ.jpg",
+					"url": "https://t.co/1M2iUjyEUt",
+					"display_url": "pic.twitter.com/1M2iUjyEUt",
+					"expanded_url": "https://twitter.com/mfshill/status/1439320572480135169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 465,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 465,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 465,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 260,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395702894452776962/1SfFeipp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1439188955283411000,
+		"quoted_status_id_str": "1439188955283410951",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0ct6XcCZMr",
+			"expanded": "https://twitter.com/Independent/status/1439188955283410951",
+			"display": "twitter.com/Independent/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 18 11:26:00 +0000 2021",
+			"id": 1439188955283411000,
+			"id_str": "1439188955283410951",
+			"full_text": "Four former prime ministers have turned down invitations to a centenary dinner at Chequers – leaving Boris Johnson to host only Theresa May at his country retreat https://t.co/ykEoGVVG3Y https://t.co/YQvYhba1Z8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				186
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ykEoGVVG3Y",
+						"expanded_url": "https://www.independent.co.uk/news/uk/politics/boris-johnson-chequers-snub-theresa-may-b1922589.html",
+						"display_url": "independent.co.uk/news/uk/politi…",
+						"indices": [
+							163,
+							186
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1439188871410028500,
+						"id_str": "1439188871410028550",
+						"indices": [
+							187,
+							210
+						],
+						"media_url": "http://pbs.twimg.com/media/E_kGp0UXEAYSO0g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_kGp0UXEAYSO0g.jpg",
+						"url": "https://t.co/YQvYhba1Z8",
+						"display_url": "pic.twitter.com/YQvYhba1Z8",
+						"expanded_url": "https://twitter.com/Independent/status/1439188955283410951/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1439188871410028500,
+						"id_str": "1439188871410028550",
+						"indices": [
+							187,
+							210
+						],
+						"media_url": "http://pbs.twimg.com/media/E_kGp0UXEAYSO0g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_kGp0UXEAYSO0g.jpg",
+						"url": "https://t.co/YQvYhba1Z8",
+						"display_url": "pic.twitter.com/YQvYhba1Z8",
+						"expanded_url": "https://twitter.com/Independent/status/1439188955283410951/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16973333,
+				"id_str": "16973333",
+				"name": "The Independent",
+				"screen_name": "Independent",
+				"location": "London, England",
+				"description": "News, comment and features from The Independent. Try an ad-free experience with access to premium articles with our app: https://t.co/3cP3AmmEDy",
+				"url": "https://t.co/gZeS7qlNx6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gZeS7qlNx6",
+								"expanded_url": "http://independent.co.uk",
+								"display_url": "independent.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3cP3AmmEDy",
+								"expanded_url": "http://independent.onelink.me/wgiA/cfc",
+								"display_url": "independent.onelink.me/wgiA/cfc",
+								"indices": [
+									121,
+									144
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3602963,
+				"friends_count": 476,
+				"listed_count": 25505,
+				"created_at": "Sun Oct 26 00:00:29 +0000 2008",
+				"favourites_count": 54,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1168978,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410564543361716226/gfgxZ-kN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410564543361716226/gfgxZ-kN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16973333/1610959834",
+				"profile_link_color": "FC051A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 99,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Alexander the embodiment of 'Billy no- mates' https://t.co/0ct6XcCZMr https://t.co/1M2iUjyEUt"
+	},
+	{
+		"created_at": "Sat Sep 18 19:51:08 +0000 2021",
+		"id": 1439312305074827300,
+		"id_str": "1439316078132408324",
+		"full_text": "I care more about the outcome of sporting events than any other aspect of human existence.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 204832963,
+			"id_str": "204832963",
+			"name": "God",
+			"screen_name": "TheTweetOfGod",
+			"location": "Heaven",
+			"description": "Unverified; unverified. Pronouns: Thee/thou/thine. INTJehovah. Link to My #Godcast, Instagram, Clubhouse and more at https://t.co/S5y8j618a7.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/S5y8j618a7",
+							"expanded_url": "http://linktr.ee/TheTweetOfGod",
+							"display_url": "linktr.ee/TheTweetOfGod",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6213952,
+			"friends_count": 1,
+			"listed_count": 15081,
+			"created_at": "Tue Oct 19 15:26:05 +0000 2010",
+			"favourites_count": 360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383115536377081858/KSQtpZDt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383115536377081858/KSQtpZDt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/204832963/1627488533",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 601,
+		"favorite_count": 5843,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I care more about the outcome of sporting events than any other aspect of human existence."
+	},
+	{
 		"created_at": "Thu Sep 16 21:46:34 +0000 2021",
 		"id": 1438610198042714000,
 		"id_str": "1438620349516689409",
