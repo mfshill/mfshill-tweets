@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 20 20:30:45 +0000 2021",
+		"id": 1440001280781525000,
+		"id_str": "1440050821459152908",
+		"full_text": "I wanted to show every woman how to properly check her breasts. This is the first in a series of 4 videos. I’ll post them all as a thread on Friday. First we need to talk about looking in the mirror https://t.co/kQU700jveS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440001205246341000,
+					"id_str": "1440001205246341122",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1440001205246341122/pu/img/qiyWoEPnB2eop5s7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1440001205246341122/pu/img/qiyWoEPnB2eop5s7.jpg",
+					"url": "https://t.co/kQU700jveS",
+					"display_url": "pic.twitter.com/kQU700jveS",
+					"expanded_url": "https://twitter.com/Liz_ORiordan/status/1440001280781524995/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440001205246341000,
+					"id_str": "1440001205246341122",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1440001205246341122/pu/img/qiyWoEPnB2eop5s7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1440001205246341122/pu/img/qiyWoEPnB2eop5s7.jpg",
+					"url": "https://t.co/kQU700jveS",
+					"display_url": "pic.twitter.com/kQU700jveS",
+					"expanded_url": "https://twitter.com/Liz_ORiordan/status/1440001280781524995/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1440001205246341122/pu/pl/7qLP3HZ3bMRTG8T-.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1440001205246341122/pu/vid/320x320/tSNCC-ySY64dU-VT.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1440001205246341122/pu/vid/640x640/YhRrlROoqUFkka2Q.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1440001205246341122/pu/vid/540x540/X8UCfxTdfNKHQNO5.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21295267,
+			"id_str": "21295267",
+			"name": "Liz O'Riordan 💋🦔",
+			"screen_name": "Liz_ORiordan",
+			"location": "",
+			"description": "Breast surgeon with breast cancer. Author, speaker, broadcaster and podcaster. Talks about the stuff that no-one else will (Insta:oriordanliz)",
+			"url": "http://liz.oriordan.co.uk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://liz.oriordan.co.uk",
+							"expanded_url": null,
+							"indices": [
+								0,
+								25
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28697,
+			"friends_count": 7288,
+			"listed_count": 289,
+			"created_at": "Thu Feb 19 12:52:39 +0000 2009",
+			"favourites_count": 103714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434204063965585421/T1tpXqOg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434204063965585421/T1tpXqOg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21295267/1536923681",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1097,
+		"favorite_count": 2178,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wanted to show every woman how to properly check her breasts. This is the first in a series of 4 videos. I’ll post them all as a thread on Friday. First we need to talk about looking in the mirror https://t.co/kQU700jveS"
+	},
+	{
 		"created_at": "Sun Sep 19 18:55:46 +0000 2021",
 		"id": 1439664530506887200,
 		"id_str": "1439664530506887171",
