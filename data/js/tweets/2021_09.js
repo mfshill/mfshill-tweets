@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 21 20:20:21 +0000 2021",
+		"id": 1440410593488371700,
+		"id_str": "1440410593488371713",
+		"full_text": "great use of an Only Fools and Horses sample. #NowPlaying 'Tyke - Rodney' https://t.co/OwsQyJmKce",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NowPlaying",
+					"indices": [
+						46,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OwsQyJmKce",
+					"expanded_url": "https://youtu.be/tXfNcs8-bVY",
+					"display_url": "youtu.be/tXfNcs8-bVY",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 259,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "great use of an Only Fools and Horses sample. #NowPlaying 'Tyke - Rodney' https://t.co/OwsQyJmKce"
+	},
+	{
+		"created_at": "Tue Sep 21 16:28:18 +0000 2021",
+		"id": 1440351363922161700,
+		"id_str": "1440352196378304515",
+		"full_text": "Kicking off S03 of our podcast, we talk to Professor Alice Roberts about her new book \"Ancestors\", the relationship between science and faith, and how she became a humanist. \n\nListen to the whole episode here: https://t.co/FsDTM2lTEi https://t.co/gYRa4bwLqQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FsDTM2lTEi",
+					"expanded_url": "https://pod.fo/e/e9e17",
+					"display_url": "pod.fo/e/e9e17",
+					"indices": [
+						210,
+						233
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1440285000755155000,
+					"id_str": "1440285000755154953",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1440285000755154953/pu/img/eSy0zJfnmbnjJ0-d.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1440285000755154953/pu/img/eSy0zJfnmbnjJ0-d.jpg",
+					"url": "https://t.co/gYRa4bwLqQ",
+					"display_url": "pic.twitter.com/gYRa4bwLqQ",
+					"expanded_url": "https://twitter.com/NewHumanist/status/1440351363922161675/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440285000755155000,
+					"id_str": "1440285000755154953",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1440285000755154953/pu/img/eSy0zJfnmbnjJ0-d.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1440285000755154953/pu/img/eSy0zJfnmbnjJ0-d.jpg",
+					"url": "https://t.co/gYRa4bwLqQ",
+					"display_url": "pic.twitter.com/gYRa4bwLqQ",
+					"expanded_url": "https://twitter.com/NewHumanist/status/1440351363922161675/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60047,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1440285000755154953/pu/vid/540x540/2XGLq1gwzz8kckln.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1440285000755154953/pu/pl/Ss1eEQ6PjRviT-hW.m3u8?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1440285000755154953/pu/vid/320x320/_4gfOt68YZCE-Jke.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1440285000755154953/pu/vid/720x720/TTbQoH5EXC1hq6nm.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19530437,
+			"id_str": "19530437",
+			"name": "New Humanist",
+			"screen_name": "NewHumanist",
+			"location": "London",
+			"description": "We're a quarterly journal of ideas, science and culture published by the Rationalist Association since 1885. Subscribe: https://t.co/G6yexDc1g8",
+			"url": "http://t.co/2cIs5QpOLe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2cIs5QpOLe",
+							"expanded_url": "http://newhumanist.org.uk",
+							"display_url": "newhumanist.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/G6yexDc1g8",
+							"expanded_url": "http://newhumanist.org.uk/supportus",
+							"display_url": "newhumanist.org.uk/supportus",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 32739,
+			"friends_count": 883,
+			"listed_count": 1085,
+			"created_at": "Mon Jan 26 11:56:25 +0000 2009",
+			"favourites_count": 158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/765511398164144128/v4I3r8Vr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/765511398164144128/v4I3r8Vr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19530437/1471347139",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kicking off S03 of our podcast, we talk to Professor Alice Roberts about her new book \"Ancestors\", the relationship between science and faith, and how she became a humanist. \n\nListen to the whole episode here: https://t.co/FsDTM2lTEi https://t.co/gYRa4bwLqQ"
+	},
+	{
+		"created_at": "Tue Sep 21 11:22:09 +0000 2021",
+		"id": 1440275150323085300,
+		"id_str": "1440275150323085322",
+		"full_text": "Beautiful - Arsène Wenger and the North Bank Redemption https://t.co/mkuMCMuwVX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440275135458525200,
+					"id_str": "1440275135458525194",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/E_zimtPVQAoMFSf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_zimtPVQAoMFSf.jpg",
+					"url": "https://t.co/mkuMCMuwVX",
+					"display_url": "pic.twitter.com/mkuMCMuwVX",
+					"expanded_url": "https://twitter.com/mfshill/status/1440275150323085322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 389,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 686,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1171,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440275135458525200,
+					"id_str": "1440275135458525194",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/E_zimtPVQAoMFSf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_zimtPVQAoMFSf.jpg",
+					"url": "https://t.co/mkuMCMuwVX",
+					"display_url": "pic.twitter.com/mkuMCMuwVX",
+					"expanded_url": "https://twitter.com/mfshill/status/1440275150323085322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 389,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 686,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1171,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 259,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ht",
+		"text": "Beautiful - Arsène Wenger and the North Bank Redemption https://t.co/mkuMCMuwVX"
+	},
+	{
 		"created_at": "Mon Sep 20 20:30:45 +0000 2021",
 		"id": 1440001280781525000,
 		"id_str": "1440050821459152908",
