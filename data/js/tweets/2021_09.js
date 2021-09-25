@@ -1,6 +1,469 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 24 19:09:56 +0000 2021",
+		"id": 1441479335848808400,
+		"id_str": "1441480035039268873",
+		"full_text": "https://t.co/42CgWOHUBG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1441479332409471000,
+					"id_str": "1441479332409470981",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FAEp0MdVcAUpgEZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAEp0MdVcAUpgEZ.jpg",
+					"url": "https://t.co/42CgWOHUBG",
+					"display_url": "pic.twitter.com/42CgWOHUBG",
+					"expanded_url": "https://twitter.com/TC_Cornesto/status/1441479335848808451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 434,
+							"h": 249,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 434,
+							"h": 249,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 434,
+							"h": 249,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1441479332409471000,
+					"id_str": "1441479332409470981",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FAEp0MdVcAUpgEZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAEp0MdVcAUpgEZ.jpg",
+					"url": "https://t.co/42CgWOHUBG",
+					"display_url": "pic.twitter.com/42CgWOHUBG",
+					"expanded_url": "https://twitter.com/TC_Cornesto/status/1441479335848808451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 434,
+							"h": 249,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 434,
+							"h": 249,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 434,
+							"h": 249,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19991214,
+			"id_str": "19991214",
+			"name": "TC Cornesto Doesn't Like Your Tweets",
+			"screen_name": "TC_Cornesto",
+			"location": "",
+			"description": "Taciturn Bastard - Doomstruck Gimp - Fresh Idiot (kinkï) - Commanding but not Cunty (apparently)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1528,
+			"friends_count": 1815,
+			"listed_count": 49,
+			"created_at": "Tue Feb 03 18:28:43 +0000 2009",
+			"favourites_count": 62816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 128961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323193346890891266/1iUIvuUi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323193346890891266/1iUIvuUi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19991214/1604308821",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/42CgWOHUBG"
+	},
+	{
+		"created_at": "Fri Sep 24 18:45:47 +0000 2021",
+		"id": 1441473957832663000,
+		"id_str": "1441473957832663042",
+		"full_text": "great new album by @DSmoke7. #NowPlaying 'War &amp; Wonders' https://t.co/2TqEQNf6Jh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NowPlaying",
+					"indices": [
+						29,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DSmoke7",
+					"name": "D Smoke",
+					"id": 46518601,
+					"id_str": "46518601",
+					"indices": [
+						19,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2TqEQNf6Jh",
+					"expanded_url": "https://youtu.be/qmYT8z0zi8A?list=OLAK5uy_lvQhKZn75DD0a9udK7GY0zG_XXvwpbUlE",
+					"display_url": "youtu.be/qmYT8z0zi8A?li…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 259,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "great new album by @DSmoke7. #NowPlaying 'War &amp; Wonders' https://t.co/2TqEQNf6Jh"
+	},
+	{
+		"created_at": "Fri Sep 24 11:20:21 +0000 2021",
+		"id": 1441361862612848600,
+		"id_str": "1441361862612848649",
+		"full_text": "@betmja something to talk about in the pub, unless you lot are still in lockdown",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "betmja",
+					"name": "ket cowboy",
+					"id": 161423316,
+					"id_str": "161423316",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1441361541081694200,
+		"in_reply_to_status_id_str": "1441361541081694213",
+		"in_reply_to_user_id": 161423316,
+		"in_reply_to_user_id_str": "161423316",
+		"in_reply_to_screen_name": "betmja",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 259,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@betmja something to talk about in the pub, unless you lot are still in lockdown"
+	},
+	{
+		"created_at": "Fri Sep 24 11:13:16 +0000 2021",
+		"id": 1441360077034639400,
+		"id_str": "1441360077034639371",
+		"full_text": "@betmja all good here, sounds like you're having a whale of a time down under. how was the earthquake?",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "betmja",
+					"name": "ket cowboy",
+					"id": 161423316,
+					"id_str": "161423316",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1441358951367413800,
+		"in_reply_to_status_id_str": "1441358951367413764",
+		"in_reply_to_user_id": 161423316,
+		"in_reply_to_user_id_str": "161423316",
+		"in_reply_to_screen_name": "betmja",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 259,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@betmja all good here, sounds like you're having a whale of a time down under. how was the earthquake?"
+	},
+	{
 		"created_at": "Thu Sep 23 13:00:27 +0000 2021",
 		"id": 1441019050780397600,
 		"id_str": "1441024664248242179",
@@ -38,7 +501,7 @@ Grailbird.data.tweets_2021_09 =
 			"name": "jattski!",
 			"screen_name": "MrJattski",
 			"location": "he/him",
-			"description": "🐸 Comedy @therhexperience\n🎨 Lead Designer https://t.co/H2LIFZBnWr\n👨‍🏫 Teach improv & clown @hooplaimpro\n🎧 Play records @AAJADeptford\n☕️ Tip me https://t.co/LAABxQotLq",
+			"description": "🐸 Comedy @therhexperience\n🎨 Lead Designer https://t.co/H2LIFZBnWr\n👨🏫 Teach improv & clown @hooplaimpro\n🎧 Play records @AAJADeptford\n☕️ Tip me https://t.co/LAABxQotLq",
 			"url": "https://t.co/g0zpdPRotg",
 			"entities": {
 				"url": {
