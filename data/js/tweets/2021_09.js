@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 28 12:29:02 +0000 2021",
+		"id": 1442828698529448000,
+		"id_str": "1442828698529447939",
+		"full_text": "@AlvinAl3978 @lorrainemking that's some top draw ignorance",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlvinAl3978",
+					"name": "AllyAl3978",
+					"id": 153453124,
+					"id_str": "153453124",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "lorrainemking",
+					"name": "Lorraine King",
+					"id": 283025603,
+					"id_str": "283025603",
+					"indices": [
+						13,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1442819846522212400,
+		"in_reply_to_status_id_str": "1442819846522212354",
+		"in_reply_to_user_id": 153453124,
+		"in_reply_to_user_id_str": "153453124",
+		"in_reply_to_screen_name": "AlvinAl3978",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 259,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42169,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AlvinAl3978 @lorrainemking that's some top draw ignorance"
+	},
+	{
 		"created_at": "Mon Sep 27 18:33:24 +0000 2021",
 		"id": 1442558006843953200,
 		"id_str": "1442558006843953155",
@@ -95,7 +199,7 @@ Grailbird.data.tweets_2021_09 =
 		"created_at": "Mon Sep 27 18:03:49 +0000 2021",
 		"id": 1442547415060340700,
 		"id_str": "1442550558536183812",
-		"full_text": "Not long now until the rubber hits the road  🚴🏻‍♂️ \n\nPlease help me raise awareness for this years final event by hitting that share button 🙏🏻\n\nhttps://t.co/HcTCBoXXAL",
+		"full_text": "Not long now until the rubber hits the road  🚴🏻♂️ \n\nPlease help me raise awareness for this years final event by hitting that share button 🙏🏻\n\nhttps://t.co/HcTCBoXXAL",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -229,7 +333,7 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Not long now until the rubber hits the road  🚴🏻‍♂️ \n\nPlease help me raise awareness for this years final event by hitting that share button 🙏🏻\n\nhttps://t.co/HcTCBoXXAL"
+		"text": "Not long now until the rubber hits the road  🚴🏻♂️ \n\nPlease help me raise awareness for this years final event by hitting that share button 🙏🏻\n\nhttps://t.co/HcTCBoXXAL"
 	},
 	{
 		"created_at": "Mon Sep 27 16:15:35 +0000 2021",
