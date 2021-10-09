@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 08 18:18:25 +0000 2021",
+		"id": 1446479417627365400,
+		"id_str": "1446540501046468609",
+		"full_text": "\"why are you crying?\"\n\nbecause bears sit and look at good views https://t.co/cqaN0LJ4pF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446479414431260700,
+					"id_str": "1446479414431260698",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FBLtXRgXIBoZ5oc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBLtXRgXIBoZ5oc.jpg",
+					"url": "https://t.co/cqaN0LJ4pF",
+					"display_url": "pic.twitter.com/cqaN0LJ4pF",
+					"expanded_url": "https://twitter.com/nastywomanatlaw/status/1446479417627365379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 747,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 747,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446479414431260700,
+					"id_str": "1446479414431260698",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FBLtXRgXIBoZ5oc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBLtXRgXIBoZ5oc.jpg",
+					"url": "https://t.co/cqaN0LJ4pF",
+					"display_url": "pic.twitter.com/cqaN0LJ4pF",
+					"expanded_url": "https://twitter.com/nastywomanatlaw/status/1446479417627365379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 747,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 747,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24475408,
+			"id_str": "24475408",
+			"name": "clair without the \"e\"",
+			"screen_name": "nastywomanatlaw",
+			"location": "Columbia, SC",
+			"description": "J.D. doing my situational best. absolutely no one endorses this, especially not me.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5571,
+			"friends_count": 1221,
+			"listed_count": 36,
+			"created_at": "Sun Mar 15 02:49:53 +0000 2009",
+			"favourites_count": 103933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2E7CB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1446480934363140098/wxB4t-X9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1446480934363140098/wxB4t-X9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24475408/1620932123",
+			"profile_link_color": "4D0E2C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "585858",
+			"profile_text_color": "398ADB",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7179,
+		"favorite_count": 37917,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"why are you crying?\"\n\nbecause bears sit and look at good views https://t.co/cqaN0LJ4pF"
+	},
+	{
+		"created_at": "Fri Oct 08 14:06:19 +0000 2021",
+		"id": 1446426124268064800,
+		"id_str": "1446477057064640521",
+		"full_text": "This is your periodic reminder that this is what the inside of a baby's head look like, with all the teeth it will ever need in place already. Why we have to make up horrors for Hallowe'en all thru October I don't know. https://t.co/lJwfiArRLo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446425889835831300,
+					"id_str": "1446425889835831313",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FBK8ru2X0BE4lEP.png",
+					"media_url_https": "https://pbs.twimg.com/media/FBK8ru2X0BE4lEP.png",
+					"url": "https://t.co/lJwfiArRLo",
+					"display_url": "pic.twitter.com/lJwfiArRLo",
+					"expanded_url": "https://twitter.com/sarasheridan/status/1446426124268064784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 489,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 489,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 489,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446425889835831300,
+					"id_str": "1446425889835831313",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FBK8ru2X0BE4lEP.png",
+					"media_url_https": "https://pbs.twimg.com/media/FBK8ru2X0BE4lEP.png",
+					"url": "https://t.co/lJwfiArRLo",
+					"display_url": "pic.twitter.com/lJwfiArRLo",
+					"expanded_url": "https://twitter.com/sarasheridan/status/1446426124268064784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 489,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 489,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 489,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128254845,
+			"id_str": "128254845",
+			"name": "Sara Sheridan",
+			"screen_name": "sarasheridan",
+			"location": "Edinburgh",
+			"description": "Writes historical fiction & non-fiction. Mapped Scotland according to women's history. Activist. Jew. She/her. YES. On Insta: @thefairbotanists",
+			"url": "https://t.co/DVBqkevYA4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DVBqkevYA4",
+							"expanded_url": "https://uk.bookshop.org/lists/sara-s-books",
+							"display_url": "uk.bookshop.org/lists/sara-s-b…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16770,
+			"friends_count": 2205,
+			"listed_count": 558,
+			"created_at": "Wed Mar 31 15:47:15 +0000 2010",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 59731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140182766354620416/5QcggLWF_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140182766354620416/5QcggLWF_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128254845/1632479280",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 425,
+		"favorite_count": 1948,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is your periodic reminder that this is what the inside of a baby's head look like, with all the teeth it will ever need in place already. Why we have to make up horrors for Hallowe'en all thru October I don't know. https://t.co/lJwfiArRLo"
+	},
+	{
 		"created_at": "Thu Oct 07 19:53:23 +0000 2021",
 		"id": 1446202011192541200,
 		"id_str": "1446202011192541186",
