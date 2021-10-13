@@ -1,6 +1,563 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 12 21:35:56 +0000 2021",
+		"id": 1447919641360228400,
+		"id_str": "1448039757209014274",
+		"full_text": "Absolutely fucking powerful, MASTERFUL diatribe from @mrjamesob. https://t.co/o21IE18ccV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrjamesob",
+					"name": "James OhBrien",
+					"id": 152656121,
+					"id_str": "152656121",
+					"indices": [
+						53,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/o21IE18ccV",
+					"expanded_url": "https://twitter.com/LBC/status/1447863084966625280",
+					"display_url": "twitter.com/LBC/status/144…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 97621178,
+			"id_str": "97621178",
+			"name": "🥃 Larry & Paul 🥃",
+			"screen_name": "larryandpaul",
+			"location": "Leeds, England",
+			"description": "🎬 ALL SKETCHES: https://t.co/IL6YigVWKA\n📺 LIVE SHOW: https://t.co/eEThNlMPgt\n💸 TO SUPPORT US: https://t.co/yJjBpDsKQu",
+			"url": "https://t.co/fyoOM2yRYb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fyoOM2yRYb",
+							"expanded_url": "http://www.larryandpaul.com",
+							"display_url": "larryandpaul.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IL6YigVWKA",
+							"expanded_url": "http://bit.ly/2ZBOvqZl",
+							"display_url": "bit.ly/2ZBOvqZl",
+							"indices": [
+								16,
+								39
+							]
+						},
+						{
+							"url": "https://t.co/eEThNlMPgt",
+							"expanded_url": "http://bit.ly/3m8OoLm",
+							"display_url": "bit.ly/3m8OoLm",
+							"indices": [
+								53,
+								76
+							]
+						},
+						{
+							"url": "https://t.co/yJjBpDsKQu",
+							"expanded_url": "http://ko-fi.com/larryandpaul",
+							"display_url": "ko-fi.com/larryandpaul",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 22570,
+			"friends_count": 1898,
+			"listed_count": 129,
+			"created_at": "Fri Dec 18 08:23:03 +0000 2009",
+			"favourites_count": 22199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380159768610881553/ke4huKGp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380159768610881553/ke4huKGp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/97621178/1617890706",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1447863084966625300,
+		"quoted_status_id_str": "1447863084966625280",
+		"quoted_status_permalink": {
+			"url": "https://t.co/o21IE18ccV",
+			"expanded": "https://twitter.com/LBC/status/1447863084966625280",
+			"display": "twitter.com/LBC/status/144…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 12 09:53:54 +0000 2021",
+			"id": 1447863084966625300,
+			"id_str": "1447863084966625280",
+			"full_text": "'How have we created a country in which the people in charge can stand accused of such epic and fatal failure by their own colleagues while we sit here absolutely certain not a single head will roll.'\n\n@MrJamesOB reacts to a damning report into the government handling of Covid. https://t.co/bTpPiB06Oj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrjamesob",
+						"name": "James OhBrien",
+						"id": 152656121,
+						"id_str": "152656121",
+						"indices": [
+							202,
+							212
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1447862480525537300,
+						"id_str": "1447862480525537282",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FBfXu0CXsAIzEOa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBfXu0CXsAIzEOa.jpg",
+						"url": "https://t.co/bTpPiB06Oj",
+						"display_url": "pic.twitter.com/bTpPiB06Oj",
+						"expanded_url": "https://twitter.com/LBC/status/1447863084966625280/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1447862480525537300,
+						"id_str": "1447862480525537282",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FBfXu0CXsAIzEOa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBfXu0CXsAIzEOa.jpg",
+						"url": "https://t.co/bTpPiB06Oj",
+						"display_url": "pic.twitter.com/bTpPiB06Oj",
+						"expanded_url": "https://twitter.com/LBC/status/1447863084966625280/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 342160,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1447862480525537282/pl/4CqwD57Gror8gty6.m3u8?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1447862480525537282/vid/1280x720/fHQCC9BpM-Kt1WMJ.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1447862480525537282/vid/640x360/gD-yeq8QzZiWo_mh.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1447862480525537282/vid/480x270/3Rp_dhxplhBAVsz5.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "James O'Brien reacts to damning Covid report",
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20973388,
+				"id_str": "20973388",
+				"name": "LBC",
+				"screen_name": "LBC",
+				"location": "United Kingdom",
+				"description": "Leading Britain's Conversation. For breaking news alerts, follow @LBCNews. Follow us on Instagram https://t.co/rR0jidxgAf",
+				"url": "https://t.co/fI8exPioWw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fI8exPioWw",
+								"expanded_url": "http://www.lbc.co.uk",
+								"display_url": "lbc.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rR0jidxgAf",
+								"expanded_url": "http://instagram.com/lbc/",
+								"display_url": "instagram.com/lbc/",
+								"indices": [
+									98,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 495573,
+				"friends_count": 2159,
+				"listed_count": 2515,
+				"created_at": "Mon Feb 16 09:36:59 +0000 2009",
+				"favourites_count": 1144,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 184855,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "26314F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410859252655267842/J36ofGqb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410859252655267842/J36ofGqb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20973388/1618142403",
+				"profile_link_color": "E61F02",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "37ABD2",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2939,
+			"favorite_count": 9092,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 351,
+		"favorite_count": 1726,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Absolutely fucking powerful, MASTERFUL diatribe from @mrjamesob. https://t.co/o21IE18ccV"
+	},
+	{
+		"created_at": "Tue Oct 12 19:15:35 +0000 2021",
+		"id": 1448004440036872200,
+		"id_str": "1448004440036872198",
+		"full_text": "It was 'Harry Potter and the Sorcerer’s Stone' if you're interested. One of the worst written books I've set my eyes on. Think i got about 4 chapters in before launching it across the lounge.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1447995441975545900,
+		"in_reply_to_status_id_str": "1447995441975545857",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 265,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "It was 'Harry Potter and the Sorcerer’s Stone' if you're interested. One of the worst written books I've set my eyes on. Think i got about 4 chapters in before launching it across the lounge."
+	},
+	{
+		"created_at": "Tue Oct 12 18:47:54 +0000 2021",
+		"id": 1447997474170413000,
+		"id_str": "1447997474170413057",
+		"full_text": "@SmashrunHQ have sent an email. thanks!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SmashrunHQ",
+					"name": "Smashrun Team",
+					"id": 293600304,
+					"id_str": "293600304",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1447986327308447700,
+		"in_reply_to_status_id_str": "1447986327308447744",
+		"in_reply_to_user_id": 293600304,
+		"in_reply_to_user_id_str": "293600304",
+		"in_reply_to_screen_name": "SmashrunHQ",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 265,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SmashrunHQ have sent an email. thanks!"
+	},
+	{
 		"created_at": "Mon Oct 11 11:43:18 +0000 2021",
 		"id": 1447528230362222600,
 		"id_str": "1447528230362222594",
