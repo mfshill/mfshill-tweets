@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 16:58:53 +0000 2021",
+		"id": 1449057199100211200,
+		"id_str": "1449057199100211207",
+		"full_text": "Why Britons are tolerating sky-high Covid rates – and why this may not last https://t.co/UeGmJGtIhR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UeGmJGtIhR",
+					"expanded_url": "https://www.theguardian.com/world/2021/oct/15/why-britons-are-tolerating-sky-high-covid-rates-and-why-this-may-not-last",
+					"display_url": "theguardian.com/world/2021/oct…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 265,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why Britons are tolerating sky-high Covid rates – and why this may not last https://t.co/UeGmJGtIhR"
+	},
+	{
+		"created_at": "Fri Oct 15 10:44:10 +0000 2021",
+		"id": 1448962898869559300,
+		"id_str": "1448962898869559324",
+		"full_text": "@TC_Cornesto @DJYodaUK just put it on, so goooood! been a v long time since I've listened to this.",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC Cornesto Doesn't Like Your Tweets",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "DJYodaUK",
+					"name": "DJ Yoda 🎧",
+					"id": 39306925,
+					"id_str": "39306925",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1448957950513533000,
+		"in_reply_to_status_id_str": "1448957950513532932",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 265,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TC_Cornesto @DJYodaUK just put it on, so goooood! been a v long time since I've listened to this."
+	},
+	{
+		"created_at": "Fri Oct 15 10:43:24 +0000 2021",
+		"id": 1448962705881247700,
+		"id_str": "1448962705881247744",
+		"full_text": "👌🏽 https://t.co/Whx5574dRH https://t.co/ToyhVDTuaP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Whx5574dRH",
+					"expanded_url": "https://www.youtube.com/watch?v=75K6MckXsok",
+					"display_url": "youtube.com/watch?v=75K6Mc…",
+					"indices": [
+						3,
+						26
+					]
+				},
+				{
+					"url": "https://t.co/ToyhVDTuaP",
+					"expanded_url": "https://twitter.com/DJYodaUK/status/1448953133795889152",
+					"display_url": "twitter.com/DJYodaUK/statu…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 265,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1448953133795889200,
+		"quoted_status_id_str": "1448953133795889152",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ToyhVDTuaP",
+			"expanded": "https://twitter.com/DJYodaUK/status/1448953133795889152",
+			"display": "twitter.com/DJYodaUK/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 15 10:05:22 +0000 2021",
+			"id": 1448953133795889200,
+			"id_str": "1448953133795889152",
+			"full_text": "It's a very meaningful day for me today - the 20th ANNIVERSARY of the release of How To Cut &amp; Paste Vol. 1! Happy birthday to the mix that launched my pro career. https://t.co/InyL502Yqi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				166
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1448951095653539800,
+						"id_str": "1448951095653539841",
+						"indices": [
+							167,
+							190
+						],
+						"media_url": "http://pbs.twimg.com/media/FBu1WDlXoAEUfLw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBu1WDlXoAEUfLw.jpg",
+						"url": "https://t.co/InyL502Yqi",
+						"display_url": "pic.twitter.com/InyL502Yqi",
+						"expanded_url": "https://twitter.com/DJYodaUK/status/1448953133795889152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 300,
+								"h": 298,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 300,
+								"h": 298,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 300,
+								"h": 298,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1448951095653539800,
+						"id_str": "1448951095653539841",
+						"indices": [
+							167,
+							190
+						],
+						"media_url": "http://pbs.twimg.com/media/FBu1WDlXoAEUfLw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBu1WDlXoAEUfLw.jpg",
+						"url": "https://t.co/InyL502Yqi",
+						"display_url": "pic.twitter.com/InyL502Yqi",
+						"expanded_url": "https://twitter.com/DJYodaUK/status/1448953133795889152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 300,
+								"h": 298,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 300,
+								"h": 298,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 300,
+								"h": 298,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1448951108559425500,
+						"id_str": "1448951108559425538",
+						"indices": [
+							167,
+							190
+						],
+						"media_url": "http://pbs.twimg.com/media/FBu1WzqX0AI2E4A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBu1WzqX0AI2E4A.jpg",
+						"url": "https://t.co/InyL502Yqi",
+						"display_url": "pic.twitter.com/InyL502Yqi",
+						"expanded_url": "https://twitter.com/DJYodaUK/status/1448953133795889152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1080,
+								"h": 602,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 602,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 379,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39306925,
+				"id_str": "39306925",
+				"name": "DJ Yoda 🎧",
+				"screen_name": "DJYodaUK",
+				"location": "London, UK",
+				"description": "I segue amplified music. And sometimes videos too. Also very keen on breakfast. Album “Home Cooking” out now. Management: dangray@graymatterltd.com",
+				"url": "https://t.co/qrWDUjdGPL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qrWDUjdGPL",
+								"expanded_url": "http://www.djyoda.co.uk",
+								"display_url": "djyoda.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31031,
+				"friends_count": 291,
+				"listed_count": 573,
+				"created_at": "Mon May 11 18:23:57 +0000 2009",
+				"favourites_count": 672,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 34127,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1159482197117677569/CRMW2bSm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159482197117677569/CRMW2bSm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39306925/1578933233",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "CCCCCC",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 302,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👌🏽 https://t.co/Whx5574dRH https://t.co/ToyhVDTuaP"
+	},
+	{
 		"created_at": "Wed Oct 13 21:51:31 +0000 2021",
 		"id": 1448406069663965200,
 		"id_str": "1448406069663965185",
