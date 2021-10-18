@@ -1,6 +1,674 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 17 22:38:47 +0000 2021",
+		"id": 1449828151291519000,
+		"id_str": "1449867516973572101",
+		"full_text": "Just learned I don't have to be a parent to join parents' discussion groups on Facebook 👍 https://t.co/q7q8EdZX3E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449828146275102700,
+					"id_str": "1449828146275102720",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FB7TBHwXMAAIppL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB7TBHwXMAAIppL.jpg",
+					"url": "https://t.co/q7q8EdZX3E",
+					"display_url": "pic.twitter.com/q7q8EdZX3E",
+					"expanded_url": "https://twitter.com/Michael1979/status/1449828151291518981/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 669,
+							"h": 788,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 577,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 669,
+							"h": 788,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449828146275102700,
+					"id_str": "1449828146275102720",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FB7TBHwXMAAIppL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB7TBHwXMAAIppL.jpg",
+					"url": "https://t.co/q7q8EdZX3E",
+					"display_url": "pic.twitter.com/q7q8EdZX3E",
+					"expanded_url": "https://twitter.com/Michael1979/status/1449828151291518981/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 669,
+							"h": 788,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 577,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 669,
+							"h": 788,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449828148871409700,
+					"id_str": "1449828148871409674",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FB7TBRbXsAo4_Fc.png",
+					"media_url_https": "https://pbs.twimg.com/media/FB7TBRbXsAo4_Fc.png",
+					"url": "https://t.co/q7q8EdZX3E",
+					"display_url": "pic.twitter.com/q7q8EdZX3E",
+					"expanded_url": "https://twitter.com/Michael1979/status/1449828151291518981/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 627,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 671,
+							"h": 728,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 671,
+							"h": 728,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20668891,
+			"id_str": "20668891",
+			"name": "Sir Michael",
+			"screen_name": "Michael1979",
+			"location": "Waterford, Ireland",
+			"description": "\"Stop posting\" - my online critics. \n\"Stop wearing jean shorts\" - my offline critics. \nhttps://t.co/ZLpWlM4hZr",
+			"url": "https://t.co/l1Y4X7H5dq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l1Y4X7H5dq",
+							"expanded_url": "https://www.amazon.co.uk/How-Almost-Make-Friends-Internet/dp/1398701815/",
+							"display_url": "amazon.co.uk/How-Almost-Mak…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZLpWlM4hZr",
+							"expanded_url": "https://ko-fi.com/sirmichael",
+							"display_url": "ko-fi.com/sirmichael",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248111,
+			"friends_count": 1208,
+			"listed_count": 844,
+			"created_at": "Thu Feb 12 11:22:21 +0000 2009",
+			"favourites_count": 135902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2542151234/4lzo4nfnjzrohvr2ltku_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2542151234/4lzo4nfnjzrohvr2ltku_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20668891/1594036168",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 591,
+		"favorite_count": 8731,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just learned I don't have to be a parent to join parents' discussion groups on Facebook 👍 https://t.co/q7q8EdZX3E"
+	},
+	{
+		"created_at": "Sun Oct 17 20:42:58 +0000 2021",
+		"id": 1449838370578964500,
+		"id_str": "1449838370578964486",
+		"full_text": "The latest Halloween film comes across as if it was made for TV and is truly terrible. Never have I rooted more for Michael Myers to eliminate the entire cast. It's a shame as Halloween (2018) wasn't all that bad.   Halloween Kills (2021) 2/10. https://t.co/h7eFZknSu0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h7eFZknSu0",
+					"expanded_url": "https://www.imdb.com/title/tt10665338",
+					"display_url": "imdb.com/title/tt106653…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 265,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The latest Halloween film comes across as if it was made for TV and is truly terrible. Never have I rooted more for Michael Myers to eliminate the entire cast. It's a shame as Halloween (2018) wasn't all that bad.   Halloween Kills (2021) 2/10. https://t.co/h7eFZknSu0"
+	},
+	{
+		"created_at": "Sun Oct 17 19:38:12 +0000 2021",
+		"id": 1449164420857352200,
+		"id_str": "1449822068078518278",
+		"full_text": "This is the greatest \"showerthought\" of all time. Of all time.\nhttps://t.co/kyxYTGTo8I https://t.co/giA107ysgE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kyxYTGTo8I",
+					"expanded_url": "https://www.reddit.com/r/Showerthoughts/comments/q8rd8d/if_the_queen_wore_a_pair_of_shoes_once_and_sold/",
+					"display_url": "reddit.com/r/Showerthough…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1449164418701570000,
+					"id_str": "1449164418701570049",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FBx3XF3XsAEEmmf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBx3XF3XsAEEmmf.jpg",
+					"url": "https://t.co/giA107ysgE",
+					"display_url": "pic.twitter.com/giA107ysgE",
+					"expanded_url": "https://twitter.com/nickw84/status/1449164420857352193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1108,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 663,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1108,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449164418701570000,
+					"id_str": "1449164418701570049",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FBx3XF3XsAEEmmf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBx3XF3XsAEEmmf.jpg",
+					"url": "https://t.co/giA107ysgE",
+					"display_url": "pic.twitter.com/giA107ysgE",
+					"expanded_url": "https://twitter.com/nickw84/status/1449164420857352193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1108,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 663,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1108,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18323658,
+			"id_str": "18323658",
+			"name": "Nick Walker",
+			"screen_name": "nickw84",
+			"location": "South London",
+			"description": "Professional TV insider | Unprofessional TV outsider | creator of @daytimesnaps | Boastful | Self-deprecating | he/him | Some emojis: 📝📷🚴🗺️🍟",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6112,
+			"friends_count": 1934,
+			"listed_count": 67,
+			"created_at": "Tue Dec 23 02:01:53 +0000 2008",
+			"favourites_count": 2430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "435CD9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1386616334184861698/1nye3rzm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1386616334184861698/1nye3rzm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18323658/1503181387",
+			"profile_link_color": "08408A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "03ABDE",
+			"profile_text_color": "2C323D",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7013,
+		"favorite_count": 81869,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the greatest \"showerthought\" of all time. Of all time.\nhttps://t.co/kyxYTGTo8I https://t.co/giA107ysgE"
+	},
+	{
+		"created_at": "Sun Oct 17 18:06:49 +0000 2021",
+		"id": 1449799070910910500,
+		"id_str": "1449799070910910466",
+		"full_text": "@AllyAl3978 wow https://t.co/eJocZCeOTY",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AllyAl3978",
+					"name": "AllyAl3978",
+					"id": 153453124,
+					"id_str": "153453124",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449696378486235100,
+					"id_str": "1449696378486235140",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/FB5bLOfXoAQdEJG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB5bLOfXoAQdEJG.jpg",
+					"url": "https://t.co/eJocZCeOTY",
+					"display_url": "pic.twitter.com/eJocZCeOTY",
+					"expanded_url": "https://twitter.com/Boristhespider0/status/1449696381220925446/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1449696381220925400,
+					"source_status_id_str": "1449696381220925446",
+					"source_user_id": 514507562,
+					"source_user_id_str": "514507562"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449696378486235100,
+					"id_str": "1449696378486235140",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/FB5bLOfXoAQdEJG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB5bLOfXoAQdEJG.jpg",
+					"url": "https://t.co/eJocZCeOTY",
+					"display_url": "pic.twitter.com/eJocZCeOTY",
+					"expanded_url": "https://twitter.com/Boristhespider0/status/1449696381220925446/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1449696381220925400,
+					"source_status_id_str": "1449696381220925446",
+					"source_user_id": 514507562,
+					"source_user_id_str": "514507562"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1449795912784654300,
+		"in_reply_to_status_id_str": "1449795912784654344",
+		"in_reply_to_user_id": 153453124,
+		"in_reply_to_user_id_str": "153453124",
+		"in_reply_to_screen_name": "AllyAl3978",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 265,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@AllyAl3978 wow https://t.co/eJocZCeOTY"
+	},
+	{
 		"created_at": "Sat Oct 16 19:37:57 +0000 2021",
 		"id": 1449405068760043500,
 		"id_str": "1449459620242771970",
