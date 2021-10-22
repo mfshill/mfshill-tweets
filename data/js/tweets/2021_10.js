@@ -1,6 +1,799 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 21 18:47:48 +0000 2021",
+		"id": 1451258938482172000,
+		"id_str": "1451258938482171913",
+		"full_text": "‘#WilfullyNegligent’. We're close to 2 years into this and they still aren't listening to the experts. This gov is a joke - British Medical Association says ‘time is now’ for Covid plan B https://t.co/ihNLYLfhlA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WilfullyNegligent",
+					"indices": [
+						1,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ihNLYLfhlA",
+					"expanded_url": "https://www.theguardian.com/society/2021/oct/20/british-medical-association-says-time-is-now-for-covid-plan-b",
+					"display_url": "theguardian.com/society/2021/o…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 267,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘#WilfullyNegligent’. We're close to 2 years into this and they still aren't listening to the experts. This gov is a joke - British Medical Association says ‘time is now’ for Covid plan B https://t.co/ihNLYLfhlA"
+	},
+	{
+		"created_at": "Thu Oct 21 18:07:16 +0000 2021",
+		"id": 1451194750460055600,
+		"id_str": "1451248735523115016",
+		"full_text": "Everything you need to know about Trump's new TRUTH social media platform:\n\n• Already hacked\n• Won't allow ALL-CAPS POSTS\n• Identical to Twitter\n• Can't say mean things about Trump or his website\n• Launching alongside a \"non-woke\" version of Netflix\n\nhttps://t.co/ychxxUcIUD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ychxxUcIUD",
+					"expanded_url": "https://www.vice.com/en/article/4awgnq/trump-named-his-new-social-network-truth-and-its-already-a-mess",
+					"display_url": "vice.com/en/article/4aw…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21331804,
+			"id_str": "21331804",
+			"name": "David Gilbert",
+			"screen_name": "daithaigilbert",
+			"location": "Ireland",
+			"description": "Journalist @VICENews currently covering disinformation, with a focus on QAnon. Are you Q? Get in touch. DM for WhatsApp/Signal or david.gilbert@vice.com",
+			"url": "https://t.co/4TqbQtkgK0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4TqbQtkgK0",
+							"expanded_url": "https://news.vice.com/story/author/david-gilbert",
+							"display_url": "news.vice.com/story/author/d…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10985,
+			"friends_count": 2366,
+			"listed_count": 497,
+			"created_at": "Thu Feb 19 19:48:16 +0000 2009",
+			"favourites_count": 2344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1408422522211741703/uR5aarCi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408422522211741703/uR5aarCi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21331804/1348780574",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Everything you need to know about Trump's new TRUTH social media platform:\n\n• Already hacked\n• Won't allow ALL-CAPS POSTS\n• Identical to Twitter\n• Can't say mean things about Trump or his website\n• Launching alongside a \"non-woke\" version of Netflix\n\nhttps://t.co/ychxxUcIUD"
+	},
+	{
+		"created_at": "Thu Oct 21 12:53:46 +0000 2021",
+		"id": 1451161020781711400,
+		"id_str": "1451169840832688128",
+		"full_text": "The word CAMPUS literally means ‘field’ in Latin. Derived from the same root are the likes of CHAMPAGNE (which essentially means ‘open country’), CHAMPION (originally a word from someone who showed skill on a battlefield), and SCAMPER (which literally means ‘flee the field’).",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2239350253,
+			"id_str": "2239350253",
+			"name": "Haggard Hawks 🦅",
+			"screen_name": "HaggardHawks",
+			"location": "HH HQ, Newcastle UK",
+			"description": "Obscure words, etymological tales and language facts | Like HH? There are books! https://t.co/5k8NBYQc6y | Tweets @PaulAnthJones | Artwork @bread_and_ink",
+			"url": "https://t.co/gM878CqE8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gM878CqE8G",
+							"expanded_url": "http://haggardhawks.com",
+							"display_url": "haggardhawks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5k8NBYQc6y",
+							"expanded_url": "http://haggardhawks.com/books",
+							"display_url": "haggardhawks.com/books",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 84669,
+			"friends_count": 3169,
+			"listed_count": 1052,
+			"created_at": "Tue Dec 10 15:28:11 +0000 2013",
+			"favourites_count": 26555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345378452267008000/JUP6TRBh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345378452267008000/JUP6TRBh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2239350253/1618213806",
+			"profile_link_color": "0B3861",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 216,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The word CAMPUS literally means ‘field’ in Latin. Derived from the same root are the likes of CHAMPAGNE (which essentially means ‘open country’), CHAMPION (originally a word from someone who showed skill on a battlefield), and SCAMPER (which literally means ‘flee the field’)."
+	},
+	{
+		"created_at": "Thu Oct 21 09:27:12 +0000 2021",
+		"id": 1450768682423132200,
+		"id_str": "1451117856465301504",
+		"full_text": "sharing this without comment: \n\nthe Festival of Brexit includes the “largest grow-your-own project of modern times” with people growing their own food\n https://t.co/WO1LtWL42D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WO1LtWL42D",
+					"expanded_url": "https://www.theguardian.com/culture/2021/mar/24/festival-of-brexit-first-events-for-divisive-120m-project-announced",
+					"display_url": "theguardian.com/culture/2021/m…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 69080476,
+			"id_str": "69080476",
+			"name": "Jim Pickard",
+			"screen_name": "PickardJE",
+			"location": "London",
+			"description": "Chief Political Correspondent, Financial Times (and occasional iPhone photographer https://t.co/hMlEuOCKoF)",
+			"url": "https://t.co/aEYKPbNP07",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aEYKPbNP07",
+							"expanded_url": "http://ft.com",
+							"display_url": "ft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hMlEuOCKoF",
+							"expanded_url": "http://jimpickard.picfair.com",
+							"display_url": "jimpickard.picfair.com",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 177164,
+			"friends_count": 4792,
+			"listed_count": 2179,
+			"created_at": "Wed Aug 26 20:06:27 +0000 2009",
+			"favourites_count": 70336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 56434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421197242732584960/F5EsuhMt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421197242732584960/F5EsuhMt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69080476/1625175309",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 259,
+		"favorite_count": 683,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "sharing this without comment: \n\nthe Festival of Brexit includes the “largest grow-your-own project of modern times” with people growing their own food\n https://t.co/WO1LtWL42D"
+	},
+	{
+		"created_at": "Thu Oct 21 09:23:46 +0000 2021",
+		"id": 1451116994795823000,
+		"id_str": "1451116994795823105",
+		"full_text": "@betmja boiled, fried, roasted, baked, mashed, sliced, chipped, hasselbacked... https://t.co/GQRg7n2sPK",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "betmja",
+					"name": "ket cowboy",
+					"id": 161423316,
+					"id_str": "161423316",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451116987934023700,
+					"id_str": "1451116987934023681",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FCNnNlFXoAE5pXF.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FCNnNlFXoAE5pXF.jpg",
+					"url": "https://t.co/GQRg7n2sPK",
+					"display_url": "pic.twitter.com/GQRg7n2sPK",
+					"expanded_url": "https://twitter.com/mfshill/status/1451116994795823105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451116987934023700,
+					"id_str": "1451116987934023681",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FCNnNlFXoAE5pXF.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FCNnNlFXoAE5pXF.jpg",
+					"url": "https://t.co/GQRg7n2sPK",
+					"display_url": "pic.twitter.com/GQRg7n2sPK",
+					"expanded_url": "https://twitter.com/mfshill/status/1451116994795823105/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							62
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FCNnNlFXoAE5pXF.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1451095815414423600,
+		"in_reply_to_status_id_str": "1451095815414423556",
+		"in_reply_to_user_id": 161423316,
+		"in_reply_to_user_id_str": "161423316",
+		"in_reply_to_screen_name": "betmja",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 267,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@betmja boiled, fried, roasted, baked, mashed, sliced, chipped, hasselbacked... https://t.co/GQRg7n2sPK"
+	},
+	{
+		"created_at": "Thu Oct 21 09:19:49 +0000 2021",
+		"id": 1451100654097809400,
+		"id_str": "1451115998384435204",
+		"full_text": "https://t.co/OkL6UDo7AQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451100643331133400,
+					"id_str": "1451100643331133441",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNYWMsX0AEWbTK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNYWMsX0AEWbTK.jpg",
+					"url": "https://t.co/OkL6UDo7AQ",
+					"display_url": "pic.twitter.com/OkL6UDo7AQ",
+					"expanded_url": "https://twitter.com/SimonHazeldine/status/1451100654097809409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451100643331133400,
+					"id_str": "1451100643331133441",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FCNYWMsX0AEWbTK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCNYWMsX0AEWbTK.jpg",
+					"url": "https://t.co/OkL6UDo7AQ",
+					"display_url": "pic.twitter.com/OkL6UDo7AQ",
+					"expanded_url": "https://twitter.com/SimonHazeldine/status/1451100654097809409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18424946,
+			"id_str": "18424946",
+			"name": "Simon Hazeldine",
+			"screen_name": "SimonHazeldine",
+			"location": "England",
+			"description": "►Sales Transformation Strategist ► Salesforce Performance Consultant ► Delivering More Sales - More Often - More Margin",
+			"url": "http://t.co/8DZmZx2nxm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/8DZmZx2nxm",
+							"expanded_url": "http://www.simonhazeldine.com",
+							"display_url": "simonhazeldine.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27526,
+			"friends_count": 23419,
+			"listed_count": 484,
+			"created_at": "Sun Dec 28 09:25:22 +0000 2008",
+			"favourites_count": 1092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318439281522823168/m8qsp1KJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318439281522823168/m8qsp1KJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18424946/1564920095",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/OkL6UDo7AQ"
+	},
+	{
 		"created_at": "Wed Oct 20 23:01:57 +0000 2021",
 		"id": 1450915823527374800,
 		"id_str": "1450960507498811392",
