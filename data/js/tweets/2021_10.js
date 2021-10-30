@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 29 11:04:21 +0000 2021",
+		"id": 1453995233524473900,
+		"id_str": "1454041411561603073",
+		"full_text": "A confusing time for Great British anti-vaxxers as they wear poppies to honour the elderly war heroes they helped to kill off.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 215394809,
+			"id_str": "215394809",
+			"name": "Limmy",
+			"screen_name": "DaftLimmy",
+			"location": "Glesga",
+			"description": "Livestream jester: https://t.co/VIuzqxS8ft",
+			"url": "https://t.co/VIuzqxS8ft",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VIuzqxS8ft",
+							"expanded_url": "http://twitch.tv/Limmy",
+							"display_url": "twitch.tv/Limmy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VIuzqxS8ft",
+							"expanded_url": "http://twitch.tv/Limmy",
+							"display_url": "twitch.tv/Limmy",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 550051,
+			"friends_count": 1,
+			"listed_count": 1110,
+			"created_at": "Sat Nov 13 20:31:30 +0000 2010",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 55408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1392892260099010560/_gYhDAdr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1392892260099010560/_gYhDAdr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/215394809/1620926369",
+			"profile_link_color": "D32816",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4357,
+		"favorite_count": 23966,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "A confusing time for Great British anti-vaxxers as they wear poppies to honour the elderly war heroes they helped to kill off."
+	},
+	{
 		"created_at": "Wed Oct 27 19:04:10 +0000 2021",
 		"id": 1453437383354032000,
 		"id_str": "1453437383354032131",
