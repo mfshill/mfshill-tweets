@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 03 10:14:40 +0000 2021",
+		"id": 1455828049379922000,
+		"id_str": "1455840847635824645",
+		"full_text": "Vinyl fans, have a look at this roundabout in Lyss in Switzerland 🙌 https://t.co/LknRjCZr2r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455828045982584800,
+					"id_str": "1455828045982584832",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQj5P7X0AAb3ji.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQj5P7X0AAb3ji.jpg",
+					"url": "https://t.co/LknRjCZr2r",
+					"display_url": "pic.twitter.com/LknRjCZr2r",
+					"expanded_url": "https://twitter.com/annadoble/status/1455828049379921927/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 956,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 956,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455828045982584800,
+					"id_str": "1455828045982584832",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQj5P7X0AAb3ji.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQj5P7X0AAb3ji.jpg",
+					"url": "https://t.co/LknRjCZr2r",
+					"display_url": "pic.twitter.com/LknRjCZr2r",
+					"expanded_url": "https://twitter.com/annadoble/status/1455828049379921927/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 956,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 956,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20383443,
+			"id_str": "20383443",
+			"name": "Anna Doble",
+			"screen_name": "annadoble",
+			"location": "London/Yorkshire",
+			"description": "Digital editor @bbcworldservice tweeting about news, music, podcasts, tennis & #lufc. Played every LP I own in lockdown👉 https://t.co/DqlF32LidJ",
+			"url": "https://t.co/Zupv86aVa9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Zupv86aVa9",
+							"expanded_url": "http://bbcworldservice.com",
+							"display_url": "bbcworldservice.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DqlF32LidJ",
+							"expanded_url": "http://foryoursavageamusement.co.uk",
+							"display_url": "foryoursavageamusement.co.uk",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10568,
+			"friends_count": 5815,
+			"listed_count": 355,
+			"created_at": "Sun Feb 08 18:41:16 +0000 2009",
+			"favourites_count": 17137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B2D2E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963380091345620992/q3z_fPVq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963380091345620992/q3z_fPVq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20383443/1417211031",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "8CDA65",
+			"profile_sidebar_fill_color": "A4EE7A",
+			"profile_text_color": "275719",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 839,
+		"favorite_count": 4473,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Vinyl fans, have a look at this roundabout in Lyss in Switzerland 🙌 https://t.co/LknRjCZr2r"
+	},
+	{
 		"created_at": "Tue Nov 02 20:51:17 +0000 2021",
 		"id": 1455638669742780400,
 		"id_str": "1455638669742780420",
