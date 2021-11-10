@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 09 21:53:40 +0000 2021",
+		"id": 1458191082395668500,
+		"id_str": "1458191082395668482",
+		"full_text": "santa's dick is going to haunt me #BigMouth",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BigMouth",
+					"indices": [
+						34,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 266,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "santa's dick is going to haunt me #BigMouth"
+	},
+	{
+		"created_at": "Tue Nov 09 18:36:05 +0000 2021",
+		"id": 1458140236312035300,
+		"id_str": "1458141356765978628",
+		"full_text": "Yes Yes People, If anyone fancies VOTING for me in this years DNB Awards I’ve been nominated across 3 categories..\n\nBest Livestream \nBest Newcomer \nBest DJ \n\n(Voting Link Below) 🙏\n\nhttps://t.co/cUnbkwoDcD https://t.co/qURV1Xux3x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cUnbkwoDcD",
+					"expanded_url": "https://awards.breakbeat.co.uk/2021/round-2/",
+					"display_url": "awards.breakbeat.co.uk/2021/round-2/",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1458140229571911700,
+					"id_str": "1458140229571911682",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FDxa0DBXIAILyEd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDxa0DBXIAILyEd.jpg",
+					"url": "https://t.co/qURV1Xux3x",
+					"display_url": "pic.twitter.com/qURV1Xux3x",
+					"expanded_url": "https://twitter.com/domwhiting/status/1458140236312035328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 691,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1180,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458140229571911700,
+					"id_str": "1458140229571911682",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FDxa0DBXIAILyEd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDxa0DBXIAILyEd.jpg",
+					"url": "https://t.co/qURV1Xux3x",
+					"display_url": "pic.twitter.com/qURV1Xux3x",
+					"expanded_url": "https://twitter.com/domwhiting/status/1458140236312035328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 691,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1180,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 286631982,
+			"id_str": "286631982",
+			"name": "Domonic",
+			"screen_name": "domwhiting",
+			"location": "England, United Kingdom",
+			"description": "Bookings/Enquiries: 𝗕𝗼𝗼𝗸𝗶𝗻𝗴𝘀@𝗱𝗼𝗺𝘄𝗵𝗶𝘁𝗶𝗻𝗴.𝗰𝗼.𝘂𝗸",
+			"url": "https://t.co/xxwYoyfw98",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xxwYoyfw98",
+							"expanded_url": "https://youtu.be/_bX789UX-Qk",
+							"display_url": "youtu.be/_bX789UX-Qk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10027,
+			"friends_count": 304,
+			"listed_count": 36,
+			"created_at": "Sat Apr 23 11:24:14 +0000 2011",
+			"favourites_count": 5640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312852180173553667/ZYvQHNU9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312852180173553667/ZYvQHNU9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/286631982/1601557053",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes Yes People, If anyone fancies VOTING for me in this years DNB Awards I’ve been nominated across 3 categories..\n\nBest Livestream \nBest Newcomer \nBest DJ \n\n(Voting Link Below) 🙏\n\nhttps://t.co/cUnbkwoDcD https://t.co/qURV1Xux3x"
+	},
+	{
 		"created_at": "Sun Nov 07 20:51:34 +0000 2021",
 		"id": 1457450677106458600,
 		"id_str": "1457450677106458627",
