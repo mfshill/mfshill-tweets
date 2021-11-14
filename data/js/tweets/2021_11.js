@@ -1,6 +1,528 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 13 23:47:09 +0000 2021",
+		"id": 1458995739959431200,
+		"id_str": "1459669190525206532",
+		"full_text": "https://t.co/cB3WxzyZzK https://t.co/oNpaM7yaCK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cB3WxzyZzK",
+					"expanded_url": "https://twitter.com/HaggardHawks/status/1458987914835095555",
+					"display_url": "twitter.com/HaggardHawks/s…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1458995727590436900,
+					"id_str": "1458995727590436867",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9k4lfXMAMGPud.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9k4lfXMAMGPud.jpg",
+					"url": "https://t.co/oNpaM7yaCK",
+					"display_url": "pic.twitter.com/oNpaM7yaCK",
+					"expanded_url": "https://twitter.com/newrockytweets/status/1458995739959431170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458995727590436900,
+					"id_str": "1458995727590436867",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9k4lfXMAMGPud.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9k4lfXMAMGPud.jpg",
+					"url": "https://t.co/oNpaM7yaCK",
+					"display_url": "pic.twitter.com/oNpaM7yaCK",
+					"expanded_url": "https://twitter.com/newrockytweets/status/1458995739959431170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1015024528337129500,
+			"id_str": "1015024528337129473",
+			"name": "new rocky tweets",
+			"screen_name": "newrockytweets",
+			"location": "pa",
+			"description": "butch trans woman, comedian/writer, host @ItsPulpFriction, she/he, slc ‘21 | icon by @voidbornflan",
+			"url": "https://t.co/u5QqXhCwbX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u5QqXhCwbX",
+							"expanded_url": "https://harpergarper.carrd.co",
+							"display_url": "harpergarper.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 751,
+			"friends_count": 2001,
+			"listed_count": 4,
+			"created_at": "Fri Jul 06 00:08:00 +0000 2018",
+			"favourites_count": 277495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323494850814238722/pDrr88cR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323494850814238722/pDrr88cR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1015024528337129473/1530835885",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1458987914835095600,
+		"quoted_status_id_str": "1458987914835095555",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cB3WxzyZzK",
+			"expanded": "https://twitter.com/HaggardHawks/status/1458987914835095555",
+			"display": "twitter.com/HaggardHawks/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 12 02:40:00 +0000 2021",
+			"id": 1458987914835095600,
+			"id_str": "1458987914835095555",
+			"full_text": "In Old English, MEAT was food of any kind, a GIRL was a young child of either sex, a DEER was any large mammal, a HOUND was any dog, a WIFE was any woman, a FOWL was any bird, to STARVE was merely to die, and an APPLE could be any fruit.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				237
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2239350253,
+				"id_str": "2239350253",
+				"name": "Haggard Hawks 🦅",
+				"screen_name": "HaggardHawks",
+				"location": "HH HQ, Newcastle UK",
+				"description": "Obscure words, etymological tales and language facts | Like HH? There are books! https://t.co/5k8NBYQc6y | Tweets @PaulAnthJones | Artwork @bread_and_ink",
+				"url": "https://t.co/gM878CqE8G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gM878CqE8G",
+								"expanded_url": "http://haggardhawks.com",
+								"display_url": "haggardhawks.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5k8NBYQc6y",
+								"expanded_url": "http://haggardhawks.com/books",
+								"display_url": "haggardhawks.com/books",
+								"indices": [
+									81,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 86001,
+				"friends_count": 3179,
+				"listed_count": 1062,
+				"created_at": "Tue Dec 10 15:28:11 +0000 2013",
+				"favourites_count": 26655,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 47013,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1345378452267008000/JUP6TRBh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345378452267008000/JUP6TRBh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2239350253/1618213806",
+				"profile_link_color": "0B3861",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 688,
+			"favorite_count": 4071,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2943,
+		"favorite_count": 15983,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/cB3WxzyZzK https://t.co/oNpaM7yaCK"
+	},
+	{
+		"created_at": "Sat Nov 13 23:14:25 +0000 2021",
+		"id": 1459660956561195000,
+		"id_str": "1459660956561195012",
+		"full_text": "great ad, topical and funny. added bonus that it's got the anti-vaxx crowd riled up due to a fictional character using a covid pass #NothingsStoppingUs https://t.co/2o7hewSfZC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NothingsStoppingUs",
+					"indices": [
+						132,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2o7hewSfZC",
+					"expanded_url": "https://youtu.be/0P7QSCLtRwI",
+					"display_url": "youtu.be/0P7QSCLtRwI",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 258,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "great ad, topical and funny. added bonus that it's got the anti-vaxx crowd riled up due to a fictional character using a covid pass #NothingsStoppingUs https://t.co/2o7hewSfZC"
+	},
+	{
+		"created_at": "Sat Nov 13 23:00:58 +0000 2021",
+		"id": 1459657568226263000,
+		"id_str": "1459657568226263042",
+		"full_text": "great new blues album from @govtmuleband. defo one @eops will enjoy. #NowPlaying 'Gov't Mule - Heavy Load Blues' https://t.co/YYg4it9a0H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NowPlaying",
+					"indices": [
+						69,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "govtmuleband",
+					"name": "Gov't Mule",
+					"id": 117155482,
+					"id_str": "117155482",
+					"indices": [
+						27,
+						40
+					]
+				},
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						51,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YYg4it9a0H",
+					"expanded_url": "https://www.youtube.com/watch?v=d3WbdYLpDdo&list=PLIFi5mL00nljK53xD6iqG1R0vlbosMCvv",
+					"display_url": "youtube.com/watch?v=d3WbdY…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 258,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "great new blues album from @govtmuleband. defo one @eops will enjoy. #NowPlaying 'Gov't Mule - Heavy Load Blues' https://t.co/YYg4it9a0H"
+	},
+	{
 		"created_at": "Wed Nov 10 21:56:25 +0000 2021",
 		"id": 1458554160794722300,
 		"id_str": "1458554160794722312",
