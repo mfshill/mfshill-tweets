@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 17 16:23:13 +0000 2021",
+		"id": 1461007022485393400,
+		"id_str": "1461007022485393408",
+		"full_text": "time to dust off the vpn... https://t.co/maKQdl5sGu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/maKQdl5sGu",
+					"expanded_url": "https://twitter.com/TrekCore/status/1460705800549191684",
+					"display_url": "twitter.com/TrekCore/statu…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 258,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1460705800549191700,
+		"quoted_status_id_str": "1460705800549191684",
+		"quoted_status_permalink": {
+			"url": "https://t.co/maKQdl5sGu",
+			"expanded": "https://twitter.com/TrekCore/status/1460705800549191684",
+			"display": "twitter.com/TrekCore/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 16 20:26:16 +0000 2021",
+			"id": 1460705800549191700,
+			"id_str": "1460705800549191684",
+			"full_text": "BREAKING: It's official -- #StarTrekDiscovery will be GONE from Netflix in all non-US/Canada regions after today and will not be available until Paramount+ launches in wider European regions next year.\n\nSorry folks -- beware of spoilers as the series returns in the US on Thursday https://t.co/cRUI8U7Apj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StarTrekDiscovery",
+						"indices": [
+							27,
+							45
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1460705630075994000,
+						"id_str": "1460705630075994124",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FEV4CAoXwAwELb4.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FEV4CAoXwAwELb4.jpg",
+						"url": "https://t.co/cRUI8U7Apj",
+						"display_url": "pic.twitter.com/cRUI8U7Apj",
+						"expanded_url": "https://twitter.com/TrekCore/status/1460705800549191684/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 550,
+								"h": 550,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 550,
+								"h": 550,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 550,
+								"h": 550,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1460705630075994000,
+						"id_str": "1460705630075994124",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FEV4CAoXwAwELb4.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FEV4CAoXwAwELb4.jpg",
+						"url": "https://t.co/cRUI8U7Apj",
+						"display_url": "pic.twitter.com/cRUI8U7Apj",
+						"expanded_url": "https://twitter.com/TrekCore/status/1460705800549191684/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 550,
+								"h": 550,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 550,
+								"h": 550,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 550,
+								"h": 550,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FEV4CAoXwAwELb4.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38999070,
+				"id_str": "38999070",
+				"name": "TrekCore.com 🖖",
+				"screen_name": "TrekCore",
+				"location": "Alpha Quadrant, Sector 001",
+				"description": "Your best source for #StarTrek TV, movie, convention, and product news. Check out our reviews and our extensive Trek media archives!",
+				"url": "https://t.co/4G6W6x7SX5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4G6W6x7SX5",
+								"expanded_url": "http://www.trekcore.com",
+								"display_url": "trekcore.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 84883,
+				"friends_count": 490,
+				"listed_count": 855,
+				"created_at": "Sun May 10 04:54:17 +0000 2009",
+				"favourites_count": 1706,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 44891,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "807C6C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1446279938835984385/0Psfis5p_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1446279938835984385/0Psfis5p_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38999070/1633290706",
+				"profile_link_color": "807C6C",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 506,
+			"favorite_count": 986,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "time to dust off the vpn... https://t.co/maKQdl5sGu"
+	},
+	{
 		"created_at": "Tue Nov 16 22:15:55 +0000 2021",
 		"id": 1460733396657885200,
 		"id_str": "1460733396657885184",
