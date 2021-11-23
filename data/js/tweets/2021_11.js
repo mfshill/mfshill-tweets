@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 22 22:12:21 +0000 2021",
+		"id": 1461442384693182500,
+		"id_str": "1462906828191408138",
+		"full_text": "Weird way to say I know fuck all about music https://t.co/qeOyvH5zjN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qeOyvH5zjN",
+					"expanded_url": "https://twitter.com/JasonManford/status/1461393987441500161",
+					"display_url": "twitter.com/JasonManford/s…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 290180551,
+			"id_str": "290180551",
+			"name": "Tonty Blair",
+			"screen_name": "DamienneRice",
+			"location": "Little London, England",
+			"description": "Part of the liberal metropolitan elite • Avocado on toast",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 651,
+			"friends_count": 592,
+			"listed_count": 17,
+			"created_at": "Fri Apr 29 21:19:26 +0000 2011",
+			"favourites_count": 23767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356326156291743748/kDbRJ1v9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356326156291743748/kDbRJ1v9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/290180551/1582583345",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1461393987441500200,
+		"quoted_status_id_str": "1461393987441500161",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qeOyvH5zjN",
+			"expanded": "https://twitter.com/JasonManford/status/1461393987441500161",
+			"display": "twitter.com/JasonManford/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 18 18:00:52 +0000 2021",
+			"id": 1461393987441500200,
+			"id_str": "1461393987441500161",
+			"full_text": "Don’t you sometimes hear Adele sing and think how lucky we are that she lives in our generation? It’s like having Ella Fitzgerald or Elvis just here, in our present. What a privilege. Easily top 5 voices of all time.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				216
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 48706026,
+				"id_str": "48706026",
+				"name": "Jason Manford",
+				"screen_name": "JasonManford",
+				"location": "Manchester",
+				"description": "Brand new podcast, only on audible. https://t.co/RqeQKA6N4y",
+				"url": "https://t.co/6qzqNj8Mbr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6qzqNj8Mbr",
+								"expanded_url": "http://www.jasonmanford.com",
+								"display_url": "jasonmanford.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RqeQKA6N4y",
+								"expanded_url": "https://adbl.co/3yyU5GP",
+								"display_url": "adbl.co/3yyU5GP",
+								"indices": [
+									36,
+									59
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 395776,
+				"friends_count": 2742,
+				"listed_count": 496,
+				"created_at": "Fri Jun 19 13:33:35 +0000 2009",
+				"favourites_count": 7000,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 50279,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1437366841752576002/yZN-rQva_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437366841752576002/yZN-rQva_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48706026/1631529935",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 2769,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Weird way to say I know fuck all about music https://t.co/qeOyvH5zjN"
+	},
+	{
 		"created_at": "Sat Nov 20 23:45:23 +0000 2021",
 		"id": 1462205464704430000,
 		"id_str": "1462205464704430084",
