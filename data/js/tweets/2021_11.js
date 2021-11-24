@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 23 23:10:20 +0000 2021",
+		"id": 1463283804450304000,
+		"id_str": "1463283804450304000",
+		"full_text": "learn a new thing every day they say. this would make a great premise for a horror B movie. “Vulture bees” evolved a taste for flesh—and their microbiomes reflect that https://t.co/ADA9Hv8Mg6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ADA9Hv8Mg6",
+					"expanded_url": "https://arstechnica.com/?post_type=post&p=1815234",
+					"display_url": "arstechnica.com/?post_type=pos…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 258,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "learn a new thing every day they say. this would make a great premise for a horror B movie. “Vulture bees” evolved a taste for flesh—and their microbiomes reflect that https://t.co/ADA9Hv8Mg6"
+	},
+	{
+		"created_at": "Tue Nov 23 20:29:26 +0000 2021",
+		"id": 1463243312559763500,
+		"id_str": "1463243312559763458",
+		"full_text": "gem of a mix by @therealLTJbukem, shame it's only 60mins! https://t.co/adkbz7xfup",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "therealLTJbukem",
+					"name": "LTJ Bukem",
+					"id": 23880785,
+					"id_str": "23880785",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/adkbz7xfup",
+					"expanded_url": "https://www.bbc.co.uk/sounds/play/m0011m2q",
+					"display_url": "bbc.co.uk/sounds/play/m0…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 258,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "gem of a mix by @therealLTJbukem, shame it's only 60mins! https://t.co/adkbz7xfup"
+	},
+	{
+		"created_at": "Tue Nov 23 20:11:09 +0000 2021",
+		"id": 1463233892588998700,
+		"id_str": "1463238715002826756",
+		"full_text": "Arsenal's worst six Premier League seasons after 12 matches\n\n21-22 20pts GD -4\n12-13 19 pts GD +10\n94-95 18 pts GD +4\n14-15 17 pts GD +5\n19-20 17 pts GD -1\n20-21 13 pts GD -5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60026651,
+			"id_str": "60026651",
+			"name": "Orbinho",
+			"screen_name": "Orbinho",
+			"location": "London-ish",
+			"description": "Arsenal facts. Head of Opta Data Editorial since the end of the 20th Century. Creator of @OptaJoe Trying to convince people to use data better.",
+			"url": "https://t.co/cRoW8ZO4IK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cRoW8ZO4IK",
+							"expanded_url": "https://www.statsperform.com/",
+							"display_url": "statsperform.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98465,
+			"friends_count": 1246,
+			"listed_count": 1874,
+			"created_at": "Sat Jul 25 09:55:31 +0000 2009",
+			"favourites_count": 831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/588984322130083840/bc56JV5r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/588984322130083840/bc56JV5r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60026651/1356111874",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 267,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Arsenal's worst six Premier League seasons after 12 matches\n\n21-22 20pts GD -4\n12-13 19 pts GD +10\n94-95 18 pts GD +4\n14-15 17 pts GD +5\n19-20 17 pts GD -1\n20-21 13 pts GD -5"
+	},
+	{
 		"created_at": "Mon Nov 22 22:12:21 +0000 2021",
 		"id": 1461442384693182500,
 		"id_str": "1462906828191408138",
