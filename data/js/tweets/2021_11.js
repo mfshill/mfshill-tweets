@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 25 19:15:32 +0000 2021",
+		"id": 1463941144904192000,
+		"id_str": "1463949494408654849",
+		"full_text": "To SWAGE is to relax after a large meal.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2239350253,
+			"id_str": "2239350253",
+			"name": "Haggard Hawks 🦅",
+			"screen_name": "HaggardHawks",
+			"location": "HH HQ, Newcastle UK",
+			"description": "Obscure words, etymological tales and language facts | Like HH? There are books! https://t.co/5k8NBYQc6y | Tweets @PaulAnthJones | Artwork @bread_and_ink",
+			"url": "https://t.co/gM878CqE8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gM878CqE8G",
+							"expanded_url": "http://haggardhawks.com",
+							"display_url": "haggardhawks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5k8NBYQc6y",
+							"expanded_url": "http://haggardhawks.com/books",
+							"display_url": "haggardhawks.com/books",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 86698,
+			"friends_count": 3180,
+			"listed_count": 1067,
+			"created_at": "Tue Dec 10 15:28:11 +0000 2013",
+			"favourites_count": 26711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345378452267008000/JUP6TRBh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345378452267008000/JUP6TRBh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2239350253/1618213806",
+			"profile_link_color": "0B3861",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "To SWAGE is to relax after a large meal."
+	},
+	{
 		"created_at": "Tue Nov 23 23:10:20 +0000 2021",
 		"id": 1463283804450304000,
 		"id_str": "1463283804450304000",
