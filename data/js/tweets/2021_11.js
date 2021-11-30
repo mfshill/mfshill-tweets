@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 29 17:13:34 +0000 2021",
+		"id": 1465368348170997800,
+		"id_str": "1465368348170997761",
+		"full_text": "Nurdles: the worst toxic waste you’ve probably never heard of https://t.co/es3hKhTUAa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/es3hKhTUAa",
+					"expanded_url": "https://www.theguardian.com/environment/2021/nov/29/nurdles-plastic-pellets-environmental-ocean-spills-toxic-waste-not-classified-hazardous",
+					"display_url": "theguardian.com/environment/20…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 259,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nurdles: the worst toxic waste you’ve probably never heard of https://t.co/es3hKhTUAa"
+	},
+	{
+		"created_at": "Mon Nov 29 17:13:05 +0000 2021",
+		"id": 1465288519044288500,
+		"id_str": "1465368229828825095",
+		"full_text": "I wrote about finally deleting Facebook https://t.co/DajUKVPerc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DajUKVPerc",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2021/nov/29/facebook-attention-profile-leave",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28660636,
+			"id_str": "28660636",
+			"name": "Eleanor Margolis",
+			"screen_name": "EleanorMargolis",
+			"location": "London",
+			"description": "Columnist @ipaperviews. Freelance writer. NS, Guardian, etc. Gaylord. Jewess. Aunt. Writes newsletter about weird stuff. eleanormargolis@mac.com",
+			"url": "https://t.co/9qNxEOIpns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9qNxEOIpns",
+							"expanded_url": "https://eleanormargolis.substack.com/",
+							"display_url": "eleanormargolis.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5296,
+			"friends_count": 1094,
+			"listed_count": 70,
+			"created_at": "Fri Apr 03 21:42:05 +0000 2009",
+			"favourites_count": 7550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "47F213",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402957876566581251/JNMb-v1C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402957876566581251/JNMb-v1C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28660636/1585930944",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "088F4E",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wrote about finally deleting Facebook https://t.co/DajUKVPerc"
+	},
+	{
+		"created_at": "Mon Nov 29 16:48:40 +0000 2021",
+		"id": 1465353539031548000,
+		"id_str": "1465362083747352576",
+		"full_text": "Reminder: if you utilized our 2020 or 2021 accommodations and have a deferred entry for 2022, you must claim it before the application closes tomorrow. You should have received an email with instructions on how to do so; if you didn’t, please contact office@chicagomarathon.com.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1465353536296919000,
+		"in_reply_to_status_id_str": "1465353536296919049",
+		"in_reply_to_user_id": 340364507,
+		"in_reply_to_user_id_str": "340364507",
+		"in_reply_to_screen_name": "ChiMarathon",
+		"user": {
+			"id": 340364507,
+			"id_str": "340364507",
+			"name": "Chicago Marathon",
+			"screen_name": "ChiMarathon",
+			"location": "Chicago, IL",
+			"description": "The official Twitter handle for the Bank of America Chicago Marathon. Follow along for event updates and to share your Marathon experience. #ChicagoMarathon",
+			"url": "https://t.co/GCyael9DqV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCyael9DqV",
+							"expanded_url": "http://www.chicagomarathon.com",
+							"display_url": "chicagomarathon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75729,
+			"friends_count": 226,
+			"listed_count": 785,
+			"created_at": "Fri Jul 22 15:45:16 +0000 2011",
+			"favourites_count": 1123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113547086664957959/KdgxWKUj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113547086664957959/KdgxWKUj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/340364507/1635953617",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Reminder: if you utilized our 2020 or 2021 accommodations and have a deferred entry for 2022, you must claim it before the application closes tomorrow. You should have received an email with instructions on how to do so; if you didn’t, please contact office@chicagomarathon.com."
+	},
+	{
 		"created_at": "Sun Nov 28 18:34:23 +0000 2021",
 		"id": 1465026300289110000,
 		"id_str": "1465026300289110017",
