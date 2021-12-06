@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 05 18:42:42 +0000 2021",
+		"id": 1467562629728198700,
+		"id_str": "1467565106620166144",
+		"full_text": "F1 unveil new race director. #SaudiArabianGP https://t.co/0ZLwSzZg04",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SaudiArabianGP",
+					"indices": [
+						29,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467562626167320600,
+					"id_str": "1467562626167320578",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FF3UbtpXsAIuCqm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF3UbtpXsAIuCqm.jpg",
+					"url": "https://t.co/0ZLwSzZg04",
+					"display_url": "pic.twitter.com/0ZLwSzZg04",
+					"expanded_url": "https://twitter.com/NickMurphy1995/status/1467562629728198656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467562626167320600,
+					"id_str": "1467562626167320578",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FF3UbtpXsAIuCqm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF3UbtpXsAIuCqm.jpg",
+					"url": "https://t.co/0ZLwSzZg04",
+					"display_url": "pic.twitter.com/0ZLwSzZg04",
+					"expanded_url": "https://twitter.com/NickMurphy1995/status/1467562629728198656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 227059561,
+			"id_str": "227059561",
+			"name": "Nick Murphy",
+			"screen_name": "NickMurphy1995",
+			"location": "Barking & Dagenham",
+			"description": "@DailyStar_Sport writer. Football, Horse Racing and Darts are my things. @Dag_RedFC are my club.",
+			"url": "https://t.co/N6hLh3qTit",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N6hLh3qTit",
+							"expanded_url": "https://www.dailystar.co.uk/authors/nick-murphy/",
+							"display_url": "dailystar.co.uk/authors/nick-m…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2350,
+			"friends_count": 1487,
+			"listed_count": 35,
+			"created_at": "Wed Dec 15 20:16:47 +0000 2010",
+			"favourites_count": 15779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437533621947150336/rBOk9mAf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437533621947150336/rBOk9mAf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/227059561/1591705299",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "F1 unveil new race director. #SaudiArabianGP https://t.co/0ZLwSzZg04"
+	},
+	{
 		"created_at": "Sat Dec 04 20:50:23 +0000 2021",
 		"id": 1467234853842268200,
 		"id_str": "1467234853842268166",
