@@ -1,6 +1,880 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 06 22:12:52 +0000 2021",
+		"id": 1467980387515310000,
+		"id_str": "1467980387515310090",
+		"full_text": "posting this is in NO WAY related to the Arsenal result https://t.co/8G3AcKBeIa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8G3AcKBeIa",
+					"expanded_url": "https://twitter.com/mfshill/status/1467979988016279553",
+					"display_url": "twitter.com/mfshill/status…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 259,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1467979988016279600,
+		"quoted_status_id_str": "1467979988016279553",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8G3AcKBeIa",
+			"expanded": "https://twitter.com/mfshill/status/1467979988016279553",
+			"display": "twitter.com/mfshill/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 06 22:11:17 +0000 2021",
+			"id": 1467979988016279600,
+			"id_str": "1467979988016279553",
+			"full_text": "Suicide machine that kills users in the blink of an eye ‘legalised in Switzerland’ https://t.co/IUUtmmuLEV https://t.co/fScLSsQJyQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IUUtmmuLEV",
+						"expanded_url": "https://www.independent.co.uk/life-style/gadgets-and-tech/suicide-machine-sarco-euthenasia-assisted-dying-b1970685.html",
+						"display_url": "independent.co.uk/life-style/gad…",
+						"indices": [
+							83,
+							106
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1467979980743356400,
+						"id_str": "1467979980743356416",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FF9QA8mXsAATvfj.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FF9QA8mXsAATvfj.jpg",
+						"url": "https://t.co/fScLSsQJyQ",
+						"display_url": "pic.twitter.com/fScLSsQJyQ",
+						"expanded_url": "https://twitter.com/mfshill/status/1467979988016279553/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 454,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 454,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1467979980743356400,
+						"id_str": "1467979980743356416",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FF9QA8mXsAATvfj.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FF9QA8mXsAATvfj.jpg",
+						"url": "https://t.co/fScLSsQJyQ",
+						"display_url": "pic.twitter.com/fScLSsQJyQ",
+						"expanded_url": "https://twitter.com/mfshill/status/1467979988016279553/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 454,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 454,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 454,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								240,
+								227
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FF9QA8mXsAATvfj.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95424142,
+				"id_str": "95424142",
+				"name": "Hilly",
+				"screen_name": "mfshill",
+				"location": "Null Island",
+				"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 258,
+				"friends_count": 259,
+				"listed_count": 22,
+				"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+				"favourites_count": 1287,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 42356,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+				"profile_link_color": "9D6238",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EDE1B0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "posting this is in NO WAY related to the Arsenal result https://t.co/8G3AcKBeIa"
+	},
+	{
+		"created_at": "Mon Dec 06 22:11:17 +0000 2021",
+		"id": 1467979988016279600,
+		"id_str": "1467979988016279553",
+		"full_text": "Suicide machine that kills users in the blink of an eye ‘legalised in Switzerland’ https://t.co/IUUtmmuLEV https://t.co/fScLSsQJyQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IUUtmmuLEV",
+					"expanded_url": "https://www.independent.co.uk/life-style/gadgets-and-tech/suicide-machine-sarco-euthenasia-assisted-dying-b1970685.html",
+					"display_url": "independent.co.uk/life-style/gad…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1467979980743356400,
+					"id_str": "1467979980743356416",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FF9QA8mXsAATvfj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FF9QA8mXsAATvfj.jpg",
+					"url": "https://t.co/fScLSsQJyQ",
+					"display_url": "pic.twitter.com/fScLSsQJyQ",
+					"expanded_url": "https://twitter.com/mfshill/status/1467979988016279553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 454,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467979980743356400,
+					"id_str": "1467979980743356416",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FF9QA8mXsAATvfj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FF9QA8mXsAATvfj.jpg",
+					"url": "https://t.co/fScLSsQJyQ",
+					"display_url": "pic.twitter.com/fScLSsQJyQ",
+					"expanded_url": "https://twitter.com/mfshill/status/1467979988016279553/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 454,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 454,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							240,
+							227
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FF9QA8mXsAATvfj.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 259,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Suicide machine that kills users in the blink of an eye ‘legalised in Switzerland’ https://t.co/IUUtmmuLEV https://t.co/fScLSsQJyQ"
+	},
+	{
+		"created_at": "Mon Dec 06 20:37:51 +0000 2021",
+		"id": 1373429476005179400,
+		"id_str": "1467956474601218050",
+		"full_text": "#FUNFACT - If you put Nicolas Cage's face onto Ross Geller from friends... it just makes him look more like Ross Geller. https://t.co/Qhjs6kJ4se",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FUNFACT",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1373429408493670400,
+					"id_str": "1373429408493670400",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/Ew9mxTFXEAArvFX.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ew9mxTFXEAArvFX.png",
+					"url": "https://t.co/Qhjs6kJ4se",
+					"display_url": "pic.twitter.com/Qhjs6kJ4se",
+					"expanded_url": "https://twitter.com/th3j35t3r/status/1373429476005179396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 801,
+							"h": 572,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 572,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1373429408493670400,
+					"id_str": "1373429408493670400",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/Ew9mxTFXEAArvFX.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ew9mxTFXEAArvFX.png",
+					"url": "https://t.co/Qhjs6kJ4se",
+					"display_url": "pic.twitter.com/Qhjs6kJ4se",
+					"expanded_url": "https://twitter.com/th3j35t3r/status/1373429476005179396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 801,
+							"h": 572,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 572,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 97994396,
+			"id_str": "97994396",
+			"name": "JΞSŦΞR ✪ ΔCŦUΔL³³°¹",
+			"screen_name": "th3j35t3r",
+			"location": "https://keybase.io/th3j35t3r",
+			"description": "Cyber Minuteman ●  Listed in TIME Mag Most Influential Ppl Online ● My laptop is exhibited in the Spy Museum DC ● Cameo role #MrRobot ● Creator: https://t.co/MGqb9NKtT4",
+			"url": "https://t.co/SvHIVHIS09",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SvHIVHIS09",
+							"expanded_url": "https://counter.social",
+							"display_url": "counter.social",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MGqb9NKtT4",
+							"expanded_url": "http://counter.social",
+							"display_url": "counter.social",
+							"indices": [
+								145,
+								168
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 176894,
+			"friends_count": 1337,
+			"listed_count": 2783,
+			"created_at": "Sat Dec 19 22:27:39 +0000 2009",
+			"favourites_count": 162829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462576202238078979/6UNbMRnH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462576202238078979/6UNbMRnH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/97994396/1610025711",
+			"profile_link_color": "73220B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 214,
+		"favorite_count": 1377,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#FUNFACT - If you put Nicolas Cage's face onto Ross Geller from friends... it just makes him look more like Ross Geller. https://t.co/Qhjs6kJ4se"
+	},
+	{
+		"created_at": "Mon Dec 06 18:43:28 +0000 2021",
+		"id": 1467927687423533000,
+		"id_str": "1467927687423533070",
+		"full_text": "BoJo 'n Co need to Go! - New Humanist: High time for truth https://t.co/juYNTPHSeC via @NewHumanist",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewHumanist",
+					"name": "New Humanist",
+					"id": 19530437,
+					"id_str": "19530437",
+					"indices": [
+						87,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/juYNTPHSeC",
+					"expanded_url": "https://newhumanist.org.uk/5889/high-time-for-truth",
+					"display_url": "newhumanist.org.uk/5889/high-time…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 259,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoJo 'n Co need to Go! - New Humanist: High time for truth https://t.co/juYNTPHSeC via @NewHumanist"
+	},
+	{
+		"created_at": "Mon Dec 06 18:27:32 +0000 2021",
+		"id": 1467918670483665000,
+		"id_str": "1467923678843346946",
+		"full_text": "The ‘sur–’ in SURCHARGE is a French-origin prefix essentially meaning over, or in addition to. It also appears in SURNAME (literally, an ‘additional’ name), SURFEIT (a quantity ‘over’ that required), and SURPRISE (which originally meant to attack or ‘take over’ without warning).",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2239350253,
+			"id_str": "2239350253",
+			"name": "Haggard Hawks 🦅",
+			"screen_name": "HaggardHawks",
+			"location": "HH HQ, Newcastle UK",
+			"description": "Obscure words, etymological tales and language facts | Like HH? There are books! https://t.co/5k8NBYQc6y | Tweets @PaulAnthJones | Artwork @bread_and_ink",
+			"url": "https://t.co/gM878CqE8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gM878CqE8G",
+							"expanded_url": "http://haggardhawks.com",
+							"display_url": "haggardhawks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5k8NBYQc6y",
+							"expanded_url": "http://haggardhawks.com/books",
+							"display_url": "haggardhawks.com/books",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 86915,
+			"friends_count": 3184,
+			"listed_count": 1072,
+			"created_at": "Tue Dec 10 15:28:11 +0000 2013",
+			"favourites_count": 26734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345378452267008000/JUP6TRBh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345378452267008000/JUP6TRBh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2239350253/1618213806",
+			"profile_link_color": "0B3861",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The ‘sur–’ in SURCHARGE is a French-origin prefix essentially meaning over, or in addition to. It also appears in SURNAME (literally, an ‘additional’ name), SURFEIT (a quantity ‘over’ that required), and SURPRISE (which originally meant to attack or ‘take over’ without warning)."
+	},
+	{
 		"created_at": "Sun Dec 05 18:42:42 +0000 2021",
 		"id": 1467562629728198700,
 		"id_str": "1467565106620166144",
