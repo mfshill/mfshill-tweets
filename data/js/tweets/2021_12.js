@@ -1,6 +1,753 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 08 21:52:42 +0000 2021",
+		"id": 1468549629725843500,
+		"id_str": "1468700088528687106",
+		"full_text": "Sir Geoffrey Norman MP was a satirical character who specialised in political-speak and excelled at ‘denying anything and everything’. He was also arrogant, entitled and believed that ‘the rules’ didn’t apply to him. \nOh, how life imitates art\n#PMQs \n#downingstreetparty https://t.co/WbGX3AbOxh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PMQs",
+					"indices": [
+						244,
+						249
+					]
+				},
+				{
+					"text": "downingstreetparty",
+					"indices": [
+						251,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468549566463197200,
+					"id_str": "1468549566463197185",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468549566463197185/pu/img/Osk8C8iXn75srQAY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468549566463197185/pu/img/Osk8C8iXn75srQAY.jpg",
+					"url": "https://t.co/WbGX3AbOxh",
+					"display_url": "pic.twitter.com/WbGX3AbOxh",
+					"expanded_url": "https://twitter.com/TheFastShow1/status/1468549629725843456/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468549566463197200,
+					"id_str": "1468549566463197185",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468549566463197185/pu/img/Osk8C8iXn75srQAY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468549566463197185/pu/img/Osk8C8iXn75srQAY.jpg",
+					"url": "https://t.co/WbGX3AbOxh",
+					"display_url": "pic.twitter.com/WbGX3AbOxh",
+					"expanded_url": "https://twitter.com/TheFastShow1/status/1468549629725843456/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 384,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 48542,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468549566463197185/pu/pl/wCHYGWVS1vf-A3RN.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468549566463197185/pu/vid/512x384/CWG52iaCQPJShg6Z.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468549566463197185/pu/vid/360x270/ouPskZaECTEzdvKp.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 952298775049130000,
+			"id_str": "952298775049129985",
+			"name": "TheFastShow",
+			"screen_name": "TheFastShow1",
+			"location": "",
+			"description": "Fan account. showing clips from #TheFastShow. content not owned & will remove on request, where appropriate.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104914,
+			"friends_count": 7718,
+			"listed_count": 149,
+			"created_at": "Sat Jan 13 21:58:15 +0000 2018",
+			"favourites_count": 33936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210495613667856385/V9gnEMcA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210495613667856385/V9gnEMcA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/952298775049129985/1605167583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 700,
+		"favorite_count": 2099,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sir Geoffrey Norman MP was a satirical character who specialised in political-speak and excelled at ‘denying anything and everything’. He was also arrogant, entitled and believed that ‘the rules’ didn’t apply to him. \nOh, how life imitates art\n#PMQs \n#downingstreetparty https://t.co/WbGX3AbOxh"
+	},
+	{
+		"created_at": "Wed Dec 08 20:55:56 +0000 2021",
+		"id": 1468685503289561000,
+		"id_str": "1468685801689124865",
+		"full_text": "If you have a casual affinity with House music from the late 80s/early 90s and electronic jams in general https://t.co/I1fgC4KK9w\nFt. S’Express Mr Fingers Pierre Marshall J 808 State Onyebayor Kraftwerk Aux 88 Roy Davis Lone Inner City Mori Kante Moxy Meco &amp; many more. 3 hr Trip.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I1fgC4KK9w",
+					"expanded_url": "https://www.mixcloud.com/eops/stream-of-dreams-a-new-floor-in-a-new-town-20211204-193455/",
+					"display_url": "mixcloud.com/eops/stream-of…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20243240,
+			"id_str": "20243240",
+			"name": "BlackWaxSolution",
+			"screen_name": "eops",
+			"location": "Bristol, England",
+			"description": "DJ/Radio/Podcast. \nhttps://t.co/O66dAZp2ag\nhttps://t.co/s8wemG37Hg \nhttps://t.co/ke92MOcl5a",
+			"url": "https://t.co/DGJnQ3aUhn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DGJnQ3aUhn",
+							"expanded_url": "http://www.mixcloud.com/eops",
+							"display_url": "mixcloud.com/eops",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/O66dAZp2ag",
+							"expanded_url": "https://anchor.fm/what-goes-around",
+							"display_url": "anchor.fm/what-goes-arou…",
+							"indices": [
+								19,
+								42
+							]
+						},
+						{
+							"url": "https://t.co/s8wemG37Hg",
+							"expanded_url": "https://totallywiredradio.com",
+							"display_url": "totallywiredradio.com",
+							"indices": [
+								43,
+								66
+							]
+						},
+						{
+							"url": "https://t.co/ke92MOcl5a",
+							"expanded_url": "https://Mixcloud.com/eops",
+							"display_url": "Mixcloud.com/eops",
+							"indices": [
+								68,
+								91
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3920,
+			"friends_count": 3596,
+			"listed_count": 100,
+			"created_at": "Fri Feb 06 15:14:44 +0000 2009",
+			"favourites_count": 74089,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 179984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1455442791987884034/JxNA-AMm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455442791987884034/JxNA-AMm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20243240/1633217104",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you have a casual affinity with House music from the late 80s/early 90s and electronic jams in general https://t.co/I1fgC4KK9w\nFt. S’Express Mr Fingers Pierre Marshall J 808 State Onyebayor Kraftwerk Aux 88 Roy Davis Lone Inner City Mori Kante Moxy Meco &amp; many more. 3 hr Trip."
+	},
+	{
+		"created_at": "Wed Dec 08 17:37:50 +0000 2021",
+		"id": 1468635945801035800,
+		"id_str": "1468635945801035777",
+		"full_text": "https://t.co/7psMj0MqTA https://t.co/pV8fEkoYq5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7psMj0MqTA",
+					"expanded_url": "https://twitter.com/bbclaurak/status/1468625847498289157",
+					"display_url": "twitter.com/bbclaurak/stat…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468635938456801300,
+					"id_str": "1468635938456801280",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FGGkmtgXEAAnmrU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGGkmtgXEAAnmrU.jpg",
+					"url": "https://t.co/pV8fEkoYq5",
+					"display_url": "pic.twitter.com/pV8fEkoYq5",
+					"expanded_url": "https://twitter.com/mfshill/status/1468635945801035777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468635938456801300,
+					"id_str": "1468635938456801280",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FGGkmtgXEAAnmrU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGGkmtgXEAAnmrU.jpg",
+					"url": "https://t.co/pV8fEkoYq5",
+					"display_url": "pic.twitter.com/pV8fEkoYq5",
+					"expanded_url": "https://twitter.com/mfshill/status/1468635945801035777/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							139
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FGGkmtgXEAAnmrU.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1468625847498289200,
+		"quoted_status_id_str": "1468625847498289157",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7psMj0MqTA",
+			"expanded": "https://twitter.com/bbclaurak/status/1468625847498289157",
+			"display": "twitter.com/bbclaurak/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 08 16:57:42 +0000 2021",
+			"id": 1468625847498289200,
+			"id_str": "1468625847498289157",
+			"full_text": "PM holding press conference at 6pm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 61183568,
+				"id_str": "61183568",
+				"name": "Laura Kuenssberg",
+				"screen_name": "bbclaurak",
+				"location": "Westminster, mostly....",
+				"description": "Watch https://t.co/UZszWzvN0J \nListen https://t.co/ml9Nn2voUw\nhttps://t.co/z2WlyNKXUb",
+				"url": "https://t.co/sN002gbmwj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sN002gbmwj",
+								"expanded_url": "http://www.bbc.co.uk/news/politics",
+								"display_url": "bbc.co.uk/news/politics",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UZszWzvN0J",
+								"expanded_url": "https://www.bbc.co.uk/iplayer/episode/p099wb34/foc",
+								"display_url": "bbc.co.uk/iplayer/episod…",
+								"indices": [
+									6,
+									29
+								]
+							},
+							{
+								"url": "https://t.co/ml9Nn2voUw",
+								"expanded_url": "https://www.bbc.co.uk/programmes/p099rq9k",
+								"display_url": "bbc.co.uk/programmes/p09…",
+								"indices": [
+									38,
+									61
+								]
+							},
+							{
+								"url": "https://t.co/z2WlyNKXUb",
+								"expanded_url": "https://www.bbc.co.uk/news/topics/cvrkv4xr81qt",
+								"display_url": "bbc.co.uk/news/topics/cv…",
+								"indices": [
+									62,
+									85
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1323393,
+				"friends_count": 1687,
+				"listed_count": 9049,
+				"created_at": "Wed Jul 29 12:34:03 +0000 2009",
+				"favourites_count": 107,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 46855,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/723072389534371840/3AhowpH3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/723072389534371840/3AhowpH3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/61183568/1468870016",
+				"profile_link_color": "1F527B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 150,
+			"favorite_count": 493,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/7psMj0MqTA https://t.co/pV8fEkoYq5"
+	},
+	{
+		"created_at": "Wed Dec 08 17:35:56 +0000 2021",
+		"id": 1468635467948114000,
+		"id_str": "1468635467948113922",
+		"full_text": "@TalontedLex that's how it works. no contrition until you're exposed then apologise, quit or both. unless you're bojo that is, then the sleaze and scandal will slide off you like you're the embodiment of teflon",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TalontedLex",
+					"name": "Lex 💅🏻",
+					"id": 17819613,
+					"id_str": "17819613",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1468633702536261600,
+		"in_reply_to_status_id_str": "1468633702536261633",
+		"in_reply_to_user_id": 17819613,
+		"in_reply_to_user_id_str": "17819613",
+		"in_reply_to_screen_name": "TalontedLex",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TalontedLex that's how it works. no contrition until you're exposed then apologise, quit or both. unless you're bojo that is, then the sleaze and scandal will slide off you like you're the embodiment of teflon"
+	},
+	{
 		"created_at": "Mon Dec 06 22:12:52 +0000 2021",
 		"id": 1467980387515310000,
 		"id_str": "1467980387515310090",
