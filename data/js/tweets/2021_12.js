@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 10 01:09:07 +0000 2021",
+		"id": 1450162259733491700,
+		"id_str": "1469111903163240451",
+		"full_text": "If I gave this neon colors and drew Frodo holding a bong, could I get rich selling it as an NFT? https://t.co/j08BGNBOkq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1450162067156213800,
+					"id_str": "1450162067156213767",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FCACt3-XoAcjCS7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCACt3-XoAcjCS7.jpg",
+					"url": "https://t.co/j08BGNBOkq",
+					"display_url": "pic.twitter.com/j08BGNBOkq",
+					"expanded_url": "https://twitter.com/AdamSacks/status/1450162259733491715/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450162067156213800,
+					"id_str": "1450162067156213767",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FCACt3-XoAcjCS7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCACt3-XoAcjCS7.jpg",
+					"url": "https://t.co/j08BGNBOkq",
+					"display_url": "pic.twitter.com/j08BGNBOkq",
+					"expanded_url": "https://twitter.com/AdamSacks/status/1450162259733491715/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18736750,
+			"id_str": "18736750",
+			"name": "Adam Sacks",
+			"screen_name": "AdamSacks",
+			"location": "Brooklyn",
+			"description": "Credits? I’ve got credits. Big time credits. CREDITS!",
+			"url": "https://t.co/4b2AQqfY0Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4b2AQqfY0Q",
+							"expanded_url": "http://AdamSacks.com",
+							"display_url": "AdamSacks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3084,
+			"friends_count": 919,
+			"listed_count": 63,
+			"created_at": "Wed Jan 07 20:28:32 +0000 2009",
+			"favourites_count": 12131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104405398059212800/P0U_Tey7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104405398059212800/P0U_Tey7_normal.jpg",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2957,
+		"favorite_count": 14982,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If I gave this neon colors and drew Frodo holding a bong, could I get rich selling it as an NFT? https://t.co/j08BGNBOkq"
+	},
+	{
 		"created_at": "Wed Dec 08 21:52:42 +0000 2021",
 		"id": 1468549629725843500,
 		"id_str": "1468700088528687106",
