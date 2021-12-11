@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 10 16:41:57 +0000 2021",
+		"id": 1469340460619608000,
+		"id_str": "1469346659121483784",
+		"full_text": "To CLAUNCH is to walk slowly with heavy, dragging feet.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2239350253,
+			"id_str": "2239350253",
+			"name": "Haggard Hawks 🦅",
+			"screen_name": "HaggardHawks",
+			"location": "HH HQ, Newcastle UK",
+			"description": "Obscure words, etymological tales and language facts | Like HH? There are books! https://t.co/5k8NBYQc6y | Tweets @PaulAnthJones | Artwork @bread_and_ink",
+			"url": "https://t.co/gM878CqE8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gM878CqE8G",
+							"expanded_url": "http://haggardhawks.com",
+							"display_url": "haggardhawks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5k8NBYQc6y",
+							"expanded_url": "http://haggardhawks.com/books",
+							"display_url": "haggardhawks.com/books",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 86993,
+			"friends_count": 3185,
+			"listed_count": 1073,
+			"created_at": "Tue Dec 10 15:28:11 +0000 2013",
+			"favourites_count": 26752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469345999030308865/T_JXy4iU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469345999030308865/T_JXy4iU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2239350253/1618213806",
+			"profile_link_color": "0B3861",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "To CLAUNCH is to walk slowly with heavy, dragging feet."
+	},
+	{
 		"created_at": "Fri Dec 10 01:09:07 +0000 2021",
 		"id": 1450162259733491700,
 		"id_str": "1469111903163240451",
