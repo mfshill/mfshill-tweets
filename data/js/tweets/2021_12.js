@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 14 16:52:27 +0000 2021",
+		"id": 1470719588857909200,
+		"id_str": "1470798854677307392",
+		"full_text": "@Arsenal https://t.co/7gg0DsIb40",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Arsenal",
+					"name": "Arsenal",
+					"id": 34613288,
+					"id_str": "34613288",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470719554607145000,
+					"id_str": "1470719554607144965",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FGkLpIiUYAU7lCR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGkLpIiUYAU7lCR.jpg",
+					"url": "https://t.co/7gg0DsIb40",
+					"display_url": "pic.twitter.com/7gg0DsIb40",
+					"expanded_url": "https://twitter.com/SemperFiArsenal/status/1470719588857909251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1197,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1197,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470719554607145000,
+					"id_str": "1470719554607144965",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FGkLpIiUYAU7lCR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGkLpIiUYAU7lCR.jpg",
+					"url": "https://t.co/7gg0DsIb40",
+					"display_url": "pic.twitter.com/7gg0DsIb40",
+					"expanded_url": "https://twitter.com/SemperFiArsenal/status/1470719588857909251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1197,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1197,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1470718574570492000,
+		"in_reply_to_status_id_str": "1470718574570491908",
+		"in_reply_to_user_id": 34613288,
+		"in_reply_to_user_id_str": "34613288",
+		"in_reply_to_screen_name": "Arsenal",
+		"user": {
+			"id": 1203321828,
+			"id_str": "1203321828",
+			"name": "P™",
+			"screen_name": "SemperFiArsenal",
+			"location": "Lost Angeles",
+			"description": "Arsenal supporter | Software Developer | Always opinionated, not always right | Retweets not endorsements | Contact :- cechque@gmail.com | Followed by @Arsenal",
+			"url": "https://t.co/5lG1RC7frW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5lG1RC7frW",
+							"expanded_url": "https://twitter.com/LacazetteAlex/status/1086985480334442497?s=19",
+							"display_url": "twitter.com/LacazetteAlex/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98695,
+			"friends_count": 907,
+			"listed_count": 698,
+			"created_at": "Thu Feb 21 07:31:41 +0000 2013",
+			"favourites_count": 44035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1279483426265956352/5W9PNs9e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1279483426265956352/5W9PNs9e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1203321828/1526236486",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 166,
+		"favorite_count": 2722,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@Arsenal https://t.co/7gg0DsIb40"
+	},
+	{
 		"created_at": "Mon Dec 13 21:17:48 +0000 2021",
 		"id": 1470503242111111200,
 		"id_str": "1470503242111111172",
