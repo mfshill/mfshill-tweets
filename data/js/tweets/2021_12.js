@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 15 21:46:13 +0000 2021",
+		"id": 1471233114856906800,
+		"id_str": "1471235169885556738",
+		"full_text": "The pod is BACK! From midnight tonight with a BIG BALLSY BUMPER XMAS SPECIAL 🥳🥳🥳 https://t.co/l1dmP9wwbx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l1dmP9wwbx",
+					"expanded_url": "https://twitter.com/whatgoespod/status/1471231465740451847",
+					"display_url": "twitter.com/whatgoespod/st…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 401626553,
+			"id_str": "401626553",
+			"name": "Anne Frankenstein",
+			"screen_name": "DJAFrankenstein",
+			"location": "London",
+			"description": "Radio host @jazzfm, @bbc6music & @scalaradio. Columnist @bigissue. Co-host @whatgoespod. Resident DJ @spiritland & @thesociallondon. Voice of @bbctwo. Dubliner.",
+			"url": "https://t.co/sNNncLb1T7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sNNncLb1T7",
+							"expanded_url": "http://www.djannefrankenstein.com",
+							"display_url": "djannefrankenstein.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6986,
+			"friends_count": 1219,
+			"listed_count": 66,
+			"created_at": "Sun Oct 30 20:52:21 +0000 2011",
+			"favourites_count": 31324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380225494805835777/VSngMwYA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380225494805835777/VSngMwYA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/401626553/1486662611",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "08be9e4ebe3d037d",
+			"url": "https://api.twitter.com/1.1/geo/id/08be9e4ebe3d037d.json",
+			"place_type": "city",
+			"name": "Poplar",
+			"full_name": "Poplar, London",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.080028,
+							51.48432
+						],
+						[
+							0.009989,
+							51.48432
+						],
+						[
+							0.009989,
+							51.545341
+						],
+						[
+							-0.080028,
+							51.545341
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1471231465740451800,
+		"quoted_status_id_str": "1471231465740451847",
+		"quoted_status_permalink": {
+			"url": "https://t.co/l1dmP9wwbx",
+			"expanded": "https://twitter.com/whatgoespod/status/1471231465740451847",
+			"display": "twitter.com/whatgoespod/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 15 21:31:30 +0000 2021",
+			"id": 1471231465740451800,
+			"id_str": "1471231465740451847",
+			"full_text": "Yes mate, the pod canon is being loaded once again.\n\nTell the world Series 3 drops at midnight. https://t.co/boiQpQLj6b",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1471231458022940700,
+						"id_str": "1471231458022940674",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FGrdN1XWYAINLba.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGrdN1XWYAINLba.jpg",
+						"url": "https://t.co/boiQpQLj6b",
+						"display_url": "pic.twitter.com/boiQpQLj6b",
+						"expanded_url": "https://twitter.com/WhatGoesPod/status/1471231465740451847/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 244,
+								"h": 160,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 244,
+								"h": 160,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 244,
+								"h": 160,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1471231458022940700,
+						"id_str": "1471231458022940674",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FGrdN1XWYAINLba.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGrdN1XWYAINLba.jpg",
+						"url": "https://t.co/boiQpQLj6b",
+						"display_url": "pic.twitter.com/boiQpQLj6b",
+						"expanded_url": "https://twitter.com/WhatGoesPod/status/1471231465740451847/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 244,
+								"h": 160,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 244,
+								"h": 160,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 244,
+								"h": 160,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								61,
+								40
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FGrdN1XWYAINLba.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1471219726651211800,
+			"in_reply_to_status_id_str": "1471219726651211780",
+			"in_reply_to_user_id": 1093127491911331800,
+			"in_reply_to_user_id_str": "1093127491911331842",
+			"in_reply_to_screen_name": "WhatGoesPod",
+			"user": {
+				"id": 1093127491911331800,
+				"id_str": "1093127491911331842",
+				"name": "WhatGoesPod",
+				"screen_name": "WhatGoesPod",
+				"location": "LDN",
+				"description": "What goes around? A podcast more concerned with music lovers than music makers. “The whole thing is very jolly” \nMiranda Sawyer, The Observer.",
+				"url": "https://t.co/4tvBzBDkpm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4tvBzBDkpm",
+								"expanded_url": "http://www.anchor.fm/what-goes-around",
+								"display_url": "anchor.fm/what-goes-arou…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 908,
+				"friends_count": 1053,
+				"listed_count": 4,
+				"created_at": "Wed Feb 06 12:41:18 +0000 2019",
+				"favourites_count": 2347,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2167,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1172962837649661952/QZhxSZAD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172962837649661952/QZhxSZAD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093127491911331842/1568491113",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The pod is BACK! From midnight tonight with a BIG BALLSY BUMPER XMAS SPECIAL 🥳🥳🥳 https://t.co/l1dmP9wwbx"
+	},
+	{
 		"created_at": "Tue Dec 14 16:52:27 +0000 2021",
 		"id": 1470719588857909200,
 		"id_str": "1470798854677307392",
