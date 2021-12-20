@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 19 17:54:50 +0000 2021",
+		"id": 1472626490487591000,
+		"id_str": "1472626490487590914",
+		"full_text": "@tillwhensday sounds like a newfangled spar treatment https://t.co/kPv2QsSXEf",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tillwhensday",
+					"name": "𝙺𝚒𝚖𝚖",
+					"id": 1246130480749183000,
+					"id_str": "1246130480749182979",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1472626483625705500,
+					"id_str": "1472626483625705481",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FG_R_AtXwAkSNic.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FG_R_AtXwAkSNic.jpg",
+					"url": "https://t.co/kPv2QsSXEf",
+					"display_url": "pic.twitter.com/kPv2QsSXEf",
+					"expanded_url": "https://twitter.com/mfshill/status/1472626490487590914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472626483625705500,
+					"id_str": "1472626483625705481",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FG_R_AtXwAkSNic.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FG_R_AtXwAkSNic.jpg",
+					"url": "https://t.co/kPv2QsSXEf",
+					"display_url": "pic.twitter.com/kPv2QsSXEf",
+					"expanded_url": "https://twitter.com/mfshill/status/1472626490487590914/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							6,
+							5
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FG_R_AtXwAkSNic.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1472611806510211000,
+		"in_reply_to_status_id_str": "1472611806510211074",
+		"in_reply_to_user_id": 1246130480749183000,
+		"in_reply_to_user_id_str": "1246130480749182979",
+		"in_reply_to_screen_name": "tillwhensday",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@tillwhensday sounds like a newfangled spar treatment https://t.co/kPv2QsSXEf"
+	},
+	{
 		"created_at": "Sat Dec 18 14:04:27 +0000 2021",
 		"id": 1472203817928339500,
 		"id_str": "1472206126477463554",
