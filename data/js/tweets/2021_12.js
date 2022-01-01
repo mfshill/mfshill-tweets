@@ -1,6 +1,430 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 31 22:27:41 +0000 2021",
+		"id": 1477043811545190400,
+		"id_str": "1477043811545190401",
+		"full_text": "Say goodbye to 2021 with one GIF https://t.co/HJ6l4Bv1Yb https://t.co/ivBSUV7UQs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HJ6l4Bv1Yb",
+					"expanded_url": "https://twitter.com/eops/status/1477037772401741831",
+					"display_url": "twitter.com/eops/status/14…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1477043804658188300,
+					"id_str": "1477043804658188296",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FH-Dg75XwAgCeiB.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FH-Dg75XwAgCeiB.jpg",
+					"url": "https://t.co/ivBSUV7UQs",
+					"display_url": "pic.twitter.com/ivBSUV7UQs",
+					"expanded_url": "https://twitter.com/mfshill/status/1477043811545190401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477043804658188300,
+					"id_str": "1477043804658188296",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FH-Dg75XwAgCeiB.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FH-Dg75XwAgCeiB.jpg",
+					"url": "https://t.co/ivBSUV7UQs",
+					"display_url": "pic.twitter.com/ivBSUV7UQs",
+					"expanded_url": "https://twitter.com/mfshill/status/1477043811545190401/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FH-Dg75XwAgCeiB.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 261,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1477037772401741800,
+		"quoted_status_id_str": "1477037772401741831",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HJ6l4Bv1Yb",
+			"expanded": "https://twitter.com/eops/status/1477037772401741831",
+			"display": "twitter.com/eops/status/14…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 31 22:03:41 +0000 2021",
+			"id": 1477037772401741800,
+			"id_str": "1477037772401741831",
+			"full_text": "Say goodbye to 2021 with one GIF https://t.co/nkQvaAB9a0 https://t.co/CSSFdA0pyE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				56
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nkQvaAB9a0",
+						"expanded_url": "https://twitter.com/paulxdesign/status/1477015429826719745",
+						"display_url": "twitter.com/paulxdesign/st…",
+						"indices": [
+							33,
+							56
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1477037757818101800,
+						"id_str": "1477037757818101762",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FH9-A9qWYAIZPwy.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FH9-A9qWYAIZPwy.jpg",
+						"url": "https://t.co/CSSFdA0pyE",
+						"display_url": "pic.twitter.com/CSSFdA0pyE",
+						"expanded_url": "https://twitter.com/eops/status/1477037772401741831/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 466,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 466,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 466,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1477037757818101800,
+						"id_str": "1477037757818101762",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FH9-A9qWYAIZPwy.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FH9-A9qWYAIZPwy.jpg",
+						"url": "https://t.co/CSSFdA0pyE",
+						"display_url": "pic.twitter.com/CSSFdA0pyE",
+						"expanded_url": "https://twitter.com/eops/status/1477037772401741831/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 466,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 466,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 466,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								233,
+								240
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FH9-A9qWYAIZPwy.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20243240,
+				"id_str": "20243240",
+				"name": "BlackWaxSolution",
+				"screen_name": "eops",
+				"location": "Bristol, England",
+				"description": "DJ/Radio/Podcast. \nhttps://t.co/O66dAZp2ag\nhttps://t.co/s8wemG37Hg \nhttps://t.co/ke92MOcl5a",
+				"url": "https://t.co/DGJnQ3aUhn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DGJnQ3aUhn",
+								"expanded_url": "http://www.mixcloud.com/eops",
+								"display_url": "mixcloud.com/eops",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/O66dAZp2ag",
+								"expanded_url": "https://anchor.fm/what-goes-around",
+								"display_url": "anchor.fm/what-goes-arou…",
+								"indices": [
+									19,
+									42
+								]
+							},
+							{
+								"url": "https://t.co/s8wemG37Hg",
+								"expanded_url": "https://totallywiredradio.com",
+								"display_url": "totallywiredradio.com",
+								"indices": [
+									43,
+									66
+								]
+							},
+							{
+								"url": "https://t.co/ke92MOcl5a",
+								"expanded_url": "https://Mixcloud.com/eops",
+								"display_url": "Mixcloud.com/eops",
+								"indices": [
+									68,
+									91
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3926,
+				"friends_count": 3607,
+				"listed_count": 100,
+				"created_at": "Fri Feb 06 15:14:44 +0000 2009",
+				"favourites_count": 75107,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 180586,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1455442791987884034/JxNA-AMm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455442791987884034/JxNA-AMm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20243240/1633217104",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1477015429826719700,
+			"quoted_status_id_str": "1477015429826719745",
+			"quoted_status_permalink": {
+				"url": "https://t.co/nkQvaAB9a0",
+				"expanded": "https://twitter.com/paulxdesign/status/1477015429826719745",
+				"display": "twitter.com/paulxdesign/st…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Say goodbye to 2021 with one GIF https://t.co/HJ6l4Bv1Yb https://t.co/ivBSUV7UQs"
+	},
+	{
 		"created_at": "Wed Dec 29 11:06:05 +0000 2021",
 		"id": 1475944906631921700,
 		"id_str": "1476147507415683076",
