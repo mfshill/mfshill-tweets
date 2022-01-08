@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 07 21:58:20 +0000 2022",
+		"id": 1479563536254832600,
+		"id_str": "1479573140338622468",
+		"full_text": "UK COVID conspiracy groups are increasingly active in real life, with numerous groups recently trying to take COVID patients out of hospital. \n\nNow, a new group called Alpha Men Assemble is holding combat training camps, @tim_hume reports.\n\nNot good.\n\nhttps://t.co/0wzZoOb28c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tim_hume",
+					"name": "tim hume",
+					"id": 370308421,
+					"id_str": "370308421",
+					"indices": [
+						221,
+						230
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0wzZoOb28c",
+					"expanded_url": "https://www.vice.com/en/article/xgdg7d/covid-conspiracy-theorists-alpha-men-assemble-hold-combat-training-sessions-in-uk",
+					"display_url": "vice.com/en/article/xgd…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21331804,
+			"id_str": "21331804",
+			"name": "David Gilbert",
+			"screen_name": "daithaigilbert",
+			"location": "Ireland",
+			"description": "Journalist @VICENews currently covering disinformation, with a focus on QAnon. Are you Q? Get in touch. DM for WhatsApp/Signal or david.gilbert@vice.com",
+			"url": "https://t.co/4TqbQtkgK0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4TqbQtkgK0",
+							"expanded_url": "https://news.vice.com/story/author/david-gilbert",
+							"display_url": "news.vice.com/story/author/d…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12440,
+			"friends_count": 2454,
+			"listed_count": 532,
+			"created_at": "Thu Feb 19 19:48:16 +0000 2009",
+			"favourites_count": 2529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1408422522211741703/uR5aarCi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408422522211741703/uR5aarCi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21331804/1348780574",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UK COVID conspiracy groups are increasingly active in real life, with numerous groups recently trying to take COVID patients out of hospital. \n\nNow, a new group called Alpha Men Assemble is holding combat training camps, @tim_hume reports.\n\nNot good.\n\nhttps://t.co/0wzZoOb28c"
+	},
+	{
+		"created_at": "Fri Jan 07 18:45:59 +0000 2022",
+		"id": 1479524732622024700,
+		"id_str": "1479524732622024708",
+		"full_text": "https://t.co/xC7oOy18DH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479524724015341600,
+					"id_str": "1479524724015341572",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FIhT5ctXoAQSmX7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIhT5ctXoAQSmX7.jpg",
+					"url": "https://t.co/xC7oOy18DH",
+					"display_url": "pic.twitter.com/xC7oOy18DH",
+					"expanded_url": "https://twitter.com/mfshill/status/1479524732622024708/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479524724015341600,
+					"id_str": "1479524724015341572",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FIhT5ctXoAQSmX7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIhT5ctXoAQSmX7.jpg",
+					"url": "https://t.co/xC7oOy18DH",
+					"display_url": "pic.twitter.com/xC7oOy18DH",
+					"expanded_url": "https://twitter.com/mfshill/status/1479524732622024708/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/xC7oOy18DH"
+	},
+	{
 		"created_at": "Fri Jan 07 00:42:13 +0000 2022",
 		"id": 1479251997194870800,
 		"id_str": "1479251997194870785",
