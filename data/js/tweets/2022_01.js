@@ -1,6 +1,1074 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 11 21:10:33 +0000 2022",
+		"id": 1481010665225605000,
+		"id_str": "1481010665225605120",
+		"full_text": "https://t.co/QMRNm0ZWIv https://t.co/PkqIYl32tW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QMRNm0ZWIv",
+					"expanded_url": "https://twitter.com/BBCRosAtkins/status/1481008394718883843",
+					"display_url": "twitter.com/BBCRosAtkins/s…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1481010655146786800,
+					"id_str": "1481010655146786816",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FI2bWBiXwAAf3YX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI2bWBiXwAAf3YX.jpg",
+					"url": "https://t.co/PkqIYl32tW",
+					"display_url": "pic.twitter.com/PkqIYl32tW",
+					"expanded_url": "https://twitter.com/mfshill/status/1481010665225605120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 940,
+							"h": 564,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 940,
+							"h": 564,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481010655146786800,
+					"id_str": "1481010655146786816",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FI2bWBiXwAAf3YX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI2bWBiXwAAf3YX.jpg",
+					"url": "https://t.co/PkqIYl32tW",
+					"display_url": "pic.twitter.com/PkqIYl32tW",
+					"expanded_url": "https://twitter.com/mfshill/status/1481010665225605120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 940,
+							"h": 564,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 940,
+							"h": 564,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 261,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1481008394718883800,
+		"quoted_status_id_str": "1481008394718883843",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QMRNm0ZWIv",
+			"expanded": "https://twitter.com/BBCRosAtkins/status/1481008394718883843",
+			"display": "twitter.com/BBCRosAtkins/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 11 21:01:31 +0000 2022",
+			"id": 1481008394718883800,
+			"id_str": "1481008394718883843",
+			"full_text": "Part 5 of the Downing Street parties. This time: 20 May 2020 at No.10. 7 mins. Produced by Michael Cox and Mary Fuller. https://t.co/WdzNyJ2yBB https://t.co/js9PTRxgrC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WdzNyJ2yBB",
+						"expanded_url": "https://www.bbc.co.uk/news/uk-politics-59951671",
+						"display_url": "bbc.co.uk/news/uk-politi…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1481007396902379500,
+						"id_str": "1481007396902379520",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1481007396902379520/img/xVUxHYtF2dhr4COv.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1481007396902379520/img/xVUxHYtF2dhr4COv.jpg",
+						"url": "https://t.co/js9PTRxgrC",
+						"display_url": "pic.twitter.com/js9PTRxgrC",
+						"expanded_url": "https://twitter.com/BBCRosAtkins/status/1481008394718883843/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1481007396902379500,
+						"id_str": "1481007396902379520",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1481007396902379520/img/xVUxHYtF2dhr4COv.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1481007396902379520/img/xVUxHYtF2dhr4COv.jpg",
+						"url": "https://t.co/js9PTRxgrC",
+						"display_url": "pic.twitter.com/js9PTRxgrC",
+						"expanded_url": "https://twitter.com/BBCRosAtkins/status/1481008394718883843/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 425920,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1481007396902379520/vid/1280x720/88V1_z_DzvrL9x6d.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1481007396902379520/vid/640x360/S3R1pYsU_WqL29TJ.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1481007396902379520/vid/480x270/0Y2P48H5ywuw5ASp.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1481007396902379520/pl/cqDM4w45E7G5_VVY.m3u8?tag=14&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 92771309,
+				"id_str": "92771309",
+				"name": "Ros Atkins",
+				"screen_name": "BBCRosAtkins",
+				"location": "London",
+				"description": "Outside Source & explainers on BBC News, founder of the 50:50 Project, Texting Keith Olbermann podcast, the Media Show on Radio 4, squash enthusiast",
+				"url": "https://t.co/dEczbSudah",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dEczbSudah",
+								"expanded_url": "https://www.bbc.co.uk/programmes/p071wbr5/episodes/downloads",
+								"display_url": "bbc.co.uk/programmes/p07…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 265050,
+				"friends_count": 4690,
+				"listed_count": 1308,
+				"created_at": "Thu Nov 26 15:08:39 +0000 2009",
+				"favourites_count": 3200,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29564,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1406971271439699977/8BUULlok_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1406971271439699977/8BUULlok_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/92771309/1627936986",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "CCCCCC",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "5A5A5A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3649,
+			"favorite_count": 11833,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/QMRNm0ZWIv https://t.co/PkqIYl32tW"
+	},
+	{
+		"created_at": "Tue Jan 11 17:57:57 +0000 2022",
+		"id": 1480959001835802600,
+		"id_str": "1480962198147117058",
+		"full_text": "I can’t find any social media posts or photos from May 2020. Must be because I was staying indoors and not socialising, like I was supposed to be doing.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1106867328921276400,
+			"id_str": "1106867328921276416",
+			"name": "Clair Budd",
+			"screen_name": "BuddClair",
+			"location": "NE England",
+			"description": "PhD student @sheffielduni researching the novels of Terry Pratchett and Neil Gaiman. Ealu-sceop.",
+			"url": "https://t.co/j0zDaLQr5x",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j0zDaLQr5x",
+							"expanded_url": "https://clairbudd1.medium.com",
+							"display_url": "clairbudd1.medium.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1427,
+			"friends_count": 2264,
+			"listed_count": 5,
+			"created_at": "Sat Mar 16 10:38:30 +0000 2019",
+			"favourites_count": 83115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1463925674763329547/tLliH3gX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1463925674763329547/tLliH3gX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1106867328921276416/1637407714",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I can’t find any social media posts or photos from May 2020. Must be because I was staying indoors and not socialising, like I was supposed to be doing."
+	},
+	{
+		"created_at": "Tue Jan 11 15:08:57 +0000 2022",
+		"id": 1480919667032137700,
+		"id_str": "1480919667032137731",
+		"full_text": "We study ocean temperatures. The earth’s seas just broke a heat increase record  https://t.co/nyqbXkbnpm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nyqbXkbnpm",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2022/jan/11/ocean-temperatures-earth-heat-increase-record",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 261,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We study ocean temperatures. The earth’s seas just broke a heat increase record  https://t.co/nyqbXkbnpm"
+	},
+	{
+		"created_at": "Tue Jan 11 12:21:19 +0000 2022",
+		"id": 1480778048182136800,
+		"id_str": "1480877482807279626",
+		"full_text": "Something like this: https://t.co/drfOUTZGEc https://t.co/jNdZzneMuS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/drfOUTZGEc",
+					"expanded_url": "https://twitter.com/bevaniteellie/status/1480642875415269381",
+					"display_url": "twitter.com/bevaniteellie/…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1480778045145374700,
+					"id_str": "1480778045145374721",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FIzHyVwWYAEwqjU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIzHyVwWYAEwqjU.jpg",
+					"url": "https://t.co/jNdZzneMuS",
+					"display_url": "pic.twitter.com/jNdZzneMuS",
+					"expanded_url": "https://twitter.com/mnrrntt/status/1480778048182136838/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 679,
+							"h": 677,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 679,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480778045145374700,
+					"id_str": "1480778045145374721",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FIzHyVwWYAEwqjU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIzHyVwWYAEwqjU.jpg",
+					"url": "https://t.co/jNdZzneMuS",
+					"display_url": "pic.twitter.com/jNdZzneMuS",
+					"expanded_url": "https://twitter.com/mnrrntt/status/1480778048182136838/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 679,
+							"h": 677,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 679,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 994502112469049300,
+			"id_str": "994502112469049344",
+			"name": "mnrrntt",
+			"screen_name": "mnrrntt",
+			"location": "11.3493° N, 142.1996° E",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4940,
+			"friends_count": 863,
+			"listed_count": 13,
+			"created_at": "Thu May 10 08:59:15 +0000 2018",
+			"favourites_count": 138496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1479352236119576585/lYIXc20k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1479352236119576585/lYIXc20k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/994502112469049344/1641359291",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1480642875415269400,
+		"quoted_status_id_str": "1480642875415269381",
+		"quoted_status_permalink": {
+			"url": "https://t.co/drfOUTZGEc",
+			"expanded": "https://twitter.com/bevaniteellie/status/1480642875415269381",
+			"display": "twitter.com/bevaniteellie/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 10 20:49:05 +0000 2022",
+			"id": 1480642875415269400,
+			"id_str": "1480642875415269381",
+			"full_text": "Was about to suggest we all post a pic from what *we* were doing on May 20th 2020, but I don’t have any BECAUSE WE WEREN’T ALLOWED TO DO ANYTHING.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				146
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22421548,
+				"id_str": "22421548",
+				"name": "Ellie Gellard",
+				"screen_name": "BevaniteEllie",
+				"location": "London",
+				"description": "Strategic director. All views my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12374,
+				"friends_count": 4058,
+				"listed_count": 481,
+				"created_at": "Sun Mar 01 23:24:45 +0000 2009",
+				"favourites_count": 9861,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 48773,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1462527006575411204/MhDTEjL0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462527006575411204/MhDTEjL0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22421548/1637528690",
+				"profile_link_color": "DB28C6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Something like this: https://t.co/drfOUTZGEc https://t.co/jNdZzneMuS"
+	},
+	{
+		"created_at": "Tue Jan 11 12:20:59 +0000 2022",
+		"id": 1480615272356716500,
+		"id_str": "1480877397343973376",
+		"full_text": "Twitter, explained in 15 seconds https://t.co/4dp4qytgwf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1480615254379876400,
+					"id_str": "1480615254379876353",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1480615254379876353/pu/img/PkMmmlP2vFbJ1eaU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1480615254379876353/pu/img/PkMmmlP2vFbJ1eaU.jpg",
+					"url": "https://t.co/4dp4qytgwf",
+					"display_url": "pic.twitter.com/4dp4qytgwf",
+					"expanded_url": "https://twitter.com/strobist/status/1480615272356716550/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 446,
+							"h": 322,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 446,
+							"h": 322,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 446,
+							"h": 322,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480615254379876400,
+					"id_str": "1480615254379876353",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1480615254379876353/pu/img/PkMmmlP2vFbJ1eaU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1480615254379876353/pu/img/PkMmmlP2vFbJ1eaU.jpg",
+					"url": "https://t.co/4dp4qytgwf",
+					"display_url": "pic.twitter.com/4dp4qytgwf",
+					"expanded_url": "https://twitter.com/strobist/status/1480615272356716550/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 446,
+							"h": 322,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 446,
+							"h": 322,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 446,
+							"h": 322,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							223,
+							161
+						],
+						"duration_millis": 14681,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1480615254379876353/pu/vid/446x322/wgInIir4oAm3NIYT.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1480615254379876353/pu/vid/372x270/sqKchtUdEi16au1Q.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1480615254379876353/pu/pl/OHcWpMBHBOboeXnQ.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14305530,
+			"id_str": "14305530",
+			"name": "David Hobby",
+			"screen_name": "strobist",
+			"location": "Ellicott City, MD, USA",
+			"description": "Formerly: Baltimore Sun, https://t.co/q9skpoltVO.\nCurrently: https://t.co/K9vIoXhdzE (paused for COVID) and a new project TBA soon.\n 📷🌏🍄🍛",
+			"url": "https://t.co/q9skpoltVO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q9skpoltVO",
+							"expanded_url": "http://Strobist.com",
+							"display_url": "Strobist.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/q9skpoltVO",
+							"expanded_url": "http://Strobist.com",
+							"display_url": "Strobist.com",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/K9vIoXhdzE",
+							"expanded_url": "http://X-Peditions.com",
+							"display_url": "X-Peditions.com",
+							"indices": [
+								61,
+								84
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 260646,
+			"friends_count": 85,
+			"listed_count": 6461,
+			"created_at": "Fri Apr 04 19:31:36 +0000 2008",
+			"favourites_count": 36363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "777777",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073047611375017985/tB4AxVZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073047611375017985/tB4AxVZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14305530/1453870546",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "444444",
+			"profile_sidebar_fill_color": "111111",
+			"profile_text_color": "AAAAAA",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23534,
+		"favorite_count": 103191,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Twitter, explained in 15 seconds https://t.co/4dp4qytgwf"
+	},
+	{
 		"created_at": "Mon Jan 10 19:49:07 +0000 2022",
 		"id": 1480627786977091600,
 		"id_str": "1480627786977091584",
