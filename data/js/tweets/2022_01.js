@@ -1,6 +1,1060 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 12 21:22:01 +0000 2022",
+		"id": 1481375941402271700,
+		"id_str": "1481375941402271750",
+		"full_text": "@M0by_Duck i'm finding it incredibly dull. the good bits are the flashbacks post Sarlacc escape in the desert",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "M0by_Duck",
+					"name": "Tomas",
+					"id": 22948138,
+					"id_str": "22948138",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1481373226924134400,
+		"in_reply_to_status_id_str": "1481373226924134401",
+		"in_reply_to_user_id": 22948138,
+		"in_reply_to_user_id_str": "22948138",
+		"in_reply_to_screen_name": "M0by_Duck",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 261,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@M0by_Duck i'm finding it incredibly dull. the good bits are the flashbacks post Sarlacc escape in the desert"
+	},
+	{
+		"created_at": "Wed Jan 12 18:12:14 +0000 2022",
+		"id": 1481223452824866800,
+		"id_str": "1481328178249482252",
+		"full_text": "First comic of the year! ✨ \nhttps://t.co/rIdDLUePBr https://t.co/P8M6ej5h7q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rIdDLUePBr",
+					"expanded_url": "https://www.exocomics.com/691/",
+					"display_url": "exocomics.com/691/",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1481223443777728500,
+					"id_str": "1481223443777728513",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FI5c389aMAEIpzs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI5c389aMAEIpzs.jpg",
+					"url": "https://t.co/P8M6ej5h7q",
+					"display_url": "pic.twitter.com/P8M6ej5h7q",
+					"expanded_url": "https://twitter.com/Exocomics/status/1481223452824866816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 804,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 607,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 804,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481223443777728500,
+					"id_str": "1481223443777728513",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FI5c389aMAEIpzs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI5c389aMAEIpzs.jpg",
+					"url": "https://t.co/P8M6ej5h7q",
+					"display_url": "pic.twitter.com/P8M6ej5h7q",
+					"expanded_url": "https://twitter.com/Exocomics/status/1481223452824866816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 804,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 607,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 804,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 202327397,
+			"id_str": "202327397",
+			"name": "Li Chen",
+			"screen_name": "Exocomics",
+			"location": "New Zealand",
+			"description": "This is a webcomic. Support my Patreon! https://t.co/WzwvfdmKh2",
+			"url": "https://t.co/gVT1ro2T2d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gVT1ro2T2d",
+							"expanded_url": "http://www.exocomics.com/",
+							"display_url": "exocomics.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WzwvfdmKh2",
+							"expanded_url": "http://www.patreon.com/exocomics",
+							"display_url": "patreon.com/exocomics",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24619,
+			"friends_count": 348,
+			"listed_count": 0,
+			"created_at": "Wed Oct 13 20:12:30 +0000 2010",
+			"favourites_count": 4585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "565C5A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1038573551995875328/xX0jYbWw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1038573551995875328/xX0jYbWw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/202327397/1536450855",
+			"profile_link_color": "565C5A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 227,
+		"favorite_count": 1062,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First comic of the year! ✨ \nhttps://t.co/rIdDLUePBr https://t.co/P8M6ej5h7q"
+	},
+	{
+		"created_at": "Wed Jan 12 12:47:35 +0000 2022",
+		"id": 1481239919716618200,
+		"id_str": "1481246478999994368",
+		"full_text": "Look, we’ve all been there. Show up for a meeting at work, having been asked to bring booze, only to find hundreds of people there getting pissed up, just to figure out, 25 minutes later, that you’re actually at a party in your own garden.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 149272318,
+			"id_str": "149272318",
+			"name": "Gary Younge",
+			"screen_name": "garyyounge",
+			"location": "London",
+			"description": "Professor of Sociology at University of Manchester. Journalist. Author. Broadcaster. Former Guardian columnist. Type Media Fellow. Instagram garyyounge",
+			"url": "https://t.co/obnR8rJfal",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/obnR8rJfal",
+							"expanded_url": "http://www.garyyounge.com",
+							"display_url": "garyyounge.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 137706,
+			"friends_count": 1405,
+			"listed_count": 1609,
+			"created_at": "Fri May 28 21:42:40 +0000 2010",
+			"favourites_count": 4059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/939207630/Garycz_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/939207630/Garycz_normal.gif",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3186,
+		"favorite_count": 23016,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Look, we’ve all been there. Show up for a meeting at work, having been asked to bring booze, only to find hundreds of people there getting pissed up, just to figure out, 25 minutes later, that you’re actually at a party in your own garden."
+	},
+	{
+		"created_at": "Wed Jan 12 12:45:42 +0000 2022",
+		"id": 1481244512030761000,
+		"id_str": "1481246005966381056",
+		"full_text": "Some not-very-persuasive excuses:\nDrink driving - \"I didn't realise I was in my car\".\nPossession - \"I thought it was sugar\".\nIndecent exposure - \"I thought I was in the bath\".\nBreaking lockdown rules - \"I didn't realise it was a party\".",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 198584761,
+			"id_str": "198584761",
+			"name": "George Monbiot",
+			"screen_name": "GeorgeMonbiot",
+			"location": "",
+			"description": "The corpse at every wedding, the bride at every funeral.",
+			"url": "http://t.co/DWv0C2B9q5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DWv0C2B9q5",
+							"expanded_url": "http://www.monbiot.com",
+							"display_url": "monbiot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468140,
+			"friends_count": 2570,
+			"listed_count": 5901,
+			"created_at": "Mon Oct 04 18:06:34 +0000 2010",
+			"favourites_count": 25034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 44561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3594607450/ff6fbd42964f9a0def79d8acbfa034bd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3594607450/ff6fbd42964f9a0def79d8acbfa034bd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/198584761/1399369203",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 568,
+		"favorite_count": 2361,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Some not-very-persuasive excuses:\nDrink driving - \"I didn't realise I was in my car\".\nPossession - \"I thought it was sugar\".\nIndecent exposure - \"I thought I was in the bath\".\nBreaking lockdown rules - \"I didn't realise it was a party\"."
+	},
+	{
+		"created_at": "Wed Jan 12 12:09:58 +0000 2022",
+		"id": 1481237011986100200,
+		"id_str": "1481237011986100227",
+		"full_text": "@TC_Cornesto missing some hollandaise sauce",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC Cornesto",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1481236060281741300,
+		"in_reply_to_status_id_str": "1481236060281741318",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 261,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TC_Cornesto missing some hollandaise sauce"
+	},
+	{
+		"created_at": "Wed Jan 12 12:08:20 +0000 2022",
+		"id": 1481236602416468000,
+		"id_str": "1481236602416467969",
+		"full_text": "I wonder if Gemma Chan is getting bored of being typecast as a robot? Great plot ruined by being too long and rather boring. 4/10. Eternals (2021) https://t.co/dexoe8eSJb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dexoe8eSJb",
+					"expanded_url": "https://www.imdb.com/title/tt9032400/",
+					"display_url": "imdb.com/title/tt903240…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 261,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wonder if Gemma Chan is getting bored of being typecast as a robot? Great plot ruined by being too long and rather boring. 4/10. Eternals (2021) https://t.co/dexoe8eSJb"
+	},
+	{
+		"created_at": "Wed Jan 12 11:54:03 +0000 2022",
+		"id": 1481202999934472200,
+		"id_str": "1481233007180750854",
+		"full_text": "Happy 30th (or 25th) Birthday, HAL!\n\n#HAL9000 was activated today in. 1992 according to the film version of 2001. Clarke's novel uses the same date in 1997. https://t.co/TcbI2XqXVe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HAL9000",
+					"indices": [
+						37,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1481202992384819200,
+					"id_str": "1481202992384819200",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FI5KRhlXwAAVS7U.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FI5KRhlXwAAVS7U.jpg",
+					"url": "https://t.co/TcbI2XqXVe",
+					"display_url": "pic.twitter.com/TcbI2XqXVe",
+					"expanded_url": "https://twitter.com/illuminatus/status/1481202999934472193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 534,
+							"h": 234,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 534,
+							"h": 234,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 534,
+							"h": 234,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481202992384819200,
+					"id_str": "1481202992384819200",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FI5KRhlXwAAVS7U.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FI5KRhlXwAAVS7U.jpg",
+					"url": "https://t.co/TcbI2XqXVe",
+					"display_url": "pic.twitter.com/TcbI2XqXVe",
+					"expanded_url": "https://twitter.com/illuminatus/status/1481202999934472193/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 534,
+							"h": 234,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 534,
+							"h": 234,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 534,
+							"h": 234,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							89,
+							39
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FI5KRhlXwAAVS7U.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6133942,
+			"id_str": "6133942",
+			"name": "illuminatus",
+			"screen_name": "illuminatus",
+			"location": "",
+			"description": "\"No, it's not you, I'm this horrifically socially awkward with everyone\"",
+			"url": "https://t.co/RP0gw7JM0I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RP0gw7JM0I",
+							"expanded_url": "http://www.gestaltweb.me.uk/",
+							"display_url": "gestaltweb.me.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2314,
+			"friends_count": 1822,
+			"listed_count": 26,
+			"created_at": "Fri May 18 10:10:31 +0000 2007",
+			"favourites_count": 132147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 79503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0050D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1313481766695563268/FalVGGyE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313481766695563268/FalVGGyE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6133942/1635502659",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F2EFF2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy 30th (or 25th) Birthday, HAL!\n\n#HAL9000 was activated today in. 1992 according to the film version of 2001. Clarke's novel uses the same date in 1997. https://t.co/TcbI2XqXVe"
+	},
+	{
+		"created_at": "Wed Jan 12 11:48:43 +0000 2022",
+		"id": 1481216554448691200,
+		"id_str": "1481231665548734465",
+		"full_text": "The High Court has found that the Government's VIP lane - that channelled riches to its friends, donors and associates - was illegal. https://t.co/txxRhfPLS9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/txxRhfPLS9",
+					"expanded_url": "https://glplive.org/vip-lane-120122-tw",
+					"display_url": "glplive.org/vip-lane-12012…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 406842374,
+			"id_str": "406842374",
+			"name": "Jo Maugham",
+			"screen_name": "JolyonMaugham",
+			"location": "London",
+			"description": "Director @GoodLawProject. Barrister. Hon Professor @DurhamLawSchool Live your values. Fight the power. Keep the receipts. He/him.",
+			"url": "https://t.co/2aHKuG8bRv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2aHKuG8bRv",
+							"expanded_url": "https://goodlawproject.org/",
+							"display_url": "goodlawproject.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 343119,
+			"friends_count": 1835,
+			"listed_count": 1999,
+			"created_at": "Mon Nov 07 08:23:01 +0000 2011",
+			"favourites_count": 73126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 126002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321417871310852/_CdUh0T2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321417871310852/_CdUh0T2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/406842374/1568954167",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9351,
+		"favorite_count": 26538,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The High Court has found that the Government's VIP lane - that channelled riches to its friends, donors and associates - was illegal. https://t.co/txxRhfPLS9"
+	},
+	{
+		"created_at": "Wed Jan 12 11:48:16 +0000 2022",
+		"id": 1481231551371300900,
+		"id_str": "1481231551371300867",
+		"full_text": "yank spelling of words should be banned.\nWordle 207 6/6*\n\n⬜⬜⬜⬜⬜\n⬜⬜🟨🟨⬜\n🟨🟨⬜🟩⬜\n🟨🟩⬜🟩⬜\n🟨🟩⬜🟩🟩\n🟩🟩🟩🟩🟩",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 261,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "yank spelling of words should be banned.\nWordle 207 6/6*\n\n⬜⬜⬜⬜⬜\n⬜⬜🟨🟨⬜\n🟨🟨⬜🟩⬜\n🟨🟩⬜🟩⬜\n🟨🟩⬜🟩🟩\n🟩🟩🟩🟩🟩"
+	},
+	{
 		"created_at": "Tue Jan 11 21:10:33 +0000 2022",
 		"id": 1481010665225605000,
 		"id_str": "1481010665225605120",
