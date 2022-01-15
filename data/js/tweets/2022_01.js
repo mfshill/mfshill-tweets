@@ -1,6 +1,562 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 15 00:06:39 +0000 2022",
+		"id": 1482142148229275600,
+		"id_str": "1482142148229275649",
+		"full_text": "Wordle 210 3/6*\n\n⬜🟨🟨🟩⬜\n🟨🟩🟩🟩⬜\n🟩🟩🟩🟩🟩",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Wordle 210 3/6*\n\n⬜🟨🟨🟩⬜\n🟨🟩🟩🟩⬜\n🟩🟩🟩🟩🟩"
+	},
+	{
+		"created_at": "Fri Jan 14 18:13:05 +0000 2022",
+		"id": 1482053169651794000,
+		"id_str": "1482053169651793922",
+		"full_text": "Yet another reason to get vaccinated and wear a mask! Warning over ‘Covid dick’ after man claims he lost 1.5 inches from penis https://t.co/WNmEgUh3GJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WNmEgUh3GJ",
+					"expanded_url": "https://metro.co.uk/2022/01/13/warning-over-covid-d-after-man-claims-he-lost-1-5-inches-from-penis-15914200/",
+					"display_url": "metro.co.uk/2022/01/13/war…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 260,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yet another reason to get vaccinated and wear a mask! Warning over ‘Covid dick’ after man claims he lost 1.5 inches from penis https://t.co/WNmEgUh3GJ"
+	},
+	{
+		"created_at": "Fri Jan 14 17:52:16 +0000 2022",
+		"id": 1482023758269403100,
+		"id_str": "1482047929154220045",
+		"full_text": "seen this robot in a few raves I'm sure https://t.co/sP1XCvzFYj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sP1XCvzFYj",
+					"expanded_url": "https://twitter.com/eha_news/status/1481562954474663937",
+					"display_url": "twitter.com/eha_news/statu…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18672145,
+			"id_str": "18672145",
+			"name": "Mixmag",
+			"screen_name": "Mixmag",
+			"location": "Worldwide",
+			"description": "Dance music + club culture 🙏",
+			"url": "https://t.co/Hi9vaB20Wl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hi9vaB20Wl",
+							"expanded_url": "http://www.mixmag.net",
+							"display_url": "mixmag.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 326842,
+			"friends_count": 1417,
+			"listed_count": 3406,
+			"created_at": "Tue Jan 06 12:30:05 +0000 2009",
+			"favourites_count": 4661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 82299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1480557898795294724/JBJsWqL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1480557898795294724/JBJsWqL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18672145/1616767621",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1481562954474664000,
+		"quoted_status_id_str": "1481562954474663937",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sP1XCvzFYj",
+			"expanded": "https://twitter.com/eha_news/status/1481562954474663937",
+			"display": "twitter.com/eha_news/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 13 09:45:09 +0000 2022",
+			"id": 1481562954474664000,
+			"id_str": "1481562954474663937",
+			"full_text": "🤖 A robot trying to replicate human emotions.\n\nhttps://t.co/JXLZSUkWXu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				70
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1480917065431240700,
+						"id_str": "1480917065431240711",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1480917065431240711/pu/img/bgEjQjziJN3dnL4Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1480917065431240711/pu/img/bgEjQjziJN3dnL4Z.jpg",
+						"url": "https://t.co/JXLZSUkWXu",
+						"display_url": "pic.twitter.com/JXLZSUkWXu",
+						"expanded_url": "https://twitter.com/biltek_pluss/status/1480917106585657351/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 270,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 270,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 270,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1480917106585657300,
+						"source_status_id_str": "1480917106585657351",
+						"source_user_id": 1022044142703132700,
+						"source_user_id_str": "1022044142703132672"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1480917065431240700,
+						"id_str": "1480917065431240711",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1480917065431240711/pu/img/bgEjQjziJN3dnL4Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1480917065431240711/pu/img/bgEjQjziJN3dnL4Z.jpg",
+						"url": "https://t.co/JXLZSUkWXu",
+						"display_url": "pic.twitter.com/JXLZSUkWXu",
+						"expanded_url": "https://twitter.com/biltek_pluss/status/1480917106585657351/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 270,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 270,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 270,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1480917106585657300,
+						"source_status_id_str": "1480917106585657351",
+						"source_user_id": 1022044142703132700,
+						"source_user_id_str": "1022044142703132672",
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 12966,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1480917065431240711/pu/vid/270x480/9_RN7OF_RLcWDbIW.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1480917065431240711/pu/pl/70ipNXzFLzN7IzbZ.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1022044142703132700,
+								"id_str": "1022044142703132672",
+								"name": "Biltek Plus",
+								"screen_name": "biltek_pluss",
+								"location": "Earth",
+								"description": "Bilim, Sanat, Teknoloji ve Yaşam - Science, Art, Technology and Life",
+								"url": "https://t.co/kCnCxe8V7i",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/kCnCxe8V7i",
+												"expanded_url": "http://instagram.com/biltekpluss",
+												"display_url": "instagram.com/biltekpluss",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 164080,
+								"friends_count": 0,
+								"listed_count": 479,
+								"created_at": "Wed Jul 25 09:01:27 +0000 2018",
+								"favourites_count": 0,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 6500,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1451830984790392835/QqRwH_PZ_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451830984790392835/QqRwH_PZ_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022044142703132672/1632745789",
+								"profile_link_color": "FF691F",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 803648695660986400,
+				"id_str": "803648695660986369",
+				"name": "EHA News",
+				"screen_name": "eha_news",
+				"location": "",
+				"description": "We bring you the breaking news, developments and stories from all over the world. — @eha_medya @eha_deutsch @eha_arabic",
+				"url": "https://t.co/hYtFbXGNi5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hYtFbXGNi5",
+								"expanded_url": "http://ehamedya.com/global-news.html",
+								"display_url": "ehamedya.com/global-news.ht…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26962,
+				"friends_count": 4,
+				"listed_count": 318,
+				"created_at": "Tue Nov 29 17:15:54 +0000 2016",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 41986,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1266882768572682243/S9isgA3O_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266882768572682243/S9isgA3O_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/803648695660986369/1558708027",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2521,
+			"favorite_count": 19224,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 56,
+		"favorite_count": 369,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "seen this robot in a few raves I'm sure https://t.co/sP1XCvzFYj"
+	},
+	{
 		"created_at": "Fri Jan 14 00:14:33 +0000 2022",
 		"id": 1481781748811931600,
 		"id_str": "1481781748811931654",
