@@ -1,6 +1,1359 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 18 00:15:19 +0000 2022",
+		"id": 1483231490586693600,
+		"id_str": "1483231490586693641",
+		"full_text": "Wordle 213 5/6*\n\n⬜⬜⬜⬜⬜\n⬜🟩⬜⬜⬜\n🟩🟩🟩⬜⬜\n🟩🟩🟩⬜⬜\n🟩🟩🟩🟩🟩",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 253,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Wordle 213 5/6*\n\n⬜⬜⬜⬜⬜\n⬜🟩⬜⬜⬜\n🟩🟩🟩⬜⬜\n🟩🟩🟩⬜⬜\n🟩🟩🟩🟩🟩"
+	},
+	{
+		"created_at": "Mon Jan 17 20:01:47 +0000 2022",
+		"id": 1483167690009284600,
+		"id_str": "1483167690009284608",
+		"full_text": "https://t.co/TdtlkjoXgA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483167667913736200,
+					"id_str": "1483167667913736198",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FJVFIsRXwAYiokO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJVFIsRXwAYiokO.jpg",
+					"url": "https://t.co/TdtlkjoXgA",
+					"display_url": "pic.twitter.com/TdtlkjoXgA",
+					"expanded_url": "https://twitter.com/mfshill/status/1483167690009284608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1139,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 1139,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483167667913736200,
+					"id_str": "1483167667913736198",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FJVFIsRXwAYiokO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJVFIsRXwAYiokO.jpg",
+					"url": "https://t.co/TdtlkjoXgA",
+					"display_url": "pic.twitter.com/TdtlkjoXgA",
+					"expanded_url": "https://twitter.com/mfshill/status/1483167690009284608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1139,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 1139,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483167676176519200,
+					"id_str": "1483167676176519180",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FJVFJLDX0AwG0YY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJVFJLDX0AwG0YY.jpg",
+					"url": "https://t.co/TdtlkjoXgA",
+					"display_url": "pic.twitter.com/TdtlkjoXgA",
+					"expanded_url": "https://twitter.com/mfshill/status/1483167690009284608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1139,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 1139,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483167682455289900,
+					"id_str": "1483167682455289859",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FJVFJicWQAMm0nC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJVFJicWQAMm0nC.jpg",
+					"url": "https://t.co/TdtlkjoXgA",
+					"display_url": "pic.twitter.com/TdtlkjoXgA",
+					"expanded_url": "https://twitter.com/mfshill/status/1483167690009284608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1139,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 1139,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1483167641502167000,
+		"in_reply_to_status_id_str": "1483167641502167046",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 253,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/TdtlkjoXgA"
+	},
+	{
+		"created_at": "Mon Jan 17 20:01:36 +0000 2022",
+		"id": 1483167641502167000,
+		"id_str": "1483167641502167046",
+		"full_text": "great selection of adult Search And Find Puzzles https://t.co/Uxsii18Lpm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483167552557785000,
+					"id_str": "1483167552557785094",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FJVFB-iXoAYilVM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJVFB-iXoAYilVM.jpg",
+					"url": "https://t.co/Uxsii18Lpm",
+					"display_url": "pic.twitter.com/Uxsii18Lpm",
+					"expanded_url": "https://twitter.com/mfshill/status/1483167641502167046/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 1139,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1139,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483167552557785000,
+					"id_str": "1483167552557785094",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FJVFB-iXoAYilVM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJVFB-iXoAYilVM.jpg",
+					"url": "https://t.co/Uxsii18Lpm",
+					"display_url": "pic.twitter.com/Uxsii18Lpm",
+					"expanded_url": "https://twitter.com/mfshill/status/1483167641502167046/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 1139,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1139,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483167571952164900,
+					"id_str": "1483167571952164872",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FJVFDGyWYAgMbym.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJVFDGyWYAgMbym.jpg",
+					"url": "https://t.co/Uxsii18Lpm",
+					"display_url": "pic.twitter.com/Uxsii18Lpm",
+					"expanded_url": "https://twitter.com/mfshill/status/1483167641502167046/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 1139,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1139,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483167581506838500,
+					"id_str": "1483167581506838531",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FJVFDqYXIAMwKeX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJVFDqYXIAMwKeX.jpg",
+					"url": "https://t.co/Uxsii18Lpm",
+					"display_url": "pic.twitter.com/Uxsii18Lpm",
+					"expanded_url": "https://twitter.com/mfshill/status/1483167641502167046/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1139,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 1139,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483167590302331000,
+					"id_str": "1483167590302330883",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FJVFELJXsAMsixj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJVFELJXsAMsixj.jpg",
+					"url": "https://t.co/Uxsii18Lpm",
+					"display_url": "pic.twitter.com/Uxsii18Lpm",
+					"expanded_url": "https://twitter.com/mfshill/status/1483167641502167046/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1139,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 1139,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 253,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "great selection of adult Search And Find Puzzles https://t.co/Uxsii18Lpm"
+	},
+	{
+		"created_at": "Mon Jan 17 15:54:27 +0000 2022",
+		"id": 1483099358551847000,
+		"id_str": "1483105444558258179",
+		"full_text": "Quite hard to fathom that this is happening... https://t.co/WXWKeyi1aB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WXWKeyi1aB",
+					"expanded_url": "https://twitter.com/BBC6Music/status/1483051764505006082",
+					"display_url": "twitter.com/BBC6Music/stat…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 92771309,
+			"id_str": "92771309",
+			"name": "Ros Atkins",
+			"screen_name": "BBCRosAtkins",
+			"location": "London",
+			"description": "Outside Source & explainers on BBC News, founder of the 50:50 Project, Texting Keith Olbermann podcast, the Media Show on Radio 4, squash enthusiast",
+			"url": "https://t.co/dEczbSudah",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dEczbSudah",
+							"expanded_url": "https://www.bbc.co.uk/programmes/p071wbr5/episodes/downloads",
+							"display_url": "bbc.co.uk/programmes/p07…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271607,
+			"friends_count": 4714,
+			"listed_count": 1325,
+			"created_at": "Thu Nov 26 15:08:39 +0000 2009",
+			"favourites_count": 3220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1406971271439699977/8BUULlok_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1406971271439699977/8BUULlok_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/92771309/1627936986",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "5A5A5A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1483051764505006000,
+		"quoted_status_id_str": "1483051764505006082",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WXWKeyi1aB",
+			"expanded": "https://twitter.com/BBC6Music/status/1483051764505006082",
+			"display": "twitter.com/BBC6Music/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 17 12:21:09 +0000 2022",
+			"id": 1483051764505006000,
+			"id_str": "1483051764505006082",
+			"full_text": "Swapping the headlines for heady drum &amp; bass bangers, @BBCRosAtkins will be throwing down a Desert Island Disco mix for us this Monday at 6.30pm 🧨\n\nHere’s what Ros had to say about his set 💬\n\n#DesertIslandDisco \n(1/4) https://t.co/1B6mJx9J7P",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				221
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DesertIslandDisco",
+						"indices": [
+							196,
+							214
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BBCRosAtkins",
+						"name": "Ros Atkins",
+						"id": 92771309,
+						"id_str": "92771309",
+						"indices": [
+							58,
+							71
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1483051593012494300,
+						"id_str": "1483051593012494340",
+						"indices": [
+							222,
+							245
+						],
+						"media_url": "http://pbs.twimg.com/media/FJTbkPkWQAQYmq7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJTbkPkWQAQYmq7.jpg",
+						"url": "https://t.co/1B6mJx9J7P",
+						"display_url": "pic.twitter.com/1B6mJx9J7P",
+						"expanded_url": "https://twitter.com/BBC6Music/status/1483051764505006082/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1483051593012494300,
+						"id_str": "1483051593012494340",
+						"indices": [
+							222,
+							245
+						],
+						"media_url": "http://pbs.twimg.com/media/FJTbkPkWQAQYmq7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJTbkPkWQAQYmq7.jpg",
+						"url": "https://t.co/1B6mJx9J7P",
+						"display_url": "pic.twitter.com/1B6mJx9J7P",
+						"expanded_url": "https://twitter.com/BBC6Music/status/1483051764505006082/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89168924,
+				"id_str": "89168924",
+				"name": "BBC Radio 6 Music",
+				"screen_name": "BBC6Music",
+				"location": "United Kingdom",
+				"description": "📻 The best music beyond the mainstream, listen on @bbcsounds. \n📲  WhatsApp us on 03700 100 600",
+				"url": "https://t.co/Mwtvx1AgDT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Mwtvx1AgDT",
+								"expanded_url": "http://www.bbc.co.uk/6music",
+								"display_url": "bbc.co.uk/6music",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 801626,
+				"friends_count": 2607,
+				"listed_count": 4607,
+				"created_at": "Wed Nov 11 12:02:06 +0000 2009",
+				"favourites_count": 78229,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 144149,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "010206",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1300685032936308737/BxpAcWxo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300685032936308737/BxpAcWxo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/89168924/1616083941",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7CB0B5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 210,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 21,
+		"favorite_count": 838,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Quite hard to fathom that this is happening... https://t.co/WXWKeyi1aB"
+	},
+	{
+		"created_at": "Mon Jan 17 15:44:15 +0000 2022",
+		"id": 1483100949673648000,
+		"id_str": "1483102878000685064",
+		"full_text": "Areas of dense fog are expected tonight, with visibility less than 100 metres in places.\n\nThe fog will be slow to clear tomorrow morning, making for a tricky morning commute. https://t.co/PL8Kl4j65q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483100946402095000,
+					"id_str": "1483100946402095112",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FJUIc_RXsAgo-Ok.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJUIc_RXsAgo-Ok.jpg",
+					"url": "https://t.co/PL8Kl4j65q",
+					"display_url": "pic.twitter.com/PL8Kl4j65q",
+					"expanded_url": "https://twitter.com/liamdutton/status/1483100949673648138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 659,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1134,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483100946402095000,
+					"id_str": "1483100946402095112",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FJUIc_RXsAgo-Ok.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJUIc_RXsAgo-Ok.jpg",
+					"url": "https://t.co/PL8Kl4j65q",
+					"display_url": "pic.twitter.com/PL8Kl4j65q",
+					"expanded_url": "https://twitter.com/liamdutton/status/1483100949673648138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 659,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1134,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20481072,
+			"id_str": "20481072",
+			"name": "Liam Dutton",
+			"screen_name": "liamdutton",
+			"location": "London",
+			"description": "Weather Presenter for @Channel4News, formerly @bbcweather. @metoffice qualified meteorologist. Pianist. Tech lover. Welshman. Writing a children's weather book.",
+			"url": "https://t.co/AOGeVgGanY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOGeVgGanY",
+							"expanded_url": "http://www.liamdutton.com",
+							"display_url": "liamdutton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39403,
+			"friends_count": 529,
+			"listed_count": 552,
+			"created_at": "Tue Feb 10 00:33:07 +0000 2009",
+			"favourites_count": 3297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 56526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D1D1D1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1258899542323408898/Fk0fWVBK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258899542323408898/Fk0fWVBK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20481072/1443639844",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Areas of dense fog are expected tonight, with visibility less than 100 metres in places.\n\nThe fog will be slow to clear tomorrow morning, making for a tricky morning commute. https://t.co/PL8Kl4j65q"
+	},
+	{
+		"created_at": "Mon Jan 17 12:00:47 +0000 2022",
+		"id": 1483046639954714600,
+		"id_str": "1483046639954714627",
+		"full_text": "@M0by_Duck pro mode, conversely, makes it easier to play for me.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "M0by_Duck",
+					"name": "Tomas",
+					"id": 22948138,
+					"id_str": "22948138",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1483045528015409200,
+		"in_reply_to_status_id_str": "1483045528015409152",
+		"in_reply_to_user_id": 22948138,
+		"in_reply_to_user_id_str": "22948138",
+		"in_reply_to_screen_name": "M0by_Duck",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 253,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@M0by_Duck pro mode, conversely, makes it easier to play for me."
+	},
+	{
+		"created_at": "Mon Jan 17 11:35:10 +0000 2022",
+		"id": 1483040193204609000,
+		"id_str": "1483040193204609025",
+		"full_text": "@M0by_Duck if you play in pro mode, it forces you to use the greens in the same place. saves wasting guesses",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "M0by_Duck",
+					"name": "Tomas",
+					"id": 22948138,
+					"id_str": "22948138",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1482975494534480000,
+		"in_reply_to_status_id_str": "1482975494534479875",
+		"in_reply_to_user_id": 22948138,
+		"in_reply_to_user_id_str": "22948138",
+		"in_reply_to_screen_name": "M0by_Duck",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 253,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440299342699503619/B9nuyjcC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@M0by_Duck if you play in pro mode, it forces you to use the greens in the same place. saves wasting guesses"
+	},
+	{
+		"created_at": "Mon Jan 17 11:03:18 +0000 2022",
+		"id": 1483017955902435300,
+		"id_str": "1483032176564314115",
+		"full_text": "Word of the day is ‘sparple’ (14th century): to deflect unwanted attention from one thing by making a big deal of another.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2870653293,
+			"id_str": "2870653293",
+			"name": "Susie Dent 💙",
+			"screen_name": "susie_dent",
+			"location": "",
+			"description": "That woman in Dictionary Corner",
+			"url": "https://t.co/QF9IzT7giy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QF9IzT7giy",
+							"expanded_url": "http://www.unitedagents.co.uk",
+							"display_url": "unitedagents.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 947606,
+			"friends_count": 640,
+			"listed_count": 1695,
+			"created_at": "Mon Nov 10 15:04:40 +0000 2014",
+			"favourites_count": 8972,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312728780075601921/7C5kfote_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312728780075601921/7C5kfote_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2870653293/1594719732",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21772,
+		"favorite_count": 102562,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Word of the day is ‘sparple’ (14th century): to deflect unwanted attention from one thing by making a big deal of another."
+	},
+	{
 		"created_at": "Sun Jan 16 00:38:05 +0000 2022",
 		"id": 1482512446753587200,
 		"id_str": "1482512446753587208",
