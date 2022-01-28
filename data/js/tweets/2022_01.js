@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 27 23:01:01 +0000 2022",
+		"id": 1486618019602313200,
+		"id_str": "1486836673983959044",
+		"full_text": "Big shout out to Hamburg's Panoptikum wax museum for an image that will now haunt my every waking hour https://t.co/c1FF3FzNwn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486618016448188400,
+					"id_str": "1486618016448188418",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FKGHNaMXEAI23Aq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKGHNaMXEAI23Aq.jpg",
+					"url": "https://t.co/c1FF3FzNwn",
+					"display_url": "pic.twitter.com/c1FF3FzNwn",
+					"expanded_url": "https://twitter.com/MrPaulRobinson/status/1486618019602313216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 633,
+							"h": 401,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 633,
+							"h": 401,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 633,
+							"h": 401,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486618016448188400,
+					"id_str": "1486618016448188418",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FKGHNaMXEAI23Aq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKGHNaMXEAI23Aq.jpg",
+					"url": "https://t.co/c1FF3FzNwn",
+					"display_url": "pic.twitter.com/c1FF3FzNwn",
+					"expanded_url": "https://twitter.com/MrPaulRobinson/status/1486618019602313216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 633,
+							"h": 401,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 633,
+							"h": 401,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 633,
+							"h": 401,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19587544,
+			"id_str": "19587544",
+			"name": "MrPaulRobinson",
+			"screen_name": "MrPaulRobinson",
+			"location": "",
+			"description": "Football, music, telly, lovely. Views are all my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11942,
+			"friends_count": 567,
+			"listed_count": 79,
+			"created_at": "Tue Jan 27 11:35:28 +0000 2009",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 133285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/850193380/imagesCA62QT52_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/850193380/imagesCA62QT52_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19587544/1449849357",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1153,
+		"favorite_count": 5266,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Big shout out to Hamburg's Panoptikum wax museum for an image that will now haunt my every waking hour https://t.co/c1FF3FzNwn"
+	},
+	{
+		"created_at": "Thu Jan 27 21:44:25 +0000 2022",
+		"id": 1486817397533294600,
+		"id_str": "1486817397533294600",
+		"full_text": "go for it #wordle https://t.co/gc6wTNifp3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wordle",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gc6wTNifp3",
+					"expanded_url": "https://mywordle.me/?word=lzlpm",
+					"display_url": "mywordle.me/?word=lzlpm",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 252,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "go for it #wordle https://t.co/gc6wTNifp3"
+	},
+	{
 		"created_at": "Wed Jan 26 22:38:38 +0000 2022",
 		"id": 1486468650953543700,
 		"id_str": "1486468650953543686",
