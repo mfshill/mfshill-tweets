@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 05 13:53:16 +0000 2022",
+		"id": 1489960317060894700,
+		"id_str": "1489960317060894721",
+		"full_text": "@TC_Cornesto i see nothing wrong with this picture https://t.co/ucP3BysJoa",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC Cornesto",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1489960310156976000,
+					"id_str": "1489960310156976140",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FK1nAghWYAw89jJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FK1nAghWYAw89jJ.jpg",
+					"url": "https://t.co/ucP3BysJoa",
+					"display_url": "pic.twitter.com/ucP3BysJoa",
+					"expanded_url": "https://twitter.com/mfshill/status/1489960317060894721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489960310156976000,
+					"id_str": "1489960310156976140",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FK1nAghWYAw89jJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FK1nAghWYAw89jJ.jpg",
+					"url": "https://t.co/ucP3BysJoa",
+					"display_url": "pic.twitter.com/ucP3BysJoa",
+					"expanded_url": "https://twitter.com/mfshill/status/1489960317060894721/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 498,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FK1nAghWYAw89jJ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1489955152312340500,
+		"in_reply_to_status_id_str": "1489955152312340481",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 252,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@TC_Cornesto i see nothing wrong with this picture https://t.co/ucP3BysJoa"
+	},
+	{
 		"created_at": "Sat Feb 05 00:18:31 +0000 2022",
 		"id": 1489755279403237400,
 		"id_str": "1489755279403237377",
