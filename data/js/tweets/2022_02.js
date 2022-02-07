@@ -1,6 +1,1192 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 06 21:11:25 +0000 2022",
+		"id": 1490432969781166000,
+		"id_str": "1490432969781166084",
+		"full_text": "@AllyAl3978 this gif will never get old",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AllyAl3978",
+					"name": "AllyAl3978",
+					"id": 153453124,
+					"id_str": "153453124",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1490429565155659800,
+		"in_reply_to_status_id_str": "1490429565155659778",
+		"in_reply_to_user_id": 153453124,
+		"in_reply_to_user_id_str": "153453124",
+		"in_reply_to_screen_name": "AllyAl3978",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 252,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AllyAl3978 this gif will never get old"
+	},
+	{
+		"created_at": "Sun Feb 06 20:48:49 +0000 2022",
+		"id": 1490427283357769700,
+		"id_str": "1490427283357769730",
+		"full_text": "@videojon It was a Gatling gun of one-liners, fired out at such a rate that it didn't matter if they hit or not. The only one that stood out was the one getting all the attention.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "videojon",
+					"name": "Jon Spira",
+					"id": 19829127,
+					"id_str": "19829127",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1490423034913726500,
+		"in_reply_to_status_id_str": "1490423034913726475",
+		"in_reply_to_user_id": 19829127,
+		"in_reply_to_user_id_str": "19829127",
+		"in_reply_to_screen_name": "videojon",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 252,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@videojon It was a Gatling gun of one-liners, fired out at such a rate that it didn't matter if they hit or not. The only one that stood out was the one getting all the attention."
+	},
+	{
+		"created_at": "Sun Feb 06 20:22:05 +0000 2022",
+		"id": 1490420556273000400,
+		"id_str": "1490420556273000448",
+		"full_text": "@videojon that makes sense, first stand-up show I've seen of his and his whole thing is one-liners with occasional offence.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "videojon",
+					"name": "Jon Spira",
+					"id": 19829127,
+					"id_str": "19829127",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1490412607676862500,
+		"in_reply_to_status_id_str": "1490412607676862470",
+		"in_reply_to_user_id": 19829127,
+		"in_reply_to_user_id_str": "19829127",
+		"in_reply_to_screen_name": "videojon",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 252,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@videojon that makes sense, first stand-up show I've seen of his and his whole thing is one-liners with occasional offence."
+	},
+	{
+		"created_at": "Sun Feb 06 19:37:56 +0000 2022",
+		"id": 1490409445616238600,
+		"id_str": "1490409445616238597",
+		"full_text": "@videojon ..isn't at risk of getting cancelled any time soon. It was an odd joke that was totally unnecessary in his set. Being controversial for the sake of it. The one plus is that i did learn about the fate of the Romany et al during that time which is a good thing. maybe?",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "videojon",
+					"name": "Jon Spira",
+					"id": 19829127,
+					"id_str": "19829127",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1490408838306181000,
+		"in_reply_to_status_id_str": "1490408838306181121",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 252,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@videojon ..isn't at risk of getting cancelled any time soon. It was an odd joke that was totally unnecessary in his set. Being controversial for the sake of it. The one plus is that i did learn about the fate of the Romany et al during that time which is a good thing. maybe?"
+	},
+	{
+		"created_at": "Sun Feb 06 19:35:32 +0000 2022",
+		"id": 1490408838306181000,
+		"id_str": "1490408838306181121",
+		"full_text": "@videojon What i don't get, and i say this with genuine interest, is why its taken close to 6 weeks for this to get a reaction. I watched this the day after it was released on Netflix and knew it was created &amp; put in the set to create a widespread reaction/drive views to the show. Jimmy..",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			293
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "videojon",
+					"name": "Jon Spira",
+					"id": 19829127,
+					"id_str": "19829127",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1490407809682493400,
+		"in_reply_to_status_id_str": "1490407809682493440",
+		"in_reply_to_user_id": 19829127,
+		"in_reply_to_user_id_str": "19829127",
+		"in_reply_to_screen_name": "videojon",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 252,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@videojon What i don't get, and i say this with genuine interest, is why its taken close to 6 weeks for this to get a reaction. I watched this the day after it was released on Netflix and knew it was created &amp; put in the set to create a widespread reaction/drive views to the show. Jimmy.."
+	},
+	{
+		"created_at": "Sun Feb 06 19:27:26 +0000 2022",
+		"id": 1490406801220817000,
+		"id_str": "1490406801220816903",
+		"full_text": "waiting for any football pundit brave enough to use 3rd and below in a studio segment @IanWright0 https://t.co/HYGmTukvQO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IanWright0",
+					"name": "Ian Wright",
+					"id": 410811457,
+					"id_str": "410811457",
+					"indices": [
+						86,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HYGmTukvQO",
+					"expanded_url": "https://twitter.com/HaggardHawks/status/1490375702910279684",
+					"display_url": "twitter.com/HaggardHawks/s…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 252,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1490375702910279700,
+		"quoted_status_id_str": "1490375702910279684",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HYGmTukvQO",
+			"expanded": "https://twitter.com/HaggardHawks/status/1490375702910279684",
+			"display": "twitter.com/HaggardHawks/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 06 17:23:52 +0000 2022",
+			"id": 1490375702910279700,
+			"id_str": "1490375702910279684",
+			"full_text": "The ULTIMATE is the last. \nThe PENULTIMATE is the second from last. \nThe ANTEPENULTIMATE is the third from last. \nThe PREANTEPENULTIMATE is the fourth from last.\nThe PROPREANTEPENULTIMATE is fifth from last.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				207
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2239350253,
+				"id_str": "2239350253",
+				"name": "Haggard Hawks 🦅",
+				"screen_name": "HaggardHawks",
+				"location": "HH HQ, Newcastle UK",
+				"description": "Obscure words, etymological tales and language facts | Like HH? There are books! https://t.co/5k8NBZ7MY6 | Tweets @PaulAnthJones | Artwork @bread_and_ink",
+				"url": "https://t.co/gM878C92K6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gM878C92K6",
+								"expanded_url": "http://haggardhawks.com",
+								"display_url": "haggardhawks.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5k8NBZ7MY6",
+								"expanded_url": "http://haggardhawks.com/books",
+								"display_url": "haggardhawks.com/books",
+								"indices": [
+									81,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 89305,
+				"friends_count": 3206,
+				"listed_count": 1101,
+				"created_at": "Tue Dec 10 15:28:11 +0000 2013",
+				"favourites_count": 26892,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 47528,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1477695710850080769/vJkl-Gqz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477695710850080769/vJkl-Gqz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2239350253/1618213806",
+				"profile_link_color": "0B3861",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 142,
+			"favorite_count": 575,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "waiting for any football pundit brave enough to use 3rd and below in a studio segment @IanWright0 https://t.co/HYGmTukvQO"
+	},
+	{
+		"created_at": "Sun Feb 06 19:21:24 +0000 2022",
+		"id": 1490405282475921400,
+		"id_str": "1490405282475921413",
+		"full_text": "@AntRDean quiet valentines last year then?",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AntRDean",
+					"name": "Ant, Lord Dean",
+					"id": 228825520,
+					"id_str": "228825520",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1360853071463673900,
+		"in_reply_to_status_id_str": "1360853071463673857",
+		"in_reply_to_user_id": 228825520,
+		"in_reply_to_user_id_str": "228825520",
+		"in_reply_to_screen_name": "AntRDean",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 252,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AntRDean quiet valentines last year then?"
+	},
+	{
+		"created_at": "Sun Feb 06 19:16:12 +0000 2022",
+		"id": 1490394034900197400,
+		"id_str": "1490403972678619136",
+		"full_text": "A quick thread on in the importance of being careful what data you share - even if you're the Queen. Today, Her Maj tweeted this lovely picture, gor bless er, etc. You might think that the contents of the red box would be official business. And you'd be right. 1/6 https://t.co/y1RspNRUzy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490390677762498600,
+					"id_str": "1490390677762498563",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/FK7ubMyWYAMvpK9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK7ubMyWYAMvpK9.jpg",
+					"url": "https://t.co/y1RspNRUzy",
+					"display_url": "pic.twitter.com/y1RspNRUzy",
+					"expanded_url": "https://twitter.com/amateuradam/status/1490394034900197388/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 617,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1062,
+							"h": 1170,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1062,
+							"h": 1170,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490390677762498600,
+					"id_str": "1490390677762498563",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/FK7ubMyWYAMvpK9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK7ubMyWYAMvpK9.jpg",
+					"url": "https://t.co/y1RspNRUzy",
+					"display_url": "pic.twitter.com/y1RspNRUzy",
+					"expanded_url": "https://twitter.com/amateuradam/status/1490394034900197388/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 617,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1062,
+							"h": 1170,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1062,
+							"h": 1170,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21765319,
+			"id_str": "21765319",
+			"name": "Adam Kay",
+			"screen_name": "amateuradam",
+			"location": "Bookshelf / pulping machine",
+			"description": "Now a minor BBC drama.",
+			"url": "https://t.co/DgfYqLcL0B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DgfYqLcL0B",
+							"expanded_url": "http://www.adamkay.co.uk",
+							"display_url": "adamkay.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168615,
+			"friends_count": 1964,
+			"listed_count": 573,
+			"created_at": "Tue Feb 24 15:56:59 +0000 2009",
+			"favourites_count": 50230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2275006051/7ocjnoyiccmwiw3l4yn3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2275006051/7ocjnoyiccmwiw3l4yn3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21765319/1643718255",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20074,
+		"favorite_count": 55639,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A quick thread on in the importance of being careful what data you share - even if you're the Queen. Today, Her Maj tweeted this lovely picture, gor bless er, etc. You might think that the contents of the red box would be official business. And you'd be right. 1/6 https://t.co/y1RspNRUzy"
+	},
+	{
+		"created_at": "Sun Feb 06 14:59:48 +0000 2022",
+		"id": 1490033743528177700,
+		"id_str": "1490339449758232584",
+		"full_text": "Now it all makes sense. All these celebrities hawking NFTs are either represented by, or connected to Creative Artists Agency (CAA) - which just so happens to be an investor in OpenSea - which sells NFTs. Fancy that! https://t.co/0hzW05qQhE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0hzW05qQhE",
+					"expanded_url": "https://twitter.com/textfiles/status/1490025950599331841",
+					"display_url": "twitter.com/textfiles/stat…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19550262,
+			"id_str": "19550262",
+			"name": "Tits McGee",
+			"screen_name": "Scientits",
+			"location": "London",
+			"description": "Your tweets may be monitored for quality and training purposes.",
+			"url": "https://t.co/UMjRKPA0eC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UMjRKPA0eC",
+							"expanded_url": "https://darklightsocial.com/",
+							"display_url": "darklightsocial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34012,
+			"friends_count": 818,
+			"listed_count": 242,
+			"created_at": "Mon Jan 26 19:01:13 +0000 2009",
+			"favourites_count": 91909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 245226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429398472009125903/39xjEbWO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429398472009125903/39xjEbWO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19550262/1629834935",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1490025950599331800,
+		"quoted_status_id_str": "1490025950599331841",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0hzW05qQhE",
+			"expanded": "https://twitter.com/textfiles/status/1490025950599331841",
+			"display": "twitter.com/textfiles/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 05 18:14:04 +0000 2022",
+			"id": 1490025950599331800,
+			"id_str": "1490025950599331841",
+			"full_text": "I mentioned the whole way that the Jimmy Fallon/Paris Hilton strangely-stilted conversation regarding NFTs was likely part of a larger promotion plan and part of being a celebrity is being told to say weird stuff due to contracts.\n\nSomeone did the digging\n\nhttps://t.co/TeZnOxy11M",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TeZnOxy11M",
+						"expanded_url": "https://maxread.substack.com/p/mapping-the-celebrity-nft-complex",
+						"display_url": "maxread.substack.com/p/mapping-the-…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1465481,
+				"id_str": "1465481",
+				"name": "Jason Scott",
+				"screen_name": "textfiles",
+				"location": "The 1980s",
+				"description": "Proprietor of https://t.co/sdyjXHCZF7, historian, filmmaker, archivist, storyteller. Works on/for the Internet Archive. Rank Amateur.",
+				"url": "https://t.co/3H0xQZataA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3H0xQZataA",
+								"expanded_url": "https://linktr.ee/textfiles",
+								"display_url": "linktr.ee/textfiles",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sdyjXHCZF7",
+								"expanded_url": "http://TEXTFILES.COM",
+								"display_url": "TEXTFILES.COM",
+								"indices": [
+									14,
+									37
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 45525,
+				"friends_count": 751,
+				"listed_count": 1228,
+				"created_at": "Mon Mar 19 02:55:22 +0000 2007",
+				"favourites_count": 2181,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 117144,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1447055691198472192/M6ubNVyL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1447055691198472192/M6ubNVyL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465481/1398239070",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3364,
+			"favorite_count": 10707,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10485,
+		"favorite_count": 25220,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Now it all makes sense. All these celebrities hawking NFTs are either represented by, or connected to Creative Artists Agency (CAA) - which just so happens to be an investor in OpenSea - which sells NFTs. Fancy that! https://t.co/0hzW05qQhE"
+	},
+	{
 		"created_at": "Sat Feb 05 13:53:16 +0000 2022",
 		"id": 1489960317060894700,
 		"id_str": "1489960317060894721",
