@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 12 21:04:38 +0000 2022",
+		"id": 1492605588475367400,
+		"id_str": "1492605588475367430",
+		"full_text": "COVID causes “substantial” longterm cardiovascular risks, huge study finds (note: data is mainly pre vaccine and based on older white males) https://t.co/z8kzzhwnJ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z8kzzhwnJ6",
+					"expanded_url": "https://arstechnica.com/?post_type=post&p=1833541",
+					"display_url": "arstechnica.com/?post_type=pos…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 252,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "COVID causes “substantial” longterm cardiovascular risks, huge study finds (note: data is mainly pre vaccine and based on older white males) https://t.co/z8kzzhwnJ6"
+	},
+	{
+		"created_at": "Sat Feb 12 13:02:53 +0000 2022",
+		"id": 1492483635093586000,
+		"id_str": "1492484351686320130",
+		"full_text": "Daniel Ochoa de Olza captures the dual sides of Spain’s complex culture and history, using his photography to reveal the country’s hidden rituals. https://t.co/KS2PSnp4B9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484603530954559500,
+					"id_str": "1484603530954559491",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FJpfqcjWYAARVol.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJpfqcjWYAARVol.jpg",
+					"url": "https://t.co/KS2PSnp4B9",
+					"display_url": "pic.twitter.com/KS2PSnp4B9",
+					"expanded_url": "https://twitter.com/VICENews/status/1492483635093585920/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484603530954559500,
+					"id_str": "1484603530954559491",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FJpfqcjWYAARVol.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJpfqcjWYAARVol.jpg",
+					"url": "https://t.co/KS2PSnp4B9",
+					"display_url": "pic.twitter.com/KS2PSnp4B9",
+					"expanded_url": "https://twitter.com/VICENews/status/1492483635093585920/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 441440,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1484603530954559491/vid/480x270/qhVSoLNNcmEG_-ah.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1484603530954559491/vid/640x360/8po5uUbQIWs16mMk.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1484603530954559491/pl/B2tCEaJs8gN3xNAM.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1484603530954559491/vid/1280x720/8T6_vgfo-53RyzfI.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "“They Were Hiding Their Sins”",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1630896181,
+			"id_str": "1630896181",
+			"name": "VICE News",
+			"screen_name": "VICENews",
+			"location": "Worldwide",
+			"description": "#VICENewsTonight airs Wednesday & Thursday at 11PM on @VICETV / #VICEonSHO on @Showtime / Sign up for the VICE News Daily Brief https://t.co/hNnaokZq9w",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hNnaokZq9w",
+							"expanded_url": "http://bit.ly/2ZfEdMX",
+							"display_url": "bit.ly/2ZfEdMX",
+							"indices": [
+								128,
+								151
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1017286,
+			"friends_count": 966,
+			"listed_count": 11221,
+			"created_at": "Mon Jul 29 17:40:09 +0000 2013",
+			"favourites_count": 4775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 132705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1233501220351938561/EDFKNAdi_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233501220351938561/EDFKNAdi_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1630896181/1593214220",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Daniel Ochoa de Olza captures the dual sides of Spain’s complex culture and history, using his photography to reveal the country’s hidden rituals. https://t.co/KS2PSnp4B9"
+	},
+	{
 		"created_at": "Fri Feb 11 12:27:27 +0000 2022",
 		"id": 1492109044689117200,
 		"id_str": "1492113048949121025",
