@@ -1,6 +1,1903 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 24 00:53:19 +0000 2022",
+		"id": 1496649406766100500,
+		"id_str": "1496649406766100482",
+		"full_text": "so close again 😠\nDaily #11\n0️⃣6️⃣⬛0️⃣5️⃣\n0️⃣8️⃣⬛1️⃣0️⃣\n1️⃣5️⃣⬛0️⃣4️⃣\n1️⃣2️⃣⬛0️⃣9️⃣\n🟥🟥⬛1️⃣6️⃣\n1️⃣7️⃣⬛1️⃣8️⃣\n2️⃣1️⃣⬛2️⃣0️⃣\n1️⃣3️⃣⬛1️⃣9️⃣\nhttps://t.co/pR5Un5u50M\n#sedecordle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sedecordle",
+					"indices": [
+						159,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pR5Un5u50M",
+					"expanded_url": "http://sedecordle.com",
+					"display_url": "sedecordle.com",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "so close again 😠\nDaily #11\n0️⃣6️⃣⬛0️⃣5️⃣\n0️⃣8️⃣⬛1️⃣0️⃣\n1️⃣5️⃣⬛0️⃣4️⃣\n1️⃣2️⃣⬛0️⃣9️⃣\n🟥🟥⬛1️⃣6️⃣\n1️⃣7️⃣⬛1️⃣8️⃣\n2️⃣1️⃣⬛2️⃣0️⃣\n1️⃣3️⃣⬛1️⃣9️⃣\nhttps://t.co/pR5Un5u50M\n#sedecordle"
+	},
+	{
+		"created_at": "Thu Feb 24 00:10:38 +0000 2022",
+		"id": 1496638664390099000,
+		"id_str": "1496638664390098946",
+		"full_text": "Daily Quordle #31\n7️⃣8️⃣\n5️⃣4️⃣\nhttps://t.co/yAtnqNZVKC https://t.co/1YiPk6ZFU1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yAtnqNZVKC",
+					"expanded_url": "http://quordle.com",
+					"display_url": "quordle.com",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1496638654567100400,
+					"id_str": "1496638654567100421",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FMUg7UKXMAUYxlj.png",
+					"media_url_https": "https://pbs.twimg.com/media/FMUg7UKXMAUYxlj.png",
+					"url": "https://t.co/1YiPk6ZFU1",
+					"display_url": "pic.twitter.com/1YiPk6ZFU1",
+					"expanded_url": "https://twitter.com/mfshill/status/1496638664390098946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 744,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 744,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496638654567100400,
+					"id_str": "1496638654567100421",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FMUg7UKXMAUYxlj.png",
+					"media_url_https": "https://pbs.twimg.com/media/FMUg7UKXMAUYxlj.png",
+					"url": "https://t.co/1YiPk6ZFU1",
+					"display_url": "pic.twitter.com/1YiPk6ZFU1",
+					"expanded_url": "https://twitter.com/mfshill/status/1496638664390098946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 744,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 744,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Daily Quordle #31\n7️⃣8️⃣\n5️⃣4️⃣\nhttps://t.co/yAtnqNZVKC https://t.co/1YiPk6ZFU1"
+	},
+	{
+		"created_at": "Thu Feb 24 00:05:41 +0000 2022",
+		"id": 1496637418438463500,
+		"id_str": "1496637418438463489",
+		"full_text": "Wordle 250 4/6*\n\n⬜🟩⬜⬜⬜\n⬜🟩⬜🟨⬜\n⬜🟩🟩🟨🟩\n🟩🟩🟩🟩🟩",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Wordle 250 4/6*\n\n⬜🟩⬜⬜⬜\n⬜🟩⬜🟨⬜\n⬜🟩🟩🟨🟩\n🟩🟩🟩🟩🟩"
+	},
+	{
+		"created_at": "Wed Feb 23 23:32:56 +0000 2022",
+		"id": 1496596418290671600,
+		"id_str": "1496629177734283267",
+		"full_text": "@oilysailor Beating city to blow the title race wide open to then lose to Burnley, has to be the most Spursy thing ever.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oilysailor",
+					"name": "Duncan Alexander",
+					"id": 17896113,
+					"id_str": "17896113",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1496596164195623000,
+		"in_reply_to_status_id_str": "1496596164195622917",
+		"in_reply_to_user_id": 17896113,
+		"in_reply_to_user_id_str": "17896113",
+		"in_reply_to_screen_name": "oilysailor",
+		"user": {
+			"id": 1324143787212480500,
+			"id_str": "1324143787212480513",
+			"name": "Your Da",
+			"screen_name": "PabloPicante6",
+			"location": "",
+			"description": "⚒WHFC⚒ 🇮🇪X🇲🇽",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23,
+			"friends_count": 67,
+			"listed_count": 0,
+			"created_at": "Thu Nov 05 00:17:46 +0000 2020",
+			"favourites_count": 1471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389583984229748742/Fmhtok0y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389583984229748742/Fmhtok0y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1324143787212480513/1635189628",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 141,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@oilysailor Beating city to blow the title race wide open to then lose to Burnley, has to be the most Spursy thing ever."
+	},
+	{
+		"created_at": "Wed Feb 23 23:32:24 +0000 2022",
+		"id": 1496596164195623000,
+		"id_str": "1496629042329661441",
+		"full_text": "Spurs have now lost as many PL games as Burnley this season, and let in three more goals",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17896113,
+			"id_str": "17896113",
+			"name": "Duncan Alexander",
+			"screen_name": "oilysailor",
+			"location": "August 15 1992, 3pm",
+			"description": "luxury sports content | author writer broadcaster | sitting-there-playing-with-silly-machines @OptaAnalyst",
+			"url": "https://t.co/V1adpkQt2n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V1adpkQt2n",
+							"expanded_url": "https://theanalyst.com",
+							"display_url": "theanalyst.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100709,
+			"friends_count": 995,
+			"listed_count": 1237,
+			"created_at": "Fri Dec 05 12:29:22 +0000 2008",
+			"favourites_count": 7947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 44062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1385643441695166466/harWnhs5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1385643441695166466/harWnhs5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17896113/1633284531",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "AD0505",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1122,
+		"favorite_count": 8185,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Spurs have now lost as many PL games as Burnley this season, and let in three more goals"
+	},
+	{
+		"created_at": "Wed Feb 23 21:54:03 +0000 2022",
+		"id": 1496604291402023000,
+		"id_str": "1496604291402022924",
+		"full_text": "@eops i'll take the sp*rs loss. you lot got lucky with the young sub",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1496600309774364700,
+		"in_reply_to_status_id_str": "1496600309774364676",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eops i'll take the sp*rs loss. you lot got lucky with the young sub"
+	},
+	{
+		"created_at": "Wed Feb 23 21:30:58 +0000 2022",
+		"id": 1496598484505538600,
+		"id_str": "1496598484505538568",
+		"full_text": "@eops one down....",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1496591645449629700,
+		"in_reply_to_status_id_str": "1496591645449629699",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eops one down...."
+	},
+	{
+		"created_at": "Wed Feb 23 21:23:43 +0000 2022",
+		"id": 1496596658922168300,
+		"id_str": "1496596658922168335",
+		"full_text": "1-0 #BURTOT https://t.co/d4G7AueVFn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BURTOT",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496596651653410800,
+					"id_str": "1496596651653410819",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FMT6ubHXMAMfkey.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FMT6ubHXMAMfkey.jpg",
+					"url": "https://t.co/d4G7AueVFn",
+					"display_url": "pic.twitter.com/d4G7AueVFn",
+					"expanded_url": "https://twitter.com/mfshill/status/1496596658922168335/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496596651653410800,
+					"id_str": "1496596651653410819",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FMT6ubHXMAMfkey.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FMT6ubHXMAMfkey.jpg",
+					"url": "https://t.co/d4G7AueVFn",
+					"display_url": "pic.twitter.com/d4G7AueVFn",
+					"expanded_url": "https://twitter.com/mfshill/status/1496596658922168335/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							136
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FMT6ubHXMAMfkey.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1496591034704404500,
+		"in_reply_to_status_id_str": "1496591034704404494",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "1-0 #BURTOT https://t.co/d4G7AueVFn"
+	},
+	{
+		"created_at": "Wed Feb 23 21:03:48 +0000 2022",
+		"id": 1496591645449629700,
+		"id_str": "1496591645449629699",
+		"full_text": "@eops *are",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1496591329467449300,
+		"in_reply_to_status_id_str": "1496591329467449353",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@eops *are"
+	},
+	{
+		"created_at": "Wed Feb 23 21:02:32 +0000 2022",
+		"id": 1496591329467449300,
+		"id_str": "1496591329467449353",
+		"full_text": "@eops long way to go yet. your poor performance and sp*rs going behind and making a great evening of footy.",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1496587621635702800,
+		"in_reply_to_status_id_str": "1496587621635702785",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eops long way to go yet. your poor performance and sp*rs going behind and making a great evening of footy."
+	},
+	{
+		"created_at": "Wed Feb 23 21:01:22 +0000 2022",
+		"id": 1496591034704404500,
+		"id_str": "1496591034704404494",
+		"full_text": "\\0/ 1-0 #BURTOT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BURTOT",
+					"indices": [
+						8,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "\\0/ 1-0 #BURTOT"
+	},
+	{
+		"created_at": "Wed Feb 23 20:43:29 +0000 2022",
+		"id": 1496586534992109600,
+		"id_str": "1496586534992109573",
+		"full_text": "@eops 👍🏾",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1496582721220616200,
+		"in_reply_to_status_id_str": "1496582721220616203",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@eops 👍🏾"
+	},
+	{
+		"created_at": "Wed Feb 23 20:03:10 +0000 2022",
+		"id": 1496576389608259600,
+		"id_str": "1496576389608259584",
+		"full_text": "what a bunch of utter fucking morons https://t.co/WkKiQAUSmK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WkKiQAUSmK",
+					"expanded_url": "https://twitter.com/tim_hume/status/1496558586419425280",
+					"display_url": "twitter.com/tim_hume/statu…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1496558586419425300,
+		"quoted_status_id_str": "1496558586419425280",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WkKiQAUSmK",
+			"expanded": "https://twitter.com/tim_hume/status/1496558586419425280",
+			"display": "twitter.com/tim_hume/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 23 18:52:26 +0000 2022",
+			"id": 1496558586419425300,
+			"id_str": "1496558586419425280",
+			"full_text": "UK cops have debunked the anti-vaxxer fantasy that there's a criminal investigation into the COVID jab\n\nrather than accept they've been conned, anti-vaxxers are doubling down on the conspiracy theory, insisting the cops must be corrupt &amp; spouting threats\n\nhttps://t.co/chUFuIrZF5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				283
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/chUFuIrZF5",
+						"expanded_url": "https://www.vice.com/en/article/z3ngex/antivax-metropolitan-police-crime-number",
+						"display_url": "vice.com/en/article/z3n…",
+						"indices": [
+							260,
+							283
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 370308421,
+				"id_str": "370308421",
+				"name": "tim hume",
+				"screen_name": "tim_hume",
+				"location": "London",
+				"description": "senior reporter @viceworldnews | host of DECADE OF HATE | tim.hume@vice.com",
+				"url": "https://t.co/PYbFYK3bEj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PYbFYK3bEj",
+								"expanded_url": "http://timhume.co.uk/",
+								"display_url": "timhume.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3514,
+				"friends_count": 1754,
+				"listed_count": 110,
+				"created_at": "Thu Sep 08 20:12:23 +0000 2011",
+				"favourites_count": 1409,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1260,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1423784330766266369/RNxRxIgm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1423784330766266369/RNxRxIgm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/370308421/1631300671",
+				"profile_link_color": "FFCC4D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "what a bunch of utter fucking morons https://t.co/WkKiQAUSmK"
+	},
+	{
+		"created_at": "Wed Feb 23 20:01:37 +0000 2022",
+		"id": 1496575996727902200,
+		"id_str": "1496575996727902208",
+		"full_text": "@Arsenal where's the @IanWright0 ones?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Arsenal",
+					"name": "Arsenal",
+					"id": 34613288,
+					"id_str": "34613288",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "IanWright0",
+					"name": "Ian Wright",
+					"id": 410811457,
+					"id_str": "410811457",
+					"indices": [
+						21,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1496565222835957800,
+		"in_reply_to_status_id_str": "1496565222835957762",
+		"in_reply_to_user_id": 34613288,
+		"in_reply_to_user_id_str": "34613288",
+		"in_reply_to_screen_name": "Arsenal",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Arsenal where's the @IanWright0 ones?"
+	},
+	{
+		"created_at": "Wed Feb 23 19:59:20 +0000 2022",
+		"id": 1496575112417616000,
+		"id_str": "1496575423370743820",
+		"full_text": "Burnley are playing so well. Makes the inevitable defeat much harder to swallow.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2535460231,
+			"id_str": "2535460231",
+			"name": "Pain In The Arsenal",
+			"screen_name": "PainInThArsenal",
+			"location": "N5",
+			"description": "Arsenal News & Opinions | @FanSided.",
+			"url": "https://t.co/S9JoXOWrsa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S9JoXOWrsa",
+							"expanded_url": "https://paininthearsenal.com",
+							"display_url": "paininthearsenal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27184,
+			"friends_count": 364,
+			"listed_count": 313,
+			"created_at": "Fri May 30 16:40:27 +0000 2014",
+			"favourites_count": 2165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 35675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477358721693110278/MGIKjDD__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477358721693110278/MGIKjDD__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2535460231/1618558140",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Burnley are playing so well. Makes the inevitable defeat much harder to swallow."
+	},
+	{
+		"created_at": "Wed Feb 23 19:10:39 +0000 2022",
+		"id": 1496528573234098200,
+		"id_str": "1496563172857327627",
+		"full_text": "@PubityOnInsta \"Hi baby!\" 😅 https://t.co/n9GFjEL8jd",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PubityOnInsta",
+					"name": "Pubity",
+					"id": 904630459539312600,
+					"id_str": "904630459539312640",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496528520775970800,
+					"id_str": "1496528520775970823",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1496528520775970823/pu/img/fG0YyzqQieTobg5a.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1496528520775970823/pu/img/fG0YyzqQieTobg5a.jpg",
+					"url": "https://t.co/n9GFjEL8jd",
+					"display_url": "pic.twitter.com/n9GFjEL8jd",
+					"expanded_url": "https://twitter.com/oliver_drk/status/1496528573234098179/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496528520775970800,
+					"id_str": "1496528520775970823",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1496528520775970823/pu/img/fG0YyzqQieTobg5a.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1496528520775970823/pu/img/fG0YyzqQieTobg5a.jpg",
+					"url": "https://t.co/n9GFjEL8jd",
+					"display_url": "pic.twitter.com/n9GFjEL8jd",
+					"expanded_url": "https://twitter.com/oliver_drk/status/1496528573234098179/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 356,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							160,
+							89
+						],
+						"duration_millis": 21292,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1496528520775970823/pu/vid/484x270/N6Cz6NzlnQAFrcTW.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1496528520775970823/pu/pl/ArkUE48bg-S83sBB.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1496528520775970823/pu/vid/640x356/JvB_YLLYRbMcJ-ya.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1496437496330207200,
+		"in_reply_to_status_id_str": "1496437496330207238",
+		"in_reply_to_user_id": 904630459539312600,
+		"in_reply_to_user_id_str": "904630459539312640",
+		"in_reply_to_screen_name": "PubityOnInsta",
+		"user": {
+			"id": 892909965731668000,
+			"id_str": "892909965731667968",
+			"name": "Oliver Darko",
+			"screen_name": "oliver_drk",
+			"location": "",
+			"description": "Money's only worth what you think it's worth.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 623,
+			"friends_count": 319,
+			"listed_count": 4,
+			"created_at": "Thu Aug 03 00:48:20 +0000 2017",
+			"favourites_count": 112447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/892949734100410373/FPjMP_gA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/892949734100410373/FPjMP_gA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/892909965731667968/1502800131",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 270,
+		"favorite_count": 1870,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@PubityOnInsta \"Hi baby!\" 😅 https://t.co/n9GFjEL8jd"
+	},
+	{
 		"created_at": "Wed Feb 23 01:00:52 +0000 2022",
 		"id": 1496288919192842200,
 		"id_str": "1496288919192842246",
