@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 26 00:21:54 +0000 2022",
+		"id": 1497366275500224500,
+		"id_str": "1497366275500224513",
+		"full_text": "Wordle 252 4/6*\n\n⬜⬜⬜🟨⬜\n⬜🟨⬜⬜⬜\n🟩⬜🟩🟨⬜\n🟩🟩🟩🟩🟩",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Wordle 252 4/6*\n\n⬜⬜⬜🟨⬜\n⬜🟨⬜⬜⬜\n🟩⬜🟩🟨⬜\n🟩🟩🟩🟩🟩"
+	},
+	{
+		"created_at": "Fri Feb 25 19:46:33 +0000 2022",
+		"id": 1497296981127053300,
+		"id_str": "1497296981127053312",
+		"full_text": "😂 https://t.co/2aiZMnsYoH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2aiZMnsYoH",
+					"expanded_url": "https://twitter.com/mrjimBob/status/1496841236048715780",
+					"display_url": "twitter.com/mrjimBob/statu…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1496841236048715800,
+		"quoted_status_id_str": "1496841236048715780",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2aiZMnsYoH",
+			"expanded": "https://twitter.com/mrjimBob/status/1496841236048715780",
+			"display": "twitter.com/mrjimBob/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 24 13:35:35 +0000 2022",
+			"id": 1496841236048715800,
+			"id_str": "1496841236048715780",
+			"full_text": "I do miss those friendly chats and smiles on tube trains we Londoners are so famous for. https://t.co/64Y40vlUJg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				88
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1496841232923906000,
+						"id_str": "1496841232923906049",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/FMXZK7WWUAEmk8e.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMXZK7WWUAEmk8e.jpg",
+						"url": "https://t.co/64Y40vlUJg",
+						"display_url": "pic.twitter.com/64Y40vlUJg",
+						"expanded_url": "https://twitter.com/mrjimBob/status/1496841236048715780/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 423,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 466,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 466,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1496841232923906000,
+						"id_str": "1496841232923906049",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/FMXZK7WWUAEmk8e.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMXZK7WWUAEmk8e.jpg",
+						"url": "https://t.co/64Y40vlUJg",
+						"display_url": "pic.twitter.com/64Y40vlUJg",
+						"expanded_url": "https://twitter.com/mrjimBob/status/1496841236048715780/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 423,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 466,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 466,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19541522,
+				"id_str": "19541522",
+				"name": "Jim Bob",
+				"screen_name": "mrjimBob",
+				"location": "Lower London",
+				"description": "You woke up from a golden slumber, oh no. Full of hope and wonder, oh no. Somebody has to pay. Who do we hate today?",
+				"url": "https://t.co/ZKjM1HZ9Qs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZKjM1HZ9Qs",
+								"expanded_url": "https://linktr.ee/mrjimbob",
+								"display_url": "linktr.ee/mrjimbob",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17416,
+				"friends_count": 636,
+				"listed_count": 293,
+				"created_at": "Mon Jan 26 16:13:27 +0000 2009",
+				"favourites_count": 7545,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 57492,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1484842132015923205/_zT8fGbu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484842132015923205/_zT8fGbu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19541522/1637585635",
+				"profile_link_color": "0B0B42",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A61417",
+				"profile_text_color": "19074A",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 988,
+			"favorite_count": 21191,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😂 https://t.co/2aiZMnsYoH"
+	},
+	{
 		"created_at": "Fri Feb 25 00:49:46 +0000 2022",
 		"id": 1497010902771638300,
 		"id_str": "1497010902771638275",
