@@ -1,6 +1,652 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 07 20:37:10 +0000 2022",
+		"id": 1500933598542712800,
+		"id_str": "1500933598542712837",
+		"full_text": "@Midgetgems26 bit of a wait to get there but looking  forward to it https://t.co/cxeYaJaIxN",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Midgetgems26",
+					"name": "Bacardi Oakheart",
+					"id": 519293382,
+					"id_str": "519293382",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1500933574958231600,
+					"id_str": "1500933574958231555",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FNRjIlbXsAMUgoQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNRjIlbXsAMUgoQ.jpg",
+					"url": "https://t.co/cxeYaJaIxN",
+					"display_url": "pic.twitter.com/cxeYaJaIxN",
+					"expanded_url": "https://twitter.com/mfshill/status/1500933598542712837/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1018,
+							"h": 683,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1500933574958231600,
+					"id_str": "1500933574958231555",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FNRjIlbXsAMUgoQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNRjIlbXsAMUgoQ.jpg",
+					"url": "https://t.co/cxeYaJaIxN",
+					"display_url": "pic.twitter.com/cxeYaJaIxN",
+					"expanded_url": "https://twitter.com/mfshill/status/1500933598542712837/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1018,
+							"h": 683,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1500933110892011500,
+		"in_reply_to_status_id_str": "1500933110892011520",
+		"in_reply_to_user_id": 519293382,
+		"in_reply_to_user_id_str": "519293382",
+		"in_reply_to_screen_name": "Midgetgems26",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Midgetgems26 bit of a wait to get there but looking  forward to it https://t.co/cxeYaJaIxN"
+	},
+	{
+		"created_at": "Mon Mar 07 20:32:24 +0000 2022",
+		"id": 1500932397738647600,
+		"id_str": "1500932397738647559",
+		"full_text": "@Midgetgems26 in the playlist! https://t.co/0X6Bp9HDMd",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Midgetgems26",
+					"name": "Bacardi Oakheart",
+					"id": 519293382,
+					"id_str": "519293382",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1500932371633381400,
+					"id_str": "1500932371633381380",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/FNRiCisXoAQuaXX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNRiCisXoAQuaXX.jpg",
+					"url": "https://t.co/0X6Bp9HDMd",
+					"display_url": "pic.twitter.com/0X6Bp9HDMd",
+					"expanded_url": "https://twitter.com/mfshill/status/1500932397738647559/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1022,
+							"h": 1275,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1500932371633381400,
+					"id_str": "1500932371633381380",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/FNRiCisXoAQuaXX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNRiCisXoAQuaXX.jpg",
+					"url": "https://t.co/0X6Bp9HDMd",
+					"display_url": "pic.twitter.com/0X6Bp9HDMd",
+					"expanded_url": "https://twitter.com/mfshill/status/1500932397738647559/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1022,
+							"h": 1275,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1500928394195787800,
+		"in_reply_to_status_id_str": "1500928394195787777",
+		"in_reply_to_user_id": 519293382,
+		"in_reply_to_user_id_str": "519293382",
+		"in_reply_to_screen_name": "Midgetgems26",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Midgetgems26 in the playlist! https://t.co/0X6Bp9HDMd"
+	},
+	{
+		"created_at": "Mon Mar 07 20:28:05 +0000 2022",
+		"id": 1500931314266091500,
+		"id_str": "1500931314266091531",
+		"full_text": "Why has the letter Z become the symbol of war for Russia? https://t.co/G5zYTnyELO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G5zYTnyELO",
+					"expanded_url": "https://www.theguardian.com/world/2022/mar/07/why-has-the-letter-z-become-the-symbol-of-war-for-russia",
+					"display_url": "theguardian.com/world/2022/mar…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why has the letter Z become the symbol of war for Russia? https://t.co/G5zYTnyELO"
+	},
+	{
+		"created_at": "Mon Mar 07 18:37:53 +0000 2022",
+		"id": 1500903580181672000,
+		"id_str": "1500903580181671937",
+		"full_text": "fascinating reading. panned out exactly as expected. https://t.co/lkBya0eDlQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lkBya0eDlQ",
+					"expanded_url": "https://twitter.com/RnaudBertrand/status/1498491107902062592",
+					"display_url": "twitter.com/RnaudBertrand/…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 257,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1498491107902062600,
+		"quoted_status_id_str": "1498491107902062592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lkBya0eDlQ",
+			"expanded": "https://twitter.com/RnaudBertrand/status/1498491107902062592",
+			"display": "twitter.com/RnaudBertrand/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 01 02:51:35 +0000 2022",
+			"id": 1498491107902062600,
+			"id_str": "1498491107902062592",
+			"full_text": "Most fascinating thing about the Ukraine war is the sheer number of top strategic thinkers who warned for years that it was coming if we continued down the same path.\n\nNo-one listened to them and here we are.\n\nSmall compilation 🧵 of these warnings, from Kissinger to Mearsheimer.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 43061739,
+				"id_str": "43061739",
+				"name": "Arnaud Bertrand",
+				"screen_name": "RnaudBertrand",
+				"location": "Shanghai",
+				"description": "Founder of https://t.co/w0KmESIdXp, the website that explains Chinese Medicine.\n\nTweets mostly about China, a country in which I live and that I love.\n\n-",
+				"url": "https://t.co/SgYaxWD15b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SgYaxWD15b",
+								"expanded_url": "https://www.meandqi.com/",
+								"display_url": "meandqi.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/w0KmESIdXp",
+								"expanded_url": "http://MeAndQi.com",
+								"display_url": "MeAndQi.com",
+								"indices": [
+									11,
+									34
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 30334,
+				"friends_count": 532,
+				"listed_count": 272,
+				"created_at": "Thu May 28 06:31:26 +0000 2009",
+				"favourites_count": 27833,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10188,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1387256201293959168/3h5yYupT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387256201293959168/3h5yYupT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43061739/1619582720",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18562,
+			"favorite_count": 42134,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "fascinating reading. panned out exactly as expected. https://t.co/lkBya0eDlQ"
+	},
+	{
 		"created_at": "Mon Mar 07 00:03:18 +0000 2022",
 		"id": 1500623083794747400,
 		"id_str": "1500623083794747393",
