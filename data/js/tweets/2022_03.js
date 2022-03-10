@@ -1,6 +1,1368 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 10 00:04:58 +0000 2022",
+		"id": 1501710670697582600,
+		"id_str": "1501710670697582596",
+		"full_text": "Wordle 264 4/6*\n\n⬜⬜🟨🟨⬜\n🟨⬜🟨🟨🟩\n⬜🟩🟨🟩🟩\n🟩🟩🟩🟩🟩",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 261,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Wordle 264 4/6*\n\n⬜⬜🟨🟨⬜\n🟨⬜🟨🟨🟩\n⬜🟩🟨🟩🟩\n🟩🟩🟩🟩🟩"
+	},
+	{
+		"created_at": "Wed Mar 09 23:30:27 +0000 2022",
+		"id": 1501700478568222700,
+		"id_str": "1501701983870332931",
+		"full_text": "Our latest explainer looks at how the war in Ukraine risks food security in some of the poorest countries in the world.  https://t.co/cgODXhTSGo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cgODXhTSGo",
+					"expanded_url": "https://www.bbc.co.uk/news/world-60682966",
+					"display_url": "bbc.co.uk/news/world-606…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 92771309,
+			"id_str": "92771309",
+			"name": "Ros Atkins",
+			"screen_name": "BBCRosAtkins",
+			"location": "London",
+			"description": "Outside Source & explainers on BBC News, founder of the 50:50 Project, Texting Keith Olbermann podcast, the Media Show on Radio 4, squash enthusiast",
+			"url": "https://t.co/dEczbSudah",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dEczbSudah",
+							"expanded_url": "https://www.bbc.co.uk/programmes/p071wbr5/episodes/downloads",
+							"display_url": "bbc.co.uk/programmes/p07…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339879,
+			"friends_count": 4884,
+			"listed_count": 1655,
+			"created_at": "Thu Nov 26 15:08:39 +0000 2009",
+			"favourites_count": 3344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1406971271439699977/8BUULlok_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1406971271439699977/8BUULlok_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/92771309/1627936986",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "5A5A5A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 118,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our latest explainer looks at how the war in Ukraine risks food security in some of the poorest countries in the world.  https://t.co/cgODXhTSGo"
+	},
+	{
+		"created_at": "Wed Mar 09 22:31:02 +0000 2022",
+		"id": 1501687031612772400,
+		"id_str": "1501687031612772367",
+		"full_text": "Nick Cage being all Nick Cage(y) in a film all about Nick Cage https://t.co/O5eVWCsNDM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O5eVWCsNDM",
+					"expanded_url": "https://www.youtube.com/watch?v=shD3dXpKBrQ",
+					"display_url": "youtube.com/watch?v=shD3dX…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 261,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nick Cage being all Nick Cage(y) in a film all about Nick Cage https://t.co/O5eVWCsNDM"
+	},
+	{
+		"created_at": "Wed Mar 09 19:39:50 +0000 2022",
+		"id": 1501537183139729400,
+		"id_str": "1501643946316943370",
+		"full_text": "Captain 2om: Tomkyo Drift https://t.co/qxuC4BhFsU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1501537180128272400,
+					"id_str": "1501537180128272389",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FNaIHB6WYAU3uYt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNaIHB6WYAU3uYt.jpg",
+					"url": "https://t.co/qxuC4BhFsU",
+					"display_url": "pic.twitter.com/qxuC4BhFsU",
+					"expanded_url": "https://twitter.com/mcandidate/status/1501537183139729412/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 584,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1031,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1257,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501537180128272400,
+					"id_str": "1501537180128272389",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FNaIHB6WYAU3uYt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNaIHB6WYAU3uYt.jpg",
+					"url": "https://t.co/qxuC4BhFsU",
+					"display_url": "pic.twitter.com/qxuC4BhFsU",
+					"expanded_url": "https://twitter.com/mcandidate/status/1501537183139729412/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 584,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1031,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1257,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117397094,
+			"id_str": "117397094",
+			"name": "Aidan JR",
+			"screen_name": "mcandidate",
+			"location": "London",
+			"description": "Who remembers proper binmen?",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1372,
+			"friends_count": 1318,
+			"listed_count": 16,
+			"created_at": "Thu Feb 25 12:44:54 +0000 2010",
+			"favourites_count": 38931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/572044494216777728/UZgd7kLh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/572044494216777728/UZgd7kLh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117397094/1633376604",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 417,
+		"favorite_count": 4971,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "no",
+		"text": "Captain 2om: Tomkyo Drift https://t.co/qxuC4BhFsU"
+	},
+	{
+		"created_at": "Wed Mar 09 19:38:14 +0000 2022",
+		"id": 1501639323099226000,
+		"id_str": "1501643541725986822",
+		"full_text": "\"You've been listening to Demented Monkey, with their latest single 'Fatal Five Minute Battering' from Devastated Visitor Records...\" https://t.co/KNKlSKqHnG https://t.co/0a7ZMLypog",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KNKlSKqHnG",
+					"expanded_url": "https://twitter.com/whippletom/status/1501636377942888451",
+					"display_url": "twitter.com/whippletom/sta…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1501639316539383800,
+					"id_str": "1501639316539383810",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FNblAJsXIAIA73q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNblAJsXIAIA73q.jpg",
+					"url": "https://t.co/0a7ZMLypog",
+					"display_url": "pic.twitter.com/0a7ZMLypog",
+					"expanded_url": "https://twitter.com/TC_Cornesto/status/1501639323099226121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501639316539383800,
+					"id_str": "1501639316539383810",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FNblAJsXIAIA73q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNblAJsXIAIA73q.jpg",
+					"url": "https://t.co/0a7ZMLypog",
+					"display_url": "pic.twitter.com/0a7ZMLypog",
+					"expanded_url": "https://twitter.com/TC_Cornesto/status/1501639323099226121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19991214,
+			"id_str": "19991214",
+			"name": "TC Cornesto",
+			"screen_name": "TC_Cornesto",
+			"location": "",
+			"description": "Absolute shambles of a man",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1622,
+			"friends_count": 2013,
+			"listed_count": 49,
+			"created_at": "Tue Feb 03 18:28:43 +0000 2009",
+			"favourites_count": 71803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 137615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484649097797775360/CMuoE2e0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484649097797775360/CMuoE2e0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19991214/1639097856",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1501636377942888400,
+		"quoted_status_id_str": "1501636377942888451",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KNKlSKqHnG",
+			"expanded": "https://twitter.com/whippletom/status/1501636377942888451",
+			"display": "twitter.com/whippletom/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 09 19:09:46 +0000 2022",
+			"id": 1501636377942888400,
+			"id_str": "1501636377942888451",
+			"full_text": "Superb, heartwarming, story. And “the fatal five minute battering” is surely an excellent entry for @secondmentions \n\nhttps://t.co/ApaBCUDKLc https://t.co/qpD8cxKkKo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				141
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "secondmentions",
+						"name": "Second Mentions",
+						"id": 2192912946,
+						"id_str": "2192912946",
+						"indices": [
+							100,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ApaBCUDKLc",
+						"expanded_url": "https://www.mirror.co.uk/news/uk-news/zoo-horror-monkey-grabs-seagull-26424331.amp?utm_medium=referral&utm_source=upday",
+						"display_url": "mirror.co.uk/news/uk-news/z…",
+						"indices": [
+							118,
+							141
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1501636372657950700,
+						"id_str": "1501636372657950725",
+						"indices": [
+							142,
+							165
+						],
+						"media_url": "http://pbs.twimg.com/media/FNbiUy4VUAU0J5M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FNbiUy4VUAU0J5M.jpg",
+						"url": "https://t.co/qpD8cxKkKo",
+						"display_url": "pic.twitter.com/qpD8cxKkKo",
+						"expanded_url": "https://twitter.com/whippletom/status/1501636377942888451/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 893,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 893,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 571,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1501636372657950700,
+						"id_str": "1501636372657950725",
+						"indices": [
+							142,
+							165
+						],
+						"media_url": "http://pbs.twimg.com/media/FNbiUy4VUAU0J5M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FNbiUy4VUAU0J5M.jpg",
+						"url": "https://t.co/qpD8cxKkKo",
+						"display_url": "pic.twitter.com/qpD8cxKkKo",
+						"expanded_url": "https://twitter.com/whippletom/status/1501636377942888451/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 893,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 893,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 571,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24873392,
+				"id_str": "24873392",
+				"name": "Tom Whipple",
+				"screen_name": "whippletom",
+				"location": "",
+				"description": "Science at The Times - Tweets in personal capacity. My book: https://t.co/VagB4ifAfY",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VagB4ifAfY",
+								"expanded_url": "https://www.amazon.co.uk/Get-Ahead-PHYSICS-Revision-levitating/dp/1406388246",
+								"display_url": "amazon.co.uk/Get-Ahead-PHYS…",
+								"indices": [
+									61,
+									84
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 26423,
+				"friends_count": 2398,
+				"listed_count": 449,
+				"created_at": "Tue Mar 17 12:23:32 +0000 2009",
+				"favourites_count": 12587,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22534,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/915488801425850369/u2KmegO4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/915488801425850369/u2KmegO4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24873392/1538499872",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"You've been listening to Demented Monkey, with their latest single 'Fatal Five Minute Battering' from Devastated Visitor Records...\" https://t.co/KNKlSKqHnG https://t.co/0a7ZMLypog"
+	},
+	{
+		"created_at": "Wed Mar 09 18:19:09 +0000 2022",
+		"id": 1501458162078994400,
+		"id_str": "1501623640395292676",
+		"full_text": "Tim Burton's first Batman understands what no superhero film has understood since: the people want a full album of Prince original songs and a music video about a Partyman who destroys Gotham City simply by partying really hard",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 817488540988829700,
+			"id_str": "817488540988829697",
+			"name": "John Frankensteiner",
+			"screen_name": "JFrankensteiner",
+			"location": "New York, USA",
+			"description": "That Nirvana song from The Beavis and Butthead Experience",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26491,
+			"friends_count": 257,
+			"listed_count": 223,
+			"created_at": "Fri Jan 06 21:50:31 +0000 2017",
+			"favourites_count": 52429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/817489442432811008/0-ImUjd4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/817489442432811008/0-ImUjd4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/817488540988829697/1572029397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3934,
+		"favorite_count": 33519,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Tim Burton's first Batman understands what no superhero film has understood since: the people want a full album of Prince original songs and a music video about a Partyman who destroys Gotham City simply by partying really hard"
+	},
+	{
+		"created_at": "Wed Mar 09 14:45:11 +0000 2022",
+		"id": 1501569792985251800,
+		"id_str": "1501569792985251842",
+		"full_text": "How evolution ‘hacked’ its way to intelligence from the bottom up – https://t.co/l9m3tWQl01 via @aeonmag",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aeonmag",
+					"name": "Aeon+Psyche",
+					"id": 481943972,
+					"id_str": "481943972",
+					"indices": [
+						96,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/l9m3tWQl01",
+					"expanded_url": "https://aeon.co/essays/how-evolution-hacked-its-way-to-intelligence-from-the-bottom-up",
+					"display_url": "aeon.co/essays/how-evo…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 261,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How evolution ‘hacked’ its way to intelligence from the bottom up – https://t.co/l9m3tWQl01 via @aeonmag"
+	},
+	{
+		"created_at": "Wed Mar 09 13:49:44 +0000 2022",
+		"id": 1501555841631203300,
+		"id_str": "1501555841631203334",
+		"full_text": "we all know the seagull was asking for it",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 261,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "we all know the seagull was asking for it"
+	},
+	{
+		"created_at": "Wed Mar 09 13:47:58 +0000 2022",
+		"id": 1501555395113934800,
+		"id_str": "1501555395113934861",
+		"full_text": "\\o/ \nDaily #24\n0️⃣8️⃣⬛0️⃣9️⃣\n1️⃣8️⃣⬛1️⃣0️⃣\n0️⃣4️⃣⬛1️⃣9️⃣\n1️⃣1️⃣⬛1️⃣6️⃣\n0️⃣7️⃣⬛1️⃣7️⃣\n1️⃣2️⃣⬛1️⃣5️⃣\n0️⃣3️⃣⬛1️⃣4️⃣\n0️⃣6️⃣⬛1️⃣3️⃣\nhttps://t.co/pR5Un5u50M\n#sedecordle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sedecordle",
+					"indices": [
+						151,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pR5Un5u50M",
+					"expanded_url": "http://sedecordle.com",
+					"display_url": "sedecordle.com",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 261,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "\\o/ \nDaily #24\n0️⃣8️⃣⬛0️⃣9️⃣\n1️⃣8️⃣⬛1️⃣0️⃣\n0️⃣4️⃣⬛1️⃣9️⃣\n1️⃣1️⃣⬛1️⃣6️⃣\n0️⃣7️⃣⬛1️⃣7️⃣\n1️⃣2️⃣⬛1️⃣5️⃣\n0️⃣3️⃣⬛1️⃣4️⃣\n0️⃣6️⃣⬛1️⃣3️⃣\nhttps://t.co/pR5Un5u50M\n#sedecordle"
+	},
+	{
+		"created_at": "Wed Mar 09 13:26:27 +0000 2022",
+		"id": 1501549982595391500,
+		"id_str": "1501549982595391489",
+		"full_text": "Daily Quordle #44\n5️⃣8️⃣\n7️⃣9️⃣\nhttps://t.co/yAtnqNZVKC https://t.co/NcJwlA61ur",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yAtnqNZVKC",
+					"expanded_url": "http://quordle.com",
+					"display_url": "quordle.com",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1501549966585733000,
+					"id_str": "1501549966585733134",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FNaTvTLXoA4v9o8.png",
+					"media_url_https": "https://pbs.twimg.com/media/FNaTvTLXoA4v9o8.png",
+					"url": "https://t.co/NcJwlA61ur",
+					"display_url": "pic.twitter.com/NcJwlA61ur",
+					"expanded_url": "https://twitter.com/mfshill/status/1501549982595391489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 355,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 627,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 744,
+							"h": 1424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501549966585733000,
+					"id_str": "1501549966585733134",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FNaTvTLXoA4v9o8.png",
+					"media_url_https": "https://pbs.twimg.com/media/FNaTvTLXoA4v9o8.png",
+					"url": "https://t.co/NcJwlA61ur",
+					"display_url": "pic.twitter.com/NcJwlA61ur",
+					"expanded_url": "https://twitter.com/mfshill/status/1501549982595391489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 355,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 627,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 744,
+							"h": 1424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 261,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484231894048903180/TeSazBL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Daily Quordle #44\n5️⃣8️⃣\n7️⃣9️⃣\nhttps://t.co/yAtnqNZVKC https://t.co/NcJwlA61ur"
+	},
+	{
 		"created_at": "Wed Mar 09 00:10:30 +0000 2022",
 		"id": 1501349672408916000,
 		"id_str": "1501349672408915970",
@@ -275,7 +1637,7 @@ Grailbird.data.tweets_2022_03 =
 		"created_at": "Tue Mar 08 23:21:28 +0000 2022",
 		"id": 1501332043283767300,
 		"id_str": "1501337332108206083",
-		"full_text": "Our latest explainer has just gone up  on ⁦@BBCNews⁩.  https://t.co/KHLtr5ADeE",
+		"full_text": "Our latest explainer has just gone up  on @BBCNews.  https://t.co/KHLtr5ADeE",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -387,7 +1749,7 @@ Grailbird.data.tweets_2022_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Our latest explainer has just gone up  on ⁦@BBCNews⁩.  https://t.co/KHLtr5ADeE"
+		"text": "Our latest explainer has just gone up  on @BBCNews.  https://t.co/KHLtr5ADeE"
 	},
 	{
 		"created_at": "Tue Mar 08 23:15:33 +0000 2022",
