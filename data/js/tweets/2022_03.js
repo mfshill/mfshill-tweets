@@ -1,6 +1,633 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 10 23:18:41 +0000 2022",
+		"id": 1502061409059975200,
+		"id_str": "1502061409059975194",
+		"full_text": "https://t.co/zPaE7yG2FD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1502061399492673500,
+					"id_str": "1502061399492673537",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FNhk4nOWQAESGcf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNhk4nOWQAESGcf.jpg",
+					"url": "https://t.co/zPaE7yG2FD",
+					"display_url": "pic.twitter.com/zPaE7yG2FD",
+					"expanded_url": "https://twitter.com/mfshill/status/1502061409059975194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 875,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 875,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1502061399492673500,
+					"id_str": "1502061399492673537",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FNhk4nOWQAESGcf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNhk4nOWQAESGcf.jpg",
+					"url": "https://t.co/zPaE7yG2FD",
+					"display_url": "pic.twitter.com/zPaE7yG2FD",
+					"expanded_url": "https://twitter.com/mfshill/status/1502061409059975194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 875,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 875,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 262,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/zPaE7yG2FD"
+	},
+	{
+		"created_at": "Thu Mar 10 21:17:50 +0000 2022",
+		"id": 1502030994337116200,
+		"id_str": "1502030994337116167",
+		"full_text": "🥇 https://t.co/dTLWqRAWql",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dTLWqRAWql",
+					"expanded_url": "https://twitter.com/haveigotnews/status/1501932318092500999",
+					"display_url": "twitter.com/haveigotnews/s…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 262,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1501932318092501000,
+		"quoted_status_id_str": "1501932318092500999",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dTLWqRAWql",
+			"expanded": "https://twitter.com/haveigotnews/status/1501932318092500999",
+			"display": "twitter.com/haveigotnews/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 10 14:45:43 +0000 2022",
+			"id": 1501932318092501000,
+			"id_str": "1501932318092500999",
+			"full_text": "As Chelsea face up to a trophyless future with no money to spend on transfers, football fans begin to wonder how long government sanctions have been in place at Tottenham.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 125370749,
+				"id_str": "125370749",
+				"name": "Have I Got News For You",
+				"screen_name": "haveigotnews",
+				"location": "",
+				"description": "This account is run by Hat Trick, who make HIGNFY. The BBC have asked us to point out it's nothing to do with them; the twitter feed that is, not the TV show.",
+				"url": "http://t.co/r8nHpMQE7u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/r8nHpMQE7u",
+								"expanded_url": "http://www.bbc.co.uk/programmes/b006mkw3",
+								"display_url": "bbc.co.uk/programmes/b00…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 914995,
+				"friends_count": 124,
+				"listed_count": 2528,
+				"created_at": "Mon Mar 22 15:56:12 +0000 2010",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8808,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768391859/HIGNFY-square_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768391859/HIGNFY-square_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/125370749/1447242035",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1905,
+			"favorite_count": 11195,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🥇 https://t.co/dTLWqRAWql"
+	},
+	{
+		"created_at": "Thu Mar 10 20:53:01 +0000 2022",
+		"id": 1501938378878558200,
+		"id_str": "1502024751849648131",
+		"full_text": "This is Igor.\n\nEvery morning Igor goes for a stroll through the nearby forest.\n\nToday, Igor found a Russian Army 9K330 Tor SAM system abandoned in the forest.\n\nNow Igor owns a $20 million SAM system.\n\nCongratulations Igor. https://t.co/5pyyFTKqCP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1501937804456063000,
+					"id_str": "1501937804456062983",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FNf0eb1VcAcXL3w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNf0eb1VcAcXL3w.jpg",
+					"url": "https://t.co/5pyyFTKqCP",
+					"display_url": "pic.twitter.com/5pyyFTKqCP",
+					"expanded_url": "https://twitter.com/oryxspioenkop/status/1501938378878558220/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501937804456063000,
+					"id_str": "1501937804456062983",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FNf0eb1VcAcXL3w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNf0eb1VcAcXL3w.jpg",
+					"url": "https://t.co/5pyyFTKqCP",
+					"display_url": "pic.twitter.com/5pyyFTKqCP",
+					"expanded_url": "https://twitter.com/oryxspioenkop/status/1501938378878558220/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 277587469,
+			"id_str": "277587469",
+			"name": "Oryx",
+			"screen_name": "oryxspioenkop",
+			"location": "",
+			"description": "Authors of: The Armed Forces of North Korea, on the path of Songun | Türkçe için: @oryxspioenkopTR | 日本語版アカウント: @oryxspioenkopJP",
+			"url": "https://t.co/K4vjgF8p8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K4vjgF8p8k",
+							"expanded_url": "http://oryxspioenkop.com/",
+							"display_url": "oryxspioenkop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 184865,
+			"friends_count": 586,
+			"listed_count": 3767,
+			"created_at": "Tue Apr 05 17:35:05 +0000 2011",
+			"favourites_count": 10426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/929707102083395584/tCWiYbO1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/929707102083395584/tCWiYbO1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/277587469/1408135334",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15885,
+		"favorite_count": 103338,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is Igor.\n\nEvery morning Igor goes for a stroll through the nearby forest.\n\nToday, Igor found a Russian Army 9K330 Tor SAM system abandoned in the forest.\n\nNow Igor owns a $20 million SAM system.\n\nCongratulations Igor. https://t.co/5pyyFTKqCP"
+	},
+	{
+		"created_at": "Thu Mar 10 20:41:46 +0000 2022",
+		"id": 1502021920157573000,
+		"id_str": "1502021920157573125",
+		"full_text": "On the front line: If Kharkiv falls, all of Ukraine falls https://t.co/1rm9u31zyu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1rm9u31zyu",
+					"expanded_url": "https://www.bbc.co.uk/news/world-europe-60693166",
+					"display_url": "bbc.co.uk/news/world-eur…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 262,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On the front line: If Kharkiv falls, all of Ukraine falls https://t.co/1rm9u31zyu"
+	},
+	{
 		"created_at": "Thu Mar 10 00:04:58 +0000 2022",
 		"id": 1501710670697582600,
 		"id_str": "1501710670697582596",
