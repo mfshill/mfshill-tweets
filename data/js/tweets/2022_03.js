@@ -1,6 +1,1154 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 14 22:31:08 +0000 2022",
+		"id": 1503498993116012500,
+		"id_str": "1503498993116012558",
+		"full_text": "#ARSLIV https://t.co/kxp6RLC2G9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ARSLIV",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1503498912413405200,
+					"id_str": "1503498912413405189",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/FN2AS4KWUAU4Ajf.png",
+					"media_url_https": "https://pbs.twimg.com/media/FN2AS4KWUAU4Ajf.png",
+					"url": "https://t.co/kxp6RLC2G9",
+					"display_url": "pic.twitter.com/kxp6RLC2G9",
+					"expanded_url": "https://twitter.com/mfshill/status/1503498993116012558/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 699,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 539,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 554,
+							"h": 699,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503498912413405200,
+					"id_str": "1503498912413405189",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/FN2AS4KWUAU4Ajf.png",
+					"media_url_https": "https://pbs.twimg.com/media/FN2AS4KWUAU4Ajf.png",
+					"url": "https://t.co/kxp6RLC2G9",
+					"display_url": "pic.twitter.com/kxp6RLC2G9",
+					"expanded_url": "https://twitter.com/mfshill/status/1503498993116012558/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 699,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 539,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 554,
+							"h": 699,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#ARSLIV https://t.co/kxp6RLC2G9"
+	},
+	{
+		"created_at": "Mon Mar 14 21:18:44 +0000 2022",
+		"id": 1503480774166814700,
+		"id_str": "1503480774166814724",
+		"full_text": "\\0/ \nDaily #29\n1️⃣4️⃣⬛0️⃣6️⃣\n0️⃣5️⃣⬛0️⃣9️⃣\n0️⃣7️⃣⬛1️⃣5️⃣\n0️⃣3️⃣⬛1️⃣7️⃣\n0️⃣8️⃣⬛1️⃣6️⃣\n0️⃣4️⃣⬛1️⃣0️⃣\n1️⃣8️⃣⬛1️⃣2️⃣\n1️⃣3️⃣⬛1️⃣9️⃣\nhttps://t.co/pR5Un5u50M\n#sedecordle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sedecordle",
+					"indices": [
+						151,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pR5Un5u50M",
+					"expanded_url": "http://sedecordle.com",
+					"display_url": "sedecordle.com",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "\\0/ \nDaily #29\n1️⃣4️⃣⬛0️⃣6️⃣\n0️⃣5️⃣⬛0️⃣9️⃣\n0️⃣7️⃣⬛1️⃣5️⃣\n0️⃣3️⃣⬛1️⃣7️⃣\n0️⃣8️⃣⬛1️⃣6️⃣\n0️⃣4️⃣⬛1️⃣0️⃣\n1️⃣8️⃣⬛1️⃣2️⃣\n1️⃣3️⃣⬛1️⃣9️⃣\nhttps://t.co/pR5Un5u50M\n#sedecordle"
+	},
+	{
+		"created_at": "Mon Mar 14 19:49:02 +0000 2022",
+		"id": 1503445687232610300,
+		"id_str": "1503458199843782657",
+		"full_text": "Russian prime time evening news. A brave woman with anti-war poster shows up right behind the anchor and shouts “stop the war”. I’m 100% sure it won’t be available online after this. https://t.co/vj4Kh3Z4me",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vj4Kh3Z4me",
+					"expanded_url": "https://twitter.com/alburov/status/1503443790710951939",
+					"display_url": "twitter.com/alburov/status…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1390278680765681700,
+			"id_str": "1390278680765681668",
+			"name": "Maxim Alyukov",
+			"screen_name": "MaximAlyukov",
+			"location": "London, England",
+			"description": "Political Communication, Psychology, Authoritarianism | Postdoctoral Fellow at @KingsCollegeLon | PhD in Social Sciences from @helsinkiuni",
+			"url": "https://t.co/V7MfOgW9ux",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V7MfOgW9ux",
+							"expanded_url": "https://www.kcl.ac.uk/people/maxim-alyukov",
+							"display_url": "kcl.ac.uk/people/maxim-a…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6439,
+			"friends_count": 238,
+			"listed_count": 177,
+			"created_at": "Thu May 06 12:14:15 +0000 2021",
+			"favourites_count": 174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485974689956642823/qWFr1JYF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485974689956642823/qWFr1JYF_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1503443790710952000,
+		"quoted_status_id_str": "1503443790710951939",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vj4Kh3Z4me",
+			"expanded": "https://twitter.com/alburov/status/1503443790710951939",
+			"display": "twitter.com/alburov/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 14 18:51:46 +0000 2022",
+			"id": 1503443790710952000,
+			"id_str": "1503443790710951939",
+			"full_text": "Как получить мгновенную амнистию за работу на «Первом канале». Девушка — красотка https://t.co/9ywSwG5qMg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1503442603416727600,
+						"id_str": "1503442603416727562",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1503442603416727562/pu/img/GXbwxAoeUGoZPsau.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1503442603416727562/pu/img/GXbwxAoeUGoZPsau.jpg",
+						"url": "https://t.co/9ywSwG5qMg",
+						"display_url": "pic.twitter.com/9ywSwG5qMg",
+						"expanded_url": "https://twitter.com/YaroslavConway/status/1503442639257059328/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 432,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 306,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 432,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1503442639257059300,
+						"source_status_id_str": "1503442639257059328",
+						"source_user_id": 819767916,
+						"source_user_id_str": "819767916"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1503442603416727600,
+						"id_str": "1503442603416727562",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1503442603416727562/pu/img/GXbwxAoeUGoZPsau.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1503442603416727562/pu/img/GXbwxAoeUGoZPsau.jpg",
+						"url": "https://t.co/9ywSwG5qMg",
+						"display_url": "pic.twitter.com/9ywSwG5qMg",
+						"expanded_url": "https://twitter.com/YaroslavConway/status/1503442639257059328/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 432,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 306,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 432,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1503442639257059300,
+						"source_status_id_str": "1503442639257059328",
+						"source_user_id": 819767916,
+						"source_user_id_str": "819767916",
+						"video_info": {
+							"aspect_ratio": [
+								20,
+								9
+							],
+							"duration_millis": 10300,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1503442603416727562/pu/pl/HPeKxt0YhzRnnOHM.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1503442603416727562/pu/vid/600x270/JjJnzZEuC7FPEaHN.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1503442603416727562/pu/vid/960x432/QyBXYdwbEI5-q_B9.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 819767916,
+								"id_str": "819767916",
+								"name": "Ярослав Конвей",
+								"screen_name": "YaroslavConway",
+								"location": "Москва, Россия",
+								"description": "Председатель Либертарианской партии России/ Head of the Libertarian Party of Russia   @lpr_tw",
+								"url": "https://t.co/d7Zc2BBjZq",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/d7Zc2BBjZq",
+												"expanded_url": "https://www.instagram.com/yaroslavconway",
+												"display_url": "instagram.com/yaroslavconway",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 8536,
+								"friends_count": 359,
+								"listed_count": 48,
+								"created_at": "Wed Sep 12 15:21:23 +0000 2012",
+								"favourites_count": 5644,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 13175,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1480173716554371079/xVKl3Bw5_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1480173716554371079/xVKl3Bw5_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/819767916/1644936080",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47751366,
+				"id_str": "47751366",
+				"name": "Георгий Албуров",
+				"screen_name": "alburov",
+				"location": "Moscow",
+				"description": "Отдел расследований Команды Навального // g@alburov.ru // telegram: @georg // instagram: https://t.co/UoGoJSFBZ2",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UoGoJSFBZ2",
+								"expanded_url": "http://instagram.com/alburov",
+								"display_url": "instagram.com/alburov",
+								"indices": [
+									89,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 181790,
+				"friends_count": 908,
+				"listed_count": 945,
+				"created_at": "Tue Jun 16 22:12:52 +0000 2009",
+				"favourites_count": 4136,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 51148,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/486737441475158017/uD3KGpTj_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/486737441475158017/uD3KGpTj_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47751366/1611171311",
+				"profile_link_color": "1D498A",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1581,
+			"favorite_count": 12009,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ru"
+		},
+		"retweet_count": 121,
+		"favorite_count": 259,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Russian prime time evening news. A brave woman with anti-war poster shows up right behind the anchor and shouts “stop the war”. I’m 100% sure it won’t be available online after this. https://t.co/vj4Kh3Z4me"
+	},
+	{
+		"created_at": "Mon Mar 14 19:40:36 +0000 2022",
+		"id": 1503456077588971500,
+		"id_str": "1503456077588971528",
+		"full_text": "'His best customer' https://t.co/HDYCnqVzwf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1503455982541852700,
+					"id_str": "1503455982541852678",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/FN1ZQB7X0AY2M3W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN1ZQB7X0AY2M3W.jpg",
+					"url": "https://t.co/HDYCnqVzwf",
+					"display_url": "pic.twitter.com/HDYCnqVzwf",
+					"expanded_url": "https://twitter.com/mfshill/status/1503456077588971528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 938,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 938,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503455982541852700,
+					"id_str": "1503455982541852678",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/FN1ZQB7X0AY2M3W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN1ZQB7X0AY2M3W.jpg",
+					"url": "https://t.co/HDYCnqVzwf",
+					"display_url": "pic.twitter.com/HDYCnqVzwf",
+					"expanded_url": "https://twitter.com/mfshill/status/1503456077588971528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 938,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 938,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'His best customer' https://t.co/HDYCnqVzwf"
+	},
+	{
+		"created_at": "Mon Mar 14 18:21:54 +0000 2022",
+		"id": 1503436270550323200,
+		"id_str": "1503436270550323204",
+		"full_text": "https://t.co/RZ7N1z1rdI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1503436261134110700,
+					"id_str": "1503436261134110732",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FN1HUF9XEAwNeYq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN1HUF9XEAwNeYq.jpg",
+					"url": "https://t.co/RZ7N1z1rdI",
+					"display_url": "pic.twitter.com/RZ7N1z1rdI",
+					"expanded_url": "https://twitter.com/mfshill/status/1503436270550323204/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503436261134110700,
+					"id_str": "1503436261134110732",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FN1HUF9XEAwNeYq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN1HUF9XEAwNeYq.jpg",
+					"url": "https://t.co/RZ7N1z1rdI",
+					"display_url": "pic.twitter.com/RZ7N1z1rdI",
+					"expanded_url": "https://twitter.com/mfshill/status/1503436270550323204/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/RZ7N1z1rdI"
+	},
+	{
+		"created_at": "Mon Mar 14 11:53:12 +0000 2022",
+		"id": 1503338452250771500,
+		"id_str": "1503338452250771464",
+		"full_text": "Daily Quordle #49\n8️⃣6️⃣\n7️⃣4️⃣\nhttps://t.co/yAtnqNZVKC https://t.co/b2Zbnme3kq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yAtnqNZVKC",
+					"expanded_url": "http://quordle.com",
+					"display_url": "quordle.com",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1503338443463614500,
+					"id_str": "1503338443463614466",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FNzuWWvWYAIcsT9.png",
+					"media_url_https": "https://pbs.twimg.com/media/FNzuWWvWYAIcsT9.png",
+					"url": "https://t.co/b2Zbnme3kq",
+					"display_url": "pic.twitter.com/b2Zbnme3kq",
+					"expanded_url": "https://twitter.com/mfshill/status/1503338452250771464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 744,
+							"h": 1288,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 693,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 393,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503338443463614500,
+					"id_str": "1503338443463614466",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FNzuWWvWYAIcsT9.png",
+					"media_url_https": "https://pbs.twimg.com/media/FNzuWWvWYAIcsT9.png",
+					"url": "https://t.co/b2Zbnme3kq",
+					"display_url": "pic.twitter.com/b2Zbnme3kq",
+					"expanded_url": "https://twitter.com/mfshill/status/1503338452250771464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 744,
+							"h": 1288,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 693,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 393,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Daily Quordle #49\n8️⃣6️⃣\n7️⃣4️⃣\nhttps://t.co/yAtnqNZVKC https://t.co/b2Zbnme3kq"
+	},
+	{
 		"created_at": "Sun Mar 13 20:23:03 +0000 2022",
 		"id": 1503096656740429800,
 		"id_str": "1503104372594597896",
