@@ -1,6 +1,492 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 17 19:36:41 +0000 2022",
+		"id": 1504542257852170200,
+		"id_str": "1504542257852170242",
+		"full_text": "Long naps may be early sign of Alzheimer’s disease, study shows https://t.co/vtdNqyUb2p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vtdNqyUb2p",
+					"expanded_url": "https://www.theguardian.com/society/2022/mar/17/naps-early-sign-alzheimers-disease-study",
+					"display_url": "theguardian.com/society/2022/m…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Long naps may be early sign of Alzheimer’s disease, study shows https://t.co/vtdNqyUb2p"
+	},
+	{
+		"created_at": "Thu Mar 17 13:40:05 +0000 2022",
+		"id": 1504452512715354000,
+		"id_str": "1504452512715354122",
+		"full_text": "lunch time challenges \nDaily #32\n0️⃣9️⃣⬛0️⃣5️⃣\n0️⃣8️⃣⬛2️⃣0️⃣\n1️⃣0️⃣⬛0️⃣6️⃣\n0️⃣3️⃣⬛1️⃣1️⃣\n1️⃣7️⃣⬛1️⃣8️⃣\n1️⃣3️⃣⬛1️⃣4️⃣\n0️⃣4️⃣⬛1️⃣2️⃣\n1️⃣9️⃣⬛1️⃣5️⃣\nhttps://t.co/pR5Un5u50M\n#sedecordle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sedecordle",
+					"indices": [
+						169,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pR5Un5u50M",
+					"expanded_url": "http://sedecordle.com",
+					"display_url": "sedecordle.com",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "lunch time challenges \nDaily #32\n0️⃣9️⃣⬛0️⃣5️⃣\n0️⃣8️⃣⬛2️⃣0️⃣\n1️⃣0️⃣⬛0️⃣6️⃣\n0️⃣3️⃣⬛1️⃣1️⃣\n1️⃣7️⃣⬛1️⃣8️⃣\n1️⃣3️⃣⬛1️⃣4️⃣\n0️⃣4️⃣⬛1️⃣2️⃣\n1️⃣9️⃣⬛1️⃣5️⃣\nhttps://t.co/pR5Un5u50M\n#sedecordle"
+	},
+	{
+		"created_at": "Thu Mar 17 13:10:37 +0000 2022",
+		"id": 1504445099081715700,
+		"id_str": "1504445099081715713",
+		"full_text": "lunch time challenges \nDaily Quordle #52\n7️⃣5️⃣\n9️⃣6️⃣\nhttps://t.co/yAtnqNZVKC https://t.co/p2ftjno9ka",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yAtnqNZVKC",
+					"expanded_url": "http://quordle.com",
+					"display_url": "quordle.com",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1504445088835022800,
+					"id_str": "1504445088835022856",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FODc1mAXsAgZ3q3.png",
+					"media_url_https": "https://pbs.twimg.com/media/FODc1mAXsAgZ3q3.png",
+					"url": "https://t.co/p2ftjno9ka",
+					"display_url": "pic.twitter.com/p2ftjno9ka",
+					"expanded_url": "https://twitter.com/mfshill/status/1504445099081715713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 373,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 658,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 744,
+							"h": 1356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504445088835022800,
+					"id_str": "1504445088835022856",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FODc1mAXsAgZ3q3.png",
+					"media_url_https": "https://pbs.twimg.com/media/FODc1mAXsAgZ3q3.png",
+					"url": "https://t.co/p2ftjno9ka",
+					"display_url": "pic.twitter.com/p2ftjno9ka",
+					"expanded_url": "https://twitter.com/mfshill/status/1504445099081715713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 373,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 658,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 744,
+							"h": 1356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "lunch time challenges \nDaily Quordle #52\n7️⃣5️⃣\n9️⃣6️⃣\nhttps://t.co/yAtnqNZVKC https://t.co/p2ftjno9ka"
+	},
+	{
+		"created_at": "Thu Mar 17 11:20:29 +0000 2022",
+		"id": 1504363795996721200,
+		"id_str": "1504417384345526279",
+		"full_text": "Series 3 Episode 5 of @WhatGoesPod can be found on all major podcast providers or you can click here! \nhttps://t.co/gZxv4U33x3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WhatGoesPod",
+					"name": "WhatGoesPod",
+					"id": 1093127491911331800,
+					"id_str": "1093127491911331842",
+					"indices": [
+						22,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gZxv4U33x3",
+					"expanded_url": "https://anchor.fm/what-goes-around/episodes/S3E5-with-Dele-Sosimi-e1fqra8",
+					"display_url": "anchor.fm/what-goes-arou…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1504363793501110300,
+		"in_reply_to_status_id_str": "1504363793501110276",
+		"in_reply_to_user_id": 1093127491911331800,
+		"in_reply_to_user_id_str": "1093127491911331842",
+		"in_reply_to_screen_name": "WhatGoesPod",
+		"user": {
+			"id": 1093127491911331800,
+			"id_str": "1093127491911331842",
+			"name": "WhatGoesPod",
+			"screen_name": "WhatGoesPod",
+			"location": "LDN",
+			"description": "What goes around? A podcast more concerned with music lovers than music makers. “The whole thing is very jolly” \nMiranda Sawyer, The Observer.",
+			"url": "https://t.co/4tvBzBDkpm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4tvBzBDkpm",
+							"expanded_url": "http://www.anchor.fm/what-goes-around",
+							"display_url": "anchor.fm/what-goes-arou…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 985,
+			"friends_count": 1137,
+			"listed_count": 6,
+			"created_at": "Wed Feb 06 12:41:18 +0000 2019",
+			"favourites_count": 2473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172962837649661952/QZhxSZAD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172962837649661952/QZhxSZAD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093127491911331842/1568491113",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Series 3 Episode 5 of @WhatGoesPod can be found on all major podcast providers or you can click here! \nhttps://t.co/gZxv4U33x3"
+	},
+	{
 		"created_at": "Thu Mar 17 00:10:37 +0000 2022",
 		"id": 1504248805004394500,
 		"id_str": "1504248805004394499",
