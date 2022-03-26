@@ -1,6 +1,978 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 25 20:54:22 +0000 2022",
+		"id": 1507460910486814700,
+		"id_str": "1507460910486814721",
+		"full_text": "@TC_Cornesto such a good film with an amazing performance by her and Jen. 👌🏾",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC Cornesto",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1507448609838669800,
+		"in_reply_to_status_id_str": "1507448609838669827",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 265,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TC_Cornesto such a good film with an amazing performance by her and Jen. 👌🏾"
+	},
+	{
+		"created_at": "Fri Mar 25 19:13:18 +0000 2022",
+		"id": 1507433145523753000,
+		"id_str": "1507435475010826246",
+		"full_text": "Not now Crimean-Congo haemorrhagic fever https://t.co/v8EbfZZ9FD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v8EbfZZ9FD",
+					"expanded_url": "https://twitter.com/syramadad/status/1507431415230742536",
+					"display_url": "twitter.com/syramadad/stat…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19991214,
+			"id_str": "19991214",
+			"name": "TC Cornesto",
+			"screen_name": "TC_Cornesto",
+			"location": "",
+			"description": "Absolute shambles of a man",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1623,
+			"friends_count": 2025,
+			"listed_count": 49,
+			"created_at": "Tue Feb 03 18:28:43 +0000 2009",
+			"favourites_count": 72685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 138538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484649097797775360/CMuoE2e0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484649097797775360/CMuoE2e0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19991214/1639097856",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1507431415230742500,
+		"quoted_status_id_str": "1507431415230742536",
+		"quoted_status_permalink": {
+			"url": "https://t.co/v8EbfZZ9FD",
+			"expanded": "https://twitter.com/syramadad/status/1507431415230742536",
+			"display": "twitter.com/syramadad/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 25 18:57:10 +0000 2022",
+			"id": 1507431415230742500,
+			"id_str": "1507431415230742536",
+			"full_text": "Crimean-Congo haemorrhagic fever case identified in England, following travel to Central Asia\n\nhttps://t.co/iB7OP77Aor",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iB7OP77Aor",
+						"expanded_url": "https://www.gov.uk/government/news/crimean-congo-haemorrhagic-fever-case-identified-in-england-following-travel-to-central-asia",
+						"display_url": "gov.uk/government/new…",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 230769694,
+				"id_str": "230769694",
+				"name": "Dr. Syra Madad",
+				"screen_name": "syramadad",
+				"location": "NYC 🗽",
+				"description": "Infectious Disease Epidemiologist▪️Sr Director Special Pathogens @NYCHealthSystem▪️Faculty @TheNETEC @BUCEID▪️Fellow @BelferCenter",
+				"url": "https://t.co/uURvRr50sV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uURvRr50sV",
+								"expanded_url": "https://scty.org/syra",
+								"display_url": "scty.org/syra",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 67908,
+				"friends_count": 989,
+				"listed_count": 988,
+				"created_at": "Sun Dec 26 16:31:31 +0000 2010",
+				"favourites_count": 8304,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10498,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1294097185139810306/Be66Vl9c_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1294097185139810306/Be66Vl9c_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/230769694/1604691859",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not now Crimean-Congo haemorrhagic fever https://t.co/v8EbfZZ9FD"
+	},
+	{
+		"created_at": "Fri Mar 25 19:12:36 +0000 2022",
+		"id": 1507408034120990700,
+		"id_str": "1507435296710963202",
+		"full_text": "Russian State Television Descends Into Screaming Match Over Putin’s War Failures in Ukraine:\n\nMilitary experts on Russian state TV predict that Russia's war against Ukraine will go on for 40 more years.\n\nhttps://t.co/nlX7rUISUi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nlX7rUISUi",
+					"expanded_url": "https://www.thedailybeast.com/russian-state-television-descends-into-screaming-match-over-vladimir-putins-war-failures-in-ukraine",
+					"display_url": "thedailybeast.com/russian-state-…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 105327432,
+			"id_str": "105327432",
+			"name": "Julia Davis",
+			"screen_name": "JuliaDavisNews",
+			"location": "United States",
+			"description": "Columnist @TheDailyBeast, Russian Media Analyst, member @TheEmmys, @SAGAFTRA, @FLEOAORG, @WomenInFilm.\n\nI watch Russian state TV, so you don't have to.",
+			"url": "https://t.co/jkgE3TNxS4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jkgE3TNxS4",
+							"expanded_url": "https://www.thedailybeast.com/author/julia-davis",
+							"display_url": "thedailybeast.com/author/julia-d…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 230064,
+			"friends_count": 1609,
+			"listed_count": 3246,
+			"created_at": "Sat Jan 16 01:34:50 +0000 2010",
+			"favourites_count": 134131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 100056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F71B1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173814137878646784/Gu54B4pc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173814137878646784/Gu54B4pc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/105327432/1647911557",
+			"profile_link_color": "395A61",
+			"profile_sidebar_border_color": "1AFF05",
+			"profile_sidebar_fill_color": "FFD9F7",
+			"profile_text_color": "0E0F0F",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1056,
+		"favorite_count": 2609,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Russian State Television Descends Into Screaming Match Over Putin’s War Failures in Ukraine:\n\nMilitary experts on Russian state TV predict that Russia's war against Ukraine will go on for 40 more years.\n\nhttps://t.co/nlX7rUISUi"
+	},
+	{
+		"created_at": "Fri Mar 25 13:59:15 +0000 2022",
+		"id": 1507356439454666800,
+		"id_str": "1507356439454666757",
+		"full_text": "he's living in a world entirely of his own creation. https://t.co/odwq5p8Rxv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/odwq5p8Rxv",
+					"expanded_url": "https://twitter.com/JohnnyFocal/status/1507348402861977600",
+					"display_url": "twitter.com/JohnnyFocal/st…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 265,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1507348402861977600,
+		"quoted_status_id_str": "1507348402861977600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/odwq5p8Rxv",
+			"expanded": "https://twitter.com/JohnnyFocal/status/1507348402861977600",
+			"display": "twitter.com/JohnnyFocal/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 25 13:27:19 +0000 2022",
+			"id": 1507348402861977600,
+			"id_str": "1507348402861977600",
+			"full_text": "JK Rowling cited by Vladimir Putin as he accuses the West of ‘trying to cancel’ Russia https://t.co/cooniRQ4o6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cooniRQ4o6",
+						"expanded_url": "http://ow.ly/v5Pe30sfqe8",
+						"display_url": "ow.ly/v5Pe30sfqe8",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20022608,
+				"id_str": "20022608",
+				"name": "Jon Thompson",
+				"screen_name": "JohnnyFocal",
+				"location": "LA / London.",
+				"description": "Film Producer, Story Teller, Commentator & Time Traveler.",
+				"url": "https://t.co/Ue1DDbcgiR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ue1DDbcgiR",
+								"expanded_url": "http://imdb.me/jonthompson",
+								"display_url": "imdb.me/jonthompson",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 72091,
+				"friends_count": 45094,
+				"listed_count": 796,
+				"created_at": "Wed Feb 04 02:32:50 +0000 2009",
+				"favourites_count": 1706,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 88247,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/615534499217063936/xabJso2n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/615534499217063936/xabJso2n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20022608/1631407971",
+				"profile_link_color": "212E6E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "he's living in a world entirely of his own creation. https://t.co/odwq5p8Rxv"
+	},
+	{
+		"created_at": "Fri Mar 25 13:57:01 +0000 2022",
+		"id": 1507355880412569600,
+		"id_str": "1507355880412569603",
+		"full_text": "Phew 😊\nDaily #40\n2️⃣1️⃣⬛0️⃣8️⃣\n2️⃣0️⃣⬛0️⃣9️⃣\n1️⃣0️⃣⬛1️⃣1️⃣\n0️⃣6️⃣⬛1️⃣2️⃣\n1️⃣3️⃣⬛1️⃣4️⃣\n0️⃣2️⃣⬛1️⃣5️⃣\n1️⃣9️⃣⬛1️⃣6️⃣\n1️⃣7️⃣⬛1️⃣8️⃣\nhttps://t.co/pR5Un5u50M\n#sedecordle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sedecordle",
+					"indices": [
+						153,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pR5Un5u50M",
+					"expanded_url": "http://sedecordle.com",
+					"display_url": "sedecordle.com",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 265,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Phew 😊\nDaily #40\n2️⃣1️⃣⬛0️⃣8️⃣\n2️⃣0️⃣⬛0️⃣9️⃣\n1️⃣0️⃣⬛1️⃣1️⃣\n0️⃣6️⃣⬛1️⃣2️⃣\n1️⃣3️⃣⬛1️⃣4️⃣\n0️⃣2️⃣⬛1️⃣5️⃣\n1️⃣9️⃣⬛1️⃣6️⃣\n1️⃣7️⃣⬛1️⃣8️⃣\nhttps://t.co/pR5Un5u50M\n#sedecordle"
+	},
+	{
+		"created_at": "Fri Mar 25 12:58:59 +0000 2022",
+		"id": 1507341273857933300,
+		"id_str": "1507341273857933313",
+		"full_text": "Daily Quordle #60\n7️⃣6️⃣\n4️⃣5️⃣\nhttps://t.co/yAtnqNZVKC https://t.co/6sRrUlqakO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yAtnqNZVKC",
+					"expanded_url": "http://quordle.com",
+					"display_url": "quordle.com",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1507341266031456300,
+					"id_str": "1507341266031456261",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FOsm5S0XsAUp9RS.png",
+					"media_url_https": "https://pbs.twimg.com/media/FOsm5S0XsAUp9RS.png",
+					"url": "https://t.co/6sRrUlqakO",
+					"display_url": "pic.twitter.com/6sRrUlqakO",
+					"expanded_url": "https://twitter.com/mfshill/status/1507341273857933313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 744,
+							"h": 1084,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 467,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 744,
+							"h": 1084,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1507341266031456300,
+					"id_str": "1507341266031456261",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/FOsm5S0XsAUp9RS.png",
+					"media_url_https": "https://pbs.twimg.com/media/FOsm5S0XsAUp9RS.png",
+					"url": "https://t.co/6sRrUlqakO",
+					"display_url": "pic.twitter.com/6sRrUlqakO",
+					"expanded_url": "https://twitter.com/mfshill/status/1507341273857933313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 744,
+							"h": 1084,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 467,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 744,
+							"h": 1084,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 265,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Daily Quordle #60\n7️⃣6️⃣\n4️⃣5️⃣\nhttps://t.co/yAtnqNZVKC https://t.co/6sRrUlqakO"
+	},
+	{
+		"created_at": "Fri Mar 25 11:27:11 +0000 2022",
+		"id": 1507318172772405200,
+		"id_str": "1507318172772405256",
+		"full_text": "Wordle 279 5/6*\n\n⬜⬜🟨⬜🟩\n🟩⬜⬜🟨🟩\n🟩🟩⬜⬜🟩\n🟩🟩⬜⬜🟩\n🟩🟩🟩🟩🟩",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 265,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Wordle 279 5/6*\n\n⬜⬜🟨⬜🟩\n🟩⬜⬜🟨🟩\n🟩🟩⬜⬜🟩\n🟩🟩⬜⬜🟩\n🟩🟩🟩🟩🟩"
+	},
+	{
 		"created_at": "Thu Mar 24 22:49:36 +0000 2022",
 		"id": 1507127520952520700,
 		"id_str": "1507127520952520714",
