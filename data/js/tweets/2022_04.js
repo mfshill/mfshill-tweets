@@ -1,6 +1,589 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 02 12:44:43 +0000 2022",
+		"id": 1510236785661591600,
+		"id_str": "1510236785661591554",
+		"full_text": "the only #NFT i'll be getting into! https://t.co/Sp9GyyvnX2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NFT",
+					"indices": [
+						9,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sp9GyyvnX2",
+					"expanded_url": "https://twitter.com/Mixmag/status/1509704601284489226",
+					"display_url": "twitter.com/Mixmag/status/…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1509704601284489200,
+		"quoted_status_id_str": "1509704601284489226",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Sp9GyyvnX2",
+			"expanded": "https://twitter.com/Mixmag/status/1509704601284489226",
+			"display": "twitter.com/Mixmag/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 01 01:30:00 +0000 2022",
+			"id": 1509704601284489200,
+			"id_str": "1509704601284489226",
+			"full_text": "No way 🤯\n\nhttps://t.co/jsHYFRdaI6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				33
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jsHYFRdaI6",
+						"expanded_url": "https://mixmag.net/read/nft-tech-house-inventors-silicon-valley-glitch-news",
+						"display_url": "mixmag.net/read/nft-tech-…",
+						"indices": [
+							10,
+							33
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18672145,
+				"id_str": "18672145",
+				"name": "Mixmag",
+				"screen_name": "Mixmag",
+				"location": "Worldwide",
+				"description": "Dance music + club culture 🙏",
+				"url": "https://t.co/Hi9vaB20Wl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Hi9vaB20Wl",
+								"expanded_url": "http://www.mixmag.net",
+								"display_url": "mixmag.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 328944,
+				"friends_count": 1420,
+				"listed_count": 3416,
+				"created_at": "Tue Jan 06 12:30:05 +0000 2009",
+				"favourites_count": 4729,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 83853,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1505939144219971590/4Yiwz1Zi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505939144219971590/4Yiwz1Zi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18672145/1616767621",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the only #NFT i'll be getting into! https://t.co/Sp9GyyvnX2"
+	},
+	{
+		"created_at": "Sat Apr 02 12:37:43 +0000 2022",
+		"id": 1510235025631072300,
+		"id_str": "1510235025631072269",
+		"full_text": "Framed #22\n🎥 🟥 🟥 🟥 🟥 🟥 🟩\n\nhttps://t.co/Y0w4iqrazb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0w4iqrazb",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "no",
+		"text": "Framed #22\n🎥 🟥 🟥 🟥 🟥 🟥 🟩\n\nhttps://t.co/Y0w4iqrazb"
+	},
+	{
+		"created_at": "Sat Apr 02 12:31:43 +0000 2022",
+		"id": 1510233514591072300,
+		"id_str": "1510233514591072257",
+		"full_text": "Daily #48\n1️⃣6️⃣⬛0️⃣4️⃣\n1️⃣8️⃣⬛0️⃣7️⃣\n0️⃣6️⃣⬛0️⃣8️⃣\n0️⃣9️⃣⬛1️⃣0️⃣\n1️⃣7️⃣⬛1️⃣1️⃣\n1️⃣2️⃣⬛1️⃣3️⃣\n1️⃣4️⃣⬛1️⃣5️⃣\n1️⃣9️⃣⬛2️⃣0️⃣\nhttps://t.co/pR5Un5u50M\n#sedecordle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sedecordle",
+					"indices": [
+						146,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pR5Un5u50M",
+					"expanded_url": "http://sedecordle.com",
+					"display_url": "sedecordle.com",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Daily #48\n1️⃣6️⃣⬛0️⃣4️⃣\n1️⃣8️⃣⬛0️⃣7️⃣\n0️⃣6️⃣⬛0️⃣8️⃣\n0️⃣9️⃣⬛1️⃣0️⃣\n1️⃣7️⃣⬛1️⃣1️⃣\n1️⃣2️⃣⬛1️⃣3️⃣\n1️⃣4️⃣⬛1️⃣5️⃣\n1️⃣9️⃣⬛2️⃣0️⃣\nhttps://t.co/pR5Un5u50M\n#sedecordle"
+	},
+	{
+		"created_at": "Sat Apr 02 12:20:51 +0000 2022",
+		"id": 1510230781272244200,
+		"id_str": "1510230781272244227",
+		"full_text": "Daily Quordle 68\n5️⃣4️⃣\n3️⃣8️⃣\nhttps://t.co/yAtnqNZVKC https://t.co/wpxuv8hZkt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yAtnqNZVKC",
+					"expanded_url": "http://quordle.com",
+					"display_url": "quordle.com",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1510230773848285200,
+					"id_str": "1510230773848285185",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FPVq4yQXIAEDuy7.png",
+					"media_url_https": "https://pbs.twimg.com/media/FPVq4yQXIAEDuy7.png",
+					"url": "https://t.co/wpxuv8hZkt",
+					"display_url": "pic.twitter.com/wpxuv8hZkt",
+					"expanded_url": "https://twitter.com/mfshill/status/1510230781272244227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 744,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 744,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1510230773848285200,
+					"id_str": "1510230773848285185",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FPVq4yQXIAEDuy7.png",
+					"media_url_https": "https://pbs.twimg.com/media/FPVq4yQXIAEDuy7.png",
+					"url": "https://t.co/wpxuv8hZkt",
+					"display_url": "pic.twitter.com/wpxuv8hZkt",
+					"expanded_url": "https://twitter.com/mfshill/status/1510230781272244227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 744,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 744,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Daily Quordle 68\n5️⃣4️⃣\n3️⃣8️⃣\nhttps://t.co/yAtnqNZVKC https://t.co/wpxuv8hZkt"
+	},
+	{
 		"created_at": "Fri Apr 01 23:23:41 +0000 2022",
 		"id": 1510035198439743500,
 		"id_str": "1510035198439743490",
