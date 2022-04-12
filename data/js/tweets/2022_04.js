@@ -1,6 +1,999 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 11 23:30:49 +0000 2022",
+		"id": 1513660873734344700,
+		"id_str": "1513660873734344711",
+		"full_text": "Bed! \n\nDaily #58\n1️⃣0️⃣⬛0️⃣8️⃣\n1️⃣1️⃣⬛1️⃣2️⃣\n0️⃣3️⃣⬛2️⃣0️⃣\n0️⃣4️⃣⬛1️⃣3️⃣\n0️⃣9️⃣⬛0️⃣6️⃣\n1️⃣6️⃣⬛1️⃣4️⃣\n1️⃣5️⃣⬛2️⃣1️⃣\n1️⃣7️⃣⬛1️⃣9️⃣\nhttps://t.co/pR5Un5u50M\n#sedecordle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sedecordle",
+					"indices": [
+						153,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pR5Un5u50M",
+					"expanded_url": "http://sedecordle.com",
+					"display_url": "sedecordle.com",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Bed! \n\nDaily #58\n1️⃣0️⃣⬛0️⃣8️⃣\n1️⃣1️⃣⬛1️⃣2️⃣\n0️⃣3️⃣⬛2️⃣0️⃣\n0️⃣4️⃣⬛1️⃣3️⃣\n0️⃣9️⃣⬛0️⃣6️⃣\n1️⃣6️⃣⬛1️⃣4️⃣\n1️⃣5️⃣⬛2️⃣1️⃣\n1️⃣7️⃣⬛1️⃣9️⃣\nhttps://t.co/pR5Un5u50M\n#sedecordle"
+	},
+	{
+		"created_at": "Mon Apr 11 23:15:49 +0000 2022",
+		"id": 1513657097652682800,
+		"id_str": "1513657097652682759",
+		"full_text": "Daily Quordle 78\n2️⃣8️⃣\n5️⃣6️⃣\nhttps://t.co/yAtnqNZVKC https://t.co/8QRckndjkb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yAtnqNZVKC",
+					"expanded_url": "http://quordle.com",
+					"display_url": "quordle.com",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1513657089813631000,
+					"id_str": "1513657089813630978",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FQGXGn4X0AIDBRt.png",
+					"media_url_https": "https://pbs.twimg.com/media/FQGXGn4X0AIDBRt.png",
+					"url": "https://t.co/8QRckndjkb",
+					"display_url": "pic.twitter.com/8QRckndjkb",
+					"expanded_url": "https://twitter.com/mfshill/status/1513657097652682759/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 732,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 415,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 744,
+							"h": 1220,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513657089813631000,
+					"id_str": "1513657089813630978",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FQGXGn4X0AIDBRt.png",
+					"media_url_https": "https://pbs.twimg.com/media/FQGXGn4X0AIDBRt.png",
+					"url": "https://t.co/8QRckndjkb",
+					"display_url": "pic.twitter.com/8QRckndjkb",
+					"expanded_url": "https://twitter.com/mfshill/status/1513657097652682759/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 732,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 415,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 744,
+							"h": 1220,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Daily Quordle 78\n2️⃣8️⃣\n5️⃣6️⃣\nhttps://t.co/yAtnqNZVKC https://t.co/8QRckndjkb"
+	},
+	{
+		"created_at": "Mon Apr 11 23:06:52 +0000 2022",
+		"id": 1513654846301384700,
+		"id_str": "1513654846301384712",
+		"full_text": "Framed #32\n🎥 🟩 ⬛ ⬛ ⬛ ⬛ ⬛\n\nhttps://t.co/Y0w4iqrazb https://t.co/shyy6JYoHy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0w4iqrazb",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1513654839577919500,
+					"id_str": "1513654839577919492",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FQGVDpGXwAQFdpJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQGVDpGXwAQFdpJ.jpg",
+					"url": "https://t.co/shyy6JYoHy",
+					"display_url": "pic.twitter.com/shyy6JYoHy",
+					"expanded_url": "https://twitter.com/mfshill/status/1513654846301384712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 244,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 244,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513654839577919500,
+					"id_str": "1513654839577919492",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FQGVDpGXwAQFdpJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQGVDpGXwAQFdpJ.jpg",
+					"url": "https://t.co/shyy6JYoHy",
+					"display_url": "pic.twitter.com/shyy6JYoHy",
+					"expanded_url": "https://twitter.com/mfshill/status/1513654846301384712/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 244,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 244,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 244,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							61
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FQGVDpGXwAQFdpJ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "no",
+		"text": "Framed #32\n🎥 🟩 ⬛ ⬛ ⬛ ⬛ ⬛\n\nhttps://t.co/Y0w4iqrazb https://t.co/shyy6JYoHy"
+	},
+	{
+		"created_at": "Mon Apr 11 23:05:50 +0000 2022",
+		"id": 1513654587663822800,
+		"id_str": "1513654587663822852",
+		"full_text": "Wordle 297 4/6*\n\n⬜🟩⬜⬜⬜\n⬜🟩⬜🟩⬜\n⬜🟩🟨🟩🟩\n🟩🟩🟩🟩🟩\n\nSkill 65/100\nLuck 62/100",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Wordle 297 4/6*\n\n⬜🟩⬜⬜⬜\n⬜🟩⬜🟩⬜\n⬜🟩🟨🟩🟩\n🟩🟩🟩🟩🟩\n\nSkill 65/100\nLuck 62/100"
+	},
+	{
+		"created_at": "Mon Apr 11 20:53:53 +0000 2022",
+		"id": 1513621382617342000,
+		"id_str": "1513621382617341955",
+		"full_text": "this is mental - Foreigner Gets Covid in China - Chaos ensues https://t.co/cFX4vawh2g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cFX4vawh2g",
+					"expanded_url": "https://youtu.be/IonJwjKecfE",
+					"display_url": "youtu.be/IonJwjKecfE",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is mental - Foreigner Gets Covid in China - Chaos ensues https://t.co/cFX4vawh2g"
+	},
+	{
+		"created_at": "Mon Apr 11 12:17:00 +0000 2022",
+		"id": 1513491301647401000,
+		"id_str": "1513491301647400962",
+		"full_text": "Daily Quordle 77\n🟥🟥\n5️⃣6️⃣\nhttps://t.co/yAtnqNZVKC https://t.co/5YqRj6dwbQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yAtnqNZVKC",
+					"expanded_url": "http://quordle.com",
+					"display_url": "quordle.com",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1513465765881602000,
+					"id_str": "1513465765881602049",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FQDpGGsWYAEWK5n.png",
+					"media_url_https": "https://pbs.twimg.com/media/FQDpGGsWYAEWK5n.png",
+					"url": "https://t.co/5YqRj6dwbQ",
+					"display_url": "pic.twitter.com/5YqRj6dwbQ",
+					"expanded_url": "https://twitter.com/mfshill/status/1513491301647400962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 744,
+							"h": 1288,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 693,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 393,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513465765881602000,
+					"id_str": "1513465765881602049",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FQDpGGsWYAEWK5n.png",
+					"media_url_https": "https://pbs.twimg.com/media/FQDpGGsWYAEWK5n.png",
+					"url": "https://t.co/5YqRj6dwbQ",
+					"display_url": "pic.twitter.com/5YqRj6dwbQ",
+					"expanded_url": "https://twitter.com/mfshill/status/1513491301647400962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 744,
+							"h": 1288,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 693,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 393,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Daily Quordle 77\n🟥🟥\n5️⃣6️⃣\nhttps://t.co/yAtnqNZVKC https://t.co/5YqRj6dwbQ"
+	},
+	{
+		"created_at": "Mon Apr 11 12:10:00 +0000 2022",
+		"id": 1513489540664619000,
+		"id_str": "1513489540664619017",
+		"full_text": "Daily #57\n1️⃣3️⃣⬛1️⃣2️⃣\n0️⃣3️⃣⬛1️⃣6️⃣\n0️⃣4️⃣⬛1️⃣7️⃣\n0️⃣8️⃣⬛0️⃣7️⃣\n1️⃣0️⃣⬛1️⃣4️⃣\n1️⃣8️⃣⬛1️⃣9️⃣\n🟥🟥⬛2️⃣0️⃣\n2️⃣1️⃣⬛🟥🟥\nhttps://t.co/pR5Un5LFSk\n#sedecordle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sedecordle",
+					"indices": [
+						138,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pR5Un5LFSk",
+					"expanded_url": "http://sedecordle.com",
+					"display_url": "sedecordle.com",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Daily #57\n1️⃣3️⃣⬛1️⃣2️⃣\n0️⃣3️⃣⬛1️⃣6️⃣\n0️⃣4️⃣⬛1️⃣7️⃣\n0️⃣8️⃣⬛0️⃣7️⃣\n1️⃣0️⃣⬛1️⃣4️⃣\n1️⃣8️⃣⬛1️⃣9️⃣\n🟥🟥⬛2️⃣0️⃣\n2️⃣1️⃣⬛🟥🟥\nhttps://t.co/pR5Un5LFSk\n#sedecordle"
+	},
+	{
+		"created_at": "Mon Apr 11 12:03:00 +0000 2022",
+		"id": 1513487778566197200,
+		"id_str": "1513487778566197255",
+		"full_text": "Wordle 296 3/6*\n\n⬜🟨⬜🟩⬜\n⬜⬜⬜🟩🟩\n🟩🟩🟩🟩🟩\n\nSkill 88/100\nLuck 79/100",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Wordle 296 3/6*\n\n⬜🟨⬜🟩⬜\n⬜⬜⬜🟩🟩\n🟩🟩🟩🟩🟩\n\nSkill 88/100\nLuck 79/100"
+	},
+	{
 		"created_at": "Sun Apr 10 17:34:35 +0000 2022",
 		"id": 1513208835502129200,
 		"id_str": "1513208835502129154",
