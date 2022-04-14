@@ -1,6 +1,539 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 13 21:50:03 +0000 2022",
+		"id": 1514360289352953900,
+		"id_str": "1514360289352953862",
+		"full_text": "@aburtch @JoePompliano @CoinDesk https://t.co/mGtPP2fb3q",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aburtch",
+					"name": "Anson Burtch",
+					"id": 111419855,
+					"id_str": "111419855",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "JoePompliano",
+					"name": "Joe Pompliano",
+					"id": 1230676218770579500,
+					"id_str": "1230676218770579456",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"screen_name": "CoinDesk",
+					"name": "CoinDesk",
+					"id": 1333467482,
+					"id_str": "1333467482",
+					"indices": [
+						23,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mGtPP2fb3q",
+					"expanded_url": "https://twitter.com/mfshill/status/1506724423369379847",
+					"display_url": "twitter.com/mfshill/status…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1514333277821321200,
+		"in_reply_to_status_id_str": "1514333277821321217",
+		"in_reply_to_user_id": 111419855,
+		"in_reply_to_user_id_str": "111419855",
+		"in_reply_to_screen_name": "aburtch",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43044,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1506724423369379800,
+		"quoted_status_id_str": "1506724423369379847",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mGtPP2fb3q",
+			"expanded": "https://twitter.com/mfshill/status/1506724423369379847",
+			"display": "twitter.com/mfshill/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 23 20:07:50 +0000 2022",
+			"id": 1506724423369379800,
+			"id_str": "1506724423369379847",
+			"full_text": "\"The whole thing operates by buying worthless assets believing that you will later be able to sell them to a bigger fool\"\n\nRandom video but it is fascinating, educational &amp; really well presented. Long but not boring with a good dose of added humour. https://t.co/5i7tiFUm7c",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5i7tiFUm7c",
+						"expanded_url": "https://youtu.be/YQ_xWvX1n9g",
+						"display_url": "youtu.be/YQ_xWvX1n9g",
+						"indices": [
+							254,
+							277
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95424142,
+				"id_str": "95424142",
+				"name": "Hilly",
+				"screen_name": "mfshill",
+				"location": "Null Island",
+				"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 259,
+				"friends_count": 264,
+				"listed_count": 22,
+				"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+				"favourites_count": 1342,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 43044,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+				"profile_link_color": "9D6238",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EDE1B0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@aburtch @JoePompliano @CoinDesk https://t.co/mGtPP2fb3q"
+	},
+	{
+		"created_at": "Wed Apr 13 20:12:29 +0000 2022",
+		"id": 1514313273772019700,
+		"id_str": "1514335736392306692",
+		"full_text": "*A One Show item introducing a new Nixon film*\n\nDan Stevens: “What you’ve got is a criminal for a leader who is wrapped in a messy war, embroiled in a stupid scandal and surrounded by ambitious idiots and really should resign … I’m sorry that’s the intro to Boris Johnson.” https://t.co/8JPTQGCcQT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1514313233250803700,
+					"id_str": "1514313233250803717",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1514313233250803717/pu/img/llUPH4dTWNw5Kvet.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1514313233250803717/pu/img/llUPH4dTWNw5Kvet.jpg",
+					"url": "https://t.co/8JPTQGCcQT",
+					"display_url": "pic.twitter.com/8JPTQGCcQT",
+					"expanded_url": "https://twitter.com/scottygb/status/1514313273772019714/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 660,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 704,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514313233250803700,
+					"id_str": "1514313233250803717",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1514313233250803717/pu/img/llUPH4dTWNw5Kvet.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1514313233250803717/pu/img/llUPH4dTWNw5Kvet.jpg",
+					"url": "https://t.co/8JPTQGCcQT",
+					"display_url": "pic.twitter.com/8JPTQGCcQT",
+					"expanded_url": "https://twitter.com/scottygb/status/1514313273772019714/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 660,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 704,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							20,
+							11
+						],
+						"duration_millis": 19896,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514313233250803717/pu/vid/654x360/TM_ka8ifiNUFw26Y.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514313233250803717/pu/vid/1280x704/H5TPK4wiDYxCvFnF.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1514313233250803717/pu/pl/5fuiMdFJ8PSXqXs5.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1514313233250803717/pu/vid/490x270/svD8jEXDzg3p7-UA.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1514312511935418400,
+		"in_reply_to_status_id_str": "1514312511935418384",
+		"in_reply_to_user_id": 15721456,
+		"in_reply_to_user_id_str": "15721456",
+		"in_reply_to_screen_name": "scottygb",
+		"user": {
+			"id": 15721456,
+			"id_str": "15721456",
+			"name": "Scott Bryan",
+			"screen_name": "scottygb",
+			"location": "East London",
+			"description": "TV critic and broadcaster. Must Watch podcast on @bbc5live and @BBCSounds. Dyslexic. scottglennbryan@gmail.com.",
+			"url": "https://t.co/wlBd2JY9T6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wlBd2JY9T6",
+							"expanded_url": "http://www.scottybryan.com",
+							"display_url": "scottybryan.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72479,
+			"friends_count": 3426,
+			"listed_count": 540,
+			"created_at": "Mon Aug 04 12:33:01 +0000 2008",
+			"favourites_count": 34692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 81126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1070655857858355200/e34lucdT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070655857858355200/e34lucdT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15721456/1406021532",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3429,
+		"favorite_count": 16244,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "*A One Show item introducing a new Nixon film*\n\nDan Stevens: “What you’ve got is a criminal for a leader who is wrapped in a messy war, embroiled in a stupid scandal and surrounded by ambitious idiots and really should resign … I’m sorry that’s the intro to Boris Johnson.” https://t.co/8JPTQGCcQT"
+	},
+	{
+		"created_at": "Wed Apr 13 12:10:00 +0000 2022",
+		"id": 1514214315624214500,
+		"id_str": "1514214315624214532",
+		"full_text": "Daily #59\n🟥🟥⬛🟥🟥\n🟥🟥⬛2️⃣1️⃣\n1️⃣1️⃣⬛1️⃣3️⃣\n2️⃣0️⃣⬛1️⃣4️⃣\n0️⃣6️⃣⬛0️⃣4️⃣\n1️⃣9️⃣⬛1️⃣8️⃣\n1️⃣7️⃣⬛1️⃣6️⃣\n0️⃣8️⃣⬛1️⃣5️⃣\nhttps://t.co/pR5Un5u50M\n#sedecordle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sedecordle",
+					"indices": [
+						134,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pR5Un5u50M",
+					"expanded_url": "http://sedecordle.com",
+					"display_url": "sedecordle.com",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43044,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502070034037985280/IplTrpoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Daily #59\n🟥🟥⬛🟥🟥\n🟥🟥⬛2️⃣1️⃣\n1️⃣1️⃣⬛1️⃣3️⃣\n2️⃣0️⃣⬛1️⃣4️⃣\n0️⃣6️⃣⬛0️⃣4️⃣\n1️⃣9️⃣⬛1️⃣8️⃣\n1️⃣7️⃣⬛1️⃣6️⃣\n0️⃣8️⃣⬛1️⃣5️⃣\nhttps://t.co/pR5Un5u50M\n#sedecordle"
+	},
+	{
 		"created_at": "Tue Apr 12 23:21:32 +0000 2022",
 		"id": 1514020923971670000,
 		"id_str": "1514020923971670017",
