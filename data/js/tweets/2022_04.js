@@ -1,6 +1,479 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 18 23:32:33 +0000 2022",
+		"id": 1516198024447410200,
+		"id_str": "1516198024447410179",
+		"full_text": "king of the world!!! \n\nActorle 34 1/8\n🟩\nPlay here: https://t.co/HeqYI9Q3wY https://t.co/omKBB3WTEA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HeqYI9Q3wY",
+					"expanded_url": "https://actorle.com",
+					"display_url": "actorle.com",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1516198017686253600,
+					"id_str": "1516198017686253571",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FQqeEF1XMAMCWZq.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQqeEF1XMAMCWZq.jpg",
+					"url": "https://t.co/omKBB3WTEA",
+					"display_url": "pic.twitter.com/omKBB3WTEA",
+					"expanded_url": "https://twitter.com/mfshill/status/1516198024447410179/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 226,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 226,
+							"h": 168,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 226,
+							"h": 168,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516198017686253600,
+					"id_str": "1516198017686253571",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FQqeEF1XMAMCWZq.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQqeEF1XMAMCWZq.jpg",
+					"url": "https://t.co/omKBB3WTEA",
+					"display_url": "pic.twitter.com/omKBB3WTEA",
+					"expanded_url": "https://twitter.com/mfshill/status/1516198024447410179/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 226,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 226,
+							"h": 168,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 226,
+							"h": 168,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							113,
+							84
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FQqeEF1XMAMCWZq.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "king of the world!!! \n\nActorle 34 1/8\n🟩\nPlay here: https://t.co/HeqYI9Q3wY https://t.co/omKBB3WTEA"
+	},
+	{
+		"created_at": "Mon Apr 18 23:22:04 +0000 2022",
+		"id": 1516195385211068400,
+		"id_str": "1516195385211068419",
+		"full_text": "Wordle 304 5/6*\n\n⬜⬜🟨⬜⬜\n⬜🟨⬜⬜⬜\n⬜🟨⬜⬜🟨\n⬜🟩⬜🟩🟩\n🟩🟩🟩🟩🟩\n\nWordleBot\nSkill 44/100\nLuck 31/100",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Wordle 304 5/6*\n\n⬜⬜🟨⬜⬜\n⬜🟨⬜⬜⬜\n⬜🟨⬜⬜🟨\n⬜🟩⬜🟩🟩\n🟩🟩🟩🟩🟩\n\nWordleBot\nSkill 44/100\nLuck 31/100"
+	},
+	{
+		"created_at": "Mon Apr 18 11:56:00 +0000 2022",
+		"id": 1516022733926289400,
+		"id_str": "1516022733926289419",
+		"full_text": ":| Framed #38\n🎥 🟥 🟥 🟥 🟥 🟥 🟩\n\nhttps://t.co/Y0w4iqrazb\n\n:) Actorle 33 8/8\n⬛⬛⬛⬛⬛⬛⬛🟩\nPlay here: https://t.co/HeqYI9Q3wY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0w4iqrazb",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						29,
+						52
+					]
+				},
+				{
+					"url": "https://t.co/HeqYI9Q3wY",
+					"expanded_url": "https://actorle.com",
+					"display_url": "actorle.com",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ":| Framed #38\n🎥 🟥 🟥 🟥 🟥 🟥 🟩\n\nhttps://t.co/Y0w4iqrazb\n\n:) Actorle 33 8/8\n⬛⬛⬛⬛⬛⬛⬛🟩\nPlay here: https://t.co/HeqYI9Q3wY"
+	},
+	{
+		"created_at": "Mon Apr 18 11:29:57 +0000 2022",
+		"id": 1516016175746109400,
+		"id_str": "1516016175746109449",
+		"full_text": "Daily #64\n1️⃣2️⃣⬛1️⃣4️⃣\n1️⃣5️⃣⬛0️⃣3️⃣\n1️⃣3️⃣⬛0️⃣6️⃣\n1️⃣0️⃣⬛2️⃣0️⃣\n1️⃣6️⃣⬛0️⃣5️⃣\n0️⃣7️⃣⬛0️⃣8️⃣\n1️⃣8️⃣⬛1️⃣7️⃣\n0️⃣9️⃣⬛1️⃣9️⃣\nhttps://t.co/pR5Un5u50M\n#sedecordle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sedecordle",
+					"indices": [
+						146,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pR5Un5u50M",
+					"expanded_url": "http://sedecordle.com",
+					"display_url": "sedecordle.com",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Daily #64\n1️⃣2️⃣⬛1️⃣4️⃣\n1️⃣5️⃣⬛0️⃣3️⃣\n1️⃣3️⃣⬛0️⃣6️⃣\n1️⃣0️⃣⬛2️⃣0️⃣\n1️⃣6️⃣⬛0️⃣5️⃣\n0️⃣7️⃣⬛0️⃣8️⃣\n1️⃣8️⃣⬛1️⃣7️⃣\n0️⃣9️⃣⬛1️⃣9️⃣\nhttps://t.co/pR5Un5u50M\n#sedecordle"
+	},
+	{
 		"created_at": "Sun Apr 17 23:19:49 +0000 2022",
 		"id": 1515832433391935500,
 		"id_str": "1515832433391935488",
