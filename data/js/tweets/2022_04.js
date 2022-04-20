@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 20 00:00:14 +0000 2022",
+		"id": 1516567381673402400,
+		"id_str": "1516567381673402382",
+		"full_text": "Wordle 305 4/6*\n\n⬜🟨⬜🟨⬜\n🟩⬜🟨🟨⬜\n🟩🟨⬜⬜🟨\n🟩🟩🟩🟩🟩\n\nWordleBot\nSkill 91/100\nLuck 40/100",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Wordle 305 4/6*\n\n⬜🟨⬜🟨⬜\n🟩⬜🟨🟨⬜\n🟩🟨⬜⬜🟨\n🟩🟩🟩🟩🟩\n\nWordleBot\nSkill 91/100\nLuck 40/100"
+	},
+	{
+		"created_at": "Tue Apr 19 17:00:46 +0000 2022",
+		"id": 1516461445470433300,
+		"id_str": "1516461818956460033",
+		"full_text": "“I’m too lazy and/or stupid to read/understand the laws that I wrote” and “I’m the best person to lead as the world teeters on the brink of nuclear war” are what lawyers might refer to as “defences in the alternative”.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3297800601,
+			"id_str": "3297800601",
+			"name": "The Secret Barrister",
+			"screen_name": "BarristerSecret",
+			"location": "The Criminal Courts",
+			"description": "Wears a black cape and fights crime. Not Batman. • Author of award-winning No.1 bestseller The Secret Barrister and #FakeLaw • Nothing But The Truth out May 22",
+			"url": "https://t.co/mBqX1Ish90",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mBqX1Ish90",
+							"expanded_url": "http://www.thesecretbarrister.com",
+							"display_url": "thesecretbarrister.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 491391,
+			"friends_count": 1048,
+			"listed_count": 1390,
+			"created_at": "Mon May 25 14:21:29 +0000 2015",
+			"favourites_count": 75042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1021151407045595136/okNMGQCU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021151407045595136/okNMGQCU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3297800601/1642082091",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2181,
+		"favorite_count": 9896,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“I’m too lazy and/or stupid to read/understand the laws that I wrote” and “I’m the best person to lead as the world teeters on the brink of nuclear war” are what lawyers might refer to as “defences in the alternative”."
+	},
+	{
+		"created_at": "Tue Apr 19 12:14:00 +0000 2022",
+		"id": 1516389649463197700,
+		"id_str": "1516389649463197698",
+		"full_text": "Framed #39\n🎥 🟥 🟩 ⬛ ⬛ ⬛ ⬛\n\nhttps://t.co/Y0w4iq9zaB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0w4iq9zaB",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "no",
+		"text": "Framed #39\n🎥 🟥 🟩 ⬛ ⬛ ⬛ ⬛\n\nhttps://t.co/Y0w4iq9zaB"
+	},
+	{
+		"created_at": "Tue Apr 19 12:13:00 +0000 2022",
+		"id": 1516389397767209000,
+		"id_str": "1516389397767208968",
+		"full_text": "Daily #65\n1️⃣1️⃣⬛1️⃣0️⃣\n0️⃣9️⃣⬛0️⃣8️⃣\n1️⃣4️⃣⬛1️⃣7️⃣\n2️⃣1️⃣⬛1️⃣3️⃣\n1️⃣5️⃣⬛1️⃣6️⃣\n🟥🟥⬛1️⃣8️⃣\n2️⃣0️⃣⬛0️⃣6️⃣\n1️⃣9️⃣⬛0️⃣7️⃣\nhttps://t.co/pR5Un5LFSk\n#sedecordle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sedecordle",
+					"indices": [
+						142,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pR5Un5LFSk",
+					"expanded_url": "http://sedecordle.com",
+					"display_url": "sedecordle.com",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 264,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Daily #65\n1️⃣1️⃣⬛1️⃣0️⃣\n0️⃣9️⃣⬛0️⃣8️⃣\n1️⃣4️⃣⬛1️⃣7️⃣\n2️⃣1️⃣⬛1️⃣3️⃣\n1️⃣5️⃣⬛1️⃣6️⃣\n🟥🟥⬛1️⃣8️⃣\n2️⃣0️⃣⬛0️⃣6️⃣\n1️⃣9️⃣⬛0️⃣7️⃣\nhttps://t.co/pR5Un5LFSk\n#sedecordle"
+	},
+	{
 		"created_at": "Mon Apr 18 23:32:33 +0000 2022",
 		"id": 1516198024447410200,
 		"id_str": "1516198024447410179",
