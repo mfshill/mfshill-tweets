@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 06 16:11:49 +0000 2022",
+		"id": 1522244451330142200,
+		"id_str": "1522610091320651779",
+		"full_text": "⭐ Every political debate. Ever.\n\n(featuring @ThatGledhill) https://t.co/4Pjsg6K0ml",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThatGledhill",
+					"name": "Amy Gledhill",
+					"id": 293520248,
+					"id_str": "293520248",
+					"indices": [
+						44,
+						57
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1176495964179316700,
+					"id_str": "1176495964179316737",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1176495964179316737/pu/img/RzA8MeQ0jDU7xCz3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1176495964179316737/pu/img/RzA8MeQ0jDU7xCz3.jpg",
+					"url": "https://t.co/4Pjsg6K0ml",
+					"display_url": "pic.twitter.com/4Pjsg6K0ml",
+					"expanded_url": "https://twitter.com/larryandpaul/status/1522244451330142211/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176495964179316700,
+					"id_str": "1176495964179316737",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1176495964179316737/pu/img/RzA8MeQ0jDU7xCz3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1176495964179316737/pu/img/RzA8MeQ0jDU7xCz3.jpg",
+					"url": "https://t.co/4Pjsg6K0ml",
+					"display_url": "pic.twitter.com/4Pjsg6K0ml",
+					"expanded_url": "https://twitter.com/larryandpaul/status/1522244451330142211/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1176495964179316737/pu/vid/480x270/JIzfQ5MEVaC4-jv-.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1176495964179316737/pu/vid/640x360/j-YYMwmhD2dZyQKH.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1176495964179316737/pu/vid/1280x720/s6e4kZPgETYtpyMW.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1176495964179316737/pu/pl/KHNRwDn6uBGZI7jl.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 97621178,
+			"id_str": "97621178",
+			"name": "💣 ʟᴀʀʀʏ ᴀɴᴅ ᴘᴀᴜʟ 💣",
+			"screen_name": "larryandpaul",
+			"location": "Leeds, England",
+			"description": "Writers. Actors. Mothers.\n\n🎬 ALL SKETCHES:  https://t.co/q8YFfpICet\n📺 LIVE SHOW: https://t.co/lALJ3514mm…\n💸 TO SUPPORT: https://t.co/50p1Egf2ju",
+			"url": "https://t.co/fyoOM2yRYb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fyoOM2yRYb",
+							"expanded_url": "http://www.larryandpaul.com",
+							"display_url": "larryandpaul.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/q8YFfpICet",
+							"expanded_url": "http://youtube.com/larryandpaul/",
+							"display_url": "youtube.com/larryandpaul/",
+							"indices": [
+								44,
+								67
+							]
+						},
+						{
+							"url": "https://t.co/lALJ3514mm",
+							"expanded_url": "http://youtube.com/larryandpaul/l",
+							"display_url": "youtube.com/larryandpaul/l",
+							"indices": [
+								81,
+								104
+							]
+						},
+						{
+							"url": "https://t.co/50p1Egf2ju",
+							"expanded_url": "http://ko-fi.com/larryandpaul/",
+							"display_url": "ko-fi.com/larryandpaul/",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35835,
+			"friends_count": 2114,
+			"listed_count": 174,
+			"created_at": "Fri Dec 18 08:23:03 +0000 2009",
+			"favourites_count": 33624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380159768610881553/ke4huKGp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380159768610881553/ke4huKGp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/97621178/1617890706",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1914,
+		"favorite_count": 6527,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⭐ Every political debate. Ever.\n\n(featuring @ThatGledhill) https://t.co/4Pjsg6K0ml"
+	},
+	{
 		"created_at": "Thu May 05 14:23:22 +0000 2022",
 		"id": 1522220413023006700,
 		"id_str": "1522220413023006720",
