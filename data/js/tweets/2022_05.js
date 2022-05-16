@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 15 22:40:51 +0000 2022",
+		"id": 700011838415704000,
+		"id_str": "1525969486033178625",
+		"full_text": "Here's a poem entitled \"America is a Gun\". https://t.co/RTwWbUtuc7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 700011787933110300,
+					"id_str": "700011787933110272",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/CbbxAyZW0AAx3-_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CbbxAyZW0AAx3-_.jpg",
+					"url": "https://t.co/RTwWbUtuc7",
+					"display_url": "pic.twitter.com/RTwWbUtuc7",
+					"expanded_url": "https://twitter.com/brian_bilston/status/700011838415704064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 503,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 758,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 758,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 700011787933110300,
+					"id_str": "700011787933110272",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/CbbxAyZW0AAx3-_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CbbxAyZW0AAx3-_.jpg",
+					"url": "https://t.co/RTwWbUtuc7",
+					"display_url": "pic.twitter.com/RTwWbUtuc7",
+					"expanded_url": "https://twitter.com/brian_bilston/status/700011838415704064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 503,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 758,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 758,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1663413990,
+			"id_str": "1663413990",
+			"name": "Brian Bilston",
+			"screen_name": "brian_bilston",
+			"location": "I live locally.",
+			"description": "Ceci n'est pas un poème.   Represented by @jounwin",
+			"url": "https://t.co/F17JLMM2IA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F17JLMM2IA",
+							"expanded_url": "https://uk.bookshop.org/shop/brianbilston",
+							"display_url": "uk.bookshop.org/shop/brianbils…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100644,
+			"friends_count": 1145,
+			"listed_count": 605,
+			"created_at": "Sun Aug 11 20:57:54 +0000 2013",
+			"favourites_count": 55846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121413206394716160/0CNazc_H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121413206394716160/0CNazc_H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1663413990/1610982343",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7409,
+		"favorite_count": 8834,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's a poem entitled \"America is a Gun\". https://t.co/RTwWbUtuc7"
+	},
+	{
+		"created_at": "Sun May 15 10:55:51 +0000 2022",
+		"id": 1525792068429283300,
+		"id_str": "1525792068429283333",
+		"full_text": "very good 260min chilled dnb mix from @KushSessionsdnb\n - Dreamscape Part VII https://t.co/aHCL5N6FXv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KushSessionsdnb",
+					"name": "KushSessions",
+					"id": 1013718108,
+					"id_str": "1013718108",
+					"indices": [
+						38,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aHCL5N6FXv",
+					"expanded_url": "https://youtu.be/Sv86pMbxpRs",
+					"display_url": "youtu.be/Sv86pMbxpRs",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 259,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "very good 260min chilled dnb mix from @KushSessionsdnb\n - Dreamscape Part VII https://t.co/aHCL5N6FXv"
+	},
+	{
 		"created_at": "Sat May 14 23:25:19 +0000 2022",
 		"id": 1525618288633561000,
 		"id_str": "1525618288633561089",
