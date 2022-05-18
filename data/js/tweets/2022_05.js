@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 17 11:15:35 +0000 2022",
+		"id": 1526521809595768800,
+		"id_str": "1526521809595768832",
+		"full_text": "should have guessed this in one go\nFramed #67\n🎥 🟥 🟩 ⬛ ⬛ ⬛ ⬛\n\nhttps://t.co/Y0w4iqrazb\n\nActorle 62 1/8\n🟩\nPlay here: https://t.co/HeqYI9Q3wY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0w4iqrazb",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/HeqYI9Q3wY",
+					"expanded_url": "https://actorle.com",
+					"display_url": "actorle.com",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 259,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "should have guessed this in one go\nFramed #67\n🎥 🟥 🟩 ⬛ ⬛ ⬛ ⬛\n\nhttps://t.co/Y0w4iqrazb\n\nActorle 62 1/8\n🟩\nPlay here: https://t.co/HeqYI9Q3wY"
+	},
+	{
+		"created_at": "Tue May 17 10:31:15 +0000 2022",
+		"id": 1526321105916641300,
+		"id_str": "1526510652705189890",
+		"full_text": "That's Mikhail Khodaryonok. Out of all people in the room he is the most sober one. Why? Well, may be because he's the only one with the substantial military experience. He's a career officer of the air defence who turned to a pundit career only after retirement (not a thread) https://t.co/hq9EJ1eIQF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hq9EJ1eIQF",
+					"expanded_url": "https://twitter.com/Noahpinion/status/1526317710170238977",
+					"display_url": "twitter.com/Noahpinion/sta…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1364845405,
+			"id_str": "1364845405",
+			"name": "Kamil Galeev",
+			"screen_name": "kamilkazani",
+			"location": "Washington DC",
+			"description": "Galina Starovoitova Fellow @TheWilsonCenter. MLitt in Early Modern History, St Andrews. MA in China Studies, Peking University. DMs are open",
+			"url": "https://t.co/6OBt3wu1gR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6OBt3wu1gR",
+							"expanded_url": "https://kamilkazani.substack.com",
+							"display_url": "kamilkazani.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339261,
+			"friends_count": 595,
+			"listed_count": 6158,
+			"created_at": "Fri Apr 19 16:30:08 +0000 2013",
+			"favourites_count": 1190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1482496939966877696/UkcBGHrh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1482496939966877696/UkcBGHrh_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1526317710170239000,
+		"quoted_status_id_str": "1526317710170238977",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hq9EJ1eIQF",
+			"expanded": "https://twitter.com/Noahpinion/status/1526317710170238977",
+			"display": "twitter.com/Noahpinion/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 16 21:44:34 +0000 2022",
+			"id": 1526317710170239000,
+			"id_str": "1526317710170238977",
+			"full_text": "This guy just went on Russian state TV and said \"Virtually the entire world is against us, and it's that situation we need to get out of.\"\n\nWell, that took guts. Good to see reality seeping in.\n\nNow guess how you get out of that situation? CALL OFF THE INVASION. https://t.co/X9lyvG4BTY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				262
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/X9lyvG4BTY",
+						"expanded_url": "https://twitter.com/francis_scarr/status/1526293852704890882",
+						"display_url": "twitter.com/francis_scarr/…",
+						"indices": [
+							263,
+							286
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 281877818,
+				"id_str": "281877818",
+				"name": "Noah Smith 🐇🇺🇦",
+				"screen_name": "Noahpinion",
+				"location": "San Francisco, CA",
+				"description": "Writes about economics, tweets about rabbits.\n\nCheck out my Substack and sign up for the free email list: https://t.co/N0VDjJLG17",
+				"url": "https://t.co/DVCTF3obvl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DVCTF3obvl",
+								"expanded_url": "https://noahpinion.substack.com/",
+								"display_url": "noahpinion.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/N0VDjJLG17",
+								"expanded_url": "http://noahpinion.substack.com",
+								"display_url": "noahpinion.substack.com",
+								"indices": [
+									106,
+									129
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 252436,
+				"friends_count": 1052,
+				"listed_count": 5173,
+				"created_at": "Thu Apr 14 04:25:41 +0000 2011",
+				"favourites_count": 507026,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 355918,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1351980569324781568/YckAn-SC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351980569324781568/YckAn-SC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/281877818/1652376588",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1526293852704891000,
+			"quoted_status_id_str": "1526293852704890882",
+			"quoted_status_permalink": {
+				"url": "https://t.co/X9lyvG4BTY",
+				"expanded": "https://twitter.com/francis_scarr/status/1526293852704890882",
+				"display": "twitter.com/francis_scarr/…"
+			},
+			"retweet_count": 427,
+			"favorite_count": 2497,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1298,
+		"favorite_count": 6628,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That's Mikhail Khodaryonok. Out of all people in the room he is the most sober one. Why? Well, may be because he's the only one with the substantial military experience. He's a career officer of the air defence who turned to a pundit career only after retirement (not a thread) https://t.co/hq9EJ1eIQF"
+	},
+	{
 		"created_at": "Mon May 16 23:04:10 +0000 2022",
 		"id": 1526337741998502000,
 		"id_str": "1526337741998501889",
