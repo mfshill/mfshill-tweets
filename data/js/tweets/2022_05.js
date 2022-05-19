@@ -1,6 +1,767 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 18 20:43:52 +0000 2022",
+		"id": 1527027211320053800,
+		"id_str": "1527027211320053760",
+		"full_text": "Why does the UK have the highest inflation in the G7? https://t.co/kt8SwpTsOj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kt8SwpTsOj",
+					"expanded_url": "https://www.theguardian.com/business/2022/may/18/why-uk-highest-inflation-g7-ukraine-covid-brexit",
+					"display_url": "theguardian.com/business/2022/…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 260,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why does the UK have the highest inflation in the G7? https://t.co/kt8SwpTsOj"
+	},
+	{
+		"created_at": "Wed May 18 18:10:55 +0000 2022",
+		"id": 1526967426558087200,
+		"id_str": "1526988719466610691",
+		"full_text": "Fabricant\n\n\\ fab-ree-kūnt \\\n\n(n)\n\nOne who takes a position that is undefendable, ridiculous or offensive. \n\n“Oh he’s had a shocker there. What a fabricant.”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1488856938146369500,
+			"id_str": "1488856938146369547",
+			"name": "Ben Affleck’s Existential Fag Break",
+			"screen_name": "bfafleck",
+			"location": "That there London",
+			"description": "I was two miles away before I was caught by the school leopard",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2480,
+			"friends_count": 737,
+			"listed_count": 2,
+			"created_at": "Wed Feb 02 12:49:09 +0000 2022",
+			"favourites_count": 9510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1488865868130013185/fFx8XOZr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1488865868130013185/fFx8XOZr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1488856938146369547/1643808260",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Fabricant\n\n\\ fab-ree-kūnt \\\n\n(n)\n\nOne who takes a position that is undefendable, ridiculous or offensive. \n\n“Oh he’s had a shocker there. What a fabricant.”"
+	},
+	{
+		"created_at": "Wed May 18 18:09:43 +0000 2022",
+		"id": 1526634992700473300,
+		"id_str": "1526988416407293952",
+		"full_text": "Aliens in 60 seconds may be my favourite thing of the year.\n\n🎥 1A4 Studio. https://t.co/Q72XTFD6cx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526634445729677300,
+					"id_str": "1526634445729677313",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526634445729677313/pu/img/nksFj2PtnNNqriKt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526634445729677313/pu/img/nksFj2PtnNNqriKt.jpg",
+					"url": "https://t.co/Q72XTFD6cx",
+					"display_url": "pic.twitter.com/Q72XTFD6cx",
+					"expanded_url": "https://twitter.com/Getintothis/status/1526634992700473344/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 426,
+							"h": 238,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 426,
+							"h": 238,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 426,
+							"h": 238,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526634445729677300,
+					"id_str": "1526634445729677313",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526634445729677313/pu/img/nksFj2PtnNNqriKt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526634445729677313/pu/img/nksFj2PtnNNqriKt.jpg",
+					"url": "https://t.co/Q72XTFD6cx",
+					"display_url": "pic.twitter.com/Q72XTFD6cx",
+					"expanded_url": "https://twitter.com/Getintothis/status/1526634992700473344/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 426,
+							"h": 238,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 426,
+							"h": 238,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 426,
+							"h": 238,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							213,
+							119
+						],
+						"duration_millis": 60000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526634445729677313/pu/vid/426x238/IHcm-kqepq8Jbr81.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1526634445729677313/pu/pl/9I2gIa4hVHlpLK6W.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19618620,
+			"id_str": "19618620",
+			"name": "Peter Guy",
+			"screen_name": "Getintothis",
+			"location": "Liverpool",
+			"description": "Writer | founding editor of @GetintothisHQ | @AIM_UK Independent Music Champion | lecturer | Prince fanatic | Paulie Gualtieri disciple | #DaBears 🐻⬇️",
+			"url": "https://t.co/FgFxQXZVGC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FgFxQXZVGC",
+							"expanded_url": "http://www.getintothis.co.uk",
+							"display_url": "getintothis.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20186,
+			"friends_count": 158,
+			"listed_count": 318,
+			"created_at": "Tue Jan 27 21:42:51 +0000 2009",
+			"favourites_count": 564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 62212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/558708650483924992/ke1T4OYX_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/558708650483924992/ke1T4OYX_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19618620/1352291997",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "377377",
+			"profile_sidebar_fill_color": "F1F1F4",
+			"profile_text_color": "0F0E10",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 876,
+		"favorite_count": 2857,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Aliens in 60 seconds may be my favourite thing of the year.\n\n🎥 1A4 Studio. https://t.co/Q72XTFD6cx"
+	},
+	{
+		"created_at": "Wed May 18 18:08:12 +0000 2022",
+		"id": 1526892377012576300,
+		"id_str": "1526988034268438532",
+		"full_text": "A man walks into a bar and asks the bartender, \"If I show you a really good trick, will you give me a free drink?\"\nA man walks into a bar and asks the bartender, \"If I show you a really good trick, will you give me a free drink?\"\n\nThe bartender considers it, then agrees.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3229449838,
+			"id_str": "3229449838",
+			"name": "ⓂⒶⓇⓉⒾⓃ ⓉⒽⒺ ⓉⓄⓅ ⓇⒺⒹ ⒷⒶⓈⓉⒶⓇⒹ",
+			"screen_name": "MartinTheTopRed",
+			"location": "Parts, Unknown",
+			"description": "#LFC #19TimesChampions #6TimesUCL #YNWA #JFT97 #FuckTheSun \n\nBlocks followers of rag owned @anfieldwatch\n\nMemes are not my own unless stated",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4423,
+			"friends_count": 2629,
+			"listed_count": 6,
+			"created_at": "Sun May 03 00:06:56 +0000 2015",
+			"favourites_count": 180348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1526925352630685698/A_mD-amw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1526925352630685698/A_mD-amw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3229449838/1496814670",
+			"profile_link_color": "C31014",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "A man walks into a bar and asks the bartender, \"If I show you a really good trick, will you give me a free drink?\"\nA man walks into a bar and asks the bartender, \"If I show you a really good trick, will you give me a free drink?\"\n\nThe bartender considers it, then agrees."
+	},
+	{
+		"created_at": "Wed May 18 11:59:59 +0000 2022",
+		"id": 1526895370722328600,
+		"id_str": "1526895370722328576",
+		"full_text": "@eops https://t.co/sJX13Pb57c",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sJX13Pb57c",
+					"expanded_url": "https://twitter.com/mfshill/status/1526893298413101057",
+					"display_url": "twitter.com/mfshill/status…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1526868103627477000,
+		"in_reply_to_status_id_str": "1526868103627476995",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 260,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1526893298413101000,
+		"quoted_status_id_str": "1526893298413101057",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sJX13Pb57c",
+			"expanded": "https://twitter.com/mfshill/status/1526893298413101057",
+			"display": "twitter.com/mfshill/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 18 11:51:45 +0000 2022",
+			"id": 1526893298413101000,
+			"id_str": "1526893298413101057",
+			"full_text": "have missed #currymonday",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				24
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "currymonday",
+						"indices": [
+							12,
+							24
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95424142,
+				"id_str": "95424142",
+				"name": "Hilly",
+				"screen_name": "mfshill",
+				"location": "Null Island",
+				"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 258,
+				"friends_count": 260,
+				"listed_count": 21,
+				"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+				"favourites_count": 1362,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 43270,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+				"profile_link_color": "9D6238",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EDE1B0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@eops https://t.co/sJX13Pb57c"
+	},
+	{
+		"created_at": "Wed May 18 11:58:53 +0000 2022",
+		"id": 1526895094980194300,
+		"id_str": "1526895094980194305",
+		"full_text": "Framed #68\n🎥 🟥 🟩 ⬛ ⬛ ⬛ ⬛\n\nhttps://t.co/Y0w4iq9zaB\n\nActorle 63 6/8\n⬛⬛🟨🟨🟨🟩\nPlay here: https://t.co/HeqYIa7Eow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0w4iq9zaB",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/HeqYIa7Eow",
+					"expanded_url": "https://actorle.com",
+					"display_url": "actorle.com",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 260,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Framed #68\n🎥 🟥 🟩 ⬛ ⬛ ⬛ ⬛\n\nhttps://t.co/Y0w4iq9zaB\n\nActorle 63 6/8\n⬛⬛🟨🟨🟨🟩\nPlay here: https://t.co/HeqYIa7Eow"
+	},
+	{
 		"created_at": "Tue May 17 11:15:35 +0000 2022",
 		"id": 1526521809595768800,
 		"id_str": "1526521809595768832",
