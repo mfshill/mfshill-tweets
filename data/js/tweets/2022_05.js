@@ -1,6 +1,465 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 19 19:31:47 +0000 2022",
+		"id": 1527371458191601700,
+		"id_str": "1527371458191601678",
+		"full_text": "https://t.co/ICyCHPDb2Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527371448784126000,
+					"id_str": "1527371448784125952",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FTJQPYTaAAAIkT4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTJQPYTaAAAIkT4.jpg",
+					"url": "https://t.co/ICyCHPDb2Z",
+					"display_url": "pic.twitter.com/ICyCHPDb2Z",
+					"expanded_url": "https://twitter.com/mfshill/status/1527371458191601678/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 880,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 880,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527371448784126000,
+					"id_str": "1527371448784125952",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FTJQPYTaAAAIkT4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTJQPYTaAAAIkT4.jpg",
+					"url": "https://t.co/ICyCHPDb2Z",
+					"display_url": "pic.twitter.com/ICyCHPDb2Z",
+					"expanded_url": "https://twitter.com/mfshill/status/1527371458191601678/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 880,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 880,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 260,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ICyCHPDb2Z"
+	},
+	{
+		"created_at": "Thu May 19 11:48:32 +0000 2022",
+		"id": 1527048626719142000,
+		"id_str": "1527254877168074757",
+		"full_text": "All her favourites https://t.co/VG46TpqVCj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527048573170352000,
+					"id_str": "1527048573170352129",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/FTEqli6WAAE6ChB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTEqli6WAAE6ChB.jpg",
+					"url": "https://t.co/VG46TpqVCj",
+					"display_url": "pic.twitter.com/VG46TpqVCj",
+					"expanded_url": "https://twitter.com/IamHappyToast/status/1527048626719141888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1049,
+							"h": 1289,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 553,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 977,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527048573170352000,
+					"id_str": "1527048573170352129",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/FTEqli6WAAE6ChB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTEqli6WAAE6ChB.jpg",
+					"url": "https://t.co/VG46TpqVCj",
+					"display_url": "pic.twitter.com/VG46TpqVCj",
+					"expanded_url": "https://twitter.com/IamHappyToast/status/1527048626719141888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1049,
+							"h": 1289,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 553,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 977,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 325183830,
+			"id_str": "325183830",
+			"name": "HappyToast ★",
+			"screen_name": "IamHappyToast",
+			"location": "UK",
+			"description": "Daft pictures and talking nonsense. Keep me alive  https://t.co/omB9kcibC5\nTips also welcome - https://t.co/imbnXhZCs5 or https://t.co/VnAzGc1UGB :)",
+			"url": "https://t.co/OeLtDcerQ3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OeLtDcerQ3",
+							"expanded_url": "https://www.happytoast.co.uk",
+							"display_url": "happytoast.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/omB9kcibC5",
+							"expanded_url": "https://www.patreon.com/HappyToast",
+							"display_url": "patreon.com/HappyToast",
+							"indices": [
+								51,
+								74
+							]
+						},
+						{
+							"url": "https://t.co/imbnXhZCs5",
+							"expanded_url": "http://paypal.me/HappyToast",
+							"display_url": "paypal.me/HappyToast",
+							"indices": [
+								95,
+								118
+							]
+						},
+						{
+							"url": "https://t.co/VnAzGc1UGB",
+							"expanded_url": "http://ko-fi.com/happytoast",
+							"display_url": "ko-fi.com/happytoast",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 69549,
+			"friends_count": 937,
+			"listed_count": 246,
+			"created_at": "Mon Jun 27 21:42:07 +0000 2011",
+			"favourites_count": 46823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A3A3A3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323010503350886400/HOeTFHmX_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323010503350886400/HOeTFHmX_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/325183830/1549529592",
+			"profile_link_color": "5E6DB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2297,
+		"favorite_count": 15051,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All her favourites https://t.co/VG46TpqVCj"
+	},
+	{
+		"created_at": "Thu May 19 11:35:27 +0000 2022",
+		"id": 1527251584035733500,
+		"id_str": "1527251584035733504",
+		"full_text": "After a run of terrible movies (Ambulance 1/10|Senior Year 2/10|Morbius 3/10|The Northman 4/10) it was a pleasure to watch 'Everything Everywhere All at Once'.A surreal, fun bit of storytelling with an excellent cast &amp; impressive visuals. A must watch 8/10 https://t.co/xobS6UfxpU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xobS6UfxpU",
+					"expanded_url": "https://www.imdb.com/title/tt6710474/",
+					"display_url": "imdb.com/title/tt671047…",
+					"indices": [
+						261,
+						284
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 260,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After a run of terrible movies (Ambulance 1/10|Senior Year 2/10|Morbius 3/10|The Northman 4/10) it was a pleasure to watch 'Everything Everywhere All at Once'.A surreal, fun bit of storytelling with an excellent cast &amp; impressive visuals. A must watch 8/10 https://t.co/xobS6UfxpU"
+	},
+	{
 		"created_at": "Wed May 18 20:43:52 +0000 2022",
 		"id": 1527027211320053800,
 		"id_str": "1527027211320053760",
