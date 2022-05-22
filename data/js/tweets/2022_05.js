@@ -1,6 +1,455 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 21 23:06:28 +0000 2022",
+		"id": 1528150260987891700,
+		"id_str": "1528150260987891712",
+		"full_text": "Wordle 337 3/6*\n\n⬜⬜⬜🟨⬜\n🟩🟩⬜⬜🟨\n🟩🟩🟩🟩🟩\n\nWordleBot\nSkill 89/100\nLuck 69/100",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 260,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Wordle 337 3/6*\n\n⬜⬜⬜🟨⬜\n🟩🟩⬜⬜🟨\n🟩🟩🟩🟩🟩\n\nWordleBot\nSkill 89/100\nLuck 69/100"
+	},
+	{
+		"created_at": "Sat May 21 22:10:44 +0000 2022",
+		"id": 1528106847638536200,
+		"id_str": "1528136236757549062",
+		"full_text": "This is the definitive weird stage of pandemic image https://t.co/RxMdQ4V3mb https://t.co/MADP2NtMuz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RxMdQ4V3mb",
+					"expanded_url": "https://twitter.com/NoContextBrits/status/1527934915890790401",
+					"display_url": "twitter.com/NoContextBrits…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1528106645334773800,
+					"id_str": "1528106645334773761",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FTTs5c4X0AEztyN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTTs5c4X0AEztyN.jpg",
+					"url": "https://t.co/MADP2NtMuz",
+					"display_url": "pic.twitter.com/MADP2NtMuz",
+					"expanded_url": "https://twitter.com/BeardedGenius/status/1528106847638536192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 665,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1150,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528106645334773800,
+					"id_str": "1528106645334773761",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FTTs5c4X0AEztyN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTTs5c4X0AEztyN.jpg",
+					"url": "https://t.co/MADP2NtMuz",
+					"display_url": "pic.twitter.com/MADP2NtMuz",
+					"expanded_url": "https://twitter.com/BeardedGenius/status/1528106847638536192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 665,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1150,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 176754253,
+			"id_str": "176754253",
+			"name": "Nooruddean",
+			"screen_name": "BeardedGenius",
+			"location": "",
+			"description": "Don't follow me. I don’t check DMs.",
+			"url": "https://t.co/xSUCQOfaTK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xSUCQOfaTK",
+							"expanded_url": "http://instagram.com/beardedgenius",
+							"display_url": "instagram.com/beardedgenius",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 162803,
+			"friends_count": 2792,
+			"listed_count": 1392,
+			"created_at": "Tue Aug 10 10:29:01 +0000 2010",
+			"favourites_count": 376575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 152465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFD1DE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277379760155394052/NqLxpl3O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277379760155394052/NqLxpl3O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/176754253/1605521828",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1527934915890790400,
+		"quoted_status_id_str": "1527934915890790401",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RxMdQ4V3mb",
+			"expanded": "https://twitter.com/NoContextBrits/status/1527934915890790401",
+			"display": "twitter.com/NoContextBrits…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 21 08:50:46 +0000 2022",
+			"id": 1527934915890790400,
+			"id_str": "1527934915890790401",
+			"full_text": "This was a weird stage of the pandemic. https://t.co/sjhfvLU9qp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1527934906898210800,
+						"id_str": "1527934906898210817",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/FTRQs9WWYAEPUZP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTRQs9WWYAEPUZP.jpg",
+						"url": "https://t.co/sjhfvLU9qp",
+						"display_url": "pic.twitter.com/sjhfvLU9qp",
+						"expanded_url": "https://twitter.com/NoContextBrits/status/1527934915890790401/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1572,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 921,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 522,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1527934906898210800,
+						"id_str": "1527934906898210817",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/FTRQs9WWYAEPUZP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTRQs9WWYAEPUZP.jpg",
+						"url": "https://t.co/sjhfvLU9qp",
+						"display_url": "pic.twitter.com/sjhfvLU9qp",
+						"expanded_url": "https://twitter.com/NoContextBrits/status/1527934915890790401/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1572,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 921,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 522,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1377572924413124600,
+				"id_str": "1377572924413124609",
+				"name": "No Context Brits",
+				"screen_name": "NoContextBrits",
+				"location": "Great Britain",
+				"description": "A celebration of all things British.",
+				"url": "https://t.co/hYqXvAsDEb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hYqXvAsDEb",
+								"expanded_url": "http://instagram.com/no.context.brits",
+								"display_url": "instagram.com/no.context.bri…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 811172,
+				"friends_count": 0,
+				"listed_count": 1206,
+				"created_at": "Thu Apr 01 10:46:07 +0000 2021",
+				"favourites_count": 142,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3726,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1515235815311527937/Kb0lr2LQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515235815311527937/Kb0lr2LQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377572924413124609/1650060618",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 701,
+			"favorite_count": 18659,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 40,
+		"favorite_count": 329,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the definitive weird stage of pandemic image https://t.co/RxMdQ4V3mb https://t.co/MADP2NtMuz"
+	},
+	{
 		"created_at": "Fri May 20 23:29:27 +0000 2022",
 		"id": 1527793658019324000,
 		"id_str": "1527793658019323904",
