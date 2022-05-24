@@ -1,10 +1,172 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 23 19:38:59 +0000 2022",
+		"id": 1528437885254480000,
+		"id_str": "1528822820930732041",
+		"full_text": "Why the Europa League is better than the Champions League and is the best competition in world football. \n\n[THREAD] https://t.co/NQK4FHCSdf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1528437881022341000,
+					"id_str": "1528437881022341121",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FTYaJ5-WYAENMi_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTYaJ5-WYAENMi_.jpg",
+					"url": "https://t.co/NQK4FHCSdf",
+					"display_url": "pic.twitter.com/NQK4FHCSdf",
+					"expanded_url": "https://twitter.com/UtdKst/status/1528437885254479873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 975,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 663,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 975,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528437881022341000,
+					"id_str": "1528437881022341121",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FTYaJ5-WYAENMi_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTYaJ5-WYAENMi_.jpg",
+					"url": "https://t.co/NQK4FHCSdf",
+					"display_url": "pic.twitter.com/NQK4FHCSdf",
+					"expanded_url": "https://twitter.com/UtdKst/status/1528437885254479873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 975,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 663,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 975,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1475650232037908500,
+			"id_str": "1475650232037908483",
+			"name": "K",
+			"screen_name": "UtdKst",
+			"location": "",
+			"description": "@ManUtd",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1658,
+			"friends_count": 333,
+			"listed_count": 1,
+			"created_at": "Tue Dec 28 02:10:16 +0000 2021",
+			"favourites_count": 5349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1528143540085194753/Rch2tZYs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1528143540085194753/Rch2tZYs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1475650232037908483/1653325067",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 463,
+		"favorite_count": 2088,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why the Europa League is better than the Champions League and is the best competition in world football. \n\n[THREAD] https://t.co/NQK4FHCSdf"
+	},
+	{
 		"created_at": "Sun May 22 20:02:55 +0000 2022",
 		"id": 1528423171480768500,
 		"id_str": "1528466457683759106",
-		"full_text": "New PB, National Record &amp; European Record!🎉\n\nThank you to everyone for cheering over the final 2K! It honestly made such a difference as we headed onto Deansgate!💫\n\n33s faster than last year &amp; 2nd behind the incredible Hellen Obiri! Over the moon &amp; excited for track season!💪🏃🏼‍♀️ https://t.co/qo6iTqeBbD",
+		"full_text": "New PB, National Record &amp; European Record!🎉\n\nThank you to everyone for cheering over the final 2K! It honestly made such a difference as we headed onto Deansgate!💫\n\n33s faster than last year &amp; 2nd behind the incredible Hellen Obiri! Over the moon &amp; excited for track season!💪🏃🏼♀️ https://t.co/qo6iTqeBbD",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -245,7 +407,7 @@ Grailbird.data.tweets_2022_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "New PB, National Record &amp; European Record!🎉\n\nThank you to everyone for cheering over the final 2K! It honestly made such a difference as we headed onto Deansgate!💫\n\n33s faster than last year &amp; 2nd behind the incredible Hellen Obiri! Over the moon &amp; excited for track season!💪🏃🏼‍♀️ https://t.co/qo6iTqeBbD"
+		"text": "New PB, National Record &amp; European Record!🎉\n\nThank you to everyone for cheering over the final 2K! It honestly made such a difference as we headed onto Deansgate!💫\n\n33s faster than last year &amp; 2nd behind the incredible Hellen Obiri! Over the moon &amp; excited for track season!💪🏃🏼♀️ https://t.co/qo6iTqeBbD"
 	},
 	{
 		"created_at": "Sun May 22 19:23:26 +0000 2022",
