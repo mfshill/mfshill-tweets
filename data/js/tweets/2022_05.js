@@ -1,6 +1,592 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 24 18:26:13 +0000 2022",
+		"id": 1529166896003678200,
+		"id_str": "1529166896003678208",
+		"full_text": "bahahahahhaah 🤣 https://t.co/nk53ciEWLx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nk53ciEWLx",
+					"expanded_url": "https://twitter.com/morebuttertv/status/1529151981792727040",
+					"display_url": "twitter.com/morebuttertv/s…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 260,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1529151981792727000,
+		"quoted_status_id_str": "1529151981792727040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nk53ciEWLx",
+			"expanded": "https://twitter.com/morebuttertv/status/1529151981792727040",
+			"display": "twitter.com/morebuttertv/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 24 17:26:57 +0000 2022",
+			"id": 1529151981792727000,
+			"id_str": "1529151981792727040",
+			"full_text": "Seth Green’s Bored Ape NFT, which was set to star in its own animated show, was stolen through a phishing scam.\n\nGreen no longer owns the commercial rights to the NFT and thus the show cannot move forward.\n\n🔗: https://t.co/Bdrw8qKhzi https://t.co/MBO1XvLIML",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				233
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Bdrw8qKhzi",
+						"expanded_url": "https://www.buzzfeednews.com/article/sarahemerson/seth-green-bored-ape-stolen-tv-show",
+						"display_url": "buzzfeednews.com/article/sarahe…",
+						"indices": [
+							210,
+							233
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1529151978193969200,
+						"id_str": "1529151978193969154",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/media/FTijn1PWYAI-pCt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTijn1PWYAI-pCt.jpg",
+						"url": "https://t.co/MBO1XvLIML",
+						"display_url": "pic.twitter.com/MBO1XvLIML",
+						"expanded_url": "https://twitter.com/morebuttertv/status/1529151981792727040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 487,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 473,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 487,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1529151978193969200,
+						"id_str": "1529151978193969154",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/media/FTijn1PWYAI-pCt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTijn1PWYAI-pCt.jpg",
+						"url": "https://t.co/MBO1XvLIML",
+						"display_url": "pic.twitter.com/MBO1XvLIML",
+						"expanded_url": "https://twitter.com/morebuttertv/status/1529151981792727040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 487,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 473,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 487,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1457754347434090500,
+				"id_str": "1457754347434090497",
+				"name": "More Butter 🧈",
+				"screen_name": "morebuttertv",
+				"location": "",
+				"description": "Film, TV & Other Pop Culture Nonsense 🧈 🍿\nCheck out our podcasts 'Camp Counselors' ft. @amandathejedi @themistagg & 'In Defense Of' ft. @kenniejd every week",
+				"url": "https://t.co/y4ltV71GAb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/y4ltV71GAb",
+								"expanded_url": "https://www.youtube.com/c/MoreButter?sub_con",
+								"display_url": "youtube.com/c/MoreButter?s…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1985,
+				"friends_count": 7,
+				"listed_count": 24,
+				"created_at": "Mon Nov 08 16:58:32 +0000 2021",
+				"favourites_count": 102,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 360,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1494345359879020546/NkeTjWVW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1494345359879020546/NkeTjWVW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1457754347434090497/1645113890",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6015,
+			"favorite_count": 50883,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "bahahahahhaah 🤣 https://t.co/nk53ciEWLx"
+	},
+	{
+		"created_at": "Tue May 24 18:22:45 +0000 2022",
+		"id": 1529166023336788000,
+		"id_str": "1529166023336787970",
+		"full_text": "it's Crossrail https://t.co/VGIbc2EPWK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VGIbc2EPWK",
+					"expanded_url": "https://twitter.com/Londonist/status/1529153252234780673",
+					"display_url": "twitter.com/Londonist/stat…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 260,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1529153252234780700,
+		"quoted_status_id_str": "1529153252234780673",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VGIbc2EPWK",
+			"expanded": "https://twitter.com/Londonist/status/1529153252234780673",
+			"display": "twitter.com/Londonist/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 24 17:32:00 +0000 2022",
+			"id": 1529153252234780700,
+			"id_str": "1529153252234780673",
+			"full_text": "It's been up and running for 12 hours now, so... what are you calling it? https://t.co/eJpniq49HA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eJpniq49HA",
+						"expanded_url": "https://londonist.com/london/transport/elizabeth-line-crossrail-names-nicknames",
+						"display_url": "londonist.com/london/transpo…",
+						"indices": [
+							74,
+							97
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 806133,
+				"id_str": "806133",
+				"name": "Londonist",
+				"screen_name": "Londonist",
+				"location": "London, England",
+				"description": "London news, London events, London people, London everything",
+				"url": "https://t.co/cQW3GeO3Aj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cQW3GeO3Aj",
+								"expanded_url": "http://londonist.com",
+								"display_url": "londonist.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1369429,
+				"friends_count": 678,
+				"listed_count": 6169,
+				"created_at": "Fri Mar 02 14:09:54 +0000 2007",
+				"favourites_count": 3403,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 97335,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895667312723988480/TL-j8oRF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895667312723988480/TL-j8oRF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/806133/1487170471",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "it's Crossrail https://t.co/VGIbc2EPWK"
+	},
+	{
+		"created_at": "Tue May 24 14:09:36 +0000 2022",
+		"id": 1529102319010340900,
+		"id_str": "1529102319010340865",
+		"full_text": "i have a feeling that no matter what comes out, Bojo will cling on for all he's worth/  https://t.co/k1FgutCMvI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k1FgutCMvI",
+					"expanded_url": "https://www.bbc.co.uk/news/uk-politics-61566410",
+					"display_url": "bbc.co.uk/news/uk-politi…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 260,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i have a feeling that no matter what comes out, Bojo will cling on for all he's worth/  https://t.co/k1FgutCMvI"
+	},
+	{
 		"created_at": "Mon May 23 19:38:59 +0000 2022",
 		"id": 1528437885254480000,
 		"id_str": "1528822820930732041",
