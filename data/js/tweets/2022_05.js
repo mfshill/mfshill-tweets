@@ -1,6 +1,677 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 25 19:14:16 +0000 2022",
+		"id": 1529518906930520000,
+		"id_str": "1529541375959736320",
+		"full_text": "But if you elect a known liar who shits on everyone and everything for his own advancement, and you're indignant because you've now become the one he's shat on, it's really hard to consider that as anything other than poetic justice.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1529518335255355400,
+		"in_reply_to_status_id_str": "1529518335255355392",
+		"in_reply_to_user_id": 17616581,
+		"in_reply_to_user_id_str": "17616581",
+		"in_reply_to_screen_name": "christopherward",
+		"user": {
+			"id": 17616581,
+			"id_str": "17616581",
+			"name": "Chris Ward 🇺🇦🇺🇦🇺🇦",
+			"screen_name": "christopherward",
+			"location": "Schöneberg, Berlin",
+			"description": "ADHD Homo Humanist Berliner. Android Engineering Manager. Speaker. Stellv Vorsitzender @sozialliberale. Crow Queen. #BLM #TLM. Views my own.\n\n👬 @joshuagladwin",
+			"url": "https://t.co/jmLm5IvQvd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jmLm5IvQvd",
+							"expanded_url": "http://www.liberale-demokraten.de",
+							"display_url": "liberale-demokraten.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6974,
+			"friends_count": 5375,
+			"listed_count": 104,
+			"created_at": "Tue Nov 25 10:11:43 +0000 2008",
+			"favourites_count": 29681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 52905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424255944838504455/RCi9o6jZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424255944838504455/RCi9o6jZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17616581/1629381439",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "But if you elect a known liar who shits on everyone and everything for his own advancement, and you're indignant because you've now become the one he's shat on, it's really hard to consider that as anything other than poetic justice."
+	},
+	{
+		"created_at": "Wed May 25 19:08:01 +0000 2022",
+		"id": 1529442207438147600,
+		"id_str": "1529539803477422080",
+		"full_text": "The ethics advisor arrived with a karaoke machine.\n\nI mean, you could actually start a novel like that.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19884529,
+			"id_str": "19884529",
+			"name": "Tom Peck",
+			"screen_name": "tompeck",
+			"location": "East, East, East London",
+			"description": "Epidemiologist, Military Strategist, Political Sketch Writer and Columnist @independent.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115630,
+			"friends_count": 2258,
+			"listed_count": 1058,
+			"created_at": "Mon Feb 02 00:07:51 +0000 2009",
+			"favourites_count": 16872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 68337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1489352859435081730/G4-3eJUH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489352859435081730/G4-3eJUH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19884529/1643924368",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3160,
+		"favorite_count": 21022,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The ethics advisor arrived with a karaoke machine.\n\nI mean, you could actually start a novel like that."
+	},
+	{
+		"created_at": "Wed May 25 12:24:19 +0000 2022",
+		"id": 1529438209603686400,
+		"id_str": "1529438209603686400",
+		"full_text": "play out like a scene from #TheDayToday https://t.co/lF7gG57sz8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheDayToday",
+					"indices": [
+						27,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lF7gG57sz8",
+					"expanded_url": "https://twitter.com/therecount/status/1529294835487850497",
+					"display_url": "twitter.com/therecount/sta…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 260,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1529294835487850500,
+		"quoted_status_id_str": "1529294835487850497",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lF7gG57sz8",
+			"expanded": "https://twitter.com/therecount/status/1529294835487850497",
+			"display": "twitter.com/therecount/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 25 02:54:36 +0000 2022",
+			"id": 1529294835487850500,
+			"id_str": "1529294835487850497",
+			"full_text": "Fox News today: https://t.co/LRCwlZY89G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				15
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1529294366543691800,
+						"id_str": "1529294366543691776",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1529294366543691776/img/zvP0dUsHxwQcal2t.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1529294366543691776/img/zvP0dUsHxwQcal2t.jpg",
+						"url": "https://t.co/LRCwlZY89G",
+						"display_url": "pic.twitter.com/LRCwlZY89G",
+						"expanded_url": "https://twitter.com/therecount/status/1529294835487850497/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1529294366543691800,
+						"id_str": "1529294366543691776",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1529294366543691776/img/zvP0dUsHxwQcal2t.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1529294366543691776/img/zvP0dUsHxwQcal2t.jpg",
+						"url": "https://t.co/LRCwlZY89G",
+						"display_url": "pic.twitter.com/LRCwlZY89G",
+						"expanded_url": "https://twitter.com/therecount/status/1529294835487850497/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 66915,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1529294366543691776/vid/1280x720/MQxrOhp-4DvIuokM.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1529294366543691776/vid/640x360/DmeX0yYS2WzS2VTi.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1529294366543691776/vid/480x270/YvFK_oGHvXVaZ7F8.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1529294366543691776/pl/HvbRlbeAPxbqM9OB.m3u8?tag=14&container=fmp4&v=e93"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Fox News Talked About Everything But Gun Control After Uvalde Shooting",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1087380412089987100,
+				"id_str": "1087380412089987077",
+				"name": "The Recount",
+				"screen_name": "therecount",
+				"location": "New York, NY",
+				"description": "When power is in play ... everything is politics. Download our app & subscribe to our newsletter. 📩 info@therecount.com",
+				"url": "https://t.co/rdEMixv3PU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rdEMixv3PU",
+								"expanded_url": "http://recount.co/comehang",
+								"display_url": "recount.co/comehang",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 348493,
+				"friends_count": 670,
+				"listed_count": 2263,
+				"created_at": "Mon Jan 21 16:04:27 +0000 2019",
+				"favourites_count": 19967,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 40076,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1155905677094731777/19WoFsvO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155905677094731777/19WoFsvO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1087380412089987077/1652389045",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 84,
+			"favorite_count": 181,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "play out like a scene from #TheDayToday https://t.co/lF7gG57sz8"
+	},
+	{
+		"created_at": "Wed May 25 11:51:41 +0000 2022",
+		"id": 1529429859314897000,
+		"id_str": "1529429998926430208",
+		"full_text": "𝗕𝗥𝗜𝗚𝗛𝗧𝗢𝗡!!!\n\nDrum &amp; Bass On The Bike Returns to Brighton This 𝗦𝗨𝗡𝗗𝗔𝗬 (29th) Starting at 𝗧𝗛𝗘 𝗟𝗘𝗩𝗘𝗟 From 2PM. \n\nAs always Rollerskaters, Skateboards, Scooters and Runners welcome! https://t.co/1Fo0APFs0n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1529429835117908000,
+					"id_str": "1529429835117907968",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FTmgVO8WUAA1u6h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTmgVO8WUAA1u6h.jpg",
+					"url": "https://t.co/1Fo0APFs0n",
+					"display_url": "pic.twitter.com/1Fo0APFs0n",
+					"expanded_url": "https://twitter.com/domwhiting/status/1529429859314896897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1910,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1119,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1529429835117908000,
+					"id_str": "1529429835117907968",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FTmgVO8WUAA1u6h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTmgVO8WUAA1u6h.jpg",
+					"url": "https://t.co/1Fo0APFs0n",
+					"display_url": "pic.twitter.com/1Fo0APFs0n",
+					"expanded_url": "https://twitter.com/domwhiting/status/1529429859314896897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1910,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1119,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 286631982,
+			"id_str": "286631982",
+			"name": "Domonic",
+			"screen_name": "domwhiting",
+			"location": "England, United Kingdom",
+			"description": "All Enquiries: Luke@fuegomanagement.com. Bookings: Tom.Jones@unitedtalent.com",
+			"url": "https://t.co/vKRVxNWS44",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vKRVxNWS44",
+							"expanded_url": "https://youtu.be/pKoGFHkn1L4",
+							"display_url": "youtu.be/pKoGFHkn1L4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13805,
+			"friends_count": 342,
+			"listed_count": 50,
+			"created_at": "Sat Apr 23 11:24:14 +0000 2011",
+			"favourites_count": 6687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312852180173553667/ZYvQHNU9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312852180173553667/ZYvQHNU9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/286631982/1601557053",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 162,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "𝗕𝗥𝗜𝗚𝗛𝗧𝗢𝗡!!!\n\nDrum &amp; Bass On The Bike Returns to Brighton This 𝗦𝗨𝗡𝗗𝗔𝗬 (29th) Starting at 𝗧𝗛𝗘 𝗟𝗘𝗩𝗘𝗟 From 2PM. \n\nAs always Rollerskaters, Skateboards, Scooters and Runners welcome! https://t.co/1Fo0APFs0n"
+	},
+	{
 		"created_at": "Tue May 24 18:26:13 +0000 2022",
 		"id": 1529166896003678200,
 		"id_str": "1529166896003678208",
