@@ -1,6 +1,934 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 29 21:06:17 +0000 2022",
+		"id": 1531016969142542300,
+		"id_str": "1531019119998517250",
+		"full_text": "I laughed so hard something inside me broke. https://t.co/mVl2VbGPEc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mVl2VbGPEc",
+					"expanded_url": "https://twitter.com/geordetroiter/status/1530902769124708352",
+					"display_url": "twitter.com/geordetroiter/…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35519288,
+			"id_str": "35519288",
+			"name": "Patrick Kincaid",
+			"screen_name": "patrickkincaid",
+			"location": "Coventry, UK",
+			"description": "Novelist. Doctor of Shakespeare. Master of Writing. Wrangler at @TheFilmCrowd. Convener of @writeclubleam. #amwriting #histfic",
+			"url": "https://t.co/GdNMv2dQVY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GdNMv2dQVY",
+							"expanded_url": "https://www.amazon.co.uk/Continuity-Girl-Patrick-Kincaid/dp/191158698X/ref=tmm_pap_swatch_0?_encodin",
+							"display_url": "amazon.co.uk/Continuity-Gir…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2799,
+			"friends_count": 2071,
+			"listed_count": 72,
+			"created_at": "Sun Apr 26 17:54:22 +0000 2009",
+			"favourites_count": 145295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205443493679812610/79EE9XCg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205443493679812610/79EE9XCg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35519288/1653479936",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52bb236ce4bb9be1",
+			"url": "https://api.twitter.com/1.1/geo/id/52bb236ce4bb9be1.json",
+			"place_type": "city",
+			"name": "Coventry",
+			"full_name": "Coventry, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.6128929,
+							52.3653979
+						],
+						[
+							-1.4244104,
+							52.3653979
+						],
+						[
+							-1.4244104,
+							52.458428
+						],
+						[
+							-1.6128929,
+							52.458428
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1530902769124708400,
+		"quoted_status_id_str": "1530902769124708352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mVl2VbGPEc",
+			"expanded": "https://twitter.com/geordetroiter/status/1530902769124708352",
+			"display": "twitter.com/geordetroiter/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 29 13:23:57 +0000 2022",
+			"id": 1530902769124708400,
+			"id_str": "1530902769124708352",
+			"full_text": "Loving this #Jubilee tribute to Gadaffi https://t.co/WzEMZCcl6y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Jubilee",
+						"indices": [
+							12,
+							20
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1530902766310281200,
+						"id_str": "1530902766310281216",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/FT7b9HOWUAAP6w1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FT7b9HOWUAAP6w1.jpg",
+						"url": "https://t.co/WzEMZCcl6y",
+						"display_url": "pic.twitter.com/WzEMZCcl6y",
+						"expanded_url": "https://twitter.com/Geordetroiter/status/1530902769124708352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1064,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1240,
+								"h": 1399,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 603,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1530902766310281200,
+						"id_str": "1530902766310281216",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/FT7b9HOWUAAP6w1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FT7b9HOWUAAP6w1.jpg",
+						"url": "https://t.co/WzEMZCcl6y",
+						"display_url": "pic.twitter.com/WzEMZCcl6y",
+						"expanded_url": "https://twitter.com/Geordetroiter/status/1530902769124708352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1064,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1240,
+								"h": 1399,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 603,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1417037745634041900,
+				"id_str": "1417037745634041857",
+				"name": "𝗪𝗶𝗹𝗹𝗶𝗮𝗺",
+				"screen_name": "Geordetroiter",
+				"location": "North Shields via Detroit",
+				"description": "NHS worker and campaigning Unite workplace rep",
+				"url": "https://t.co/APqmEcPLnX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/APqmEcPLnX",
+								"expanded_url": "http://join.unitetheunion.org/",
+								"display_url": "join.unitetheunion.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 472,
+				"friends_count": 345,
+				"listed_count": 1,
+				"created_at": "Mon Jul 19 08:25:17 +0000 2021",
+				"favourites_count": 9074,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6090,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1525527204272152585/FHzBUCe__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525527204272152585/FHzBUCe__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1417037745634041857/1636457299",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1379,
+			"favorite_count": 10465,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I laughed so hard something inside me broke. https://t.co/mVl2VbGPEc"
+	},
+	{
+		"created_at": "Sun May 29 13:46:59 +0000 2022",
+		"id": 1530908061652615200,
+		"id_str": "1530908563467542530",
+		"full_text": "Weather update 🚩 https://t.co/ey7cgOP3LN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1530908055772319700,
+					"id_str": "1530908055772319746",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FT7gxAAX0AI3fKC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT7gxAAX0AI3fKC.jpg",
+					"url": "https://t.co/ey7cgOP3LN",
+					"display_url": "pic.twitter.com/ey7cgOP3LN",
+					"expanded_url": "https://twitter.com/ValtteriBottas/status/1530908061652615168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1530908055772319700,
+					"id_str": "1530908055772319746",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FT7gxAAX0AI3fKC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT7gxAAX0AI3fKC.jpg",
+					"url": "https://t.co/ey7cgOP3LN",
+					"display_url": "pic.twitter.com/ey7cgOP3LN",
+					"expanded_url": "https://twitter.com/ValtteriBottas/status/1530908061652615168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143472657,
+			"id_str": "1143472657",
+			"name": "Valtteri Bottas",
+			"screen_name": "ValtteriBottas",
+			"location": "Around the World",
+			"description": "@F1 Driver for @AlfaRomeoOrlen. In partnership with @Hyland and @SSarpaneva. Never give up. #VB77 🐺",
+			"url": "https://t.co/6BhSz22gzv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6BhSz22gzv",
+							"expanded_url": "http://www.valtteribottas.com",
+							"display_url": "valtteribottas.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1333005,
+			"friends_count": 193,
+			"listed_count": 11903,
+			"created_at": "Sat Feb 02 21:29:20 +0000 2013",
+			"favourites_count": 9369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202429402635735040/CI04gTgt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202429402635735040/CI04gTgt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143472657/1648004205",
+			"profile_link_color": "161DAD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "4df040baa097e37a",
+			"url": "https://api.twitter.com/1.1/geo/id/4df040baa097e37a.json",
+			"place_type": "city",
+			"name": "Monaco",
+			"full_name": "Monaco",
+			"country_code": "MC",
+			"country": "Monaco",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							7.4091036,
+							43.7247898
+						],
+						[
+							7.43948,
+							43.7247898
+						],
+						[
+							7.43948,
+							43.7519042
+						],
+						[
+							7.4091036,
+							43.7519042
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36344,
+		"favorite_count": 275804,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Weather update 🚩 https://t.co/ey7cgOP3LN"
+	},
+	{
+		"created_at": "Sun May 29 13:24:21 +0000 2022",
+		"id": 1530902868827463700,
+		"id_str": "1530902868827463680",
+		"full_text": "Supposed to be the best drivers in the world but they're not allowed to race in the rain, let them figure it out! what a joke. #MonacoGP #F1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MonacoGP",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "F1",
+					"indices": [
+						137,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1530895109004447700,
+		"in_reply_to_status_id_str": "1530895109004447744",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 261,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Supposed to be the best drivers in the world but they're not allowed to race in the rain, let them figure it out! what a joke. #MonacoGP #F1"
+	},
+	{
+		"created_at": "Sun May 29 12:53:31 +0000 2022",
+		"id": 1530895109004447700,
+		"id_str": "1530895109004447744",
+		"full_text": "#MonacoGP #F1 https://t.co/ujUqb0I70e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MonacoGP",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "F1",
+					"indices": [
+						10,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1530895102050189300,
+					"id_str": "1530895102050189314",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FT7U-_oWQAIgBRt.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FT7U-_oWQAIgBRt.jpg",
+					"url": "https://t.co/ujUqb0I70e",
+					"display_url": "pic.twitter.com/ujUqb0I70e",
+					"expanded_url": "https://twitter.com/mfshill/status/1530895109004447744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1530895102050189300,
+					"id_str": "1530895102050189314",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FT7U-_oWQAIgBRt.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FT7U-_oWQAIgBRt.jpg",
+					"url": "https://t.co/ujUqb0I70e",
+					"display_url": "pic.twitter.com/ujUqb0I70e",
+					"expanded_url": "https://twitter.com/mfshill/status/1530895109004447744/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FT7U-_oWQAIgBRt.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 261,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#MonacoGP #F1 https://t.co/ujUqb0I70e"
+	},
+	{
+		"created_at": "Sun May 29 11:25:18 +0000 2022",
+		"id": 1530872909560004600,
+		"id_str": "1530872909560004609",
+		"full_text": "Actorle 74 2/8\n🟨🟩\nPlay here: https://t.co/HeqYI9Q3wY \n\nFramed #79\n🎥 🟥 🟥 🟥 🟥 🟩 ⬛\n\nhttps://t.co/Y0w4iqrazb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HeqYI9Q3wY",
+					"expanded_url": "https://actorle.com",
+					"display_url": "actorle.com",
+					"indices": [
+						29,
+						52
+					]
+				},
+				{
+					"url": "https://t.co/Y0w4iqrazb",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 261,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Actorle 74 2/8\n🟨🟩\nPlay here: https://t.co/HeqYI9Q3wY \n\nFramed #79\n🎥 🟥 🟥 🟥 🟥 🟩 ⬛\n\nhttps://t.co/Y0w4iqrazb"
+	},
+	{
 		"created_at": "Sat May 28 20:49:08 +0000 2022",
 		"id": 1530568582211461000,
 		"id_str": "1530652414650482689",
