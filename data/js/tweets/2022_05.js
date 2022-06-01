@@ -1,6 +1,639 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 31 23:54:26 +0000 2022",
+		"id": 1531682031930953700,
+		"id_str": "1531786212758937604",
+		"full_text": "In March 1996, Andy Murray was a student at Dunblane Primary School when 16 children and a teacher were murdered by a gunman. https://t.co/XINZrs4APu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XINZrs4APu",
+					"expanded_url": "https://twitter.com/therecount/status/1531677941867982857",
+					"display_url": "twitter.com/therecount/sta…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878256290576961500,
+			"id_str": "878256290576961536",
+			"name": "Kimberly Givant",
+			"screen_name": "KimberlyGivant",
+			"location": "New York, NY",
+			"description": "Editor of @TheRecount Newsletter. Fmr production @SHO_TheCircus. Like/RT ≠ endorsement. Views my own. #LGM",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 862,
+			"friends_count": 959,
+			"listed_count": 10,
+			"created_at": "Fri Jun 23 14:19:51 +0000 2017",
+			"favourites_count": 9131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189036690905731079/GXgflKtJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189036690905731079/GXgflKtJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878256290576961536/1624997115",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1531677941867982800,
+		"quoted_status_id_str": "1531677941867982857",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XINZrs4APu",
+			"expanded": "https://twitter.com/therecount/status/1531677941867982857",
+			"display": "twitter.com/therecount/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 31 16:44:13 +0000 2022",
+			"id": 1531677941867982800,
+			"id_str": "1531677941867982857",
+			"full_text": "In the wake of Uvalde, UK tennis star Andy Murray condemns the high number of mass shootings in the United States:\n\n\"There's always talk about it being something political ... You can't keep approaching the problem by buying more guns.\" https://t.co/ertDoY3KpP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				236
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1531676248124055600,
+						"id_str": "1531676248124055556",
+						"indices": [
+							237,
+							260
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1531676248124055556/img/pxDxum2oKZP4PIfH.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1531676248124055556/img/pxDxum2oKZP4PIfH.jpg",
+						"url": "https://t.co/ertDoY3KpP",
+						"display_url": "pic.twitter.com/ertDoY3KpP",
+						"expanded_url": "https://twitter.com/therecount/status/1531677941867982857/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1630,
+								"h": 918,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1531676248124055600,
+						"id_str": "1531676248124055556",
+						"indices": [
+							237,
+							260
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1531676248124055556/img/pxDxum2oKZP4PIfH.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1531676248124055556/img/pxDxum2oKZP4PIfH.jpg",
+						"url": "https://t.co/ertDoY3KpP",
+						"display_url": "pic.twitter.com/ertDoY3KpP",
+						"expanded_url": "https://twitter.com/therecount/status/1531677941867982857/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1630,
+								"h": 918,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								815,
+								459
+							],
+							"duration_millis": 116466,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1531676248124055556/vid/1278x720/behtJDDNhtEK4guw.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1531676248124055556/vid/638x360/hJJshM-0blfSw7Zm.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1531676248124055556/pl/PEeh6r-5Y2PRrqlJ.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1531676248124055556/vid/478x270/JwpH2CazvKRaSpGM.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Andy Murray: You Can’t Approach Mass Shootings by Buying More Guns",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1087380412089987100,
+				"id_str": "1087380412089987077",
+				"name": "The Recount",
+				"screen_name": "therecount",
+				"location": "New York, NY",
+				"description": "When power is in play ... everything is politics. Download our app & subscribe to our newsletter. 📩 info@therecount.com",
+				"url": "https://t.co/rdEMixv3PU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rdEMixv3PU",
+								"expanded_url": "http://recount.co/comehang",
+								"display_url": "recount.co/comehang",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 348745,
+				"friends_count": 670,
+				"listed_count": 2265,
+				"created_at": "Mon Jan 21 16:04:27 +0000 2019",
+				"favourites_count": 19950,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 40203,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1155905677094731777/19WoFsvO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155905677094731777/19WoFsvO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1087380412089987077/1652389045",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 107,
+			"favorite_count": 421,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 64,
+		"favorite_count": 160,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In March 1996, Andy Murray was a student at Dunblane Primary School when 16 children and a teacher were murdered by a gunman. https://t.co/XINZrs4APu"
+	},
+	{
+		"created_at": "Tue May 31 20:24:54 +0000 2022",
+		"id": 1531733478626279400,
+		"id_str": "1531733478626279426",
+		"full_text": "https://t.co/ZQ7D5cBqNi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1531733466936664000,
+					"id_str": "1531733466936664064",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FUHPeQNWYAAcxr4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUHPeQNWYAAcxr4.jpg",
+					"url": "https://t.co/ZQ7D5cBqNi",
+					"display_url": "pic.twitter.com/ZQ7D5cBqNi",
+					"expanded_url": "https://twitter.com/mfshill/status/1531733478626279426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 1374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 436,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 769,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1531733466936664000,
+					"id_str": "1531733466936664064",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FUHPeQNWYAAcxr4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUHPeQNWYAAcxr4.jpg",
+					"url": "https://t.co/ZQ7D5cBqNi",
+					"display_url": "pic.twitter.com/ZQ7D5cBqNi",
+					"expanded_url": "https://twitter.com/mfshill/status/1531733478626279426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 1374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 436,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 769,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 261,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ZQ7D5cBqNi"
+	},
+	{
+		"created_at": "Tue May 31 20:08:18 +0000 2022",
+		"id": 1531729301602807800,
+		"id_str": "1531729301602807808",
+		"full_text": "https://t.co/NhklWF4Fo8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1531729293235077000,
+					"id_str": "1531729293235077121",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FUHLrT9WQAEWxYm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUHLrT9WQAEWxYm.jpg",
+					"url": "https://t.co/NhklWF4Fo8",
+					"display_url": "pic.twitter.com/NhklWF4Fo8",
+					"expanded_url": "https://twitter.com/mfshill/status/1531729301602807808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 573,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 1045,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1045,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1531729293235077000,
+					"id_str": "1531729293235077121",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FUHLrT9WQAEWxYm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUHLrT9WQAEWxYm.jpg",
+					"url": "https://t.co/NhklWF4Fo8",
+					"display_url": "pic.twitter.com/NhklWF4Fo8",
+					"expanded_url": "https://twitter.com/mfshill/status/1531729301602807808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 573,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 1045,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1045,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 261,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/NhklWF4Fo8"
+	},
+	{
 		"created_at": "Mon May 30 23:12:00 +0000 2022",
 		"id": 1531413143452369000,
 		"id_str": "1531413143452368896",
