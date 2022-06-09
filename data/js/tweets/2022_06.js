@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 08 18:02:32 +0000 2022",
+		"id": 1534596754691264500,
+		"id_str": "1534596754691264514",
+		"full_text": "@FBorrull @PolarGlobal the still sell the polar one (and it isn't that cheap either!) https://t.co/7t1r7C9nsT",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FBorrull",
+					"name": "Francesc Borrull",
+					"id": 888584247790927900,
+					"id_str": "888584247790927873",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "PolarGlobal",
+					"name": "@PolarGlobal",
+					"id": 474775032,
+					"id_str": "474775032",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7t1r7C9nsT",
+					"expanded_url": "https://www.polar.com/en/products/accessories/stride_sensor_bluetooth_smart",
+					"display_url": "polar.com/en/products/ac…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1534594534927175700,
+		"in_reply_to_status_id_str": "1534594534927175680",
+		"in_reply_to_user_id": 888584247790927900,
+		"in_reply_to_user_id_str": "888584247790927873",
+		"in_reply_to_screen_name": "FBorrull",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 262,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@FBorrull @PolarGlobal the still sell the polar one (and it isn't that cheap either!) https://t.co/7t1r7C9nsT"
+	},
+	{
+		"created_at": "Wed Jun 08 17:47:25 +0000 2022",
+		"id": 1534543023253725200,
+		"id_str": "1534592949039906817",
+		"full_text": "Saw #BrewDogDads trending, and genuinely thought it was a pretty effective put-down description of those middle-aged pub bore IPA drinkers that think they're some sort of sommelier just because they're drinking overpriced piss-flavoured beer brewed by sex-pests",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BrewDogDads",
+					"indices": [
+						4,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6778392,
+			"id_str": "6778392",
+			"name": "Fraser",
+			"screen_name": "fraserYT",
+			"location": "Scotland",
+			"description": "Pound-Shop Polymath. Optimistically Nihilistic. Award-losing Digital Designer/Developer. Scottish European",
+			"url": "https://t.co/ZYWOGuMvW4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZYWOGuMvW4",
+							"expanded_url": "https://frasersm.it/h",
+							"display_url": "frasersm.it/h",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1752,
+			"listed_count": 15,
+			"created_at": "Tue Jun 12 23:40:38 +0000 2007",
+			"favourites_count": 2495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1243530530072801281/gpqUlpRB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1243530530072801281/gpqUlpRB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6778392/1501398409",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Saw #BrewDogDads trending, and genuinely thought it was a pretty effective put-down description of those middle-aged pub bore IPA drinkers that think they're some sort of sommelier just because they're drinking overpriced piss-flavoured beer brewed by sex-pests"
+	},
+	{
+		"created_at": "Wed Jun 08 17:43:37 +0000 2022",
+		"id": 1534591992763670500,
+		"id_str": "1534591992763670533",
+		"full_text": "@PolarGlobal There's currently no sync with any external services like Strava, Stryd, Smashrun, Komoot etc.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PolarGlobal",
+					"name": "@PolarGlobal",
+					"id": 474775032,
+					"id_str": "474775032",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1534573091296317400,
+		"in_reply_to_status_id_str": "1534573091296317441",
+		"in_reply_to_user_id": 474775032,
+		"in_reply_to_user_id_str": "474775032",
+		"in_reply_to_screen_name": "PolarGlobal",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 262,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PolarGlobal There's currently no sync with any external services like Strava, Stryd, Smashrun, Komoot etc."
+	},
+	{
+		"created_at": "Wed Jun 08 17:40:49 +0000 2022",
+		"id": 1534591290624643000,
+		"id_str": "1534591290624643072",
+		"full_text": "@FBorrull @PolarGlobal you'd need a foot pod like a Stryd. I've used one for a few years, mainly down to the terrible GPS on the V1 but also for the increased accuracy. Prior to that i had the Polar foot pod that worked well.  https://t.co/1UuzTdoTZB",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FBorrull",
+					"name": "Francesc Borrull",
+					"id": 888584247790927900,
+					"id_str": "888584247790927873",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "PolarGlobal",
+					"name": "@PolarGlobal",
+					"id": 474775032,
+					"id_str": "474775032",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1UuzTdoTZB",
+					"expanded_url": "https://www.stryd.com",
+					"display_url": "stryd.com",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1534573491483250700,
+		"in_reply_to_status_id_str": "1534573491483250690",
+		"in_reply_to_user_id": 888584247790927900,
+		"in_reply_to_user_id_str": "888584247790927873",
+		"in_reply_to_screen_name": "FBorrull",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 262,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@FBorrull @PolarGlobal you'd need a foot pod like a Stryd. I've used one for a few years, mainly down to the terrible GPS on the V1 but also for the increased accuracy. Prior to that i had the Polar foot pod that worked well.  https://t.co/1UuzTdoTZB"
+	},
+	{
 		"created_at": "Tue Jun 07 21:46:55 +0000 2022",
 		"id": 1534290834979537000,
 		"id_str": "1534290834979536897",
