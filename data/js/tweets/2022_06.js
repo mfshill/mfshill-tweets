@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 13 19:03:00 +0000 2022",
+		"id": 1536423593726382000,
+		"id_str": "1536423909574201345",
+		"full_text": "https://t.co/h5uSBKuVvQ https://t.co/x3rL4sLTYj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h5uSBKuVvQ",
+					"expanded_url": "https://twitter.com/variety/status/1536394419833913344",
+					"display_url": "twitter.com/variety/status…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536423590278602800,
+					"id_str": "1536423590278602752",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FVJ5HXMWIAAXTNL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVJ5HXMWIAAXTNL.jpg",
+					"url": "https://t.co/x3rL4sLTYj",
+					"display_url": "pic.twitter.com/x3rL4sLTYj",
+					"expanded_url": "https://twitter.com/visionsofjoanne/status/1536423593726382081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1672,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 922,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536423590278602800,
+					"id_str": "1536423590278602752",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FVJ5HXMWIAAXTNL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVJ5HXMWIAAXTNL.jpg",
+					"url": "https://t.co/x3rL4sLTYj",
+					"display_url": "pic.twitter.com/x3rL4sLTYj",
+					"expanded_url": "https://twitter.com/visionsofjoanne/status/1536423593726382081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1672,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 922,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 477186774,
+			"id_str": "477186774",
+			"name": "Jojo 🍒",
+			"screen_name": "visionsofjoanne",
+			"location": "Far far away in Neverland ",
+			"description": "Blah blah blah",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3028,
+			"friends_count": 2746,
+			"listed_count": 4,
+			"created_at": "Sat Jan 28 22:55:11 +0000 2012",
+			"favourites_count": 114665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1503058222755848194/6y6lLjMM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1503058222755848194/6y6lLjMM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/477186774/1635707933",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1536394419833913300,
+		"quoted_status_id_str": "1536394419833913344",
+		"quoted_status_permalink": {
+			"url": "https://t.co/h5uSBKuVvQ",
+			"expanded": "https://twitter.com/variety/status/1536394419833913344",
+			"display": "twitter.com/variety/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 13 17:05:49 +0000 2022",
+			"id": 1536394419833913300,
+			"id_str": "1536394419833913344",
+			"full_text": "James Corden Heading Back to U.K. After ‘Late Late Show’ Concludes in 2023 https://t.co/KBUw4LTNec",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KBUw4LTNec",
+						"expanded_url": "https://variety.com/2022/tv/global/james-corden-late-late-show-exit-uk-1235292647/",
+						"display_url": "variety.com/2022/tv/global…",
+						"indices": [
+							75,
+							98
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17525171,
+				"id_str": "17525171",
+				"name": "Variety",
+				"screen_name": "Variety",
+				"location": "Los Angeles, CA",
+				"description": "The business of entertainment.",
+				"url": "https://t.co/9dU0T7bgld",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9dU0T7bgld",
+								"expanded_url": "http://www.variety.com",
+								"display_url": "variety.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2795489,
+				"friends_count": 240580,
+				"listed_count": 18564,
+				"created_at": "Thu Nov 20 23:02:29 +0000 2008",
+				"favourites_count": 1607,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 378101,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17525171/1654614247",
+				"profile_link_color": "60728A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 142,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/h5uSBKuVvQ https://t.co/x3rL4sLTYj"
+	},
+	{
 		"created_at": "Sun Jun 12 22:22:51 +0000 2022",
 		"id": 1536094080278610000,
 		"id_str": "1536111817952530434",
