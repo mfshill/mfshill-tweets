@@ -1,6 +1,499 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 16 22:52:02 +0000 2022",
+		"id": 1537075478980399000,
+		"id_str": "1537568714714906625",
+		"full_text": "This is ace - can’t believe I’d never seen it before  https://t.co/tusgOcncEo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1536844250423480300,
+					"id_str": "1536844250423480322",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1536844250423480322/pu/img/1G9VMUR3OomZ651u.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1536844250423480322/pu/img/1G9VMUR3OomZ651u.jpg",
+					"url": "https://t.co/tusgOcncEo",
+					"display_url": "pic.twitter.com/tusgOcncEo",
+					"expanded_url": "https://twitter.com/BelfastAgmt/status/1536844343922896900/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1536844343922897000,
+					"source_status_id_str": "1536844343922896900",
+					"source_user_id": 966001069049425900,
+					"source_user_id_str": "966001069049425920"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536844250423480300,
+					"id_str": "1536844250423480322",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1536844250423480322/pu/img/1G9VMUR3OomZ651u.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1536844250423480322/pu/img/1G9VMUR3OomZ651u.jpg",
+					"url": "https://t.co/tusgOcncEo",
+					"display_url": "pic.twitter.com/tusgOcncEo",
+					"expanded_url": "https://twitter.com/BelfastAgmt/status/1536844343922896900/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1536844343922897000,
+					"source_status_id_str": "1536844343922896900",
+					"source_user_id": 966001069049425900,
+					"source_user_id_str": "966001069049425920",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 133185,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1536844250423480322/pu/vid/640x360/qGk_5hXT_AiPx61c.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1536844250423480322/pu/pl/X1t5yQ3thpdBV2Gc.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1536844250423480322/pu/vid/480x270/1jpW4jdS1C3e3bkr.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1536844250423480322/pu/vid/1280x720/tVK6GDPtotnqGB5l.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 966001069049425900,
+							"id_str": "966001069049425920",
+							"name": "Good Friday Agreement",
+							"screen_name": "BelfastAgmt",
+							"location": "Agreement Towers, Belfast",
+							"description": "Born April 1998 AKA Belfast Agreement. Likes: Peace, Consociationalism, Gin, Memes",
+							"url": "https://t.co/2gCVsZDktZ",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/2gCVsZDktZ",
+											"expanded_url": "https://twitter.com/search?q=from:belfastagmt",
+											"display_url": "twitter.com/search?q=from:…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 23309,
+							"friends_count": 5301,
+							"listed_count": 84,
+							"created_at": "Tue Feb 20 17:26:17 +0000 2018",
+							"favourites_count": 92071,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 32341,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1290060711499124737/Awi8S9Yw_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290060711499124737/Awi8S9Yw_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/966001069049425920/1600401043",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21282561,
+			"id_str": "21282561",
+			"name": "Rupert Myers",
+			"screen_name": "RupertMyers",
+			"location": "London & East Anglia",
+			"description": "barrister, writer, husband, owned by 🐶 Toast. formerly comic playwright & political correspondent https://t.co/IthUyUSgSr 🇬🇧🇦🇺",
+			"url": "https://t.co/KuUmAjIHf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KuUmAjIHf5",
+							"expanded_url": "https://www.ealaw.co.uk/our-people/rupert-myers/",
+							"display_url": "ealaw.co.uk/our-people/rup…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IthUyUSgSr",
+							"expanded_url": "http://rupertmyers.com",
+							"display_url": "rupertmyers.com",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38143,
+			"friends_count": 4502,
+			"listed_count": 593,
+			"created_at": "Thu Feb 19 08:01:41 +0000 2009",
+			"favourites_count": 170238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBE8DA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1518877359591632896/UGz5Cpp3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1518877359591632896/UGz5Cpp3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21282561/1612709444",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4804,
+		"favorite_count": 14059,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is ace - can’t believe I’d never seen it before  https://t.co/tusgOcncEo"
+	},
+	{
+		"created_at": "Thu Jun 16 13:46:16 +0000 2022",
+		"id": 1537431366907797500,
+		"id_str": "1537431366907797505",
+		"full_text": "Actorle 92 8/8\n⬛⬛⬛⬛⬛⬛⬛🟩\nPlay here: https://t.co/HeqYIa7Eow \n\nFramed #97\n🎥 🟥 🟩 ⬛ ⬛ ⬛ ⬛\nhttps://t.co/Y0w4iq9zaB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HeqYIa7Eow",
+					"expanded_url": "https://actorle.com",
+					"display_url": "actorle.com",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/Y0w4iq9zaB",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 262,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515349711426834434/1yrKoKZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Actorle 92 8/8\n⬛⬛⬛⬛⬛⬛⬛🟩\nPlay here: https://t.co/HeqYIa7Eow \n\nFramed #97\n🎥 🟥 🟩 ⬛ ⬛ ⬛ ⬛\nhttps://t.co/Y0w4iq9zaB"
+	},
+	{
+		"created_at": "Thu Jun 16 12:26:50 +0000 2022",
+		"id": 1537407897323331600,
+		"id_str": "1537411375089205248",
+		"full_text": "#RegenesisFact 17: Monosodium glutamate is bad for you, right? Or so many people think. But the claim arose not from a scientific study, but a deliberate hoax in 1968 by a US prankster called Howard Steel.🧵",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RegenesisFact",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 198584761,
+			"id_str": "198584761",
+			"name": "George Monbiot",
+			"screen_name": "GeorgeMonbiot",
+			"location": "",
+			"description": "The corpse at every wedding, the bride at every funeral.",
+			"url": "http://t.co/DWv0C2B9q5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DWv0C2B9q5",
+							"expanded_url": "http://www.monbiot.com",
+							"display_url": "monbiot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493148,
+			"friends_count": 2920,
+			"listed_count": 6083,
+			"created_at": "Mon Oct 04 18:06:34 +0000 2010",
+			"favourites_count": 28338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 47163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3594607450/ff6fbd42964f9a0def79d8acbfa034bd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3594607450/ff6fbd42964f9a0def79d8acbfa034bd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/198584761/1399369203",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 323,
+		"favorite_count": 896,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#RegenesisFact 17: Monosodium glutamate is bad for you, right? Or so many people think. But the claim arose not from a scientific study, but a deliberate hoax in 1968 by a US prankster called Howard Steel.🧵"
+	},
+	{
 		"created_at": "Wed Jun 15 21:39:13 +0000 2022",
 		"id": 1537187999863013400,
 		"id_str": "1537187999863013376",
