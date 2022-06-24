@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 23 10:35:24 +0000 2022",
+		"id": 1539861886799421400,
+		"id_str": "1539920047967182848",
+		"full_text": "Not saying they’ve completely run out of attack lines but Piers Morgan spent three minutes trying to make Mick Lynch condemn puppet crime https://t.co/inSfoDnLlg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539642841458245600,
+					"id_str": "1539642841458245633",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1539642841458245633/img/Eeyr4w0MJN9a3mv4.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1539642841458245633/img/Eeyr4w0MJN9a3mv4.jpg",
+					"url": "https://t.co/inSfoDnLlg",
+					"display_url": "pic.twitter.com/inSfoDnLlg",
+					"expanded_url": "https://twitter.com/PoliticsJOE_UK/status/1539645669476122626/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1539645669476122600,
+					"source_status_id_str": "1539645669476122626",
+					"source_user_id": 1854580777,
+					"source_user_id_str": "1854580777"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539642841458245600,
+					"id_str": "1539642841458245633",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1539642841458245633/img/Eeyr4w0MJN9a3mv4.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1539642841458245633/img/Eeyr4w0MJN9a3mv4.jpg",
+					"url": "https://t.co/inSfoDnLlg",
+					"display_url": "pic.twitter.com/inSfoDnLlg",
+					"expanded_url": "https://twitter.com/PoliticsJOE_UK/status/1539645669476122626/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1539645669476122600,
+					"source_status_id_str": "1539645669476122626",
+					"source_user_id": 1854580777,
+					"source_user_id_str": "1854580777",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 139520,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1539642841458245633/vid/320x320/uGslSmfm-La36CHj.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1539642841458245633/pl/bnxPJ1GpjgdBQKIo.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1539642841458245633/vid/540x540/Pnnc0gA7YVhOlBJH.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1539642841458245633/vid/720x720/SZy0lZmjDy3Jf45P.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Mick Lynch makes a fool of Piers Morgan in bizarre interview",
+						"description": "Mick Lynch has to explain to Piers Morgan that Thunderbirds isn't real in bizarre interview ",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 1854580777,
+							"id_str": "1854580777",
+							"name": "JOE",
+							"screen_name": "JOE_co_uk",
+							"location": "United Kingdom",
+							"description": "@FootballJOE - @PoliticsJOE_UK - @SportsJOE_UK - @RugbyJOE_UK",
+							"url": "https://t.co/Icas2ov3WT",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/Icas2ov3WT",
+											"expanded_url": "http://JOE.co.uk",
+											"display_url": "JOE.co.uk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 227253,
+							"friends_count": 1105,
+							"listed_count": 802,
+							"created_at": "Wed Sep 11 14:50:02 +0000 2013",
+							"favourites_count": 9008,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 129606,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1521763134016561153/KOGzXTEj_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1521763134016561153/KOGzXTEj_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1854580777/1651651579",
+							"profile_link_color": "FAB81E",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2904913023,
+			"id_str": "2904913023",
+			"name": "James Felton",
+			"screen_name": "JimMFelton",
+			"location": "",
+			"description": "Bestselling author. 52 Times Britain Was A Bellend: https://t.co/IOylVjHwzA Sunburn, a funny book about how shit The Sun is: https://t.co/Zewi6HPEDE",
+			"url": "https://t.co/HdgFkV6Tqu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HdgFkV6Tqu",
+							"expanded_url": "https://amzn.to/2XfxFgZ",
+							"display_url": "amzn.to/2XfxFgZ",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IOylVjHwzA",
+							"expanded_url": "http://amzn.to/2lev9V0",
+							"display_url": "amzn.to/2lev9V0",
+							"indices": [
+								52,
+								75
+							]
+						},
+						{
+							"url": "https://t.co/Zewi6HPEDE",
+							"expanded_url": "https://amzn.to/3bdzH7D",
+							"display_url": "amzn.to/3bdzH7D",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 331895,
+			"friends_count": 3388,
+			"listed_count": 1043,
+			"created_at": "Thu Dec 04 11:06:45 +0000 2014",
+			"favourites_count": 200758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 51127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863860130009546754/-2Zr0kqI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863860130009546754/-2Zr0kqI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2904913023/1639132373",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 882,
+		"favorite_count": 9310,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not saying they’ve completely run out of attack lines but Piers Morgan spent three minutes trying to make Mick Lynch condemn puppet crime https://t.co/inSfoDnLlg"
+	},
+	{
 		"created_at": "Wed Jun 22 15:28:46 +0000 2022",
 		"id": 1539631488035176400,
 		"id_str": "1539631488035176458",
