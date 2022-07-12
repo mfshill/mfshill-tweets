@@ -1,6 +1,684 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 11 19:15:18 +0000 2022",
+		"id": 1546573866063069200,
+		"id_str": "1546573866063069184",
+		"full_text": "https://t.co/T3e1MmkBpj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T3e1MmkBpj",
+					"expanded_url": "https://twitter.com/BazzFlashman/status/1546573178352422912",
+					"display_url": "twitter.com/BazzFlashman/s…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1546573379989274600,
+		"in_reply_to_status_id_str": "1546573379989274625",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 262,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1546573178352423000,
+		"quoted_status_id_str": "1546573178352422912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/T3e1MmkBpj",
+			"expanded": "https://twitter.com/BazzFlashman/status/1546573178352422912",
+			"display": "twitter.com/BazzFlashman/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 11 19:12:34 +0000 2022",
+			"id": 1546573178352423000,
+			"id_str": "1546573178352422912",
+			"full_text": "Live replay of that foul... #ENGNOR https://t.co/Ll1iD2tGtz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				35
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ENGNOR",
+						"indices": [
+							28,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1546573170978787300,
+						"id_str": "1546573170978787328",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FXaIGttXEAATLHP.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FXaIGttXEAATLHP.jpg",
+						"url": "https://t.co/Ll1iD2tGtz",
+						"display_url": "pic.twitter.com/Ll1iD2tGtz",
+						"expanded_url": "https://twitter.com/BazzFlashman/status/1546573178352422912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1546573170978787300,
+						"id_str": "1546573170978787328",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FXaIGttXEAATLHP.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FXaIGttXEAATLHP.jpg",
+						"url": "https://t.co/Ll1iD2tGtz",
+						"display_url": "pic.twitter.com/Ll1iD2tGtz",
+						"expanded_url": "https://twitter.com/BazzFlashman/status/1546573178352422912/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								25,
+								14
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FXaIGttXEAATLHP.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2275286171,
+				"id_str": "2275286171",
+				"name": "Bazz",
+				"screen_name": "BazzFlashman",
+				"location": "",
+				"description": "Może któregoś dnia to wymyślę.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 66,
+				"friends_count": 586,
+				"listed_count": 1,
+				"created_at": "Sat Jan 11 18:16:27 +0000 2014",
+				"favourites_count": 1577,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5816,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1353689694211629059/CBmmXJqi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353689694211629059/CBmmXJqi_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/T3e1MmkBpj"
+	},
+	{
+		"created_at": "Mon Jul 11 19:13:22 +0000 2022",
+		"id": 1546573379989274600,
+		"id_str": "1546573379989274625",
+		"full_text": "that was a terrible dive, VAR already making mistakes. #ENGNOR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ENGNOR",
+					"indices": [
+						55,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 262,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "that was a terrible dive, VAR already making mistakes. #ENGNOR"
+	},
+	{
+		"created_at": "Mon Jul 11 17:27:00 +0000 2022",
+		"id": 1546546611429466000,
+		"id_str": "1546546611429466113",
+		"full_text": "idiot - Framed #122\n🎥 🟥 🟥 🟥 🟩 ⬛ ⬛\nhttps://t.co/Y0w4iqrazb\n\nActorle 117 2/8\n⬛🟩\nPlay here: https://t.co/HeqYI9Q3wY \n\n#Flickle #90\n🎬 🟥⬛🟥⬛⬛⬛❌\n📆 Daily Streak: 1\n💀 Loss Streak: 1\nhttps://t.co/IPrf5pYMnO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flickle",
+					"indices": [
+						115,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0w4iqrazb",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"url": "https://t.co/HeqYI9Q3wY",
+					"expanded_url": "https://actorle.com",
+					"display_url": "actorle.com",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/IPrf5pYMnO",
+					"expanded_url": "https://flickle.app/",
+					"display_url": "flickle.app",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 262,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "idiot - Framed #122\n🎥 🟥 🟥 🟥 🟩 ⬛ ⬛\nhttps://t.co/Y0w4iqrazb\n\nActorle 117 2/8\n⬛🟩\nPlay here: https://t.co/HeqYI9Q3wY \n\n#Flickle #90\n🎬 🟥⬛🟥⬛⬛⬛❌\n📆 Daily Streak: 1\n💀 Loss Streak: 1\nhttps://t.co/IPrf5pYMnO"
+	},
+	{
+		"created_at": "Mon Jul 11 14:44:14 +0000 2022",
+		"id": 1546480856390312000,
+		"id_str": "1546505649571479553",
+		"full_text": "The Met Office has just issued an amber extreme heat warning for Sunday across much of England and parts of Wales.\n\nExceptionally high temperatures could have impacts on infrastructure and health.\n\nMore details - https://t.co/mE46wn4x6g https://t.co/pNjSA0EJmy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mE46wn4x6g",
+					"expanded_url": "https://www.metoffice.gov.uk/weather/warnings-and-advice/uk-warnings#?date=2022-07-17",
+					"display_url": "metoffice.gov.uk/weather/warnin…",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546480853102076000,
+					"id_str": "1546480853102075906",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FXY0JG0XoAIJJ1_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXY0JG0XoAIJJ1_.jpg",
+					"url": "https://t.co/pNjSA0EJmy",
+					"display_url": "pic.twitter.com/pNjSA0EJmy",
+					"expanded_url": "https://twitter.com/liamdutton/status/1546480856390311939/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 644,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1108,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1108,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546480853102076000,
+					"id_str": "1546480853102075906",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FXY0JG0XoAIJJ1_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXY0JG0XoAIJJ1_.jpg",
+					"url": "https://t.co/pNjSA0EJmy",
+					"display_url": "pic.twitter.com/pNjSA0EJmy",
+					"expanded_url": "https://twitter.com/liamdutton/status/1546480856390311939/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 644,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1108,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1108,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20481072,
+			"id_str": "20481072",
+			"name": "Liam Dutton",
+			"screen_name": "liamdutton",
+			"location": "London",
+			"description": "Weather Presenter for @Channel4News, formerly @bbcweather. @metoffice qualified meteorologist. Pianist. Tech lover. Welshman. Writing a children's weather book.",
+			"url": "https://t.co/QxjnW9Z7d1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QxjnW9Z7d1",
+							"expanded_url": "http://www.liamdutton.com",
+							"display_url": "liamdutton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39580,
+			"friends_count": 532,
+			"listed_count": 562,
+			"created_at": "Tue Feb 10 00:33:07 +0000 2009",
+			"favourites_count": 3304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 56925,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D1D1D1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1258899542323408898/Fk0fWVBK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258899542323408898/Fk0fWVBK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20481072/1443639844",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 62,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Met Office has just issued an amber extreme heat warning for Sunday across much of England and parts of Wales.\n\nExceptionally high temperatures could have impacts on infrastructure and health.\n\nMore details - https://t.co/mE46wn4x6g https://t.co/pNjSA0EJmy"
+	},
+	{
 		"created_at": "Sun Jul 10 21:13:41 +0000 2022",
 		"id": 1546233751658692600,
 		"id_str": "1546241269743099904",
