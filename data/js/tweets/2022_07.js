@@ -1,6 +1,1057 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 18 21:32:57 +0000 2022",
+		"id": 1549145224504610800,
+		"id_str": "1549145224504610816",
+		"full_text": "https://t.co/f9MXXHqjI5 https://t.co/GFn8xHssyj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f9MXXHqjI5",
+					"expanded_url": "https://twitter.com/JaneFae/status/1549139691395506183",
+					"display_url": "twitter.com/JaneFae/status…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549145217701380000,
+					"id_str": "1549145217701380099",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FX-rXiaWAAMBRTZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FX-rXiaWAAMBRTZ.jpg",
+					"url": "https://t.co/GFn8xHssyj",
+					"display_url": "pic.twitter.com/GFn8xHssyj",
+					"expanded_url": "https://twitter.com/mfshill/status/1549145224504610816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549145217701380000,
+					"id_str": "1549145217701380099",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FX-rXiaWAAMBRTZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FX-rXiaWAAMBRTZ.jpg",
+					"url": "https://t.co/GFn8xHssyj",
+					"display_url": "pic.twitter.com/GFn8xHssyj",
+					"expanded_url": "https://twitter.com/mfshill/status/1549145224504610816/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							139
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FX-rXiaWAAMBRTZ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 262,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1549139691395506200,
+		"quoted_status_id_str": "1549139691395506183",
+		"quoted_status_permalink": {
+			"url": "https://t.co/f9MXXHqjI5",
+			"expanded": "https://twitter.com/JaneFae/status/1549139691395506183",
+			"display": "twitter.com/JaneFae/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 18 21:10:58 +0000 2022",
+			"id": 1549139691395506200,
+			"id_str": "1549139691395506183",
+			"full_text": "Wait. \n\nThe government is moving a no confidence vote in the government and if it passes, the government falls.\n\nBut if it falls it means MPs have confidence in the government...which is trying to pass the motion.\n\nSo they have no confidence in the motion and so...",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40532711,
+				"id_str": "40532711",
+				"name": "jane francesca fae #facciamorete #IostoconiCurdi",
+				"screen_name": "JaneFae",
+				"location": "UK",
+				"description": "Elf Princess: feminist, journalist, campaigner on political and sexual liberty: also IT,  law and policing. Content may contain spoof!\n\nShe/her. Also fae/faer",
+				"url": "http://t.co/at7sMSx0Lr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/at7sMSx0Lr",
+								"expanded_url": "http://faerising.wordpress.com/",
+								"display_url": "faerising.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5841,
+				"friends_count": 1558,
+				"listed_count": 128,
+				"created_at": "Sat May 16 20:10:22 +0000 2009",
+				"favourites_count": 2812,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 77852,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "14192E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/432522344771244032/OrzQWN-E_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/432522344771244032/OrzQWN-E_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40532711/1360889368",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "1B2B4B",
+				"profile_sidebar_fill_color": "37304F",
+				"profile_text_color": "7B7B8A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/f9MXXHqjI5 https://t.co/GFn8xHssyj"
+	},
+	{
+		"created_at": "Mon Jul 18 21:18:05 +0000 2022",
+		"id": 1548742150929752000,
+		"id_str": "1549141480903770115",
+		"full_text": "Genuine question: why are these people debating on prime time when only 200k people are eligible to vote for them? Can’t they hire a hall or something?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43963184,
+			"id_str": "43963184",
+			"name": "Sue Perkins 💙",
+			"screen_name": "sueperkins",
+			"location": "",
+			"description": "Mutton dressed as mutton. Podcast can be found here: https://t.co/PjPIyvL2A1",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PjPIyvL2A1",
+							"expanded_url": "http://podfollow.com/sueperkins",
+							"display_url": "podfollow.com/sueperkins",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1234221,
+			"friends_count": 427,
+			"listed_count": 4118,
+			"created_at": "Mon Jun 01 20:21:38 +0000 2009",
+			"favourites_count": 1360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 28650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2732719987/2bbe18c6675a4dabd17672b6cf90cfa3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2732719987/2bbe18c6675a4dabd17672b6cf90cfa3_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4561,
+		"favorite_count": 47572,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Genuine question: why are these people debating on prime time when only 200k people are eligible to vote for them? Can’t they hire a hall or something?"
+	},
+	{
+		"created_at": "Mon Jul 18 21:12:39 +0000 2022",
+		"id": 1549111412617875500,
+		"id_str": "1549140114621751311",
+		"full_text": "I fear the Conservative Party will come to regret not choosing @TomTugendhat. Honourable. Compassionate.Far-sighted. https://t.co/rFrRhrkrVo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TomTugendhat",
+					"name": "Tom Tugendhat",
+					"id": 2173779986,
+					"id_str": "2173779986",
+					"indices": [
+						63,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rFrRhrkrVo",
+					"expanded_url": "https://twitter.com/tomtugendhat/status/1549107460752957441",
+					"display_url": "twitter.com/tomtugendhat/s…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16139649,
+			"id_str": "16139649",
+			"name": "Tim Montgomerie 🇬🇧",
+			"screen_name": "montie",
+			"location": "",
+			"description": "Freelance C/conservative pundit. Founder of @ConHome, @csjthinktank, @UK_CCF and @UnHerd. Coming soon: 'The Conservative Project'...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 184633,
+			"friends_count": 1139,
+			"listed_count": 2476,
+			"created_at": "Fri Sep 05 03:13:55 +0000 2008",
+			"favourites_count": 1691,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 80243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539210945158955009/h8hhA8ru_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539210945158955009/h8hhA8ru_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16139649/1643805768",
+			"profile_link_color": "1717E6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "221616",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1549107460752957400,
+		"quoted_status_id_str": "1549107460752957441",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rFrRhrkrVo",
+			"expanded": "https://twitter.com/tomtugendhat/status/1549107460752957441",
+			"display": "twitter.com/tomtugendhat/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 18 19:02:54 +0000 2022",
+			"id": 1549107460752957400,
+			"id_str": "1549107460752957441",
+			"full_text": "Although it wasn’t to be today, I am immensely proud of the positive vision we put forward for our country. \n\nThank you to all those who supported me and believed in #ACleanStart. This is only the beginning! https://t.co/KgODn9xuNx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				207
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ACleanStart",
+						"indices": [
+							166,
+							178
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1549107389613359000,
+						"id_str": "1549107389613359104",
+						"indices": [
+							208,
+							231
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1549107389613359104/pu/img/36xNWY1-oMmeclTP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1549107389613359104/pu/img/36xNWY1-oMmeclTP.jpg",
+						"url": "https://t.co/KgODn9xuNx",
+						"display_url": "pic.twitter.com/KgODn9xuNx",
+						"expanded_url": "https://twitter.com/TomTugendhat/status/1549107460752957441/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 385,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1549107389613359000,
+						"id_str": "1549107389613359104",
+						"indices": [
+							208,
+							231
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1549107389613359104/pu/img/36xNWY1-oMmeclTP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1549107389613359104/pu/img/36xNWY1-oMmeclTP.jpg",
+						"url": "https://t.co/KgODn9xuNx",
+						"display_url": "pic.twitter.com/KgODn9xuNx",
+						"expanded_url": "https://twitter.com/TomTugendhat/status/1549107460752957441/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 385,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								30,
+								53
+							],
+							"duration_millis": 52591,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1549107389613359104/pu/vid/320x564/P8brHjT5JrukY9fZ.mp4?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1549107389613359104/pu/vid/480x848/mw861Eq4gbN8gO6Q.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1549107389613359104/pu/pl/of1RyGoo3nT1kjuB.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2173779986,
+				"id_str": "2173779986",
+				"name": "Tom Tugendhat",
+				"screen_name": "TomTugendhat",
+				"location": "Kent",
+				"description": "Candidate for Leader of the @Conservatives. Father, husband, soldier, MP for Tonbridge and Malling.",
+				"url": "https://t.co/5fqcvyWRto",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5fqcvyWRto",
+								"expanded_url": "http://timefortugendhat.com",
+								"display_url": "timefortugendhat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 138188,
+				"friends_count": 3056,
+				"listed_count": 1015,
+				"created_at": "Mon Nov 04 10:48:21 +0000 2013",
+				"favourites_count": 34046,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 33902,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1545183135905742848/Q5NWeYaX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1545183135905742848/Q5NWeYaX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173779986/1657519393",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 364,
+			"favorite_count": 6326,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 111,
+		"favorite_count": 1017,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I fear the Conservative Party will come to regret not choosing @TomTugendhat. Honourable. Compassionate.Far-sighted. https://t.co/rFrRhrkrVo"
+	},
+	{
+		"created_at": "Mon Jul 18 18:28:43 +0000 2022",
+		"id": 1549098857413451800,
+		"id_str": "1549098857413451777",
+		"full_text": "@eops how's the vinyl coping in the heat?",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1549087379788537900,
+		"in_reply_to_status_id_str": "1549087379788537860",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 262,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eops how's the vinyl coping in the heat?"
+	},
+	{
+		"created_at": "Mon Jul 18 18:19:03 +0000 2022",
+		"id": 1549074919362896000,
+		"id_str": "1549096424675201024",
+		"full_text": "The kitchen’s so hot the coconut oil is actually usable",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132503065,
+			"id_str": "132503065",
+			"name": "Lauren",
+			"screen_name": "LollyStrnks",
+			"location": "Saufend-on-Sji",
+			"description": "UX/IA pro @ the Beeb. Lady Embroideress. Seasider. Flailing mum. Occasionally hilarious, frequently hungry. she/her",
+			"url": "https://t.co/awEwyGsAAE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/awEwyGsAAE",
+							"expanded_url": "https://www.littleleighstitchery.com",
+							"display_url": "littleleighstitchery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2558,
+			"friends_count": 1250,
+			"listed_count": 75,
+			"created_at": "Tue Apr 13 12:14:43 +0000 2010",
+			"favourites_count": 4921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 121680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1514896459501551625/7n2ma4Ht_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1514896459501551625/7n2ma4Ht_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132503065/1494925642",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The kitchen’s so hot the coconut oil is actually usable"
+	},
+	{
+		"created_at": "Mon Jul 18 11:05:01 +0000 2022",
+		"id": 1548987199428956200,
+		"id_str": "1548987199428956165",
+		"full_text": "https://t.co/n1H7USP9jn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1548987187772932000,
+					"id_str": "1548987187772932096",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FX8bo_DWQAAaJrI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX8bo_DWQAAaJrI.jpg",
+					"url": "https://t.co/n1H7USP9jn",
+					"display_url": "pic.twitter.com/n1H7USP9jn",
+					"expanded_url": "https://twitter.com/mfshill/status/1548987199428956165/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 611,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1043,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548987187772932000,
+					"id_str": "1548987187772932096",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FX8bo_DWQAAaJrI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX8bo_DWQAAaJrI.jpg",
+					"url": "https://t.co/n1H7USP9jn",
+					"display_url": "pic.twitter.com/n1H7USP9jn",
+					"expanded_url": "https://twitter.com/mfshill/status/1548987199428956165/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 611,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1043,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 262,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/n1H7USP9jn"
+	},
+	{
 		"created_at": "Sun Jul 17 23:43:57 +0000 2022",
 		"id": 1548815803214069800,
 		"id_str": "1548815803214069761",
