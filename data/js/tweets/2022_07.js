@@ -1,6 +1,634 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 26 23:14:36 +0000 2022",
+		"id": 1552061231413985300,
+		"id_str": "1552069907084414979",
+		"full_text": "I know the joke's already been done but I found a drum loop called \"Big Dog\" in my collection so I pretty much had to... https://t.co/mK6YKZnHpe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1552060916639867000,
+					"id_str": "1552060916639866886",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1552060916639866886/pu/img/5WWJh3cbV5TNjG5C.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1552060916639866886/pu/img/5WWJh3cbV5TNjG5C.jpg",
+					"url": "https://t.co/mK6YKZnHpe",
+					"display_url": "pic.twitter.com/mK6YKZnHpe",
+					"expanded_url": "https://twitter.com/AndrejNkv/status/1552061231413985280/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552060916639867000,
+					"id_str": "1552060916639866886",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1552060916639866886/pu/img/5WWJh3cbV5TNjG5C.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1552060916639866886/pu/img/5WWJh3cbV5TNjG5C.jpg",
+					"url": "https://t.co/mK6YKZnHpe",
+					"display_url": "pic.twitter.com/mK6YKZnHpe",
+					"expanded_url": "https://twitter.com/AndrejNkv/status/1552061231413985280/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 49708,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1552060916639866886/pu/vid/640x360/lUPg7MI1iPYm9lVy.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1552060916639866886/pu/vid/1280x720/4aDMXv20g_jMr0Pm.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1552060916639866886/pu/vid/480x270/0oJKTINGuy92VDaG.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1552060916639866886/pu/pl/WVuhlnwu7MgGO-nI.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24146029,
+			"id_str": "24146029",
+			"name": "Andrej",
+			"screen_name": "AndrejNkv",
+			"location": "Edinburgh, Scotland",
+			"description": "The Pokémon Prohibitionist. Opinions and faux pas strictly my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2102,
+			"friends_count": 1784,
+			"listed_count": 14,
+			"created_at": "Fri Mar 13 08:23:44 +0000 2009",
+			"favourites_count": 84377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288439058683899904/z7-2IDp9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288439058683899904/z7-2IDp9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24146029/1496084782",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I know the joke's already been done but I found a drum loop called \"Big Dog\" in my collection so I pretty much had to... https://t.co/mK6YKZnHpe"
+	},
+	{
+		"created_at": "Tue Jul 26 21:08:48 +0000 2022",
+		"id": 1552038247454441500,
+		"id_str": "1552038247454441478",
+		"full_text": "Framed #137\n🎥 🟥 🟥 🟩 ⬛ ⬛ ⬛\nhttps://t.co/Y0w4iqrazb\n\n#Flickle #105\n🎬 ⬛⬛⬛⬛🟩⬜\n📆 Daily Streak: 16\n🏆 Win Streak: 9\nhttps://t.co/IPrf5pYMnO\n\nActorle 132 7/8\n⬛⬛⬛🟨🟨⬛🟩\nPlay here: https://t.co/HeqYI9Q3wY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flickle",
+					"indices": [
+						51,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0w4iqrazb",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/IPrf5pYMnO",
+					"expanded_url": "https://flickle.app/",
+					"display_url": "flickle.app",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/HeqYI9Q3wY",
+					"expanded_url": "https://actorle.com",
+					"display_url": "actorle.com",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 263,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Framed #137\n🎥 🟥 🟥 🟩 ⬛ ⬛ ⬛\nhttps://t.co/Y0w4iqrazb\n\n#Flickle #105\n🎬 ⬛⬛⬛⬛🟩⬜\n📆 Daily Streak: 16\n🏆 Win Streak: 9\nhttps://t.co/IPrf5pYMnO\n\nActorle 132 7/8\n⬛⬛⬛🟨🟨⬛🟩\nPlay here: https://t.co/HeqYI9Q3wY"
+	},
+	{
+		"created_at": "Tue Jul 26 17:31:11 +0000 2022",
+		"id": 1551983484767461400,
+		"id_str": "1551983484767461383",
+		"full_text": "@eops you'll like this one https://t.co/Rkc0Ulk7RR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Rkc0Ulk7RR",
+					"expanded_url": "https://twitter.com/mfshill/status/1551982756946759681",
+					"display_url": "twitter.com/mfshill/status…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 263,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1551982756946759700,
+		"quoted_status_id_str": "1551982756946759681",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Rkc0Ulk7RR",
+			"expanded": "https://twitter.com/mfshill/status/1551982756946759681",
+			"display": "twitter.com/mfshill/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 26 17:28:18 +0000 2022",
+			"id": 1551982756946759700,
+			"id_str": "1551982756946759681",
+			"full_text": "fantastic salsa/house mix, defo worth 90 mins of your time. #NowPlaying https://t.co/WrD6Av3BmU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NowPlaying",
+						"indices": [
+							60,
+							71
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WrD6Av3BmU",
+						"expanded_url": "https://www.mixcloud.com/Djbnicemontreal/dj-bnice-montreal-ppd-50-special-caliente-summer-2022-salsa-latino-deep-house-mix/",
+						"display_url": "mixcloud.com/Djbnicemontrea…",
+						"indices": [
+							72,
+							95
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95424142,
+				"id_str": "95424142",
+				"name": "Hilly",
+				"screen_name": "mfshill",
+				"location": "Null Island",
+				"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 256,
+				"friends_count": 263,
+				"listed_count": 21,
+				"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+				"favourites_count": 1353,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 43417,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+				"profile_link_color": "9D6238",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EDE1B0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@eops you'll like this one https://t.co/Rkc0Ulk7RR"
+	},
+	{
+		"created_at": "Tue Jul 26 17:28:18 +0000 2022",
+		"id": 1551982756946759700,
+		"id_str": "1551982756946759681",
+		"full_text": "fantastic salsa/house mix, defo worth 90 mins of your time. #NowPlaying https://t.co/WrD6Av3BmU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NowPlaying",
+					"indices": [
+						60,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WrD6Av3BmU",
+					"expanded_url": "https://www.mixcloud.com/Djbnicemontreal/dj-bnice-montreal-ppd-50-special-caliente-summer-2022-salsa-latino-deep-house-mix/",
+					"display_url": "mixcloud.com/Djbnicemontrea…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 263,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "fantastic salsa/house mix, defo worth 90 mins of your time. #NowPlaying https://t.co/WrD6Av3BmU"
+	},
+	{
 		"created_at": "Mon Jul 25 21:47:29 +0000 2022",
 		"id": 1551685596791308300,
 		"id_str": "1551685596791308292",
