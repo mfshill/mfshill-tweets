@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 30 21:51:17 +0000 2022",
+		"id": 1553498492588408800,
+		"id_str": "1553498492588408848",
+		"full_text": "Japanese Squid game https://t.co/9pQTxp6TmB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9pQTxp6TmB",
+					"expanded_url": "https://www.youtube.com/watch?v=ljKO0R84YXg",
+					"display_url": "youtube.com/watch?v=ljKO0R…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 264,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Japanese Squid game https://t.co/9pQTxp6TmB"
+	},
+	{
+		"created_at": "Sat Jul 30 21:17:32 +0000 2022",
+		"id": 1545819896004624400,
+		"id_str": "1553489998493745152",
+		"full_text": "What's causing all these logos to look the same? https://t.co/DgnNfOV20v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545819845693939700,
+					"id_str": "1545819845693939713",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FXPa9aVWIAEDHNX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXPa9aVWIAEDHNX.jpg",
+					"url": "https://t.co/DgnNfOV20v",
+					"display_url": "pic.twitter.com/DgnNfOV20v",
+					"expanded_url": "https://twitter.com/david_perell/status/1545819896004624384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 895,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 895,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 634,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545819845693939700,
+					"id_str": "1545819845693939713",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FXPa9aVWIAEDHNX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXPa9aVWIAEDHNX.jpg",
+					"url": "https://t.co/DgnNfOV20v",
+					"display_url": "pic.twitter.com/DgnNfOV20v",
+					"expanded_url": "https://twitter.com/david_perell/status/1545819896004624384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 895,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 895,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 634,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240049622,
+			"id_str": "240049622",
+			"name": "David Perell",
+			"screen_name": "david_perell",
+			"location": "Austin, Texas",
+			"description": "\"The Writing Guy\" | I tweet about writing, learning and business | My writing school: https://t.co/bzeQ7VVyS0 | My writing: https://t.co/SOE9HtxXdi",
+			"url": "https://t.co/RpMPV73iuK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RpMPV73iuK",
+							"expanded_url": "https://dperell.com/best-links",
+							"display_url": "dperell.com/best-links",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bzeQ7VVyS0",
+							"expanded_url": "http://writeofpassage.school",
+							"display_url": "writeofpassage.school",
+							"indices": [
+								86,
+								109
+							]
+						},
+						{
+							"url": "https://t.co/SOE9HtxXdi",
+							"expanded_url": "http://perell.com",
+							"display_url": "perell.com",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 352993,
+			"friends_count": 861,
+			"listed_count": 6004,
+			"created_at": "Wed Jan 19 01:41:27 +0000 2011",
+			"favourites_count": 72721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1341406620107091968/Cxxf4Uf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1341406620107091968/Cxxf4Uf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240049622/1641513065",
+			"profile_link_color": "129CE6",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41442,
+		"favorite_count": 249870,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What's causing all these logos to look the same? https://t.co/DgnNfOV20v"
+	},
+	{
 		"created_at": "Thu Jul 28 23:33:17 +0000 2022",
 		"id": 1552799384894677000,
 		"id_str": "1552799384894676993",
@@ -1145,7 +1433,7 @@ Grailbird.data.tweets_2022_07 =
 			"created_at": "Thu Jul 28 13:23:35 +0000 2022",
 			"id": 1552645948496650200,
 			"id_str": "1552645948496650242",
-			"full_text": "🚴​🇫🇷​ | Oeioeioei... wat een nare, massale valpartij in het peloton! Een groot deel van de rensters buitelt over elkaar. Een opeenstapeling... Hopelijk weinig schade! 💥💥 #TDFF\n\n📺 Koers kijk je op discovery+ https://t.co/MhO1cCOQbF",
+			"full_text": "🚴🇫🇷 | Oeioeioei... wat een nare, massale valpartij in het peloton! Een groot deel van de rensters buitelt over elkaar. Een opeenstapeling... Hopelijk weinig schade! 💥💥 #TDFF\n\n📺 Koers kijk je op discovery+ https://t.co/MhO1cCOQbF",
 			"truncated": false,
 			"display_text_range": [
 				0,
