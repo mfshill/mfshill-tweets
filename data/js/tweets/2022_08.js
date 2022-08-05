@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 04 19:37:58 +0000 2022",
+		"id": 1555274159051214800,
+		"id_str": "1555276881473245189",
+		"full_text": "Order your Arteta's drawing T-Shirt or hoodie here! #TrustTheProcess #arsenal #AONArsenal https://t.co/29PnL9qYab\n#AllOrNothingArsenal",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TrustTheProcess",
+					"indices": [
+						52,
+						68
+					]
+				},
+				{
+					"text": "arsenal",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"text": "AONArsenal",
+					"indices": [
+						78,
+						89
+					]
+				},
+				{
+					"text": "AllOrNothingArsenal",
+					"indices": [
+						114,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/29PnL9qYab",
+					"expanded_url": "https://you-are-invincible.teemill.com/product/passion-clarity-energy-artetas-drawing-hoodie/",
+					"display_url": "you-are-invincible.teemill.com/product/passio…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2986534822,
+			"id_str": "2986534822",
+			"name": "Rebecca Bromley",
+			"screen_name": "becbromblue",
+			"location": "Surrey",
+			"description": "COYG",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382,
+			"friends_count": 66,
+			"listed_count": 27,
+			"created_at": "Mon Jan 19 22:52:13 +0000 2015",
+			"favourites_count": 1309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292372377595252737/tK_abje9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292372377595252737/tK_abje9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2986534822/1514602879",
+			"profile_link_color": "542437",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Order your Arteta's drawing T-Shirt or hoodie here! #TrustTheProcess #arsenal #AONArsenal https://t.co/29PnL9qYab\n#AllOrNothingArsenal"
+	},
+	{
+		"created_at": "Thu Aug 04 19:36:45 +0000 2022",
+		"id": 1555276573414137900,
+		"id_str": "1555276573414137858",
+		"full_text": "https://t.co/7PMBN0payp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555276555928178700,
+					"id_str": "1555276555928178690",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FZVzyZOXkAI7eEW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZVzyZOXkAI7eEW.jpg",
+					"url": "https://t.co/7PMBN0payp",
+					"display_url": "pic.twitter.com/7PMBN0payp",
+					"expanded_url": "https://twitter.com/mfshill/status/1555276573414137858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 587,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 587,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555276555928178700,
+					"id_str": "1555276555928178690",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FZVzyZOXkAI7eEW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZVzyZOXkAI7eEW.jpg",
+					"url": "https://t.co/7PMBN0payp",
+					"display_url": "pic.twitter.com/7PMBN0payp",
+					"expanded_url": "https://twitter.com/mfshill/status/1555276573414137858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 587,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 587,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 264,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/7PMBN0payp"
+	},
+	{
 		"created_at": "Wed Aug 03 19:53:11 +0000 2022",
 		"id": 1554917429133938700,
 		"id_str": "1554918320930971648",
