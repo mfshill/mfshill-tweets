@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 08 19:48:14 +0000 2022",
+		"id": 1556729013967765500,
+		"id_str": "1556729013967765505",
+		"full_text": "https://t.co/HJcQjyou5y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556729002856939500,
+					"id_str": "1556729002856939520",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FZqcx7rWAAA5a87.png",
+					"media_url_https": "https://pbs.twimg.com/media/FZqcx7rWAAA5a87.png",
+					"url": "https://t.co/HJcQjyou5y",
+					"display_url": "pic.twitter.com/HJcQjyou5y",
+					"expanded_url": "https://twitter.com/mfshill/status/1556729013967765505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 498,
+							"h": 588,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 588,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 588,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556729002856939500,
+					"id_str": "1556729002856939520",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FZqcx7rWAAA5a87.png",
+					"media_url_https": "https://pbs.twimg.com/media/FZqcx7rWAAA5a87.png",
+					"url": "https://t.co/HJcQjyou5y",
+					"display_url": "pic.twitter.com/HJcQjyou5y",
+					"expanded_url": "https://twitter.com/mfshill/status/1556729013967765505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 498,
+							"h": 588,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 588,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 588,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 264,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1365,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/HJcQjyou5y"
+	},
+	{
+		"created_at": "Mon Aug 08 19:17:32 +0000 2022",
+		"id": 1556709327573962800,
+		"id_str": "1556721290391822338",
+		"full_text": "Here's my latest weather forecast on the forthcoming #heatwave https://t.co/mJBobf8u67",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "heatwave",
+					"indices": [
+						53,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556698377861079000,
+					"id_str": "1556698377861079048",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1556698377861079048/pu/img/fjXCQSh0Ge0D1bov.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1556698377861079048/pu/img/fjXCQSh0Ge0D1bov.jpg",
+					"url": "https://t.co/mJBobf8u67",
+					"display_url": "pic.twitter.com/mJBobf8u67",
+					"expanded_url": "https://twitter.com/liamdutton/status/1556709327573962753/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556698377861079000,
+					"id_str": "1556698377861079048",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1556698377861079048/pu/img/fjXCQSh0Ge0D1bov.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1556698377861079048/pu/img/fjXCQSh0Ge0D1bov.jpg",
+					"url": "https://t.co/mJBobf8u67",
+					"display_url": "pic.twitter.com/mJBobf8u67",
+					"expanded_url": "https://twitter.com/liamdutton/status/1556709327573962753/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 102880,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556698377861079048/pu/vid/480x270/MMrJ1OOxM2rcqm7j.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556698377861079048/pu/vid/1280x720/mjVdPLA4Eaq2bTxZ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556698377861079048/pu/vid/640x360/q_kpZqT6p-xwpgg9.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1556698377861079048/pu/pl/Cj5QMa4tt6ir8-bx.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20481072,
+			"id_str": "20481072",
+			"name": "Liam Dutton",
+			"screen_name": "liamdutton",
+			"location": "London",
+			"description": "Weather Presenter @Channel4News, formerly @bbcweather. @metoffice qualified meteorologist. Pianist. Tech lover. Welshman. Author of ‘Weather, Camera, Action!’",
+			"url": "https://t.co/QxjnW9Z7d1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QxjnW9Z7d1",
+							"expanded_url": "http://www.liamdutton.com",
+							"display_url": "liamdutton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39680,
+			"friends_count": 531,
+			"listed_count": 560,
+			"created_at": "Tue Feb 10 00:33:07 +0000 2009",
+			"favourites_count": 3310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 57022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D1D1D1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1258899542323408898/Fk0fWVBK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258899542323408898/Fk0fWVBK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20481072/1658605013",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's my latest weather forecast on the forthcoming #heatwave https://t.co/mJBobf8u67"
+	},
+	{
 		"created_at": "Sun Aug 07 13:44:39 +0000 2022",
 		"id": 1556275128971006000,
 		"id_str": "1556275128971005955",
