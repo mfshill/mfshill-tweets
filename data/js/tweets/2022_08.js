@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 11 10:00:30 +0000 2022",
+		"id": 1557605180195176400,
+		"id_str": "1557668271947644928",
+		"full_text": "Admin when people tweet ‘can’t wait for my 10th rejection letter’ https://t.co/FGuJkoWXuF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557605173375254500,
+					"id_str": "1557605173375254530",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FZ25pxNXwAIeKYK.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZ25pxNXwAIeKYK.jpg",
+					"url": "https://t.co/FGuJkoWXuF",
+					"display_url": "pic.twitter.com/FGuJkoWXuF",
+					"expanded_url": "https://twitter.com/LondonMarathon/status/1557605180195176454/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 330,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 330,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557605173375254500,
+					"id_str": "1557605173375254530",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FZ25pxNXwAIeKYK.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZ25pxNXwAIeKYK.jpg",
+					"url": "https://t.co/FGuJkoWXuF",
+					"display_url": "pic.twitter.com/FGuJkoWXuF",
+					"expanded_url": "https://twitter.com/LondonMarathon/status/1557605180195176454/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 330,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 330,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 330,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							55
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FZ25pxNXwAIeKYK.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1557357495089303600,
+		"in_reply_to_status_id_str": "1557357495089303553",
+		"in_reply_to_user_id": 54598980,
+		"in_reply_to_user_id_str": "54598980",
+		"in_reply_to_screen_name": "LondonMarathon",
+		"user": {
+			"id": 54598980,
+			"id_str": "54598980",
+			"name": "TCS London Marathon",
+			"screen_name": "LondonMarathon",
+			"location": "London, UK",
+			"description": "🗓 Sunday 2 October 2022\n📍 London \n🌍 The world’s greatest marathon\n🎗 Over £1 billion raised for charity\n\n#LondonMarathon",
+			"url": "https://t.co/wXXy9QqnJH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXXy9QqnJH",
+							"expanded_url": "https://www.tcslondonmarathon.com/",
+							"display_url": "tcslondonmarathon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183281,
+			"friends_count": 737,
+			"listed_count": 1404,
+			"created_at": "Tue Jul 07 16:35:36 +0000 2009",
+			"favourites_count": 10856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1557738731523543040/ev9jCrsn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1557738731523543040/ev9jCrsn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54598980/1649757579",
+			"profile_link_color": "7BB3DC",
+			"profile_sidebar_border_color": "FFA400",
+			"profile_sidebar_fill_color": "EF180F",
+			"profile_text_color": "843AA9",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Admin when people tweet ‘can’t wait for my 10th rejection letter’ https://t.co/FGuJkoWXuF"
+	},
+	{
 		"created_at": "Wed Aug 10 10:10:03 +0000 2022",
 		"id": 1557308285144924200,
 		"id_str": "1557308285144924161",
