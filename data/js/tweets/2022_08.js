@@ -1,6 +1,747 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 12 21:22:50 +0000 2022",
+		"id": 1558202374447136800,
+		"id_str": "1558202374447136768",
+		"full_text": "@TC_Cornesto https://t.co/Xjh25k47yr",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC Cornesto",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1558202367610437600,
+					"id_str": "1558202367610437632",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FZ_YzDGXwAA9u8L.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZ_YzDGXwAA9u8L.jpg",
+					"url": "https://t.co/Xjh25k47yr",
+					"display_url": "pic.twitter.com/Xjh25k47yr",
+					"expanded_url": "https://twitter.com/mfshill/status/1558202374447136768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 370,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558202367610437600,
+					"id_str": "1558202367610437632",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FZ_YzDGXwAA9u8L.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZ_YzDGXwAA9u8L.jpg",
+					"url": "https://t.co/Xjh25k47yr",
+					"display_url": "pic.twitter.com/Xjh25k47yr",
+					"expanded_url": "https://twitter.com/mfshill/status/1558202374447136768/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 370,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 370,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							185
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FZ_YzDGXwAA9u8L.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1558195772960784400,
+		"in_reply_to_status_id_str": "1558195772960784392",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 265,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@TC_Cornesto https://t.co/Xjh25k47yr"
+	},
+	{
+		"created_at": "Fri Aug 12 17:14:15 +0000 2022",
+		"id": 1558139815211765800,
+		"id_str": "1558139815211765760",
+		"full_text": "interesting - Next financial crisis likely to centre on private markets  https://t.co/2sRnCIUb0l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2sRnCIUb0l",
+					"expanded_url": "https://www.ft.com/content/6de0250b-bd46-45e7-ba0e-0b798a6c3471",
+					"display_url": "ft.com/content/6de025…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 265,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "interesting - Next financial crisis likely to centre on private markets  https://t.co/2sRnCIUb0l"
+	},
+	{
+		"created_at": "Fri Aug 12 16:34:28 +0000 2022",
+		"id": 1558129804959965200,
+		"id_str": "1558129804959965186",
+		"full_text": "@TC_Cornesto i once completely lost it at a colleague that used to sit across from me years ago for doing this. i felt so bad afterwards. apologised and he was like 'oh sorry i didn't know i was doing it' https://t.co/gepVMGtNF8",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC Cornesto",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1558129798072901600,
+					"id_str": "1558129798072901632",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FZ-Wy8gWIAA5F14.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZ-Wy8gWIAA5F14.jpg",
+					"url": "https://t.co/gepVMGtNF8",
+					"display_url": "pic.twitter.com/gepVMGtNF8",
+					"expanded_url": "https://twitter.com/mfshill/status/1558129804959965186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 288,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558129798072901600,
+					"id_str": "1558129798072901632",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FZ-Wy8gWIAA5F14.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZ-Wy8gWIAA5F14.jpg",
+					"url": "https://t.co/gepVMGtNF8",
+					"display_url": "pic.twitter.com/gepVMGtNF8",
+					"expanded_url": "https://twitter.com/mfshill/status/1558129804959965186/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 288,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 288,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							48
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FZ-Wy8gWIAA5F14.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1558125790151196700,
+		"in_reply_to_status_id_str": "1558125790151196673",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 265,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@TC_Cornesto i once completely lost it at a colleague that used to sit across from me years ago for doing this. i felt so bad afterwards. apologised and he was like 'oh sorry i didn't know i was doing it' https://t.co/gepVMGtNF8"
+	},
+	{
+		"created_at": "Fri Aug 12 14:31:48 +0000 2022",
+		"id": 1558098933640994800,
+		"id_str": "1558098933640994816",
+		"full_text": "as a keen runner i can confirm this. more trees please! https://t.co/GHrWavPCh9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GHrWavPCh9",
+					"expanded_url": "https://twitter.com/jonburkeUK/status/1557665915268890624",
+					"display_url": "twitter.com/jonburkeUK/sta…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 265,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1557665915268890600,
+		"quoted_status_id_str": "1557665915268890624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GHrWavPCh9",
+			"expanded": "https://twitter.com/jonburkeUK/status/1557665915268890624",
+			"display": "twitter.com/jonburkeUK/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 11 09:51:08 +0000 2022",
+			"id": 1557665915268890600,
+			"id_str": "1557665915268890624",
+			"full_text": "One study in Manchester found that shade from street trees reduced surface temperatures by an average of 12°C and that concrete surfaces shaded permanently by a bank of trees were cooled by up to 20°C in the summer.\n\nTrees. The most advanced cooling technology in the world. https://t.co/sYSPsyoM6f",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1557665524368146400,
+						"id_str": "1557665524368146433",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/FZ3wiqLWAAENqq3.png",
+						"media_url_https": "https://pbs.twimg.com/media/FZ3wiqLWAAENqq3.png",
+						"url": "https://t.co/sYSPsyoM6f",
+						"display_url": "pic.twitter.com/sYSPsyoM6f",
+						"expanded_url": "https://twitter.com/jonburkeUK/status/1557665915268890624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 472,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 680,
+								"h": 472,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 680,
+								"h": 472,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1557665524368146400,
+						"id_str": "1557665524368146433",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/FZ3wiqLWAAENqq3.png",
+						"media_url_https": "https://pbs.twimg.com/media/FZ3wiqLWAAENqq3.png",
+						"url": "https://t.co/sYSPsyoM6f",
+						"display_url": "pic.twitter.com/sYSPsyoM6f",
+						"expanded_url": "https://twitter.com/jonburkeUK/status/1557665915268890624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 472,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 680,
+								"h": 472,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 680,
+								"h": 472,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 555851927,
+				"id_str": "555851927",
+				"name": "Jon Burke FRSA 🌍",
+				"screen_name": "jonburkeUK",
+				"location": "United Kingdom",
+				"description": "Energy ⚡️ Waste ♻️ Transport 🚲 Public Realm 🌳 \n\nWords in HuffPost, Tribune, Big Issue, Architects' Journal.\n\nChartered Environmentalist\n\nPersonal account.",
+				"url": "https://t.co/PlvruWQnP6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PlvruWQnP6",
+								"expanded_url": "https://www.linkedin.com/in/jon-burke-miema-cenv-8b98a2154/",
+								"display_url": "linkedin.com/in/jon-burke-m…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26938,
+				"friends_count": 1998,
+				"listed_count": 387,
+				"created_at": "Tue Apr 17 10:21:38 +0000 2012",
+				"favourites_count": 36586,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 114654,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1555300817460236292/fhIPkts3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555300817460236292/fhIPkts3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/555851927/1650488637",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 414,
+			"favorite_count": 1233,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "as a keen runner i can confirm this. more trees please! https://t.co/GHrWavPCh9"
+	},
+	{
 		"created_at": "Thu Aug 11 10:00:30 +0000 2022",
 		"id": 1557605180195176400,
 		"id_str": "1557668271947644928",
