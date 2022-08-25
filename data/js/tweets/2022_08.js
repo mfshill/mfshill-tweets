@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 24 21:56:55 +0000 2022",
+		"id": 1562559603564757000,
+		"id_str": "1562559603564756993",
+		"full_text": "#TopGunMaverick ending so cheesy, should have called it a day about 10mins earlier. 6/10 https://t.co/7SdJgauhlS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TopGunMaverick",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1562559596702699500,
+					"id_str": "1562559596702699520",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fa9TrKXXkAAJ1mV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fa9TrKXXkAAJ1mV.jpg",
+					"url": "https://t.co/7SdJgauhlS",
+					"display_url": "pic.twitter.com/7SdJgauhlS",
+					"expanded_url": "https://twitter.com/mfshill/status/1562559603564756993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 364,
+							"h": 364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 364,
+							"h": 364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 364,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1562559596702699500,
+					"id_str": "1562559596702699520",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fa9TrKXXkAAJ1mV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fa9TrKXXkAAJ1mV.jpg",
+					"url": "https://t.co/7SdJgauhlS",
+					"display_url": "pic.twitter.com/7SdJgauhlS",
+					"expanded_url": "https://twitter.com/mfshill/status/1562559603564756993/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 364,
+							"h": 364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 364,
+							"h": 364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 364,
+							"h": 364,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Fa9TrKXXkAAJ1mV.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 265,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TopGunMaverick ending so cheesy, should have called it a day about 10mins earlier. 6/10 https://t.co/7SdJgauhlS"
+	},
+	{
 		"created_at": "Tue Aug 23 21:25:44 +0000 2022",
 		"id": 1562189371125956600,
 		"id_str": "1562189371125956608",
