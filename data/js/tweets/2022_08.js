@@ -1,6 +1,686 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 30 20:01:33 +0000 2022",
+		"id": 1563601281994076200,
+		"id_str": "1564704899044196354",
+		"full_text": "https://t.co/yWwoJ9yLsV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1563601276507549700,
+					"id_str": "1563601276507549699",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FbMHE6CUcAMUtK1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbMHE6CUcAMUtK1.jpg",
+					"url": "https://t.co/yWwoJ9yLsV",
+					"display_url": "pic.twitter.com/yWwoJ9yLsV",
+					"expanded_url": "https://twitter.com/adamtotscomix/status/1563601281994076161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1563601276507549700,
+					"id_str": "1563601276507549699",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FbMHE6CUcAMUtK1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbMHE6CUcAMUtK1.jpg",
+					"url": "https://t.co/yWwoJ9yLsV",
+					"display_url": "pic.twitter.com/yWwoJ9yLsV",
+					"expanded_url": "https://twitter.com/adamtotscomix/status/1563601281994076161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1563601276528885800,
+					"id_str": "1563601276528885760",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FbMHE6HaAAAn-YH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbMHE6HaAAAn-YH.jpg",
+					"url": "https://t.co/yWwoJ9yLsV",
+					"display_url": "pic.twitter.com/yWwoJ9yLsV",
+					"expanded_url": "https://twitter.com/adamtotscomix/status/1563601281994076161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1563601276369256400,
+					"id_str": "1563601276369256448",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FbMHE5hWQAAnB14.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbMHE5hWQAAnB14.jpg",
+					"url": "https://t.co/yWwoJ9yLsV",
+					"display_url": "pic.twitter.com/yWwoJ9yLsV",
+					"expanded_url": "https://twitter.com/adamtotscomix/status/1563601281994076161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 163436555,
+			"id_str": "163436555",
+			"name": "Adam ElIis 𓁹𓂏𓁹",
+			"screen_name": "adamtotscomix",
+			"location": "Brooklyn, NY",
+			"description": "goblin • he/him • in my flop era • inquiries: not.conor.oberst@gmail.com • https://t.co/LG3KC8RHak • NEW BOOK!! https://t.co/cZE3KvXFx3",
+			"url": "https://t.co/Pr3udRkQsE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Pr3udRkQsE",
+							"expanded_url": "http://Instagram.com/adamtots",
+							"display_url": "Instagram.com/adamtots",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LG3KC8RHak",
+							"expanded_url": "http://patreon.com/adamtots",
+							"display_url": "patreon.com/adamtots",
+							"indices": [
+								75,
+								98
+							]
+						},
+						{
+							"url": "https://t.co/cZE3KvXFx3",
+							"expanded_url": "http://feverknights.com",
+							"display_url": "feverknights.com",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 901243,
+			"friends_count": 387,
+			"listed_count": 1189,
+			"created_at": "Tue Jul 06 12:18:48 +0000 2010",
+			"favourites_count": 3091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525687479457693697/6gTJCFtu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525687479457693697/6gTJCFtu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/163436555/1657078046",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2566,
+		"favorite_count": 21783,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/yWwoJ9yLsV"
+	},
+	{
+		"created_at": "Tue Aug 30 18:19:15 +0000 2022",
+		"id": 1564679156692123600,
+		"id_str": "1564679156692123649",
+		"full_text": "@visionsofjoanne is that the cat lurking?",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "visionsofjoanne",
+					"name": "Jojo 🍒",
+					"id": 477186774,
+					"id_str": "477186774",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1564678889909141500,
+		"in_reply_to_status_id_str": "1564678889909141507",
+		"in_reply_to_user_id": 477186774,
+		"in_reply_to_user_id_str": "477186774",
+		"in_reply_to_screen_name": "visionsofjoanne",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 265,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@visionsofjoanne is that the cat lurking?"
+	},
+	{
+		"created_at": "Tue Aug 30 18:18:02 +0000 2022",
+		"id": 1564678847404146700,
+		"id_str": "1564678847404146688",
+		"full_text": "Doing the job you're paid to do and nothing more is apparently viewed as bad now? I must have been '#QuietQuitting' at almost every place I've ever worked at. Utter bloody nonsense. https://t.co/s3Wj3HGciA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "QuietQuitting",
+					"indices": [
+						100,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s3Wj3HGciA",
+					"expanded_url": "https://twitter.com/euronewsnext/status/1564615524004368389",
+					"display_url": "twitter.com/euronewsnext/s…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 265,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1564615524004368400,
+		"quoted_status_id_str": "1564615524004368389",
+		"quoted_status_permalink": {
+			"url": "https://t.co/s3Wj3HGciA",
+			"expanded": "https://twitter.com/euronewsnext/status/1564615524004368389",
+			"display": "twitter.com/euronewsnext/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 30 14:06:24 +0000 2022",
+			"id": 1564615524004368400,
+			"id_str": "1564615524004368389",
+			"full_text": "Whether it’s mentally checking out from your job, or rejecting the corporate hustle culture and no longer going above and beyond at work, “quiet quitting” has now become something of a rallying cry for a better work-life balance. https://t.co/jAampFEiUx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jAampFEiUx",
+						"expanded_url": "https://www.euronews.com/next/2022/08/28/is-quiet-quitting-just-a-trend-these-workers-tried-it-and-never-looked-back",
+						"display_url": "euronews.com/next/2022/08/2…",
+						"indices": [
+							230,
+							253
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 420234784,
+				"id_str": "420234784",
+				"name": "Euronews Next",
+				"screen_name": "euronewsnext",
+				"location": "",
+				"description": "🚀 Ideas shaping tomorrow 🚀\nFuture-focused news looking at global innovation, science and technology from a European perspective.\nBy @euronews 🌍",
+				"url": "https://t.co/8Mbv9ICq1i",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8Mbv9ICq1i",
+								"expanded_url": "http://www.euronews.com/next",
+								"display_url": "euronews.com/next",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12698,
+				"friends_count": 127,
+				"listed_count": 307,
+				"created_at": "Thu Nov 24 10:52:00 +0000 2011",
+				"favourites_count": 428,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7350,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1401909013697138689/45OP8qGC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401909013697138689/45OP8qGC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/420234784/1650372883",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51,
+			"favorite_count": 166,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Doing the job you're paid to do and nothing more is apparently viewed as bad now? I must have been '#QuietQuitting' at almost every place I've ever worked at. Utter bloody nonsense. https://t.co/s3Wj3HGciA"
+	},
+	{
+		"created_at": "Tue Aug 30 18:13:48 +0000 2022",
+		"id": 1564677782700974000,
+		"id_str": "1564677782700974080",
+		"full_text": "A new study reveals the average time it takes between infection and symptoms for recent COVID variants — and it's pretty fast. https://t.co/PVre9g8tTN via @HuffPostLife",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HuffPostLife",
+					"name": "HuffPost Life",
+					"id": 24569636,
+					"id_str": "24569636",
+					"indices": [
+						155,
+						168
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PVre9g8tTN",
+					"expanded_url": "https://www.huffpost.com/entry/incubation-sickness-covid-pandemic_l_6307d21de4b0f9a2a79b65d0?utm_campaign=share_twitter&ncid=engmodushpmg00000004",
+					"display_url": "huffpost.com/entry/incubati…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 265,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A new study reveals the average time it takes between infection and symptoms for recent COVID variants — and it's pretty fast. https://t.co/PVre9g8tTN via @HuffPostLife"
+	},
+	{
 		"created_at": "Mon Aug 29 20:13:51 +0000 2022",
 		"id": 1564345608235880400,
 		"id_str": "1564345608235880448",
