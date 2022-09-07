@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 06 21:31:46 +0000 2022",
+		"id": 1567258762615951400,
+		"id_str": "1567264316298088448",
+		"full_text": "@TechnicallyRon I was going to say \"could be worse\" but I honestly don't think Mr Burns would be as bad. https://t.co/1q3TEBKnKe",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TechnicallyRon",
+					"name": "TechnicallyRon",
+					"id": 108140114,
+					"id_str": "108140114",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567258736120500200,
+					"id_str": "1567258736120500231",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FcAFhE2XEAcf2KP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcAFhE2XEAcf2KP.jpg",
+					"url": "https://t.co/1q3TEBKnKe",
+					"display_url": "pic.twitter.com/1q3TEBKnKe",
+					"expanded_url": "https://twitter.com/chayground/status/1567258762615951362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567258736120500200,
+					"id_str": "1567258736120500231",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FcAFhE2XEAcf2KP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcAFhE2XEAcf2KP.jpg",
+					"url": "https://t.co/1q3TEBKnKe",
+					"display_url": "pic.twitter.com/1q3TEBKnKe",
+					"expanded_url": "https://twitter.com/chayground/status/1567258762615951362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567258446373785600,
+		"in_reply_to_status_id_str": "1567258446373785603",
+		"in_reply_to_user_id": 108140114,
+		"in_reply_to_user_id_str": "108140114",
+		"in_reply_to_screen_name": "TechnicallyRon",
+		"user": {
+			"id": 24061755,
+			"id_str": "24061755",
+			"name": "Chay",
+			"screen_name": "chayground",
+			"location": "Chester, UK",
+			"description": "Pretending to be a happy, functional human adult since 2000. Nearly had the hang of it for a bit, but now failing on all counts.",
+			"url": "https://t.co/ZYjjfcOE8p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZYjjfcOE8p",
+							"expanded_url": "https://www.redbubble.com/i/mask/Cartoon-Microbes-Yellow-by-chayground/48552909.6BSL1?asc=u",
+							"display_url": "redbubble.com/i/mask/Cartoon…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 625,
+			"friends_count": 1062,
+			"listed_count": 10,
+			"created_at": "Thu Mar 12 23:05:04 +0000 2009",
+			"favourites_count": 116214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1545416478878564357/U_om2VtS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1545416478878564357/U_om2VtS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24061755/1589819795",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@TechnicallyRon I was going to say \"could be worse\" but I honestly don't think Mr Burns would be as bad. https://t.co/1q3TEBKnKe"
+	},
+	{
 		"created_at": "Mon Sep 05 21:50:16 +0000 2022",
 		"id": 1566841826505629700,
 		"id_str": "1566906587960188930",
