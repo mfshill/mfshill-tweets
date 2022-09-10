@@ -1,6 +1,421 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 13:36:33 +0000 2022",
+		"id": 1568230590125641700,
+		"id_str": "1568231888287895557",
+		"full_text": "The statement that football could have come up with... https://t.co/Y27IhuZfBL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y27IhuZfBL",
+					"expanded_url": "https://twitter.com/RFU/status/1568228267446145024",
+					"display_url": "twitter.com/RFU/status/156…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63450028,
+			"id_str": "63450028",
+			"name": "tariq panja",
+			"screen_name": "tariqpanja",
+			"location": "London, England",
+			"description": "⚽️💰🚓 Co-author Football's Secret Trade|  NYT| ✉️tariq.panja@nytimes.com |tariq.panja@protonmail.com| RT⛔️🤙🏾",
+			"url": "https://t.co/OqoVfYSiCN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OqoVfYSiCN",
+							"expanded_url": "https://www.amazon.com/Footballs-Secret-Trade-Infiltrated-Bloomberg/dp/1119145422",
+							"display_url": "amazon.com/Footballs-Secr…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80001,
+			"friends_count": 3801,
+			"listed_count": 1512,
+			"created_at": "Thu Aug 06 11:20:41 +0000 2009",
+			"favourites_count": 10094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1655707503/APC3_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1655707503/APC3_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63450028/1494100284",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1568228267446145000,
+		"quoted_status_id_str": "1568228267446145024",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Y27IhuZfBL",
+			"expanded": "https://twitter.com/RFU/status/1568228267446145024",
+			"display": "twitter.com/RFU/status/156…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 09 13:22:09 +0000 2022",
+			"id": 1568228267446145000,
+			"id_str": "1568228267446145024",
+			"full_text": "Rugby Union will go ahead this weekend as teams and supporters come together to honour Her Majesty Queen Elizabeth II to be united in our grief as we express sorrow at her passing. \n\nRugby, at its heart, is about community and bringing people together, in good times and in sad.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1438498363968659500,
+				"id_str": "1438498363968659458",
+				"name": "Rugby Football Union",
+				"screen_name": "RFU",
+				"location": "",
+				"description": "The official Twitter account for the Rugby Football Union. About the community game, for the community game.",
+				"url": "https://t.co/9x3icRgFO3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9x3icRgFO3",
+								"expanded_url": "http://englandrugby.com",
+								"display_url": "englandrugby.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7858,
+				"friends_count": 1820,
+				"listed_count": 23,
+				"created_at": "Thu Sep 16 13:42:24 +0000 2021",
+				"favourites_count": 539,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 745,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1567975318853402624/_ZZv8NCu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567975318853402624/_ZZv8NCu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1438498363968659458/1662669423",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 650,
+			"favorite_count": 4188,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 357,
+		"favorite_count": 2038,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The statement that football could have come up with... https://t.co/Y27IhuZfBL"
+	},
+	{
+		"created_at": "Fri Sep 09 13:32:56 +0000 2022",
+		"id": 1568221907866239000,
+		"id_str": "1568230980552466433",
+		"full_text": "https://t.co/7P1WBPyTOL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568221883908096000,
+					"id_str": "1568221883908096006",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1568221883908096006/pu/img/5KoLy_0XAY3xwiF_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1568221883908096006/pu/img/5KoLy_0XAY3xwiF_.jpg",
+					"url": "https://t.co/7P1WBPyTOL",
+					"display_url": "pic.twitter.com/7P1WBPyTOL",
+					"expanded_url": "https://twitter.com/SimpsonsArsenal/status/1568221907866238979/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568221883908096000,
+					"id_str": "1568221883908096006",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1568221883908096006/pu/img/5KoLy_0XAY3xwiF_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1568221883908096006/pu/img/5KoLy_0XAY3xwiF_.jpg",
+					"url": "https://t.co/7P1WBPyTOL",
+					"display_url": "pic.twitter.com/7P1WBPyTOL",
+					"expanded_url": "https://twitter.com/SimpsonsArsenal/status/1568221907866238979/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 7800,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568221883908096006/pu/vid/480x360/hpER3bowp6VLC3ut.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568221883908096006/pu/vid/960x720/aJyT_uN6pnBrRv2_.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568221883908096006/pu/vid/360x270/1YIPSkyXIQ9_-0Lh.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1568221883908096006/pu/pl/RT8D8TiSAUxnpoxU.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1096703520798056400,
+			"id_str": "1096703520798056450",
+			"name": "Simpsons Arsenal",
+			"screen_name": "SimpsonsArsenal",
+			"location": "London, England",
+			"description": "Just an Arsenal fan posting Simpsons quotes and gifs. Be good to each other 💛💙",
+			"url": "https://t.co/VTryhk3rkF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTryhk3rkF",
+							"expanded_url": "http://ko-fi.com/simpsonsarsenal",
+							"display_url": "ko-fi.com/simpsonsarsenal",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66476,
+			"friends_count": 105,
+			"listed_count": 482,
+			"created_at": "Sat Feb 16 09:31:09 +0000 2019",
+			"favourites_count": 7712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161285080226127874/sqXr48eC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161285080226127874/sqXr48eC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1096703520798056450/1559308826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 538,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/7P1WBPyTOL"
+	},
+	{
 		"created_at": "Thu Sep 08 19:41:09 +0000 2022",
 		"id": 1567961254937112600,
 		"id_str": "1567961254937112577",
