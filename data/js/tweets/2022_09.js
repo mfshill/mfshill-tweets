@@ -1,6 +1,793 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 20:30:14 +0000 2022",
+		"id": 1569670794627907600,
+		"id_str": "1569785548402745346",
+		"full_text": "@verge POV : You're scrolling through the Verge's redesigned website https://t.co/SEIhaJbjvy",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "verge",
+					"name": "The Verge",
+					"id": 275686563,
+					"id_str": "275686563",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569670763715895300,
+					"id_str": "1569670763715895297",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FciXPj2aIAEVZUf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FciXPj2aIAEVZUf.jpg",
+					"url": "https://t.co/SEIhaJbjvy",
+					"display_url": "pic.twitter.com/SEIhaJbjvy",
+					"expanded_url": "https://twitter.com/realslimsiddy/status/1569670794627907586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569670763715895300,
+					"id_str": "1569670763715895297",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FciXPj2aIAEVZUf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FciXPj2aIAEVZUf.jpg",
+					"url": "https://t.co/SEIhaJbjvy",
+					"display_url": "pic.twitter.com/SEIhaJbjvy",
+					"expanded_url": "https://twitter.com/realslimsiddy/status/1569670794627907586/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FciXPj2aIAEVZUf.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1569657450718019600,
+		"in_reply_to_status_id_str": "1569657450718019589",
+		"in_reply_to_user_id": 275686563,
+		"in_reply_to_user_id_str": "275686563",
+		"in_reply_to_screen_name": "verge",
+		"user": {
+			"id": 1567733348,
+			"id_str": "1567733348",
+			"name": "Siddharth Panda",
+			"screen_name": "realslimsiddy",
+			"location": "Bhubaneswar, India",
+			"description": "Contrary to popular belief, I’m not associated with Pandas in any way. Astronomy/Science/Tech. I'm on Instagram @realslimsiddy",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158,
+			"friends_count": 385,
+			"listed_count": 9,
+			"created_at": "Thu Jul 04 08:54:54 +0000 2013",
+			"favourites_count": 2553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "04131A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1483817830726639618/tLDR6qeN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1483817830726639618/tLDR6qeN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1567733348/1561685549",
+			"profile_link_color": "113E4D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 207,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@verge POV : You're scrolling through the Verge's redesigned website https://t.co/SEIhaJbjvy"
+	},
+	{
+		"created_at": "Tue Sep 13 20:28:16 +0000 2022",
+		"id": 1569785052984115200,
+		"id_str": "1569785052984115208",
+		"full_text": "whoever thought this redesign was acceptable to be published, needs to be sacked. Black text on a very dark grey background is the 🍒on top of the💩 https://t.co/Z253xZeUH6 https://t.co/9ieU594QFe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z253xZeUH6",
+					"expanded_url": "https://twitter.com/verge/status/1569657450718019589",
+					"display_url": "twitter.com/verge/status/1…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569784224500023300,
+					"id_str": "1569784224500023296",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcj-b2NWAAAimfx.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fcj-b2NWAAAimfx.png",
+					"url": "https://t.co/9ieU594QFe",
+					"display_url": "pic.twitter.com/9ieU594QFe",
+					"expanded_url": "https://twitter.com/mfshill/status/1569785052984115208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 381,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569784224500023300,
+					"id_str": "1569784224500023296",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcj-b2NWAAAimfx.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fcj-b2NWAAAimfx.png",
+					"url": "https://t.co/9ieU594QFe",
+					"display_url": "pic.twitter.com/9ieU594QFe",
+					"expanded_url": "https://twitter.com/mfshill/status/1569785052984115208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 381,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 266,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1569657450718019600,
+		"quoted_status_id_str": "1569657450718019589",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z253xZeUH6",
+			"expanded": "https://twitter.com/verge/status/1569657450718019589",
+			"display": "twitter.com/verge/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 13 12:01:13 +0000 2022",
+			"id": 1569657450718019600,
+			"id_str": "1569657450718019589",
+			"full_text": "Welcome to the new Verge https://t.co/NkshSsSNEw https://t.co/LydZ32xtWU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NkshSsSNEw",
+						"expanded_url": "https://www.theverge.com/2022/9/13/23349876/the-verge-website-redesign-new-newsfeed-blogs-logo",
+						"display_url": "theverge.com/2022/9/13/2334…",
+						"indices": [
+							25,
+							48
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1569655585427136500,
+						"id_str": "1569655585427136512",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FciJcEUXoAAHq0c.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FciJcEUXoAAHq0c.jpg",
+						"url": "https://t.co/LydZ32xtWU",
+						"display_url": "pic.twitter.com/LydZ32xtWU",
+						"expanded_url": "https://twitter.com/verge/status/1569657450718019589/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1569655585427136500,
+						"id_str": "1569655585427136512",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FciJcEUXoAAHq0c.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FciJcEUXoAAHq0c.jpg",
+						"url": "https://t.co/LydZ32xtWU",
+						"display_url": "pic.twitter.com/LydZ32xtWU",
+						"expanded_url": "https://twitter.com/verge/status/1569657450718019589/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 960,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								3,
+								2
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FciJcEUXoAAHq0c.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 275686563,
+				"id_str": "275686563",
+				"name": "The Verge",
+				"screen_name": "verge",
+				"location": "New York",
+				"description": "https://t.co/GYkBloRfPz covers life in the future.",
+				"url": "https://t.co/pGMvEf1quS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pGMvEf1quS",
+								"expanded_url": "http://www.theverge.com",
+								"display_url": "theverge.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/GYkBloRfPz",
+								"expanded_url": "http://theverge.com",
+								"display_url": "theverge.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3028179,
+				"friends_count": 186,
+				"listed_count": 38011,
+				"created_at": "Fri Apr 01 19:54:22 +0000 2011",
+				"favourites_count": 1474,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 215015,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1663070153",
+				"profile_link_color": "EC008C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 106,
+			"favorite_count": 689,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "whoever thought this redesign was acceptable to be published, needs to be sacked. Black text on a very dark grey background is the 🍒on top of the💩 https://t.co/Z253xZeUH6 https://t.co/9ieU594QFe"
+	},
+	{
+		"created_at": "Tue Sep 13 20:22:52 +0000 2022",
+		"id": 1569768628282695700,
+		"id_str": "1569783695430635520",
+		"full_text": "@verge This is the worst redesign I've ever seen. The comments section is still broken, the 'welcome to the new Verge' article looks like a unicorn vomited everywhere, and it's 100% form over function. It's like a bad early 2000's blogger took over one of my favorite tech pages.",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "verge",
+					"name": "The Verge",
+					"id": 275686563,
+					"id_str": "275686563",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1569657450718019600,
+		"in_reply_to_status_id_str": "1569657450718019589",
+		"in_reply_to_user_id": 275686563,
+		"in_reply_to_user_id_str": "275686563",
+		"in_reply_to_screen_name": "verge",
+		"user": {
+			"id": 178589713,
+			"id_str": "178589713",
+			"name": "Russ Robinson",
+			"screen_name": "rrobinson1216",
+			"location": "DFW, Texas",
+			"description": "Musician, photographer, tech enthusiast - Follow my photography FB/IG/Website! https://t.co/84dQ8LRBa2 DM for booking or to order art prints!",
+			"url": "https://t.co/dZy3u7jdQL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dZy3u7jdQL",
+							"expanded_url": "http://www.russrobinsonphotography.com",
+							"display_url": "russrobinsonphotography.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/84dQ8LRBa2",
+							"expanded_url": "http://linktr.ee/russrobinsonphotography",
+							"display_url": "linktr.ee/russrobinsonph…",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 151,
+			"friends_count": 473,
+			"listed_count": 4,
+			"created_at": "Sun Aug 15 04:46:51 +0000 2010",
+			"favourites_count": 1783,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364786746970558464/0dvwFu8E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364786746970558464/0dvwFu8E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178589713/1614225492",
+			"profile_link_color": "000999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@verge This is the worst redesign I've ever seen. The comments section is still broken, the 'welcome to the new Verge' article looks like a unicorn vomited everywhere, and it's 100% form over function. It's like a bad early 2000's blogger took over one of my favorite tech pages."
+	},
+	{
+		"created_at": "Tue Sep 13 18:37:51 +0000 2022",
+		"id": 1569757263987875800,
+		"id_str": "1569757263987875841",
+		"full_text": "phenomenal goal! #spursy 2-0 #SPOTOT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "spursy",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"text": "SPOTOT",
+					"indices": [
+						29,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 266,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "phenomenal goal! #spursy 2-0 #SPOTOT"
+	},
+	{
 		"created_at": "Mon Sep 12 19:29:53 +0000 2022",
 		"id": 1569386524008931300,
 		"id_str": "1569407973037932547",
