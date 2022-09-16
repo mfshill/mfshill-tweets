@@ -1,6 +1,683 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 15 22:49:24 +0000 2022",
+		"id": 1570545347499556900,
+		"id_str": "1570545347499556865",
+		"full_text": "almost 1/3 of the US in non-religious. i find this both hard to believe (with what we see in the news) and truly fantastic! https://t.co/eW7Pr3cprh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eW7Pr3cprh",
+					"expanded_url": "https://twitter.com/pewresearch/status/1569741467056308224",
+					"display_url": "twitter.com/pewresearch/st…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 267,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1569741467056308200,
+		"quoted_status_id_str": "1569741467056308224",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eW7Pr3cprh",
+			"expanded": "https://twitter.com/pewresearch/status/1569741467056308224",
+			"display": "twitter.com/pewresearch/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 13 17:35:04 +0000 2022",
+			"id": 1569741467056308200,
+			"id_str": "1569741467056308224",
+			"full_text": "As recently as the early 1990s, about 90% of U.S. adults identified as Christians. In 2007 the share was at 78%. Today, that number is down to 64%. Since 2007, the share of adults who identify as religious “nones” has grown from 16% to 29%. 6/ https://t.co/BELUlKdCdu https://t.co/WbBRTcf93v",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BELUlKdCdu",
+						"expanded_url": "https://www.pewresearch.org/religion/2022/09/13/modeling-the-future-of-religion-in-america/",
+						"display_url": "pewresearch.org/religion/2022/…",
+						"indices": [
+							244,
+							267
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1569740471907352600,
+						"id_str": "1569740471907352576",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/FcjWpHGXgAAhFfE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FcjWpHGXgAAhFfE.jpg",
+						"url": "https://t.co/WbBRTcf93v",
+						"display_url": "pic.twitter.com/WbBRTcf93v",
+						"expanded_url": "https://twitter.com/pewresearch/status/1569741467056308224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 367,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 840,
+								"h": 1556,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 648,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1569740471907352600,
+						"id_str": "1569740471907352576",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/FcjWpHGXgAAhFfE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FcjWpHGXgAAhFfE.jpg",
+						"url": "https://t.co/WbBRTcf93v",
+						"display_url": "pic.twitter.com/WbBRTcf93v",
+						"expanded_url": "https://twitter.com/pewresearch/status/1569741467056308224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 367,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 840,
+								"h": 1556,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 648,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1569741459280072700,
+			"in_reply_to_status_id_str": "1569741459280072708",
+			"in_reply_to_user_id": 22642788,
+			"in_reply_to_user_id_str": "22642788",
+			"in_reply_to_screen_name": "pewresearch",
+			"user": {
+				"id": 22642788,
+				"id_str": "22642788",
+				"name": "Pew Research Center",
+				"screen_name": "pewresearch",
+				"location": "Washington, DC",
+				"description": "Nonpartisan, non-advocacy data and analysis on the issues, attitudes and trends shaping the world. Subscribe: https://t.co/Kpq1V0w9bM ✉️",
+				"url": "https://t.co/OBLpll8VR0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OBLpll8VR0",
+								"expanded_url": "https://www.pewresearch.org/",
+								"display_url": "pewresearch.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Kpq1V0w9bM",
+								"expanded_url": "https://www.pewresearch.org/follow-us/",
+								"display_url": "pewresearch.org/follow-us/",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 452736,
+				"friends_count": 96,
+				"listed_count": 13227,
+				"created_at": "Tue Mar 03 16:39:39 +0000 2009",
+				"favourites_count": 1157,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 96508,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EFEFEF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/879728447026868228/U4Uzpdp6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/879728447026868228/U4Uzpdp6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22642788/1494338667",
+				"profile_link_color": "0083B3",
+				"profile_sidebar_border_color": "DBE7ED",
+				"profile_sidebar_fill_color": "DBE7ED",
+				"profile_text_color": "525151",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "almost 1/3 of the US in non-religious. i find this both hard to believe (with what we see in the news) and truly fantastic! https://t.co/eW7Pr3cprh"
+	},
+	{
+		"created_at": "Thu Sep 15 20:43:31 +0000 2022",
+		"id": 1570476172508627000,
+		"id_str": "1570513666478583808",
+		"full_text": "@LBC @mrjamesob https://t.co/5BtGOmY87K Send her the number!!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LBC",
+					"name": "LBC",
+					"id": 20973388,
+					"id_str": "20973388",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"screen_name": "mrjamesob",
+					"name": "James Oh Brien",
+					"id": 152656121,
+					"id_str": "152656121",
+					"indices": [
+						5,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1369942863744626700,
+					"id_str": "1369942863744626690",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EwME4fYUYAIxHdK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwME4fYUYAIxHdK.jpg",
+					"url": "https://t.co/5BtGOmY87K",
+					"display_url": "pic.twitter.com/5BtGOmY87K",
+					"expanded_url": "https://twitter.com/abc730/status/1369944927807795202/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1369944927807795200,
+					"source_status_id_str": "1369944927807795202",
+					"source_user_id": 132731802,
+					"source_user_id_str": "132731802"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1369942863744626700,
+					"id_str": "1369942863744626690",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EwME4fYUYAIxHdK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwME4fYUYAIxHdK.jpg",
+					"url": "https://t.co/5BtGOmY87K",
+					"display_url": "pic.twitter.com/5BtGOmY87K",
+					"expanded_url": "https://twitter.com/abc730/status/1369944927807795202/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1369944927807795200,
+					"source_status_id_str": "1369944927807795202",
+					"source_user_id": 132731802,
+					"source_user_id_str": "132731802",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 141520,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1369942863744626690/vid/540x540/N73wN8JyXSfaxJ26.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1369942863744626690/vid/320x320/xV2loktxvaMLzh3h.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1369942863744626690/pl/2JjExwopZpDKGFEn.m3u8?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1369942863744626690/vid/720x720/at_WNA_X7N8RuvhO.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 132731802,
+							"id_str": "132731802",
+							"name": "abc730",
+							"screen_name": "abc730",
+							"location": "Australia",
+							"description": "7.30 is the ABC's national flagship current affairs program. Monday to Thursday on the ABC. This is an official @ABCaustralia account.",
+							"url": "https://t.co/YB4nbQDLtH",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/YB4nbQDLtH",
+											"expanded_url": "http://abc.net.au/7.30/",
+											"display_url": "abc.net.au/7.30/",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 234828,
+							"friends_count": 1094,
+							"listed_count": 1824,
+							"created_at": "Wed Apr 14 01:32:47 +0000 2010",
+							"favourites_count": 2295,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 39191,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/978186780015931392/NBT3fbqq_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/978186780015931392/NBT3fbqq_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/132731802/1656896089",
+							"profile_link_color": "3E6CFF",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "ADACB5",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570396444049440800,
+		"in_reply_to_status_id_str": "1570396444049440770",
+		"in_reply_to_user_id": 20973388,
+		"in_reply_to_user_id_str": "20973388",
+		"in_reply_to_screen_name": "LBC",
+		"user": {
+			"id": 1546512477223108600,
+			"id_str": "1546512477223108608",
+			"name": "ExtremeCBA",
+			"screen_name": "wonderplumcake",
+			"location": "",
+			"description": "Some medicine, some politics, some memes",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Mon Jul 11 15:11:44 +0000 2022",
+			"favourites_count": 744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 163,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@LBC @mrjamesob https://t.co/5BtGOmY87K Send her the number!!"
+	},
+	{
+		"created_at": "Thu Sep 15 19:59:51 +0000 2022",
+		"id": 1570492729674846200,
+		"id_str": "1570502679151136770",
+		"full_text": "Liz Truss's entire raison d'etre is to grant the wishes of the most destructive and predatory corporations and oligarchs. Already she proposes scrapping the ban on fracking, anti-obesity measures and the cap on bankers' bonuses.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 198584761,
+			"id_str": "198584761",
+			"name": "George Monbiot",
+			"screen_name": "GeorgeMonbiot",
+			"location": "",
+			"description": "The corpse at every wedding, the bride at every funeral.",
+			"url": "https://t.co/JGhnzzH5hJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JGhnzzH5hJ",
+							"expanded_url": "https://linktr.ee/georgemonbiot",
+							"display_url": "linktr.ee/georgemonbiot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 513320,
+			"friends_count": 3008,
+			"listed_count": 6187,
+			"created_at": "Mon Oct 04 18:06:34 +0000 2010",
+			"favourites_count": 30332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 48402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3594607450/ff6fbd42964f9a0def79d8acbfa034bd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3594607450/ff6fbd42964f9a0def79d8acbfa034bd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/198584761/1399369203",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1068,
+		"favorite_count": 3935,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Liz Truss's entire raison d'etre is to grant the wishes of the most destructive and predatory corporations and oligarchs. Already she proposes scrapping the ban on fracking, anti-obesity measures and the cap on bankers' bonuses."
+	},
+	{
 		"created_at": "Wed Sep 14 19:17:22 +0000 2022",
 		"id": 1570129598691836000,
 		"id_str": "1570129598691835911",
