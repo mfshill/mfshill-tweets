@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 22 11:59:16 +0000 2022",
+		"id": 1572556504460591000,
+		"id_str": "1572918448245641216",
+		"full_text": "This is one of the funniest pieces of live radio you’ll ever hear. And the animation adds an extra layer. #Radio #GerryAnderson https://t.co/AkcNy0QaSG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Radio",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "GerryAnderson",
+					"indices": [
+						113,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1164905260458107000,
+					"id_str": "1164905260458106880",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1164905260458106880/img/akF23-hlQ7JUpOQv.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1164905260458106880/img/akF23-hlQ7JUpOQv.jpg",
+					"url": "https://t.co/AkcNy0QaSG",
+					"display_url": "pic.twitter.com/AkcNy0QaSG",
+					"expanded_url": "https://twitter.com/BBCnireland/status/1167406473393180677/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1167406473393180700,
+					"source_status_id_str": "1167406473393180677",
+					"source_user_id": 1451312228,
+					"source_user_id_str": "1451312228"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1164905260458107000,
+					"id_str": "1164905260458106880",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1164905260458106880/img/akF23-hlQ7JUpOQv.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1164905260458106880/img/akF23-hlQ7JUpOQv.jpg",
+					"url": "https://t.co/AkcNy0QaSG",
+					"display_url": "pic.twitter.com/AkcNy0QaSG",
+					"expanded_url": "https://twitter.com/BBCnireland/status/1167406473393180677/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1167406473393180700,
+					"source_status_id_str": "1167406473393180677",
+					"source_user_id": 1451312228,
+					"source_user_id_str": "1451312228",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 259426,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1164905260458106880/vid/320x320/_CPLxBVE2ncnxtwv.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1164905260458106880/vid/480x480/5dyYgVdSVbXu7LjV.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1164905260458106880/pl/H3AE7wcpE-mHKpXK.m3u8?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1164905260458106880/vid/720x720/wJvRE26fmZEhAFEz.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 1451312228,
+							"id_str": "1451312228",
+							"name": "BBC Northern Ireland",
+							"screen_name": "BBCnireland",
+							"location": "",
+							"description": "Official Twitter account for @BBC Northern Ireland. For complaints: https://t.co/5Qf8fk8hxu",
+							"url": "https://t.co/X3QxHi5K2f",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/X3QxHi5K2f",
+											"expanded_url": "http://bbc.co.uk/ni",
+											"display_url": "bbc.co.uk/ni",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/5Qf8fk8hxu",
+											"expanded_url": "http://bbc.co.uk/complaints",
+											"display_url": "bbc.co.uk/complaints",
+											"indices": [
+												68,
+												91
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 42697,
+							"friends_count": 375,
+							"listed_count": 293,
+							"created_at": "Thu May 23 12:08:05 +0000 2013",
+							"favourites_count": 4885,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 15860,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "262126",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1565251825254776832/0JT5aYti_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1565251825254776832/0JT5aYti_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1451312228/1662125893",
+							"profile_link_color": "2FC2EF",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "252429",
+							"profile_text_color": "666666",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52781708,
+			"id_str": "52781708",
+			"name": "Paul O’Kane",
+			"screen_name": "pmokane",
+			"location": "Dublin, Ireland",
+			"description": "Husband, father, communications fella, lapsed journalist. All opinions my own - unless of course I recycled them. He/him",
+			"url": "https://t.co/nwa97jqPt7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nwa97jqPt7",
+							"expanded_url": "http://www.linkedin.com/in/paulokane",
+							"display_url": "linkedin.com/in/paulokane",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4039,
+			"friends_count": 4200,
+			"listed_count": 36,
+			"created_at": "Wed Jul 01 16:59:18 +0000 2009",
+			"favourites_count": 46324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478319928524611587/_j-WJM8v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478319928524611587/_j-WJM8v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52781708/1616243027",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6583,
+		"favorite_count": 29949,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is one of the funniest pieces of live radio you’ll ever hear. And the animation adds an extra layer. #Radio #GerryAnderson https://t.co/AkcNy0QaSG"
+	},
+	{
+		"created_at": "Thu Sep 22 11:47:24 +0000 2022",
+		"id": 1572915461960114200,
+		"id_str": "1572915461960114178",
+		"full_text": "one i'm sure @eops and @DJCkay will enjoy. #NowPlaying 'Butcher Brown - Butcher Brown Presents Triple Trey'\nhttps://t.co/vNc3Iqjix7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NowPlaying",
+					"indices": [
+						43,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"screen_name": "DJCkay",
+					"name": "DJC-kay",
+					"id": 35250036,
+					"id_str": "35250036",
+					"indices": [
+						23,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vNc3Iqjix7",
+					"expanded_url": "https://www.youtube.com/watch?v=XqmixpPCV4s&list=OLAK5uy_lJajDD3fRGL-hT3zNeCd-kRlF4lpKmIto",
+					"display_url": "youtube.com/watch?v=Xqmixp…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 267,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "one i'm sure @eops and @DJCkay will enjoy. #NowPlaying 'Butcher Brown - Butcher Brown Presents Triple Trey'\nhttps://t.co/vNc3Iqjix7"
+	},
+	{
 		"created_at": "Wed Sep 21 21:13:20 +0000 2022",
 		"id": 1572695495390433300,
 		"id_str": "1572695495390433280",
