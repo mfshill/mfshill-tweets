@@ -1,6 +1,797 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 04 19:35:04 +0000 2022",
+		"id": 1577381808311832600,
+		"id_str": "1577381808311832587",
+		"full_text": "Framed #207\n🎥 🟥 🟥 🟩 ⬛ ⬛ ⬛\nhttps://t.co/Y0w4iqrazb\n\nActorle 202 3/8\n🟨🟨🟩\nPlay here: https://t.co/HeqYI9Q3wY \n\n#Flickle #175\n🎬 🟥🟩⬜⬜⬜⬜\n📆 Daily Streak: 4 (Best 32)\n🏆 Win Streak: 4 (Best 23)\nhttps://t.co/IPrf5pYMnO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flickle",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0w4iqrazb",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/HeqYI9Q3wY",
+					"expanded_url": "https://actorle.com",
+					"display_url": "actorle.com",
+					"indices": [
+						82,
+						105
+					]
+				},
+				{
+					"url": "https://t.co/IPrf5pYMnO",
+					"expanded_url": "https://flickle.app/",
+					"display_url": "flickle.app",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 268,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Framed #207\n🎥 🟥 🟥 🟩 ⬛ ⬛ ⬛\nhttps://t.co/Y0w4iqrazb\n\nActorle 202 3/8\n🟨🟨🟩\nPlay here: https://t.co/HeqYI9Q3wY \n\n#Flickle #175\n🎬 🟥🟩⬜⬜⬜⬜\n📆 Daily Streak: 4 (Best 32)\n🏆 Win Streak: 4 (Best 23)\nhttps://t.co/IPrf5pYMnO"
+	},
+	{
+		"created_at": "Tue Oct 04 16:38:06 +0000 2022",
+		"id": 1577337274647412700,
+		"id_str": "1577337274647412737",
+		"full_text": "Elon finally putting his money where his mouth is \nhttps://t.co/wqEInniUnT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wqEInniUnT",
+					"expanded_url": "https://www.bbc.co.uk/news/business-63137114",
+					"display_url": "bbc.co.uk/news/business-…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 268,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Elon finally putting his money where his mouth is \nhttps://t.co/wqEInniUnT"
+	},
+	{
+		"created_at": "Tue Oct 04 16:14:32 +0000 2022",
+		"id": 1577300680519319600,
+		"id_str": "1577331344178307072",
+		"full_text": "This government is a meme https://t.co/PM5DiOL1AK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577300629113946000,
+					"id_str": "1577300629113946113",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FeOykLZWQAEcLC6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeOykLZWQAEcLC6.jpg",
+					"url": "https://t.co/PM5DiOL1AK",
+					"display_url": "pic.twitter.com/PM5DiOL1AK",
+					"expanded_url": "https://twitter.com/TechnicallyRon/status/1577300680519319558/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1088,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 617,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1188,
+							"h": 1310,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577300629113946000,
+					"id_str": "1577300629113946113",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FeOykLZWQAEcLC6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeOykLZWQAEcLC6.jpg",
+					"url": "https://t.co/PM5DiOL1AK",
+					"display_url": "pic.twitter.com/PM5DiOL1AK",
+					"expanded_url": "https://twitter.com/TechnicallyRon/status/1577300680519319558/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1088,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 617,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1188,
+							"h": 1310,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577300650186182700,
+					"id_str": "1577300650186182656",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FeOylZ5XEAAJlEu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeOylZ5XEAAJlEu.jpg",
+					"url": "https://t.co/PM5DiOL1AK",
+					"display_url": "pic.twitter.com/PM5DiOL1AK",
+					"expanded_url": "https://twitter.com/TechnicallyRon/status/1577300680519319558/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 858,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 858,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108140114,
+			"id_str": "108140114",
+			"name": "TechnicallyRon",
+			"screen_name": "TechnicallyRon",
+			"location": "",
+			"description": "Writer etc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183057,
+			"friends_count": 994,
+			"listed_count": 1219,
+			"created_at": "Mon Jan 25 00:18:06 +0000 2010",
+			"favourites_count": 17461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 45390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567562022417473537/Gu3XJWNM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567562022417473537/Gu3XJWNM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108140114/1603722556",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 254,
+		"favorite_count": 2801,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This government is a meme https://t.co/PM5DiOL1AK"
+	},
+	{
+		"created_at": "Tue Oct 04 12:54:01 +0000 2022",
+		"id": 1577266670241951700,
+		"id_str": "1577280881139470343",
+		"full_text": "Will never forget how much this made me laugh when I first watched it https://t.co/YUOEI1wwxT https://t.co/GjTxezZtQJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YUOEI1wwxT",
+					"expanded_url": "https://twitter.com/InbetweenerVidz/status/1577215577147465731",
+					"display_url": "twitter.com/InbetweenerVid…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577266664747540500,
+					"id_str": "1577266664747540485",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FeOTrMRXoAUVzVC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeOTrMRXoAUVzVC.jpg",
+					"url": "https://t.co/GjTxezZtQJ",
+					"display_url": "pic.twitter.com/GjTxezZtQJ",
+					"expanded_url": "https://twitter.com/TC_Cornesto/status/1577266670241951745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577266664747540500,
+					"id_str": "1577266664747540485",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FeOTrMRXoAUVzVC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeOTrMRXoAUVzVC.jpg",
+					"url": "https://t.co/GjTxezZtQJ",
+					"display_url": "pic.twitter.com/GjTxezZtQJ",
+					"expanded_url": "https://twitter.com/TC_Cornesto/status/1577266670241951745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19991214,
+			"id_str": "19991214",
+			"name": "TC Cornest-oooowwoohh",
+			"screen_name": "TC_Cornesto",
+			"location": "",
+			"description": "Absolute shambles of a man",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1723,
+			"friends_count": 2067,
+			"listed_count": 48,
+			"created_at": "Tue Feb 03 18:28:43 +0000 2009",
+			"favourites_count": 80113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 147592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576901686253191169/6KdyXcoi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576901686253191169/6KdyXcoi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19991214/1648562274",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1577215577147465700,
+		"quoted_status_id_str": "1577215577147465731",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YUOEI1wwxT",
+			"expanded": "https://twitter.com/InbetweenerVidz/status/1577215577147465731",
+			"display": "twitter.com/InbetweenerVid…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 04 08:34:31 +0000 2022",
+			"id": 1577215577147465700,
+			"id_str": "1577215577147465731",
+			"full_text": "There is nothing funny about testicles Cooper\n#TheInbetweeners https://t.co/DsWmBTDuxK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				62
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheInbetweeners",
+						"indices": [
+							46,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1577215280157233200,
+						"id_str": "1577215280157233152",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577215280157233152/pu/img/65EJKvaRSNrf5R-P.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577215280157233152/pu/img/65EJKvaRSNrf5R-P.jpg",
+						"url": "https://t.co/DsWmBTDuxK",
+						"display_url": "pic.twitter.com/DsWmBTDuxK",
+						"expanded_url": "https://twitter.com/InbetweenerVidz/status/1577215577147465731/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 848,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1577215280157233200,
+						"id_str": "1577215280157233152",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577215280157233152/pu/img/65EJKvaRSNrf5R-P.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577215280157233152/pu/img/65EJKvaRSNrf5R-P.jpg",
+						"url": "https://t.co/DsWmBTDuxK",
+						"display_url": "pic.twitter.com/DsWmBTDuxK",
+						"expanded_url": "https://twitter.com/InbetweenerVidz/status/1577215577147465731/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 848,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								53,
+								30
+							],
+							"duration_millis": 62899,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1577215280157233152/pu/vid/636x360/kqQ1HWrnm_EaAVwq.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1577215280157233152/pu/vid/848x480/Lt5GvjO43sZhDbg5.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1577215280157233152/pu/vid/476x270/XF5AO6UdJLkuy7t6.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1577215280157233152/pu/pl/OvOaZH2dM2BOcWce.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 741237817410478100,
+				"id_str": "741237817410478080",
+				"name": "The Inbetweeners",
+				"screen_name": "InbetweenerVidz",
+				"location": "",
+				"description": "Twitter account dedicated to #TheInbetweeners content not owned",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50750,
+				"friends_count": 770,
+				"listed_count": 41,
+				"created_at": "Fri Jun 10 11:57:22 +0000 2016",
+				"favourites_count": 1510,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1135,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1338966950987386880/_ifBQcF2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1338966950987386880/_ifBQcF2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/741237817410478080/1628458333",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 719,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Will never forget how much this made me laugh when I first watched it https://t.co/YUOEI1wwxT https://t.co/GjTxezZtQJ"
+	},
+	{
 		"created_at": "Mon Oct 03 23:17:05 +0000 2022",
 		"id": 1576925517772529700,
 		"id_str": "1577075296200982528",
@@ -28,7 +819,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "Nadia Whittome MP",
 			"screen_name": "NadiaWhittomeMP",
 			"location": "Nottingham",
-			"description": "Labour Member of Parliament for Nottingham East, proud to represent my home city • UK’s youngest MP • she/her 🏳️‍🌈",
+			"description": "Labour Member of Parliament for Nottingham East, proud to represent my home city • UK’s youngest MP • she/her 🏳️🌈",
 			"url": "https://t.co/YX8xThcA1T",
 			"entities": {
 				"url": {
