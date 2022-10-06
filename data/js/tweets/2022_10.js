@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 05 22:24:51 +0000 2022",
+		"id": 1577600639403712500,
+		"id_str": "1577786926081490944",
+		"full_text": "never thought i’d live to see the british government outflanked economically to the left by the ceo of shell https://t.co/w2WzGUV4Nn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w2WzGUV4Nn",
+					"expanded_url": "https://twitter.com/skynews/status/1577374806948855809",
+					"display_url": "twitter.com/skynews/status…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39558041,
+			"id_str": "39558041",
+			"name": "milo edwards",
+			"screen_name": "Milo_Edwards",
+			"location": "the internet",
+			"description": "comedian, writer + dumb online guy, formerly of russian tv | hosts: @trashfuturepod, @mastersofpod | rus tweets: @tot_anglichanin - come see me live ⬇️⬇️",
+			"url": "https://t.co/zX55ojPURR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zX55ojPURR",
+							"expanded_url": "https://www.miloedwards.co.uk/live-shows",
+							"display_url": "miloedwards.co.uk/live-shows",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25551,
+			"friends_count": 1129,
+			"listed_count": 91,
+			"created_at": "Tue May 12 18:14:10 +0000 2009",
+			"favourites_count": 94573,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288160054072479750/HsDJXtoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288160054072479750/HsDJXtoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39558041/1424960065",
+			"profile_link_color": "36D9BE",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1577374806948855800,
+		"quoted_status_id_str": "1577374806948855809",
+		"quoted_status_permalink": {
+			"url": "https://t.co/w2WzGUV4Nn",
+			"expanded": "https://twitter.com/skynews/status/1577374806948855809",
+			"display": "twitter.com/skynews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 04 19:07:14 +0000 2022",
+			"id": 1577374806948855800,
+			"id_str": "1577374806948855809",
+			"full_text": "The CEO of Shell has called on the government to tax oil and gas companies in order to protect the poorest people in society from soaring energy costs https://t.co/3ZEBexKwCl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3ZEBexKwCl",
+						"expanded_url": "https://trib.al/8JbTe0f",
+						"display_url": "trib.al/8JbTe0f",
+						"indices": [
+							151,
+							174
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7587032,
+				"id_str": "7587032",
+				"name": "Sky News",
+				"screen_name": "SkyNews",
+				"location": "London, UK",
+				"description": "For breaking news @SkyNewsBreak. Watch live on Sky 501, Virgin Media HD 602, Freeview 233 and YouTube.\n\nDownload our app: https://t.co/B2AP8GvitH",
+				"url": "https://t.co/UuWgHECmV8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UuWgHECmV8",
+								"expanded_url": "http://news.sky.com/",
+								"display_url": "news.sky.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/B2AP8GvitH",
+								"expanded_url": "http://onelink.to/skynews",
+								"display_url": "onelink.to/skynews",
+								"indices": [
+									122,
+									145
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8104915,
+				"friends_count": 23,
+				"listed_count": 30976,
+				"created_at": "Thu Jul 19 14:42:53 +0000 2007",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 548504,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1400331605974077442/kelepCgF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1400331605974077442/kelepCgF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7587032/1664187298",
+				"profile_link_color": "385FAC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EDEDED",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6192,
+			"favorite_count": 21475,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2140,
+		"favorite_count": 17318,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "never thought i’d live to see the british government outflanked economically to the left by the ceo of shell https://t.co/w2WzGUV4Nn"
+	},
+	{
+		"created_at": "Wed Oct 05 18:44:07 +0000 2022",
+		"id": 1577604509890650000,
+		"id_str": "1577731376371175452",
+		"full_text": "Liz Truss clearly hasn't listened to the start of \"Moving on Up\"\n\nHere are the opening lyrics:\n\n\"You've done me wrong, your time is up. You took a sip from the devil's cup. You broke my heart, there's no way back. Move right out of here, baby, go on pack your bags\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2369117648,
+			"id_str": "2369117648",
+			"name": "Edward Hardy",
+			"screen_name": "EdwardTHardy",
+			"location": "",
+			"description": "Journalist | UK & US political commentator | Columnist | Host of The Hardy Report podcast | House Stark | Buy me a coffee:",
+			"url": "https://t.co/VfpuUev61y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VfpuUev61y",
+							"expanded_url": "https://ko-fi.com/edwardhardy",
+							"display_url": "ko-fi.com/edwardhardy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163538,
+			"friends_count": 13450,
+			"listed_count": 73,
+			"created_at": "Sun Mar 02 16:41:59 +0000 2014",
+			"favourites_count": 1351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1370103833964244998/paXkoXyV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1370103833964244998/paXkoXyV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2369117648/1598019809",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123,
+		"favorite_count": 479,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Liz Truss clearly hasn't listened to the start of \"Moving on Up\"\n\nHere are the opening lyrics:\n\n\"You've done me wrong, your time is up. You took a sip from the devil's cup. You broke my heart, there's no way back. Move right out of here, baby, go on pack your bags\""
+	},
+	{
+		"created_at": "Wed Oct 05 18:43:06 +0000 2022",
+		"id": 1577731119231144000,
+		"id_str": "1577731119231143936",
+		"full_text": "Running is without a doubt the best post work mind cleanser I've come across. \n\nHow to enjoy running and actually look forward to it – https://t.co/cQygUon0U6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cQygUon0U6",
+					"expanded_url": "https://psyche.co/guides/how-to-enjoy-running-and-actually-look-forward-to-it",
+					"display_url": "psyche.co/guides/how-to-…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 268,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Running is without a doubt the best post work mind cleanser I've come across. \n\nHow to enjoy running and actually look forward to it – https://t.co/cQygUon0U6"
+	},
+	{
 		"created_at": "Tue Oct 04 19:35:04 +0000 2022",
 		"id": 1577381808311832600,
 		"id_str": "1577381808311832587",
