@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 16:26:18 +0000 2022",
+		"id": 1578419063147331600,
+		"id_str": "1578421470593941505",
+		"full_text": "https://t.co/ao8tjKhHYA https://t.co/kln6YvU58L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ao8tjKhHYA",
+					"expanded_url": "https://twitter.com/beatthecult/status/1578125111986716688",
+					"display_url": "twitter.com/beatthecult/st…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578419058944475100,
+					"id_str": "1578419058944475142",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FeerxXMXgAYGmi2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeerxXMXgAYGmi2.jpg",
+					"url": "https://t.co/kln6YvU58L",
+					"display_url": "pic.twitter.com/kln6YvU58L",
+					"expanded_url": "https://twitter.com/visionsofjoanne/status/1578419063147331584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 955,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1272,
+							"h": 1599,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578419058944475100,
+					"id_str": "1578419058944475142",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FeerxXMXgAYGmi2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeerxXMXgAYGmi2.jpg",
+					"url": "https://t.co/kln6YvU58L",
+					"display_url": "pic.twitter.com/kln6YvU58L",
+					"expanded_url": "https://twitter.com/visionsofjoanne/status/1578419063147331584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 955,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1272,
+							"h": 1599,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 477186774,
+			"id_str": "477186774",
+			"name": "Jojo 🍒",
+			"screen_name": "visionsofjoanne",
+			"location": "Over there ",
+			"description": "chips and egg",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3199,
+			"friends_count": 2908,
+			"listed_count": 5,
+			"created_at": "Sat Jan 28 22:55:11 +0000 2012",
+			"favourites_count": 128788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576168495762604032/VM4MJaez_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576168495762604032/VM4MJaez_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/477186774/1635707933",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1578125111986716700,
+		"quoted_status_id_str": "1578125111986716688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ao8tjKhHYA",
+			"expanded": "https://twitter.com/beatthecult/status/1578125111986716688",
+			"display": "twitter.com/beatthecult/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 06 20:48:41 +0000 2022",
+			"id": 1578125111986716700,
+			"id_str": "1578125111986716688",
+			"full_text": "Hey atheists, what gives your life meaning if you don’t believe in God?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				71
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 256312928,
+				"id_str": "256312928",
+				"name": "Beat the Cult",
+				"screen_name": "BeatTheCult",
+				"location": "Established 2010",
+				"description": "SkepticNikki here! Subscribe to my YouTube Channel “BeatTheCult” where we fight harmful religious thinking! #Lesbian #Nontheist #Atheist #Stallone 😍 #GoVols 🏈",
+				"url": "https://t.co/5O3Sy2KhTq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5O3Sy2KhTq",
+								"expanded_url": "https://youtube.com/channel/UC4S6R4JLSI0hRB9s_BbZvxg",
+								"display_url": "youtube.com/channel/UC4S6R…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14661,
+				"friends_count": 2061,
+				"listed_count": 65,
+				"created_at": "Wed Feb 23 02:36:33 +0000 2011",
+				"favourites_count": 22945,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15647,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1518818504476143617/P4ke9Ymj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1518818504476143617/P4ke9Ymj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/256312928/1663480883",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 984,
+			"favorite_count": 3571,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/ao8tjKhHYA https://t.co/kln6YvU58L"
+	},
+	{
 		"created_at": "Thu Oct 06 20:44:44 +0000 2022",
 		"id": 1578124119916380200,
 		"id_str": "1578124119916380162",
