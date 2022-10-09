@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 08 19:23:03 +0000 2022",
+		"id": 1578827186735550500,
+		"id_str": "1578828336784343041",
+		"full_text": "Switched on Strictly at this moment 😂\n\nYes Tone! #offside https://t.co/piJ07EzTHz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "offside",
+					"indices": [
+						49,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578827175771480000,
+					"id_str": "1578827175771480064",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Feke842XoAA9Xxm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Feke842XoAA9Xxm.jpg",
+					"url": "https://t.co/piJ07EzTHz",
+					"display_url": "pic.twitter.com/piJ07EzTHz",
+					"expanded_url": "https://twitter.com/charles_watts/status/1578827186735550464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578827175771480000,
+					"id_str": "1578827175771480064",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Feke842XoAA9Xxm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Feke842XoAA9Xxm.jpg",
+					"url": "https://t.co/piJ07EzTHz",
+					"display_url": "pic.twitter.com/piJ07EzTHz",
+					"expanded_url": "https://twitter.com/charles_watts/status/1578827186735550464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 305734622,
+			"id_str": "305734622",
+			"name": "Charles Watts",
+			"screen_name": "charles_watts",
+			"location": "",
+			"description": "Arsenal correspondent for @goal. Formerly of https://t.co/cG3EnRN8Z6 & the Reading Post. Husband & father. charles.watts@goal.com",
+			"url": "https://t.co/neWJce62Hc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/neWJce62Hc",
+							"expanded_url": "http://www.youtube.com/c/CharlesWattsArsenalnewsandviews",
+							"display_url": "youtube.com/c/CharlesWatts…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cG3EnRN8Z6",
+							"expanded_url": "http://football.london",
+							"display_url": "football.london",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 406553,
+			"friends_count": 1098,
+			"listed_count": 2448,
+			"created_at": "Thu May 26 18:23:40 +0000 2011",
+			"favourites_count": 5886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 81040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274784299854766084/u6bulJdT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274784299854766084/u6bulJdT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/305734622/1558474719",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 1718,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Switched on Strictly at this moment 😂\n\nYes Tone! #offside https://t.co/piJ07EzTHz"
+	},
+	{
+		"created_at": "Sat Oct 08 17:30:43 +0000 2022",
+		"id": 1578800067011833900,
+		"id_str": "1578800067011833856",
+		"full_text": "very hard - Framed #211\n🎥 🟥 🟥 🟥  🟥 🟥\nhttps://t.co/Y0w4iqrIoJ\n\nActorle 206 1/8\n🟩\nPlay here: https://t.co/HeqYI9QBmw \n\n#Flickle #179\n🎬 ⬛🟩⬜⬜⬜⬜\n📆 Daily Streak: 8 (Best 32)\n🏆 Win Streak: 1 (Best 23)\nhttps://t.co/IPrf5pZkdm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flickle",
+					"indices": [
+						117,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0w4iqrIoJ",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						37,
+						60
+					]
+				},
+				{
+					"url": "https://t.co/HeqYI9QBmw",
+					"expanded_url": "https://actorle.com",
+					"display_url": "actorle.com",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/IPrf5pZkdm",
+					"expanded_url": "https://flickle.app/",
+					"display_url": "flickle.app",
+					"indices": [
+						194,
+						217
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 267,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "very hard - Framed #211\n🎥 🟥 🟥 🟥  🟥 🟥\nhttps://t.co/Y0w4iqrIoJ\n\nActorle 206 1/8\n🟩\nPlay here: https://t.co/HeqYI9QBmw \n\n#Flickle #179\n🎬 ⬛🟩⬜⬜⬜⬜\n📆 Daily Streak: 8 (Best 32)\n🏆 Win Streak: 1 (Best 23)\nhttps://t.co/IPrf5pZkdm"
+	},
+	{
+		"created_at": "Sat Oct 08 16:17:20 +0000 2022",
+		"id": 1578778089072382000,
+		"id_str": "1578781601328418817",
+		"full_text": "A number of countries are hoping to replace natural gas heating systems with hydrogen as a way to reduce carbon emissions, but a review has found that it is not a viable solution https://t.co/itYr8vhR5E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/itYr8vhR5E",
+					"expanded_url": "https://www.newscientist.com/article/2339665-heating-homes-with-hydrogen-is-bad-for-both-your-wallet-and-the-planet/?utm_term=Autofeed&utm_campaign=echobox&utm_medium=social&utm_source=Twitter#Echobox=1665239175",
+					"display_url": "newscientist.com/article/233966…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19658826,
+			"id_str": "19658826",
+			"name": "New Scientist",
+			"screen_name": "newscientist",
+			"location": "Worldwide",
+			"description": "The best place to find out what’s new in science – and why it matters.",
+			"url": "https://t.co/QhC9P7sAYk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QhC9P7sAYk",
+							"expanded_url": "http://www.newscientist.com",
+							"display_url": "newscientist.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4251824,
+			"friends_count": 292,
+			"listed_count": 34018,
+			"created_at": "Wed Jan 28 16:05:49 +0000 2009",
+			"favourites_count": 17078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 103084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/960860144329469953/Tc-GOIGJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/960860144329469953/Tc-GOIGJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19658826/1662138136",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A number of countries are hoping to replace natural gas heating systems with hydrogen as a way to reduce carbon emissions, but a review has found that it is not a viable solution https://t.co/itYr8vhR5E"
+	},
+	{
 		"created_at": "Fri Oct 07 16:26:18 +0000 2022",
 		"id": 1578419063147331600,
 		"id_str": "1578421470593941505",
