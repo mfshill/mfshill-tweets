@@ -1,6 +1,999 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 23:05:22 +0000 2022",
+		"id": 1581058613564813300,
+		"id_str": "1581058613564813312",
+		"full_text": "Almost perfect ending to this series, great bit of writing by Horgan and co. - Bad Sisters https://t.co/5ECEj1tdEf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5ECEj1tdEf",
+					"expanded_url": "https://www.imdb.com/title/tt15469618/?ref_=ext_shr_tw",
+					"display_url": "imdb.com/title/tt154696…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 267,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Almost perfect ending to this series, great bit of writing by Horgan and co. - Bad Sisters https://t.co/5ECEj1tdEf"
+	},
+	{
+		"created_at": "Fri Oct 14 18:57:47 +0000 2022",
+		"id": 1580972439043199000,
+		"id_str": "1580996305198804992",
+		"full_text": "PSA: The immensely entertaining documentary Hollywood Bulldogs by ⁦@videojon⁩ is on Prime Video to rent for 99p! https://t.co/6J9AFRQwo2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "videojon",
+					"name": "Jon Spira",
+					"id": 19829127,
+					"id_str": "19829127",
+					"indices": [
+						67,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6J9AFRQwo2",
+					"expanded_url": "https://watch.amazon.co.uk/detail?gti=amzn1.dv.gti.06a1be6a-ee5c-45f2-af49-004bff233b54&territory=GB&ref_=share_ios_movie&r=web",
+					"display_url": "watch.amazon.co.uk/detail?gti=amz…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45541832,
+			"id_str": "45541832",
+			"name": "Adam Lowes",
+			"screen_name": "adlow76",
+			"location": "Marple, Greater Manchester",
+			"description": "Don’t I know you from the cinematographer's party?",
+			"url": "https://t.co/a46HF1IQX3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a46HF1IQX3",
+							"expanded_url": "http://www.rottentomatoes.com/critic/adam-lowes/",
+							"display_url": "rottentomatoes.com/critic/adam-lo…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3583,
+			"friends_count": 2606,
+			"listed_count": 74,
+			"created_at": "Mon Jun 08 10:56:22 +0000 2009",
+			"favourites_count": 44861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1510995015992057866/3kceUGg1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1510995015992057866/3kceUGg1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45541832/1649084260",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "E8D92E",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PSA: The immensely entertaining documentary Hollywood Bulldogs by ⁦@videojon⁩ is on Prime Video to rent for 99p! https://t.co/6J9AFRQwo2"
+	},
+	{
+		"created_at": "Fri Oct 14 18:51:48 +0000 2022",
+		"id": 1580952656558051300,
+		"id_str": "1580994799292719104",
+		"full_text": "This new episode of Quantum Leap is WILD https://t.co/zgJATvh9Y4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580952331658662000,
+					"id_str": "1580952331658661889",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580952331658661889/pu/img/o9cz6-iDufdLNgJM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580952331658661889/pu/img/o9cz6-iDufdLNgJM.jpg",
+					"url": "https://t.co/zgJATvh9Y4",
+					"display_url": "pic.twitter.com/zgJATvh9Y4",
+					"expanded_url": "https://twitter.com/pipmadeley/status/1580952656558051329/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580952331658662000,
+					"id_str": "1580952331658661889",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580952331658661889/pu/img/o9cz6-iDufdLNgJM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580952331658661889/pu/img/o9cz6-iDufdLNgJM.jpg",
+					"url": "https://t.co/zgJATvh9Y4",
+					"display_url": "pic.twitter.com/zgJATvh9Y4",
+					"expanded_url": "https://twitter.com/pipmadeley/status/1580952656558051329/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21098,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1580952331658661889/pu/pl/H9rEvHzyMdPn1jqW.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580952331658661889/pu/vid/480x270/oC3gmc5hkLAWNCQY.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580952331658661889/pu/vid/640x360/9N2uLI0FIPVfcNP8.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580952331658661889/pu/vid/1280x720/GgN9bxjs_XtkqHt6.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3167037875,
+			"id_str": "3167037875",
+			"name": "Pip",
+			"screen_name": "pipmadeley",
+			"location": "",
+			"description": "Common person. Comedy fan. Colossal nerd. Occasional @dwmtweets contributor. Half-decent video editor. Winner of Twitter/the Internet on at least two occasions.",
+			"url": "https://t.co/IaCPB6Q6zo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IaCPB6Q6zo",
+							"expanded_url": "https://www.youtube.com/pipmadeley",
+							"display_url": "youtube.com/pipmadeley",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12436,
+			"friends_count": 370,
+			"listed_count": 76,
+			"created_at": "Tue Apr 14 20:16:21 +0000 2015",
+			"favourites_count": 35257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1523803640103845888/zk1PyTqc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1523803640103845888/zk1PyTqc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3167037875/1660086146",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6020,
+		"favorite_count": 19212,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This new episode of Quantum Leap is WILD https://t.co/zgJATvh9Y4"
+	},
+	{
+		"created_at": "Fri Oct 14 13:12:54 +0000 2022",
+		"id": 1580909514806943700,
+		"id_str": "1580909514806943745",
+		"full_text": "4th one of 2022.... https://t.co/dTFI4UoBzT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dTFI4UoBzT",
+					"expanded_url": "https://twitter.com/10DowningStreet/status/1580904750685777920",
+					"display_url": "twitter.com/10DowningStree…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 267,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1580904750685778000,
+		"quoted_status_id_str": "1580904750685777920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dTFI4UoBzT",
+			"expanded": "https://twitter.com/10DowningStreet/status/1580904750685777920",
+			"display": "twitter.com/10DowningStree…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 14 12:53:59 +0000 2022",
+			"id": 1580904750685778000,
+			"id_str": "1580904750685777920",
+			"full_text": "The Rt Hon Jeremy Hunt MP @Jeremy_Hunt has been appointed Chancellor of the Exchequer @HMTreasury. https://t.co/bldKWr3crG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Jeremy_Hunt",
+						"name": "Jeremy Hunt",
+						"id": 112398730,
+						"id_str": "112398730",
+						"indices": [
+							26,
+							38
+						]
+					},
+					{
+						"screen_name": "hmtreasury",
+						"name": "HM Treasury",
+						"id": 18904582,
+						"id_str": "18904582",
+						"indices": [
+							86,
+							97
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1580902310439522300,
+						"id_str": "1580902310439522305",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/FfB-Rn5XkAEWna7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfB-Rn5XkAEWna7.jpg",
+						"url": "https://t.co/bldKWr3crG",
+						"display_url": "pic.twitter.com/bldKWr3crG",
+						"expanded_url": "https://twitter.com/10DowningStreet/status/1580904750685777920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1638,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1580902310439522300,
+						"id_str": "1580902310439522305",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/FfB-Rn5XkAEWna7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfB-Rn5XkAEWna7.jpg",
+						"url": "https://t.co/bldKWr3crG",
+						"display_url": "pic.twitter.com/bldKWr3crG",
+						"expanded_url": "https://twitter.com/10DowningStreet/status/1580904750685777920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1638,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14224719,
+				"id_str": "14224719",
+				"name": "UK Prime Minister",
+				"screen_name": "10DowningStreet",
+				"location": "10 Downing Street, London",
+				"description": "Official page for Prime Minister @TrussLiz's office, based at 10 Downing Street",
+				"url": "https://t.co/qSnpXRbyLM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qSnpXRbyLM",
+								"expanded_url": "http://www.number10.gov.uk",
+								"display_url": "number10.gov.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5981326,
+				"friends_count": 288,
+				"listed_count": 22627,
+				"created_at": "Wed Mar 26 11:16:02 +0000 2008",
+				"favourites_count": 2277,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 18384,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1562731966293753856/whX-HLVj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562731966293753856/whX-HLVj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14224719/1663662518",
+				"profile_link_color": "912B89",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1259,
+			"favorite_count": 3568,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "4th one of 2022.... https://t.co/dTFI4UoBzT"
+	},
+	{
+		"created_at": "Fri Oct 14 12:36:04 +0000 2022",
+		"id": 1580897271293436000,
+		"id_str": "1580900241837936644",
+		"full_text": "The Kwarteng Method:\n1. Turn up to work\n2. Have no idea what's going on\n3. Ruin everything\n4. Leave\n\nA true inspiration.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108140114,
+			"id_str": "108140114",
+			"name": "TechnicallyRon",
+			"screen_name": "TechnicallyRon",
+			"location": "",
+			"description": "Writer etc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 182962,
+			"friends_count": 996,
+			"listed_count": 1218,
+			"created_at": "Mon Jan 25 00:18:06 +0000 2010",
+			"favourites_count": 17493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 45423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567562022417473537/Gu3XJWNM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567562022417473537/Gu3XJWNM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108140114/1603722556",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 868,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The Kwarteng Method:\n1. Turn up to work\n2. Have no idea what's going on\n3. Ruin everything\n4. Leave\n\nA true inspiration."
+	},
+	{
+		"created_at": "Fri Oct 14 11:55:58 +0000 2022",
+		"id": 1580890151990927400,
+		"id_str": "1580890151990927363",
+		"full_text": "massively impressive track record of the new PM. hopefully she'll join him once the torys sum up the courage to eject her before the next election. https://t.co/ugtBD8nUmr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ugtBD8nUmr",
+					"expanded_url": "https://twitter.com/PippaCrerar/status/1580887814354259968",
+					"display_url": "twitter.com/PippaCrerar/st…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 267,
+			"listed_count": 0,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1580887814354260000,
+		"quoted_status_id_str": "1580887814354259968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ugtBD8nUmr",
+			"expanded": "https://twitter.com/PippaCrerar/status/1580887814354259968",
+			"display": "twitter.com/PippaCrerar/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 14 11:46:41 +0000 2022",
+			"id": 1580887814354260000,
+			"id_str": "1580887814354259968",
+			"full_text": "Downing Street sources confirm that Kwasi Kwarteng has now been sacked as Chancellor.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				85
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1580879918786756600,
+			"in_reply_to_status_id_str": "1580879918786756608",
+			"in_reply_to_user_id": 130120037,
+			"in_reply_to_user_id_str": "130120037",
+			"in_reply_to_screen_name": "PippaCrerar",
+			"user": {
+				"id": 130120037,
+				"id_str": "130120037",
+				"name": "Pippa Crerar",
+				"screen_name": "PippaCrerar",
+				"location": "London, Scotland, Burnley",
+				"description": "Political Editor, The Guardian pippa.crerar@theguardian.com",
+				"url": "https://t.co/pWJdo7zhPL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pWJdo7zhPL",
+								"expanded_url": "http://www.theguardian.com",
+								"display_url": "theguardian.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 380436,
+				"friends_count": 3505,
+				"listed_count": 2524,
+				"created_at": "Tue Apr 06 11:02:15 +0000 2010",
+				"favourites_count": 15676,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7144,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1013520081018671104/AiPlEcrV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013520081018671104/AiPlEcrV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/130120037/1635552062",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 268,
+			"favorite_count": 1010,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "massively impressive track record of the new PM. hopefully she'll join him once the torys sum up the courage to eject her before the next election. https://t.co/ugtBD8nUmr"
+	},
+	{
 		"created_at": "Thu Oct 13 22:55:32 +0000 2022",
 		"id": 1580693751420575700,
 		"id_str": "1580693751420575745",
