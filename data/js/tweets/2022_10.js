@@ -1,6 +1,1000 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 15 22:18:45 +0000 2022",
+		"id": 1581409269970505700,
+		"id_str": "1581409269970505728",
+		"full_text": "good fight #ShieldsMarshall",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShieldsMarshall",
+					"indices": [
+						11,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 267,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "good fight #ShieldsMarshall"
+	},
+	{
+		"created_at": "Sat Oct 15 19:56:10 +0000 2022",
+		"id": 1581373386210836500,
+		"id_str": "1581373386210836480",
+		"full_text": "i am really REALLY going to miss #MockTheWeek https://t.co/azpce4Yecd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MockTheWeek",
+					"indices": [
+						33,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/azpce4Yecd",
+					"expanded_url": "https://twitter.com/SeidGoro/status/1581038713198366720",
+					"display_url": "twitter.com/SeidGoro/statu…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 267,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1581038713198366700,
+		"quoted_status_id_str": "1581038713198366720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/azpce4Yecd",
+			"expanded": "https://twitter.com/SeidGoro/status/1581038713198366720",
+			"display": "twitter.com/SeidGoro/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 14 21:46:18 +0000 2022",
+			"id": 1581038713198366700,
+			"id_str": "1581038713198366720",
+			"full_text": "BBC has been taken hostage by a bunch of miserable Tories who can't take a 'Liz' joke. Ed Byrne on his last appearance on Mock The Week #mocktheweek https://t.co/wBaofmffAF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				148
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "mocktheweek",
+						"indices": [
+							136,
+							148
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1581038488782311400,
+						"id_str": "1581038488782311424",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1581038488782311424/pu/img/_Wc1fdLAklg1FILK.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1581038488782311424/pu/img/_Wc1fdLAklg1FILK.jpg",
+						"url": "https://t.co/wBaofmffAF",
+						"display_url": "pic.twitter.com/wBaofmffAF",
+						"expanded_url": "https://twitter.com/SeidGoro/status/1581038713198366720/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 967,
+								"h": 542,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 967,
+								"h": 542,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1581038488782311400,
+						"id_str": "1581038488782311424",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1581038488782311424/pu/img/_Wc1fdLAklg1FILK.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1581038488782311424/pu/img/_Wc1fdLAklg1FILK.jpg",
+						"url": "https://t.co/wBaofmffAF",
+						"display_url": "pic.twitter.com/wBaofmffAF",
+						"expanded_url": "https://twitter.com/SeidGoro/status/1581038713198366720/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 967,
+								"h": 542,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 967,
+								"h": 542,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								967,
+								542
+							],
+							"duration_millis": 16058,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1581038488782311424/pu/vid/480x270/gl7v14U4K7a_K8-r.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1581038488782311424/pu/vid/966x542/PR8QE8JRksvH8Nrx.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1581038488782311424/pu/vid/642x360/-52You2r009-3gtY.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1581038488782311424/pu/pl/SlwIf53b33Io8qLc.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3372081484,
+				"id_str": "3372081484",
+				"name": "Seid Goro",
+				"screen_name": "SeidGoro",
+				"location": "England, United Kingdom",
+				"description": "I used to be comedian, now I'm vegetarian wondering what humanitarian does eat. A poet & a maybe songwriter. Waiting to be shot to bleed love.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 287,
+				"friends_count": 170,
+				"listed_count": 12,
+				"created_at": "Sun Jul 12 09:25:42 +0000 2015",
+				"favourites_count": 9,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4983,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/634070267107655680/8z7DFKIi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/634070267107655680/8z7DFKIi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3372081484/1540586890",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 74,
+			"favorite_count": 287,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i am really REALLY going to miss #MockTheWeek https://t.co/azpce4Yecd"
+	},
+	{
+		"created_at": "Sat Oct 15 14:19:41 +0000 2022",
+		"id": 1581288708753326000,
+		"id_str": "1581288708753326081",
+		"full_text": "This is a fantastic documentary about British stuntmen by @videojon. Currently only 99p on Prime Video! 'Hollywood Bulldogs' 8/10 https://t.co/GzXbBFNyIx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "videojon",
+					"name": "Jon Spira",
+					"id": 19829127,
+					"id_str": "19829127",
+					"indices": [
+						58,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GzXbBFNyIx",
+					"expanded_url": "https://www.amazon.co.uk/gp/video/detail/B09LVY839F",
+					"display_url": "amazon.co.uk/gp/video/detai…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 267,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a fantastic documentary about British stuntmen by @videojon. Currently only 99p on Prime Video! 'Hollywood Bulldogs' 8/10 https://t.co/GzXbBFNyIx"
+	},
+	{
+		"created_at": "Sat Oct 15 13:17:32 +0000 2022",
+		"id": 1581273066432520200,
+		"id_str": "1581273066432520193",
+		"full_text": "LIVE: Can Liz Truss outlast a lettuce?\n\nhttps://t.co/y5KRnCZw4L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y5KRnCZw4L",
+					"expanded_url": "https://www.youtube.com/watch?v=Sm-RE95lKJ0",
+					"display_url": "youtube.com/watch?v=Sm-RE9…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 267,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LIVE: Can Liz Truss outlast a lettuce?\n\nhttps://t.co/y5KRnCZw4L"
+	},
+	{
+		"created_at": "Sat Oct 15 12:57:29 +0000 2022",
+		"id": 1581208481767379000,
+		"id_str": "1581268021632327681",
+		"full_text": "When Jeremy Hunt received a message early yesterday morning from a “Liz Truss” wanting to talk to him, he assumed he was being pranked. He later found out it was indeed the prime minister and she wanted to make him Chancellor. He has totally reset…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14157134,
+			"id_str": "14157134",
+			"name": "Robert Peston",
+			"screen_name": "Peston",
+			"location": "",
+			"description": "ITV (pol ed), Speakers for Schools (founder), writer (WTF), Hospice UK (vice pres), Arsenal (East Stand), Peston (as in #Peston show, 10.45pm Weds). So?",
+			"url": "https://t.co/KcrDn3jvur",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KcrDn3jvur",
+							"expanded_url": "http://itv.com/robertpeston",
+							"display_url": "itv.com/robertpeston",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1286319,
+			"friends_count": 1452,
+			"listed_count": 9237,
+			"created_at": "Sun Mar 16 11:41:49 +0000 2008",
+			"favourites_count": 199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 33186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180055085801443329/JAUJWMmN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180055085801443329/JAUJWMmN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14157134/1619538125",
+			"profile_link_color": "1F527B",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "5A5A5A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 927,
+		"favorite_count": 6005,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "When Jeremy Hunt received a message early yesterday morning from a “Liz Truss” wanting to talk to him, he assumed he was being pranked. He later found out it was indeed the prime minister and she wanted to make him Chancellor. He has totally reset…"
+	},
+	{
+		"created_at": "Sat Oct 15 12:55:29 +0000 2022",
+		"id": 1581186425835266000,
+		"id_str": "1581267518861504513",
+		"full_text": "A joy to start the day to Miriam Margolyes saying ‘Fuck you’ on Radio 4. I love her reliability!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2494302469,
+			"id_str": "2494302469",
+			"name": "Anneka Rice",
+			"screen_name": "AnnekaRice",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67484,
+			"friends_count": 344,
+			"listed_count": 117,
+			"created_at": "Wed May 14 15:29:46 +0000 2014",
+			"favourites_count": 2990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216278288613748736/uw1klRxC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216278288613748736/uw1klRxC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2494302469/1541882434",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1230,
+		"favorite_count": 22489,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "A joy to start the day to Miriam Margolyes saying ‘Fuck you’ on Radio 4. I love her reliability!"
+	},
+	{
+		"created_at": "Sat Oct 15 12:55:05 +0000 2022",
+		"id": 1580909385449996300,
+		"id_str": "1581267415349882881",
+		"full_text": "Watford have 78 days to sack and replace Slaven Bilic so they can retake the lead against the Government in their big 2022 Managers vs Chancellors match, which is currently sitting at 4-4.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245908050,
+			"id_str": "245908050",
+			"name": "Matt Greer",
+			"screen_name": "Matt24Greer",
+			"location": "East Kilbride, Scotland",
+			"description": "Put up with a lot of nonsense watching Partick Thistle & Scotland for the odd moment of pure joy. Host of @DrawLoseOrDraw.",
+			"url": "https://t.co/j3sJtihazo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j3sJtihazo",
+							"expanded_url": "https://soundcloud.com/user-130989041/episode-1-the-beginning",
+							"display_url": "soundcloud.com/user-130989041…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1702,
+			"friends_count": 1105,
+			"listed_count": 10,
+			"created_at": "Tue Feb 01 18:34:11 +0000 2011",
+			"favourites_count": 47086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1547218754995642368/FNVMQncq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1547218754995642368/FNVMQncq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245908050/1596119213",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 583,
+		"favorite_count": 5520,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Watford have 78 days to sack and replace Slaven Bilic so they can retake the lead against the Government in their big 2022 Managers vs Chancellors match, which is currently sitting at 4-4."
+	},
+	{
+		"created_at": "Sat Oct 15 12:53:52 +0000 2022",
+		"id": 1581267109216415700,
+		"id_str": "1581267109216415747",
+		"full_text": "Framed #218\n🎥 🟥 🟥 🟥 🟩 ⬛ ⬛\nhttps://t.co/Y0w4iqrIoJ\n\nActorle 213 2/8\n🟨🟩\nPlay here: https://t.co/HeqYI9QBmw \n\n#Flickle #186\n🎬 🟩⬜⬜⬜⬜⬜\n📆 Daily Streak: 1 (Best 32)\n🏆 Win Streak: 1 (Best 23)\n🥇 First-Guess Streak: 1 (Best 4)\nhttps://t.co/IPrf5pZkdm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flickle",
+					"indices": [
+						107,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0w4iqrIoJ",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/HeqYI9QBmw",
+					"expanded_url": "https://actorle.com",
+					"display_url": "actorle.com",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/IPrf5pZkdm",
+					"expanded_url": "https://flickle.app/",
+					"display_url": "flickle.app",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 267,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Framed #218\n🎥 🟥 🟥 🟥 🟩 ⬛ ⬛\nhttps://t.co/Y0w4iqrIoJ\n\nActorle 213 2/8\n🟨🟩\nPlay here: https://t.co/HeqYI9QBmw \n\n#Flickle #186\n🎬 🟩⬜⬜⬜⬜⬜\n📆 Daily Streak: 1 (Best 32)\n🏆 Win Streak: 1 (Best 23)\n🥇 First-Guess Streak: 1 (Best 4)\nhttps://t.co/IPrf5pZkdm"
+	},
+	{
 		"created_at": "Fri Oct 14 23:05:22 +0000 2022",
 		"id": 1581058613564813300,
 		"id_str": "1581058613564813312",
@@ -98,7 +1092,7 @@ Grailbird.data.tweets_2022_10 =
 		"created_at": "Fri Oct 14 18:57:47 +0000 2022",
 		"id": 1580972439043199000,
 		"id_str": "1580996305198804992",
-		"full_text": "PSA: The immensely entertaining documentary Hollywood Bulldogs by ⁦@videojon⁩ is on Prime Video to rent for 99p! https://t.co/6J9AFRQwo2",
+		"full_text": "PSA: The immensely entertaining documentary Hollywood Bulldogs by @videojon is on Prime Video to rent for 99p! https://t.co/6J9AFRQwo2",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -210,7 +1204,7 @@ Grailbird.data.tweets_2022_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "PSA: The immensely entertaining documentary Hollywood Bulldogs by ⁦@videojon⁩ is on Prime Video to rent for 99p! https://t.co/6J9AFRQwo2"
+		"text": "PSA: The immensely entertaining documentary Hollywood Bulldogs by @videojon is on Prime Video to rent for 99p! https://t.co/6J9AFRQwo2"
 	},
 	{
 		"created_at": "Fri Oct 14 18:51:48 +0000 2022",
