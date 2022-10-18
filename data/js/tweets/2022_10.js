@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 17 22:46:03 +0000 2022",
+		"id": 1582140914230653000,
+		"id_str": "1582140914230652928",
+		"full_text": "@Jamie_Dodger_ @BrianCOHalloran hope you waited during the credits and listened to Kevin's explanation",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jamie_Dodger_",
+					"name": "Jamie_Dodger_",
+					"id": 27925847,
+					"id_str": "27925847",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "BrianCOHalloran",
+					"name": "Brian O'Halloran",
+					"id": 62557650,
+					"id_str": "62557650",
+					"indices": [
+						15,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1582074574770176000,
+		"in_reply_to_status_id_str": "1582074574770176000",
+		"in_reply_to_user_id": 27925847,
+		"in_reply_to_user_id_str": "27925847",
+		"in_reply_to_screen_name": "Jamie_Dodger_",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 267,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Jamie_Dodger_ @BrianCOHalloran hope you waited during the credits and listened to Kevin's explanation"
+	},
+	{
+		"created_at": "Mon Oct 17 19:09:17 +0000 2022",
+		"id": 1582086364035969000,
+		"id_str": "1582086364035969024",
+		"full_text": "https://t.co/C73616ruX8 https://t.co/itXP5Uh5No https://t.co/01Pm4LS19S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C73616ruX8",
+					"expanded_url": "https://metro.co.uk/2022/10/17/scientists-develop-new-covid-strain-that-would-kill-80-of-people-infected-17581534/",
+					"display_url": "metro.co.uk/2022/10/17/sci…",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/itXP5Uh5No",
+					"expanded_url": "https://twitter.com/i/web/status/1582086364035969024",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1582086337611563000,
+					"id_str": "1582086337611563013",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/FfSzJE1WAAUYcoz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfSzJE1WAAUYcoz.jpg",
+					"url": "https://t.co/01Pm4LS19S",
+					"display_url": "pic.twitter.com/01Pm4LS19S",
+					"expanded_url": "https://twitter.com/mfshill/status/1582086364035969024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 758,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1294,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582086337611563000,
+					"id_str": "1582086337611563013",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/FfSzJE1WAAUYcoz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfSzJE1WAAUYcoz.jpg",
+					"url": "https://t.co/01Pm4LS19S",
+					"display_url": "pic.twitter.com/01Pm4LS19S",
+					"expanded_url": "https://twitter.com/mfshill/status/1582086364035969024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 758,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1294,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 267,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/C73616ruX8 https://t.co/itXP5Uh5No https://t.co/01Pm4LS19S"
+	},
+	{
 		"created_at": "Sun Oct 16 17:28:55 +0000 2022",
 		"id": 1581698591575638000,
 		"id_str": "1581698716875882496",
