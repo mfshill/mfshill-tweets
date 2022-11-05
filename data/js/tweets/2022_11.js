@@ -1,6 +1,445 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 04 21:16:52 +0000 2022",
+		"id": 1588598262357168000,
+		"id_str": "1588641454075023361",
+		"full_text": "Yep... #MariahCarey https://t.co/FuKfqkj3vS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MariahCarey",
+					"indices": [
+						7,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1588598260461183000,
+					"id_str": "1588598260461182976",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/FgvVs32XoAAVwU2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgvVs32XoAAVwU2.jpg",
+					"url": "https://t.co/FuKfqkj3vS",
+					"display_url": "pic.twitter.com/FuKfqkj3vS",
+					"expanded_url": "https://twitter.com/Jamie_Dodger_/status/1588598262357168128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 647,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1588598260461183000,
+					"id_str": "1588598260461182976",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/FgvVs32XoAAVwU2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgvVs32XoAAVwU2.jpg",
+					"url": "https://t.co/FuKfqkj3vS",
+					"display_url": "pic.twitter.com/FuKfqkj3vS",
+					"expanded_url": "https://twitter.com/Jamie_Dodger_/status/1588598262357168128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 647,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27925847,
+			"id_str": "27925847",
+			"name": "Jamie_Dodger_",
+			"screen_name": "Jamie_Dodger_",
+			"location": "Essex, England.",
+			"description": "40+.🐕🐈🐦🐠🐇 owner. Reformed Tweeter. Still a sarcastic prick🍷\nSpurs fan, so used to dissapointment.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1066,
+			"friends_count": 2828,
+			"listed_count": 23,
+			"created_at": "Tue Mar 31 18:08:16 +0000 2009",
+			"favourites_count": 9249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030103",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1575647764666630155/N_coTNnU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1575647764666630155/N_coTNnU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27925847/1665598247",
+			"profile_link_color": "FA8459",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "947974",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Yep... #MariahCarey https://t.co/FuKfqkj3vS"
+	},
+	{
+		"created_at": "Fri Nov 04 21:09:40 +0000 2022",
+		"id": 1588341163341357000,
+		"id_str": "1588639638620897280",
+		"full_text": "Okay that's it, I've had it! I'm starting a new Twitter. It's just a Google doc that everyone in the world shares:\nhttps://t.co/s657psje90",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s657psje90",
+					"expanded_url": "https://docs.google.com/document/d/1UE2fahNwS8xeDqjsKXnL9Zj36o_ohrvWC_4AHx06TQc/edit?usp=drivesdk",
+					"display_url": "docs.google.com/document/d/1UE…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14519841,
+			"id_str": "14519841",
+			"name": "AVC",
+			"screen_name": "annevclark",
+			"location": "Queens, NY",
+			"description": "@vulture writer/editor, union (@Newsguild) member, Queens resident, originated in Nebraska, educated in Texas, understandably furious.\n\nBlack lives matter.",
+			"url": "https://t.co/O6pbxs4tso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O6pbxs4tso",
+							"expanded_url": "https://anne-clark.com/",
+							"display_url": "anne-clark.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17058,
+			"friends_count": 2491,
+			"listed_count": 131,
+			"created_at": "Fri Apr 25 00:02:25 +0000 2008",
+			"favourites_count": 69039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1507108101828317193/nlpeAXmW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1507108101828317193/nlpeAXmW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14519841/1631638424",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "C7E2EB",
+			"profile_sidebar_fill_color": "C3BADE",
+			"profile_text_color": "D660BF",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1357,
+		"favorite_count": 10043,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Okay that's it, I've had it! I'm starting a new Twitter. It's just a Google doc that everyone in the world shares:\nhttps://t.co/s657psje90"
+	},
+	{
+		"created_at": "Fri Nov 04 21:08:08 +0000 2022",
+		"id": 1588623261390315500,
+		"id_str": "1588639255718658049",
+		"full_text": "Is Twitter really going to end? Maybe I can get on with my life, write that novel https://t.co/mbBN7dj5Zb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1588623258017988600,
+					"id_str": "1588623258017988608",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgvsb7AWAAAOXoc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fgvsb7AWAAAOXoc.jpg",
+					"url": "https://t.co/mbBN7dj5Zb",
+					"display_url": "pic.twitter.com/mbBN7dj5Zb",
+					"expanded_url": "https://twitter.com/Beigemania/status/1588623261390315523/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 906,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 906,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1588623258017988600,
+					"id_str": "1588623258017988608",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgvsb7AWAAAOXoc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fgvsb7AWAAAOXoc.jpg",
+					"url": "https://t.co/mbBN7dj5Zb",
+					"display_url": "pic.twitter.com/mbBN7dj5Zb",
+					"expanded_url": "https://twitter.com/Beigemania/status/1588623261390315523/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 906,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 906,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1479922883753394200,
+			"id_str": "1479922883753394186",
+			"name": "Beige22🇺🇦",
+			"screen_name": "Beigemania",
+			"location": "London, England",
+			"description": "it’s not going well",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1161,
+			"friends_count": 538,
+			"listed_count": 2,
+			"created_at": "Sat Jan 08 21:08:32 +0000 2022",
+			"favourites_count": 13052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562548213118386176/3ffvPCHf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562548213118386176/3ffvPCHf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1479922883753394186/1667510737",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Is Twitter really going to end? Maybe I can get on with my life, write that novel https://t.co/mbBN7dj5Zb"
+	},
+	{
 		"created_at": "Thu Nov 03 20:18:31 +0000 2022",
 		"id": 1588264381065724000,
 		"id_str": "1588264381065723905",
