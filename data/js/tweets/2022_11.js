@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sat Nov 05 23:11:46 +0000 2022",
+		"id": 1588978418234056700,
+		"id_str": "1589032756377694208",
+		"full_text": "ok, you win @elonmusk. Price accepted. https://t.co/MxJDKJ2wBC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elonmusk",
+					"name": "Elon Musk",
+					"id": 44196397,
+					"id_str": "44196397",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1588978229204877300,
+					"id_str": "1588978229204877312",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg0vR9uWAAA5aNM.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fg0vR9uWAAA5aNM.png",
+					"url": "https://t.co/MxJDKJ2wBC",
+					"display_url": "pic.twitter.com/MxJDKJ2wBC",
+					"expanded_url": "https://twitter.com/financeguy74/status/1588978418234056704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 401,
+							"h": 443,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 401,
+							"h": 443,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 401,
+							"h": 443,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1588978229204877300,
+					"id_str": "1588978229204877312",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg0vR9uWAAA5aNM.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fg0vR9uWAAA5aNM.png",
+					"url": "https://t.co/MxJDKJ2wBC",
+					"display_url": "pic.twitter.com/MxJDKJ2wBC",
+					"expanded_url": "https://twitter.com/financeguy74/status/1588978418234056704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 401,
+							"h": 443,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 401,
+							"h": 443,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 401,
+							"h": 443,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 177416396,
+			"id_str": "177416396",
+			"name": "Seán Murray | 3531.eth",
+			"screen_name": "financeguy74",
+			"location": "NYC",
+			"description": "deBanked® | Broker Fair™ | DailyFunder® | Creator of https://t.co/z0kmNQESqP | Me: https://t.co/nq2HIOU3UL | You: (your-name).https://t.co/z0kmNQESqP | https://t.co/yBuWWcCGP7",
+			"url": "https://t.co/JVQoFwR8dG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JVQoFwR8dG",
+							"expanded_url": "https://debanked.com",
+							"display_url": "debanked.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/z0kmNQESqP",
+							"expanded_url": "http://eth.photos",
+							"display_url": "eth.photos",
+							"indices": [
+								53,
+								76
+							]
+						},
+						{
+							"url": "https://t.co/nq2HIOU3UL",
+							"expanded_url": "http://3531.eth.photos",
+							"display_url": "3531.eth.photos",
+							"indices": [
+								83,
+								106
+							]
+						},
+						{
+							"url": "https://t.co/z0kmNQESqP",
+							"expanded_url": "http://eth.photos",
+							"display_url": "eth.photos",
+							"indices": [
+								126,
+								149
+							]
+						},
+						{
+							"url": "https://t.co/yBuWWcCGP7",
+							"expanded_url": "http://eth.sm",
+							"display_url": "eth.sm",
+							"indices": [
+								152,
+								175
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9792,
+			"friends_count": 4763,
+			"listed_count": 151,
+			"created_at": "Thu Aug 12 02:23:06 +0000 2010",
+			"favourites_count": 28874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587400995985915905/bgmMJrdl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587400995985915905/bgmMJrdl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/177416396/1660276297",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 37,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ok, you win @elonmusk. Price accepted. https://t.co/MxJDKJ2wBC"
+	},
+	{
+		"created_at": "Sat Nov 05 19:48:42 +0000 2022",
+		"id": 1588965818699862000,
+		"id_str": "1588981653179097088",
+		"full_text": "It’s just a bit … when you extract hair from a plug hole isn’t it.\n\nIsn’t it? It is. Yes. https://t.co/BA8loXWX62",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1588965809371713500,
+					"id_str": "1588965809371713537",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg0j_CPXkAEWTDT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg0j_CPXkAEWTDT.jpg",
+					"url": "https://t.co/BA8loXWX62",
+					"display_url": "pic.twitter.com/BA8loXWX62",
+					"expanded_url": "https://twitter.com/geofftech/status/1588965818699862017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1588965809371713500,
+					"id_str": "1588965809371713537",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg0j_CPXkAEWTDT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg0j_CPXkAEWTDT.jpg",
+					"url": "https://t.co/BA8loXWX62",
+					"display_url": "pic.twitter.com/BA8loXWX62",
+					"expanded_url": "https://twitter.com/geofftech/status/1588965818699862017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18218334,
+			"id_str": "18218334",
+			"name": "Geoff Marshall",
+			"screen_name": "geofftech",
+			"location": "London, UK",
+			"description": "Rides Railways. Makes Videos. Tells Stories. YouTube: https://t.co/9LtzEcqJCr",
+			"url": "https://t.co/VnCRSZnMgb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VnCRSZnMgb",
+							"expanded_url": "http://www.geofftech.co.uk/",
+							"display_url": "geofftech.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9LtzEcqJCr",
+							"expanded_url": "http://bit.ly/2TBWFsX",
+							"display_url": "bit.ly/2TBWFsX",
+							"indices": [
+								54,
+								77
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 68793,
+			"friends_count": 227,
+			"listed_count": 322,
+			"created_at": "Thu Dec 18 16:40:36 +0000 2008",
+			"favourites_count": 27958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1295490618140110848/Fu4chISB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295490618140110848/Fu4chISB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18218334/1601126456",
+			"profile_link_color": "555E61",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "BDBDBD",
+			"profile_text_color": "1E1E2B",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 826,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s just a bit … when you extract hair from a plug hole isn’t it.\n\nIsn’t it? It is. Yes. https://t.co/BA8loXWX62"
+	},
+	{
 		"created_at": "Fri Nov 04 21:16:52 +0000 2022",
 		"id": 1588598262357168000,
 		"id_str": "1588641454075023361",
