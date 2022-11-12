@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 11 18:47:14 +0000 2022",
+		"id": 1591140512920207400,
+		"id_str": "1591140512920207366",
+		"full_text": "@TC_Cornesto i managed to control my anger and chose to ignore the smug bastard",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC Cornest-oooowwoohh",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1591124692735492000,
+		"in_reply_to_status_id_str": "1591124692735492099",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 266,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TC_Cornesto i managed to control my anger and chose to ignore the smug bastard"
+	},
+	{
+		"created_at": "Fri Nov 11 13:36:08 +0000 2022",
+		"id": 1591062221962248200,
+		"id_str": "1591062221962248192",
+		"full_text": "Come follow me on a site i'll probably never use due to how annoyingly complicated it is to use... #Mastodon\n\n@Mfshill@mstdn.social\n\nhttps://t.co/KTnBzvl1JZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Mastodon",
+					"indices": [
+						99,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KTnBzvl1JZ",
+					"expanded_url": "https://mstdn.social/@Mfshill",
+					"display_url": "mstdn.social/@Mfshill",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 266,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come follow me on a site i'll probably never use due to how annoyingly complicated it is to use... #Mastodon\n\n@Mfshill@mstdn.social\n\nhttps://t.co/KTnBzvl1JZ"
+	},
+	{
+		"created_at": "Fri Nov 11 13:32:46 +0000 2022",
+		"id": 1590840890381082600,
+		"id_str": "1591061374351835136",
+		"full_text": "That Mastodon sign-up process in full: https://t.co/AiyBwAL4D3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1590840778644930600,
+					"id_str": "1590840778644930562",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1590840778644930562/pu/img/Ee_6A2Yh2NCUkKd0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1590840778644930562/pu/img/Ee_6A2Yh2NCUkKd0.jpg",
+					"url": "https://t.co/AiyBwAL4D3",
+					"display_url": "pic.twitter.com/AiyBwAL4D3",
+					"expanded_url": "https://twitter.com/StephenCVGraham/status/1590840890381082624/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 342,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1278,
+							"h": 642,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 603,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1590840778644930600,
+					"id_str": "1590840778644930562",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1590840778644930562/pu/img/Ee_6A2Yh2NCUkKd0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1590840778644930562/pu/img/Ee_6A2Yh2NCUkKd0.jpg",
+					"url": "https://t.co/AiyBwAL4D3",
+					"display_url": "pic.twitter.com/AiyBwAL4D3",
+					"expanded_url": "https://twitter.com/StephenCVGraham/status/1590840890381082624/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 342,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1278,
+							"h": 642,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 603,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							213,
+							107
+						],
+						"duration_millis": 13118,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1590840778644930562/pu/vid/716x360/iqsJ0r9j0Yx3jpGL.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1590840778644930562/pu/vid/1278x642/IStwxYGsD0Q3QpCs.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1590840778644930562/pu/vid/536x270/AgKFP2PBECoJGbbP.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1590840778644930562/pu/pl/J0q9xVFqWMbLd86f.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 559703196,
+			"id_str": "559703196",
+			"name": "Stephen Graham 🇺🇦",
+			"screen_name": "StephenCVGraham",
+			"location": "Edinburgh",
+			"description": "A poet, a preacher, a fool and a rake.\n\nBins: Wednesday",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14201,
+			"friends_count": 971,
+			"listed_count": 37,
+			"created_at": "Sat Apr 21 15:04:21 +0000 2012",
+			"favourites_count": 290288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 135837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5763E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1237279123963330561/nOcLpDr4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237279123963330561/nOcLpDr4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/559703196/1655444590",
+			"profile_link_color": "B30000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 154,
+		"favorite_count": 771,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That Mastodon sign-up process in full: https://t.co/AiyBwAL4D3"
+	},
+	{
 		"created_at": "Thu Nov 10 23:40:40 +0000 2022",
 		"id": 1590851967525396500,
 		"id_str": "1590851967525396481",
