@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 13 16:43:09 +0000 2022",
+		"id": 1591834062121226200,
+		"id_str": "1591834062121226241",
+		"full_text": "glad it's not just me - Why Some People Are Really Bad at Remembering Names https://t.co/pkGWsQWOIV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pkGWsQWOIV",
+					"expanded_url": "https://theswaddle.com/why-some-people-are-really-bad-at-remembering-names/",
+					"display_url": "theswaddle.com/why-some-peopl…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 267,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "glad it's not just me - Why Some People Are Really Bad at Remembering Names https://t.co/pkGWsQWOIV"
+	},
+	{
+		"created_at": "Sun Nov 13 15:14:45 +0000 2022",
+		"id": 1591796357719023600,
+		"id_str": "1591811813058183169",
+		"full_text": "Word of the day. https://t.co/pS9zRwO46o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1591796349171036200,
+					"id_str": "1591796349171036161",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FhcyWIsacAENLHp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhcyWIsacAENLHp.jpg",
+					"url": "https://t.co/pS9zRwO46o",
+					"display_url": "pic.twitter.com/pS9zRwO46o",
+					"expanded_url": "https://twitter.com/englishwhirled/status/1591796357719023616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 548,
+							"h": 518,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 548,
+							"h": 518,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 548,
+							"h": 518,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1591796349171036200,
+					"id_str": "1591796349171036161",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FhcyWIsacAENLHp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhcyWIsacAENLHp.jpg",
+					"url": "https://t.co/pS9zRwO46o",
+					"display_url": "pic.twitter.com/pS9zRwO46o",
+					"expanded_url": "https://twitter.com/englishwhirled/status/1591796357719023616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 548,
+							"h": 518,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 548,
+							"h": 518,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 548,
+							"h": 518,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45053322,
+			"id_str": "45053322",
+			"name": "English Whirled Wide",
+			"screen_name": "englishwhirled",
+			"location": "worldwide",
+			"description": "The funniest English signs/memes/cartoons from around the world.",
+			"url": "http://t.co/0sZvegbsyP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/0sZvegbsyP",
+							"expanded_url": "http://www.facebook.com/EnglishWhirledWide",
+							"display_url": "facebook.com/EnglishWhirled…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21537,
+			"friends_count": 14676,
+			"listed_count": 568,
+			"created_at": "Sat Jun 06 01:37:12 +0000 2009",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "964E60",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/251704655/missfire_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/251704655/missfire_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45053322/1398914387",
+			"profile_link_color": "91072A",
+			"profile_sidebar_border_color": "18155C",
+			"profile_sidebar_fill_color": "9FC7A8",
+			"profile_text_color": "231152",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Word of the day. https://t.co/pS9zRwO46o"
+	},
+	{
+		"created_at": "Sun Nov 13 13:22:43 +0000 2022",
+		"id": 1591729846413041700,
+		"id_str": "1591783619240288256",
+		"full_text": "What does the washing machine gain from lying about how much time it has left",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43640254,
+			"id_str": "43640254",
+			"name": "fly queen 3000",
+			"screen_name": "witchbent",
+			"location": "Sydney, Australia",
+			"description": "I think cats are neat 🐈 she/they",
+			"url": "https://t.co/njaJQtD6uk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/njaJQtD6uk",
+							"expanded_url": "https://www.paypal.me/lisabentwith",
+							"display_url": "paypal.me/lisabentwith",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1407,
+			"friends_count": 304,
+			"listed_count": 2,
+			"created_at": "Sun May 31 04:21:22 +0000 2009",
+			"favourites_count": 12008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A3A7A8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1590933322087116800/8ygpCe10_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1590933322087116800/8ygpCe10_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43640254/1665918214",
+			"profile_link_color": "15755D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "What does the washing machine gain from lying about how much time it has left"
+	},
+	{
+		"created_at": "Sun Nov 13 13:21:45 +0000 2022",
+		"id": 1591783375664480300,
+		"id_str": "1591783375664480263",
+		"full_text": "Framed #247\n🎥 🟥 🟥 🟩 ⬛ ⬛ ⬛\nhttps://t.co/Y0w4iqrIoJ\n\nActorle 242 2/8\n⬛🟩\nhttps://t.co/HeqYI9QBmw\n\n#Flickle #215\n🎬 ⬛🟩⬜⬜⬜⬜\nhttps://t.co/IPrf5pZkdm\n\nhttps://t.co/7J2wRkNvhh #16 2/8\n🟨🟩",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flickle",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0w4iqrIoJ",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/HeqYI9QBmw",
+					"expanded_url": "https://actorle.com",
+					"display_url": "actorle.com",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/IPrf5pZkdm",
+					"expanded_url": "https://flickle.app/",
+					"display_url": "flickle.app",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/7J2wRkNvhh",
+					"expanded_url": "http://Moviedle.xyz",
+					"display_url": "Moviedle.xyz",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 267,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Framed #247\n🎥 🟥 🟥 🟩 ⬛ ⬛ ⬛\nhttps://t.co/Y0w4iqrIoJ\n\nActorle 242 2/8\n⬛🟩\nhttps://t.co/HeqYI9QBmw\n\n#Flickle #215\n🎬 ⬛🟩⬜⬜⬜⬜\nhttps://t.co/IPrf5pZkdm\n\nhttps://t.co/7J2wRkNvhh #16 2/8\n🟨🟩"
+	},
+	{
 		"created_at": "Sat Nov 12 22:44:52 +0000 2022",
 		"id": 1591562701796708400,
 		"id_str": "1591562701796708352",
