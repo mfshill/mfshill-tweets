@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 15 16:29:48 +0000 2022",
+		"id": 1592437261177847800,
+		"id_str": "1592555475580571649",
+		"full_text": "I will be genuinely sad if we lose this website: https://t.co/vyOrV4rnHt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1592437148615164000,
+					"id_str": "1592437148615163904",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/Fhl5JkpXwAAfpW2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fhl5JkpXwAAfpW2.jpg",
+					"url": "https://t.co/vyOrV4rnHt",
+					"display_url": "pic.twitter.com/vyOrV4rnHt",
+					"expanded_url": "https://twitter.com/HaroldHeathDJ/status/1592437261177847808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 601,
+							"h": 715,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 572,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 601,
+							"h": 715,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1592437148615164000,
+					"id_str": "1592437148615163904",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/Fhl5JkpXwAAfpW2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fhl5JkpXwAAfpW2.jpg",
+					"url": "https://t.co/vyOrV4rnHt",
+					"display_url": "pic.twitter.com/vyOrV4rnHt",
+					"expanded_url": "https://twitter.com/HaroldHeathDJ/status/1592437261177847808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 601,
+							"h": 715,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 572,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 601,
+							"h": 715,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 714925406,
+			"id_str": "714925406",
+			"name": "Harold Heath",
+			"screen_name": "HaroldHeathDJ",
+			"location": "",
+			"description": "Writes words about music. My first book, ‘Long Relationships: My Incredible Journey From Unknown DJ to Smalltime DJ’ is out now: https://t.co/JAdLXqlXKV 🙂",
+			"url": "https://t.co/aORRbamr6d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aORRbamr6d",
+							"expanded_url": "https://haroldheath.contently.com",
+							"display_url": "haroldheath.contently.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JAdLXqlXKV",
+							"expanded_url": "https://bit.ly/3oJgdZJ",
+							"display_url": "bit.ly/3oJgdZJ",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8824,
+			"friends_count": 6168,
+			"listed_count": 53,
+			"created_at": "Tue Jul 24 21:04:10 +0000 2012",
+			"favourites_count": 18361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324445677473173506/9hn7x0Uy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324445677473173506/9hn7x0Uy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/714925406/1605372547",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 485,
+		"favorite_count": 4994,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I will be genuinely sad if we lose this website: https://t.co/vyOrV4rnHt"
+	},
+	{
 		"created_at": "Mon Nov 14 18:21:00 +0000 2022",
 		"id": 1592221072023179300,
 		"id_str": "1592221072023179264",
