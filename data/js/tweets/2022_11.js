@@ -1,6 +1,706 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sat Nov 26 18:39:02 +0000 2022",
+		"id": 1596574266392469500,
+		"id_str": "1596574266392469505",
+		"full_text": "https://t.co/Ie4a0rx6jD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1596574257722663000,
+					"id_str": "1596574257722662917",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Figr1BEXoAU4aOC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Figr1BEXoAU4aOC.jpg",
+					"url": "https://t.co/Ie4a0rx6jD",
+					"display_url": "pic.twitter.com/Ie4a0rx6jD",
+					"expanded_url": "https://twitter.com/mfshill/status/1596574266392469505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 839,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 839,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1596574257722663000,
+					"id_str": "1596574257722662917",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Figr1BEXoAU4aOC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Figr1BEXoAU4aOC.jpg",
+					"url": "https://t.co/Ie4a0rx6jD",
+					"display_url": "pic.twitter.com/Ie4a0rx6jD",
+					"expanded_url": "https://twitter.com/mfshill/status/1596574266392469505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 839,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 839,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 267,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/Ie4a0rx6jD"
+	},
+	{
+		"created_at": "Sat Nov 26 18:14:22 +0000 2022",
+		"id": 1596568056087842800,
+		"id_str": "1596568056087842816",
+		"full_text": "Daily #286\n1️⃣4️⃣⬛0️⃣7️⃣\n1️⃣3️⃣⬛1️⃣2️⃣\n0️⃣2️⃣⬛0️⃣3️⃣\n0️⃣4️⃣⬛1️⃣5️⃣\n0️⃣8️⃣⬛1️⃣6️⃣\n1️⃣7️⃣⬛1️⃣8️⃣\n0️⃣5️⃣⬛0️⃣9️⃣\n1️⃣0️⃣⬛0️⃣6️⃣\nhttps://t.co/pR5Un5uCQk\n#sedecordle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sedecordle",
+					"indices": [
+						147,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pR5Un5uCQk",
+					"expanded_url": "http://sedecordle.com",
+					"display_url": "sedecordle.com",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 267,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Daily #286\n1️⃣4️⃣⬛0️⃣7️⃣\n1️⃣3️⃣⬛1️⃣2️⃣\n0️⃣2️⃣⬛0️⃣3️⃣\n0️⃣4️⃣⬛1️⃣5️⃣\n0️⃣8️⃣⬛1️⃣6️⃣\n1️⃣7️⃣⬛1️⃣8️⃣\n0️⃣5️⃣⬛0️⃣9️⃣\n1️⃣0️⃣⬛0️⃣6️⃣\nhttps://t.co/pR5Un5uCQk\n#sedecordle"
+	},
+	{
+		"created_at": "Sat Nov 26 16:39:25 +0000 2022",
+		"id": 1596542978327302100,
+		"id_str": "1596544163990102016",
+		"full_text": "….and just so the ladies don’t feel left out……have a fumble as well…..!!😜 #BreastCancerAwarenessMonth #CancerAwareness #womenshealth #breastcancer #womenover50 https://t.co/VnHhtvoi26",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BreastCancerAwarenessMonth",
+					"indices": [
+						74,
+						101
+					]
+				},
+				{
+					"text": "CancerAwareness",
+					"indices": [
+						102,
+						118
+					]
+				},
+				{
+					"text": "womenshealth",
+					"indices": [
+						119,
+						132
+					]
+				},
+				{
+					"text": "breastcancer",
+					"indices": [
+						133,
+						146
+					]
+				},
+				{
+					"text": "womenover50",
+					"indices": [
+						147,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1596542974720106500,
+					"id_str": "1596542974720106498",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FigPYGzWYAI_xJ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FigPYGzWYAI_xJ1.jpg",
+					"url": "https://t.co/VnHhtvoi26",
+					"display_url": "pic.twitter.com/VnHhtvoi26",
+					"expanded_url": "https://twitter.com/Spaceprojects/status/1596542978327302147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 928,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1661,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1596542974720106500,
+					"id_str": "1596542974720106498",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FigPYGzWYAI_xJ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FigPYGzWYAI_xJ1.jpg",
+					"url": "https://t.co/VnHhtvoi26",
+					"display_url": "pic.twitter.com/VnHhtvoi26",
+					"expanded_url": "https://twitter.com/Spaceprojects/status/1596542978327302147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 928,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1661,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16144559,
+			"id_str": "16144559",
+			"name": "Space Projects Ltd ",
+			"screen_name": "Spaceprojects",
+			"location": "London",
+			"description": "Interior & Architectural companies social portal. Run by the mischievous twins. Approach with caution ! ⚠",
+			"url": "https://t.co/a1Gc7IDWoj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a1Gc7IDWoj",
+							"expanded_url": "http://www.spaceprojects.co.uk",
+							"display_url": "spaceprojects.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1351,
+			"friends_count": 584,
+			"listed_count": 81,
+			"created_at": "Fri Sep 05 14:56:16 +0000 2008",
+			"favourites_count": 1030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 130234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0D0C0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1513966181/Blue_Twitter_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1513966181/Blue_Twitter_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16144559/1348490699",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FAEE0A",
+			"profile_sidebar_fill_color": "080808",
+			"profile_text_color": "E1E3D6",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "….and just so the ladies don’t feel left out……have a fumble as well…..!!😜 #BreastCancerAwarenessMonth #CancerAwareness #womenshealth #breastcancer #womenover50 https://t.co/VnHhtvoi26"
+	},
+	{
+		"created_at": "Sat Nov 26 16:39:20 +0000 2022",
+		"id": 1596542348296867800,
+		"id_str": "1596544143148580864",
+		"full_text": "……it’s fumble Saturday……but not whilst out shopping…!!!..😜#checkyourballs #CancerAwareness #MentalHealthMatters  #men #cancerresearch #Cancers #menhealth https://t.co/hVIEy4cRQO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "checkyourballs",
+					"indices": [
+						58,
+						73
+					]
+				},
+				{
+					"text": "CancerAwareness",
+					"indices": [
+						74,
+						90
+					]
+				},
+				{
+					"text": "MentalHealthMatters",
+					"indices": [
+						91,
+						111
+					]
+				},
+				{
+					"text": "men",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "cancerresearch",
+					"indices": [
+						118,
+						133
+					]
+				},
+				{
+					"text": "Cancers",
+					"indices": [
+						134,
+						142
+					]
+				},
+				{
+					"text": "menhealth",
+					"indices": [
+						143,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1596542343267721200,
+					"id_str": "1596542343267721218",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FigOzWdXoAIRjdH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FigOzWdXoAIRjdH.jpg",
+					"url": "https://t.co/hVIEy4cRQO",
+					"display_url": "pic.twitter.com/hVIEy4cRQO",
+					"expanded_url": "https://twitter.com/Spaceprojects/status/1596542348296867842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1646,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 936,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1596542343267721200,
+					"id_str": "1596542343267721218",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FigOzWdXoAIRjdH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FigOzWdXoAIRjdH.jpg",
+					"url": "https://t.co/hVIEy4cRQO",
+					"display_url": "pic.twitter.com/hVIEy4cRQO",
+					"expanded_url": "https://twitter.com/Spaceprojects/status/1596542348296867842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1646,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 936,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16144559,
+			"id_str": "16144559",
+			"name": "Space Projects Ltd ",
+			"screen_name": "Spaceprojects",
+			"location": "London",
+			"description": "Interior & Architectural companies social portal. Run by the mischievous twins. Approach with caution ! ⚠",
+			"url": "https://t.co/a1Gc7IDWoj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a1Gc7IDWoj",
+							"expanded_url": "http://www.spaceprojects.co.uk",
+							"display_url": "spaceprojects.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1351,
+			"friends_count": 584,
+			"listed_count": 81,
+			"created_at": "Fri Sep 05 14:56:16 +0000 2008",
+			"favourites_count": 1030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 130234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0D0C0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1513966181/Blue_Twitter_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1513966181/Blue_Twitter_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16144559/1348490699",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FAEE0A",
+			"profile_sidebar_fill_color": "080808",
+			"profile_text_color": "E1E3D6",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "……it’s fumble Saturday……but not whilst out shopping…!!!..😜#checkyourballs #CancerAwareness #MentalHealthMatters  #men #cancerresearch #Cancers #menhealth https://t.co/hVIEy4cRQO"
+	},
+	{
 		"created_at": "Fri Nov 25 20:52:37 +0000 2022",
 		"id": 1596245496556933000,
 		"id_str": "1596245496556933121",
