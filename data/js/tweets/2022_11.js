@@ -1,6 +1,1064 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 27 21:30:53 +0000 2022",
+		"id": 1596979900262457300,
+		"id_str": "1596979900262457346",
+		"full_text": "@jobywicks @visionsofjoanne https://t.co/DLbcYp0Cxu",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jobywicks",
+					"name": "100 paires de baskets",
+					"id": 2173650154,
+					"id_str": "2173650154",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "visionsofjoanne",
+					"name": "Jojo 🫠",
+					"id": 477186774,
+					"id_str": "477186774",
+					"indices": [
+						11,
+						27
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1596979893174243300,
+					"id_str": "1596979893174243328",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FimcwG4XkAAc2XG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FimcwG4XkAAc2XG.jpg",
+					"url": "https://t.co/DLbcYp0Cxu",
+					"display_url": "pic.twitter.com/DLbcYp0Cxu",
+					"expanded_url": "https://twitter.com/mfshill/status/1596979900262457346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1596979893174243300,
+					"id_str": "1596979893174243328",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FimcwG4XkAAc2XG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FimcwG4XkAAc2XG.jpg",
+					"url": "https://t.co/DLbcYp0Cxu",
+					"display_url": "pic.twitter.com/DLbcYp0Cxu",
+					"expanded_url": "https://twitter.com/mfshill/status/1596979900262457346/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FimcwG4XkAAc2XG.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1596973075039674400,
+		"in_reply_to_status_id_str": "1596973075039674368",
+		"in_reply_to_user_id": 2173650154,
+		"in_reply_to_user_id_str": "2173650154",
+		"in_reply_to_screen_name": "jobywicks",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 268,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@jobywicks @visionsofjoanne https://t.co/DLbcYp0Cxu"
+	},
+	{
+		"created_at": "Sun Nov 27 21:30:27 +0000 2022",
+		"id": 1596968685612068900,
+		"id_str": "1596979792137826304",
+		"full_text": "Nicolas Cage 😌 https://t.co/dIAwLxb6oB https://t.co/t8K4t6TDU4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dIAwLxb6oB",
+					"expanded_url": "https://twitter.com/uberfacts/status/1596651453958868992",
+					"display_url": "twitter.com/uberfacts/stat…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1596968669434810400,
+					"id_str": "1596968669434810368",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FimSizMXEAAoSqG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FimSizMXEAAoSqG.jpg",
+					"url": "https://t.co/t8K4t6TDU4",
+					"display_url": "pic.twitter.com/t8K4t6TDU4",
+					"expanded_url": "https://twitter.com/visionsofjoanne/status/1596968685612068864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 422,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1596968669434810400,
+					"id_str": "1596968669434810368",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FimSizMXEAAoSqG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FimSizMXEAAoSqG.jpg",
+					"url": "https://t.co/t8K4t6TDU4",
+					"display_url": "pic.twitter.com/t8K4t6TDU4",
+					"expanded_url": "https://twitter.com/visionsofjoanne/status/1596968685612068864/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 422,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 422,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							211
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FimSizMXEAAoSqG.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 477186774,
+			"id_str": "477186774",
+			"name": "Jojo 🫠",
+			"screen_name": "visionsofjoanne",
+			"location": "Over there ",
+			"description": "chips and egg",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3397,
+			"friends_count": 2997,
+			"listed_count": 6,
+			"created_at": "Sat Jan 28 22:55:11 +0000 2012",
+			"favourites_count": 134201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1588490837612175361/hvB_46Z7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1588490837612175361/hvB_46Z7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/477186774/1635707933",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1596651453958869000,
+		"quoted_status_id_str": "1596651453958868992",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dIAwLxb6oB",
+			"expanded": "https://twitter.com/uberfacts/status/1596651453958868992",
+			"display": "twitter.com/uberfacts/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 26 23:45:45 +0000 2022",
+			"id": 1596651453958869000,
+			"id_str": "1596651453958868992",
+			"full_text": "Name an actor who plays the same character in every movie:",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95023423,
+				"id_str": "95023423",
+				"name": "UberFacts",
+				"screen_name": "UberFacts",
+				"location": "🌎",
+				"description": "The most unimportant things you’ll never need to know 💥",
+				"url": "https://t.co/uVFxvFK7XX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uVFxvFK7XX",
+								"expanded_url": "https://www.instagram.com/uberfacts/",
+								"display_url": "instagram.com/uberfacts/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13657504,
+				"friends_count": 1,
+				"listed_count": 15523,
+				"created_at": "Sun Dec 06 16:07:01 +0000 2009",
+				"favourites_count": 1255,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 231102,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1340165521992372226/zJ0Zo4rD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340165521992372226/zJ0Zo4rD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95023423/1603647267",
+				"profile_link_color": "0D9BA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 232,
+			"favorite_count": 4301,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "Nicolas Cage 😌 https://t.co/dIAwLxb6oB https://t.co/t8K4t6TDU4"
+	},
+	{
+		"created_at": "Sun Nov 27 19:11:47 +0000 2022",
+		"id": 1596944895461458000,
+		"id_str": "1596944895461457920",
+		"full_text": "Great 3hr mix via @domwhiting. Would be great if you could chapters in for the tracks mate...😉\n\n*RAVE SHUTS DOWN 7 LANES OF TRAFFIC* Drum &amp; Bass On The Bike - BARCELONA https://t.co/YA7c7Llskq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "domwhiting",
+					"name": "Domonic",
+					"id": 286631982,
+					"id_str": "286631982",
+					"indices": [
+						18,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YA7c7Llskq",
+					"expanded_url": "https://youtu.be/LPQnxmSyuCE",
+					"display_url": "youtu.be/LPQnxmSyuCE",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 268,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great 3hr mix via @domwhiting. Would be great if you could chapters in for the tracks mate...😉\n\n*RAVE SHUTS DOWN 7 LANES OF TRAFFIC* Drum &amp; Bass On The Bike - BARCELONA https://t.co/YA7c7Llskq"
+	},
+	{
+		"created_at": "Sun Nov 27 16:43:10 +0000 2022",
+		"id": 1596900002970087400,
+		"id_str": "1596907494827520003",
+		"full_text": "Prescient. And terrifying. https://t.co/EdSHyloGAk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1596899993180426200,
+					"id_str": "1596899993180426242",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/FilUFUNX0AIpuZ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FilUFUNX0AIpuZ_.jpg",
+					"url": "https://t.co/EdSHyloGAk",
+					"display_url": "pic.twitter.com/EdSHyloGAk",
+					"expanded_url": "https://twitter.com/riverthistle/status/1596900002970087426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1596899993180426200,
+					"id_str": "1596899993180426242",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/FilUFUNX0AIpuZ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FilUFUNX0AIpuZ_.jpg",
+					"url": "https://t.co/EdSHyloGAk",
+					"display_url": "pic.twitter.com/EdSHyloGAk",
+					"expanded_url": "https://twitter.com/riverthistle/status/1596900002970087426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1596899993306161200,
+					"id_str": "1596899993306161161",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/FilUFUrWYAk12VJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FilUFUrWYAk12VJ.jpg",
+					"url": "https://t.co/EdSHyloGAk",
+					"display_url": "pic.twitter.com/EdSHyloGAk",
+					"expanded_url": "https://twitter.com/riverthistle/status/1596900002970087426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1596899993201303600,
+					"id_str": "1596899993201303552",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/FilUFUSWYAAOP7H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FilUFUSWYAAOP7H.jpg",
+					"url": "https://t.co/EdSHyloGAk",
+					"display_url": "pic.twitter.com/EdSHyloGAk",
+					"expanded_url": "https://twitter.com/riverthistle/status/1596900002970087426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1596899185454100500,
+		"in_reply_to_status_id_str": "1596899185454100480",
+		"in_reply_to_user_id": 1580164657,
+		"in_reply_to_user_id_str": "1580164657",
+		"in_reply_to_screen_name": "riverthistle",
+		"user": {
+			"id": 1580164657,
+			"id_str": "1580164657",
+			"name": "𝕎𝕚𝕟𝕥𝕖𝕣 𝕎𝕚𝕝𝕝𝕠𝕨",
+			"screen_name": "riverthistle",
+			"location": "",
+			"description": "Counsellor. LGBT+ 🌈 ally. Teacher & Psychologist. #SEND Parent Carer, Artist & wannabe academic. volunteer for NHSE. #posthuman High duck content. She/Her",
+			"url": "https://t.co/e6LzUkKoUU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e6LzUkKoUU",
+							"expanded_url": "https://www.etsy.com/uk/shop/RiverThistleArt",
+							"display_url": "etsy.com/uk/shop/RiverT…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5668,
+			"friends_count": 2308,
+			"listed_count": 70,
+			"created_at": "Tue Jul 09 11:34:13 +0000 2013",
+			"favourites_count": 152993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 241848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1595155800976228354/ASeMvxLB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1595155800976228354/ASeMvxLB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1580164657/1668371777",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Prescient. And terrifying. https://t.co/EdSHyloGAk"
+	},
+	{
+		"created_at": "Sun Nov 27 11:23:35 +0000 2022",
+		"id": 1596827066967548000,
+		"id_str": "1596827066967547909",
+		"full_text": "Just found out that Kisho Kurokawa's Nakagin Capsule Tower in Tokyo has been demolished. So glad i got to see it in person in 2018. Shame they couldn't preserve it. https://t.co/oKBNKr8t6F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oKBNKr8t6F",
+					"expanded_url": "https://www.dezeen.com/2022/04/29/nakagin-capsule-tower-demolition-video-tokyo-japan/",
+					"display_url": "dezeen.com/2022/04/29/nak…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 268,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just found out that Kisho Kurokawa's Nakagin Capsule Tower in Tokyo has been demolished. So glad i got to see it in person in 2018. Shame they couldn't preserve it. https://t.co/oKBNKr8t6F"
+	},
+	{
+		"created_at": "Sun Nov 27 11:04:42 +0000 2022",
+		"id": 1596822318143385600,
+		"id_str": "1596822318143385602",
+		"full_text": "Framed #261\n🎥 🟥 🟩 ⬛ ⬛ ⬛ ⬛\nhttps://t.co/Y0w4iqrIoJ\n\nActorle 256 4/8\n⬛⬛🟨🟩\nhttps://t.co/HeqYI9QBmw\n\n#Flickle #229\n🎬 🟥⬛⬛⬛🟩⬜\nhttps://t.co/IPrf5pZkdm\n\nhttps://t.co/7J2wRkNvhh #30 6/8\n⬛🟨🟨🟨⬛🟩",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flickle",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0w4iqrIoJ",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/HeqYI9QBmw",
+					"expanded_url": "https://actorle.com",
+					"display_url": "actorle.com",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/IPrf5pZkdm",
+					"expanded_url": "https://flickle.app/",
+					"display_url": "flickle.app",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/7J2wRkNvhh",
+					"expanded_url": "http://Moviedle.xyz",
+					"display_url": "Moviedle.xyz",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 268,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Framed #261\n🎥 🟥 🟩 ⬛ ⬛ ⬛ ⬛\nhttps://t.co/Y0w4iqrIoJ\n\nActorle 256 4/8\n⬛⬛🟨🟩\nhttps://t.co/HeqYI9QBmw\n\n#Flickle #229\n🎬 🟥⬛⬛⬛🟩⬜\nhttps://t.co/IPrf5pZkdm\n\nhttps://t.co/7J2wRkNvhh #30 6/8\n⬛🟨🟨🟨⬛🟩"
+	},
+	{
 		"created_at": "Sat Nov 26 18:39:02 +0000 2022",
 		"id": 1596574266392469500,
 		"id_str": "1596574266392469505",
