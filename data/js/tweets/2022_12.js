@@ -1,6 +1,822 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 04 22:51:19 +0000 2022",
+		"id": 1599536856361623600,
+		"id_str": "1599536856361623552",
+		"full_text": "@TIDAL finding drum and bass on the platform is like finding Wally/Waldo unless you know a specific track/artist. this really needs it's own genre.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2679055230,
+		"in_reply_to_user_id_str": "2679055230",
+		"in_reply_to_screen_name": "TIDAL",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 269,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TIDAL finding drum and bass on the platform is like finding Wally/Waldo unless you know a specific track/artist. this really needs it's own genre."
+	},
+	{
+		"created_at": "Sun Dec 04 22:48:27 +0000 2022",
+		"id": 1599176581351903200,
+		"id_str": "1599536137134972929",
+		"full_text": "@KyleKulinski Next musical project: https://t.co/7oKoDme2Io",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KyleKulinski",
+					"name": "Secular Talk🎙",
+					"id": 143104075,
+					"id_str": "143104075",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1599176533255815200,
+					"id_str": "1599176533255815169",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FjFqlY3agAEyZKv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjFqlY3agAEyZKv.jpg",
+					"url": "https://t.co/7oKoDme2Io",
+					"display_url": "pic.twitter.com/7oKoDme2Io",
+					"expanded_url": "https://twitter.com/thefelixremix/status/1599176581351903233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1686,
+							"h": 1819,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1112,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 630,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1599176533255815200,
+					"id_str": "1599176533255815169",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FjFqlY3agAEyZKv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjFqlY3agAEyZKv.jpg",
+					"url": "https://t.co/7oKoDme2Io",
+					"display_url": "pic.twitter.com/7oKoDme2Io",
+					"expanded_url": "https://twitter.com/thefelixremix/status/1599176581351903233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1686,
+							"h": 1819,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1112,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 630,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1599171635701256200,
+		"in_reply_to_status_id_str": "1599171635701256192",
+		"in_reply_to_user_id": 143104075,
+		"in_reply_to_user_id_str": "143104075",
+		"in_reply_to_screen_name": "KyleKulinski",
+		"user": {
+			"id": 1476788104530837500,
+			"id_str": "1476788104530837504",
+			"name": "Lucky",
+			"screen_name": "thefelixremix",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 1208,
+			"listed_count": 4,
+			"created_at": "Fri Dec 31 05:31:50 +0000 2021",
+			"favourites_count": 7645,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1591552796725501952/C3dQz6PF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1591552796725501952/C3dQz6PF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476788104530837504/1668290809",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@KyleKulinski Next musical project: https://t.co/7oKoDme2Io"
+	},
+	{
+		"created_at": "Sun Dec 04 21:24:34 +0000 2022",
+		"id": 1599515028478079000,
+		"id_str": "1599515028478078976",
+		"full_text": "this isn't a hot take, it was obvious from day one! https://t.co/3nltGhE4rs https://t.co/CJhI3pCMDI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3nltGhE4rs",
+					"expanded_url": "https://twitter.com/MKBHD/status/1599458500622618628",
+					"display_url": "twitter.com/MKBHD/status/1…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1599514975680319500,
+					"id_str": "1599514975680319490",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FjKeZVJX0AIwRLp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjKeZVJX0AIwRLp.jpg",
+					"url": "https://t.co/CJhI3pCMDI",
+					"display_url": "pic.twitter.com/CJhI3pCMDI",
+					"expanded_url": "https://twitter.com/mfshill/status/1599515028478078976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1508,
+							"h": 754,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1599514975680319500,
+					"id_str": "1599514975680319490",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FjKeZVJX0AIwRLp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjKeZVJX0AIwRLp.jpg",
+					"url": "https://t.co/CJhI3pCMDI",
+					"display_url": "pic.twitter.com/CJhI3pCMDI",
+					"expanded_url": "https://twitter.com/mfshill/status/1599515028478078976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1508,
+							"h": 754,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 269,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1599458500622618600,
+		"quoted_status_id_str": "1599458500622618628",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3nltGhE4rs",
+			"expanded": "https://twitter.com/MKBHD/status/1599458500622618628",
+			"display": "twitter.com/MKBHD/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 04 17:39:57 +0000 2022",
+			"id": 1599458500622618600,
+			"id_str": "1599458500622618628",
+			"full_text": "NEW VIDEO - My Tech Hot Takes!\n\nhttps://t.co/d3AY6RKIr1 https://t.co/mmrd6woG28",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				55
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/d3AY6RKIr1",
+						"expanded_url": "https://youtu.be/u2mUpkApObk",
+						"display_url": "youtu.be/u2mUpkApObk",
+						"indices": [
+							32,
+							55
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1599458496193462300,
+						"id_str": "1599458496193462274",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/FjJrByqXgAIW0f9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FjJrByqXgAIW0f9.jpg",
+						"url": "https://t.co/mmrd6woG28",
+						"display_url": "pic.twitter.com/mmrd6woG28",
+						"expanded_url": "https://twitter.com/MKBHD/status/1599458500622618628/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1012,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1599458496193462300,
+						"id_str": "1599458496193462274",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/FjJrByqXgAIW0f9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FjJrByqXgAIW0f9.jpg",
+						"url": "https://t.co/mmrd6woG28",
+						"display_url": "pic.twitter.com/mmrd6woG28",
+						"expanded_url": "https://twitter.com/MKBHD/status/1599458500622618628/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1012,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29873662,
+				"id_str": "29873662",
+				"name": "Marques Brownlee",
+				"screen_name": "MKBHD",
+				"location": "NYC",
+				"description": "Web Video Producer | ⋈ | Pro Ultimate Frisbee Player | Host of @WVFRM @TheStudio",
+				"url": "https://t.co/ZktXu6nIYz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZktXu6nIYz",
+								"expanded_url": "http://MKBHD.com",
+								"display_url": "MKBHD.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6012116,
+				"friends_count": 431,
+				"listed_count": 13922,
+				"created_at": "Thu Apr 09 00:50:00 +0000 2009",
+				"favourites_count": 28530,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 53551,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1468001914302390278/B_Xv_8gu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468001914302390278/B_Xv_8gu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29873662/1642786557",
+				"profile_link_color": "6C4585",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 146,
+			"favorite_count": 4077,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this isn't a hot take, it was obvious from day one! https://t.co/3nltGhE4rs https://t.co/CJhI3pCMDI"
+	},
+	{
+		"created_at": "Sun Dec 04 20:32:26 +0000 2022",
+		"id": 1599501906204061700,
+		"id_str": "1599501906204061696",
+		"full_text": "@JohnnyFocal https://t.co/QnoU50TjgK",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JohnnyFocal",
+					"name": "Jon Thompson",
+					"id": 20022608,
+					"id_str": "20022608",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1599501899056746500,
+					"id_str": "1599501899056746501",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FjKSgK7XEAURVQq.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FjKSgK7XEAURVQq.jpg",
+					"url": "https://t.co/QnoU50TjgK",
+					"display_url": "pic.twitter.com/QnoU50TjgK",
+					"expanded_url": "https://twitter.com/mfshill/status/1599501906204061696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 410,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 410,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1599501899056746500,
+					"id_str": "1599501899056746501",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FjKSgK7XEAURVQq.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FjKSgK7XEAURVQq.jpg",
+					"url": "https://t.co/QnoU50TjgK",
+					"display_url": "pic.twitter.com/QnoU50TjgK",
+					"expanded_url": "https://twitter.com/mfshill/status/1599501906204061696/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 410,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 410,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							205
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FjKSgK7XEAURVQq.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1599501411032903700,
+		"in_reply_to_status_id_str": "1599501411032903680",
+		"in_reply_to_user_id": 20022608,
+		"in_reply_to_user_id_str": "20022608",
+		"in_reply_to_screen_name": "JohnnyFocal",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 269,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@JohnnyFocal https://t.co/QnoU50TjgK"
+	},
+	{
 		"created_at": "Sat Dec 03 19:37:08 +0000 2022",
 		"id": 1599125603634249700,
 		"id_str": "1599125603634249729",
