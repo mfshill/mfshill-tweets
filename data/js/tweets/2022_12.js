@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 15 16:00:52 +0000 2022",
+		"id": 1603419832866771000,
+		"id_str": "1603419832866770945",
+		"full_text": "Great read - Rethinking the origins of life.\n\n“I’m coming to believe that the whole of biochemistry up to nucleotide synthesis just happens spontaneously . . . It’s just built into the chemistry of CO2”\n\nhttps://t.co/rrcOGPrAyE via @NewHumanist",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewHumanist",
+					"name": "New Humanist",
+					"id": 19530437,
+					"id_str": "19530437",
+					"indices": [
+						232,
+						244
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rrcOGPrAyE",
+					"expanded_url": "https://newhumanist.org.uk/6051/rethinking-the-origins-of-life",
+					"display_url": "newhumanist.org.uk/6051/rethinkin…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 270,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great read - Rethinking the origins of life.\n\n“I’m coming to believe that the whole of biochemistry up to nucleotide synthesis just happens spontaneously . . . It’s just built into the chemistry of CO2”\n\nhttps://t.co/rrcOGPrAyE via @NewHumanist"
+	},
+	{
+		"created_at": "Thu Dec 15 15:31:12 +0000 2022",
+		"id": 1603360472815771600,
+		"id_str": "1603412363843182598",
+		"full_text": "\"The Gospel of the Flying Spaghetti Monster\" parodies the attempts of evangelical Christians to co-opt science https://t.co/vv4jESU38Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vv4jESU38Q",
+					"expanded_url": "https://newhumanist.org.uk/articles/6031/flying-spaghetti-monsters",
+					"display_url": "newhumanist.org.uk/articles/6031/…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19530437,
+			"id_str": "19530437",
+			"name": "New Humanist",
+			"screen_name": "NewHumanist",
+			"location": "London",
+			"description": "We're a quarterly journal of ideas, science and culture published by the Rationalist Association since 1885. Subscribe: https://t.co/G4DT0wucNR",
+			"url": "https://t.co/MUyItymQSd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MUyItymQSd",
+							"expanded_url": "http://newhumanist.org.uk",
+							"display_url": "newhumanist.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/G4DT0wucNR",
+							"expanded_url": "http://newhumanist.org.uk/supportus",
+							"display_url": "newhumanist.org.uk/supportus",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 32064,
+			"friends_count": 1018,
+			"listed_count": 1031,
+			"created_at": "Mon Jan 26 11:56:25 +0000 2009",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471098135640518659/ym-4WvZ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471098135640518659/ym-4WvZ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19530437/1668675641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The Gospel of the Flying Spaghetti Monster\" parodies the attempts of evangelical Christians to co-opt science https://t.co/vv4jESU38Q"
+	},
+	{
 		"created_at": "Wed Dec 14 18:45:52 +0000 2022",
 		"id": 1603098966887129000,
 		"id_str": "1603098966887129089",
