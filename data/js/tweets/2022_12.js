@@ -1,6 +1,692 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 19 21:46:06 +0000 2022",
+		"id": 1604956264215126000,
+		"id_str": "1604956264215126016",
+		"full_text": "Framed #283\n🎥 🟥 🟥 🟥 🟥 🟥 🟩\nhttps://t.co/Y0w4iq9zaB\n\nActorle 278 2/8\n⬛🟩\nhttps://t.co/HeqYIa7Eow\n\n#Flickle #251\n🎄⬛⬛⬛⬛🟩⬜\nhttps://t.co/IPrf5qgnfm\n\nhttps://t.co/7J2wRl4yjh #52 5/8\n⬛⬛⬛⬛🟩\n\n#Watchle #2022-12-19\n  🍿 💀💀✅\n  https://t.co/GzhZOxoDpA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flickle",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "Watchle",
+					"indices": [
+						181,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0w4iq9zaB",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/HeqYIa7Eow",
+					"expanded_url": "https://actorle.com",
+					"display_url": "actorle.com",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/IPrf5qgnfm",
+					"expanded_url": "https://flickle.app/",
+					"display_url": "flickle.app",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/7J2wRl4yjh",
+					"expanded_url": "http://Moviedle.xyz",
+					"display_url": "Moviedle.xyz",
+					"indices": [
+						142,
+						165
+					]
+				},
+				{
+					"url": "https://t.co/GzhZOxoDpA",
+					"expanded_url": "https://www.watchle.co",
+					"display_url": "watchle.co",
+					"indices": [
+						212,
+						235
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 271,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1445,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Framed #283\n🎥 🟥 🟥 🟥 🟥 🟥 🟩\nhttps://t.co/Y0w4iq9zaB\n\nActorle 278 2/8\n⬛🟩\nhttps://t.co/HeqYIa7Eow\n\n#Flickle #251\n🎄⬛⬛⬛⬛🟩⬜\nhttps://t.co/IPrf5qgnfm\n\nhttps://t.co/7J2wRl4yjh #52 5/8\n⬛⬛⬛⬛🟩\n\n#Watchle #2022-12-19\n  🍿 💀💀✅\n  https://t.co/GzhZOxoDpA"
+	},
+	{
+		"created_at": "Mon Dec 19 18:27:59 +0000 2022",
+		"id": 1604906404443291600,
+		"id_str": "1604906404443291650",
+		"full_text": "A New Discipline Pushes Back Against Sowing Doubt https://t.co/3IeKV2txbK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3IeKV2txbK",
+					"expanded_url": "https://www.wired.co.uk/article/doubt-misinformation-agnotology",
+					"display_url": "wired.co.uk/article/doubt-…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 271,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1445,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A New Discipline Pushes Back Against Sowing Doubt https://t.co/3IeKV2txbK"
+	},
+	{
+		"created_at": "Mon Dec 19 18:13:57 +0000 2022",
+		"id": 1603770989191520300,
+		"id_str": "1604902876094029825",
+		"full_text": "They say imitation is the sincerest form of flattery! \n\nEven Barbie is a Kubrick fan… https://t.co/BHUKx9c4Si",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BHUKx9c4Si",
+					"expanded_url": "https://twitter.com/warnerbrosuk/status/1603751926503714816",
+					"display_url": "twitter.com/warnerbrosuk/s…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 745210475495960600,
+			"id_str": "745210475495960576",
+			"name": "Stanley Kubrick",
+			"screen_name": "StanleyKubrick",
+			"location": "",
+			"description": "The official Twitter for Stanley Kubrick. The Stanley Kubrick exhibition is in Istanbul October-March 2023 https://t.co/PLBo5Uj2HX",
+			"url": "https://t.co/wzmgYe5mn6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wzmgYe5mn6",
+							"expanded_url": "http://facebook.com/StanleyKubrick",
+							"display_url": "facebook.com/StanleyKubrick",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PLBo5Uj2HX",
+							"expanded_url": "https://www.mobilet.com/search?q=stanley+kubrick",
+							"display_url": "mobilet.com/search?q=stanl…",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 81399,
+			"friends_count": 78,
+			"listed_count": 509,
+			"created_at": "Tue Jun 21 11:03:17 +0000 2016",
+			"favourites_count": 570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/746365944587485184/i3FTEIlf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/746365944587485184/i3FTEIlf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/745210475495960576/1573250100",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1603751926503714800,
+		"quoted_status_id_str": "1603751926503714816",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BHUKx9c4Si",
+			"expanded": "https://twitter.com/warnerbrosuk/status/1603751926503714816",
+			"display": "twitter.com/warnerbrosuk/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 16 14:00:30 +0000 2022",
+			"id": 1603751926503714800,
+			"id_str": "1603751926503714816",
+			"full_text": "#BarbieTheMovie, from director Greta Gerwig, only in cinemas Summer 2023✨ https://t.co/SGM0pqf5Cs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				73
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BarbieTheMovie",
+						"indices": [
+							0,
+							15
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1603751804986364000,
+						"id_str": "1603751804986363904",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/FkGr36faEAAXAJ-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FkGr36faEAAXAJ-.jpg",
+						"url": "https://t.co/SGM0pqf5Cs",
+						"display_url": "pic.twitter.com/SGM0pqf5Cs",
+						"expanded_url": "https://twitter.com/WarnerBrosUK/status/1603751926503714816/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 572,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 324,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 976,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1603751804986364000,
+						"id_str": "1603751804986363904",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/FkGr36faEAAXAJ-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FkGr36faEAAXAJ-.jpg",
+						"url": "https://t.co/SGM0pqf5Cs",
+						"display_url": "pic.twitter.com/SGM0pqf5Cs",
+						"expanded_url": "https://twitter.com/WarnerBrosUK/status/1603751926503714816/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 572,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 324,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 976,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 76701,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1603751804986363904/vid/320x320/bM2V6clE1fSCY15A.mp4?tag=16"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1603751804986363904/vid/720x720/Zt0uGC9o_DOyR5tU.mp4?tag=16"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1603751804986363904/pl/baZzzps7FQGqnOf_.m3u8?tag=16&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1603751804986363904/vid/540x540/v8l3k8_blwhZtWof.mp4?tag=16"
+								},
+								{
+									"bitrate": 8768000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1603751804986363904/vid/1080x1080/hOGz_9JY9Nsa7Q2-.mp4?tag=16"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://bydeluxe.com\" rel=\"nofollow\">D2D Platform</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1709547272,
+				"id_str": "1709547272",
+				"name": "WarnerBrosUK",
+				"screen_name": "WarnerBrosUK",
+				"location": "London, England",
+				"description": "#BonesAndAll starring Timothée Chalamet & Taylor Russell, in cinemas now!\n\n#BlackAdam starring Dwayne Johnson is in cinemas now!",
+				"url": "https://t.co/fv6ra6VceD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fv6ra6VceD",
+								"expanded_url": "http://www.warnerbros.co.uk",
+								"display_url": "warnerbros.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 175593,
+				"friends_count": 619,
+				"listed_count": 388,
+				"created_at": "Thu Aug 29 08:52:32 +0000 2013",
+				"favourites_count": 4191,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18202,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1603064257058316289/Jc3cuW_N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1603064257058316289/Jc3cuW_N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1709547272/1671035278",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2596,
+			"favorite_count": 20257,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5454,
+		"favorite_count": 69847,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "They say imitation is the sincerest form of flattery! \n\nEven Barbie is a Kubrick fan… https://t.co/BHUKx9c4Si"
+	},
+	{
+		"created_at": "Mon Dec 19 17:11:31 +0000 2022",
+		"id": 1604887162926862300,
+		"id_str": "1604887162926862343",
+		"full_text": "New Humanist: Keeping the faith? https://t.co/Wnd7cbw3UR via @NewHumanist",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewHumanist",
+					"name": "New Humanist",
+					"id": 19530437,
+					"id_str": "19530437",
+					"indices": [
+						61,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Wnd7cbw3UR",
+					"expanded_url": "https://newhumanist.org.uk/6047/keeping-the-faith",
+					"display_url": "newhumanist.org.uk/6047/keeping-t…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 271,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1445,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New Humanist: Keeping the faith? https://t.co/Wnd7cbw3UR via @NewHumanist"
+	},
+	{
 		"created_at": "Sun Dec 18 23:39:27 +0000 2022",
 		"id": 1604622401957990400,
 		"id_str": "1604622401957990400",
