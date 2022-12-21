@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 20 21:53:30 +0000 2022",
+		"id": 1605320514712797200,
+		"id_str": "1605320514712797184",
+		"full_text": "☹️ https://t.co/QXKUcNTtZG https://t.co/Hu2Lw3J5Ov",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QXKUcNTtZG",
+					"expanded_url": "https://twitter.com/NASAInSight/status/1604955574659035136",
+					"display_url": "twitter.com/NASAInSight/st…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1605320435083755500,
+					"id_str": "1605320435083755531",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fkc-bivXwAshwCs.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fkc-bivXwAshwCs.jpg",
+					"url": "https://t.co/Hu2Lw3J5Ov",
+					"display_url": "pic.twitter.com/Hu2Lw3J5Ov",
+					"expanded_url": "https://twitter.com/mfshill/status/1605320514712797184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1605320435083755500,
+					"id_str": "1605320435083755531",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fkc-bivXwAshwCs.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fkc-bivXwAshwCs.jpg",
+					"url": "https://t.co/Hu2Lw3J5Ov",
+					"display_url": "pic.twitter.com/Hu2Lw3J5Ov",
+					"expanded_url": "https://twitter.com/mfshill/status/1605320514712797184/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							600,
+							337
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Fkc-bivXwAshwCs.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 271,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1446,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1604955574659035100,
+		"quoted_status_id_str": "1604955574659035136",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QXKUcNTtZG",
+			"expanded": "https://twitter.com/NASAInSight/status/1604955574659035136",
+			"display": "twitter.com/NASAInSight/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 19 21:43:22 +0000 2022",
+			"id": 1604955574659035100,
+			"id_str": "1604955574659035136",
+			"full_text": "My power’s really low, so this may be the last image I can send. Don’t worry about me though: my time here has been both productive and serene. If I can keep talking to my mission team, I will – but I’ll be signing off here soon. Thanks for staying with me. https://t.co/wkYKww15kQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				257
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1604955454693470200,
+						"id_str": "1604955454693470208",
+						"indices": [
+							258,
+							281
+						],
+						"media_url": "http://pbs.twimg.com/media/FkXye41UcAAnbXj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FkXye41UcAAnbXj.jpg",
+						"url": "https://t.co/wkYKww15kQ",
+						"display_url": "pic.twitter.com/wkYKww15kQ",
+						"expanded_url": "https://twitter.com/NASAInSight/status/1604955574659035136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1604955454693470200,
+						"id_str": "1604955454693470208",
+						"indices": [
+							258,
+							281
+						],
+						"media_url": "http://pbs.twimg.com/media/FkXye41UcAAnbXj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FkXye41UcAAnbXj.jpg",
+						"url": "https://t.co/wkYKww15kQ",
+						"display_url": "pic.twitter.com/wkYKww15kQ",
+						"expanded_url": "https://twitter.com/NASAInSight/status/1604955574659035136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 407387443,
+				"id_str": "407387443",
+				"name": "NASA InSight",
+				"screen_name": "NASAInSight",
+				"location": "Elysium Planitia, Mars",
+				"description": "The InSight mission studies the early evolution of terrestrial planets. Launched May 5, 2018. Landed Nov. 26, 2018.",
+				"url": "https://t.co/W8mkWAHcmY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/W8mkWAHcmY",
+								"expanded_url": "http://mars.nasa.gov/insight",
+								"display_url": "mars.nasa.gov/insight",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 796346,
+				"friends_count": 181,
+				"listed_count": 4347,
+				"created_at": "Tue Nov 08 00:56:18 +0000 2011",
+				"favourites_count": 553,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 922,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1062801236166987776/VwIfJa9u_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062801236166987776/VwIfJa9u_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/407387443/1543273293",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66623,
+			"favorite_count": 619230,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "☹️ https://t.co/QXKUcNTtZG https://t.co/Hu2Lw3J5Ov"
+	},
+	{
 		"created_at": "Mon Dec 19 21:46:06 +0000 2022",
 		"id": 1604956264215126000,
 		"id_str": "1604956264215126016",
