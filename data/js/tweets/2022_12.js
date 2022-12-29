@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 28 17:32:13 +0000 2022",
+		"id": 1608153863743316000,
+		"id_str": "1608153863743315970",
+		"full_text": "Framed #292\n🎥 🟥 🟥 🟩 ⬛ ⬛ ⬛\nhttps://t.co/Y0w4iqrazb\n\n#Flickle #260\n🎬🟥🟩⬜⬜⬜⬜\nhttps://t.co/IPrf5pYMnO\n\n#Watchle #2022-12-28\n🍿 💀💀💀✅\nhttps://t.co/GzhZOxGeOa\n\nhttps://t.co/7J2wRkMXrJ #61 3/8\n🟨🟨🟩 \n\nActorle 287 4/8\n⬛🟨🟨🟩\nhttps://t.co/HeqYI9Q3wY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flickle",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"text": "Watchle",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0w4iqrazb",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/IPrf5pYMnO",
+					"expanded_url": "https://flickle.app/",
+					"display_url": "flickle.app",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/GzhZOxGeOa",
+					"expanded_url": "https://www.watchle.co",
+					"display_url": "watchle.co",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/7J2wRkMXrJ",
+					"expanded_url": "http://Moviedle.xyz",
+					"display_url": "Moviedle.xyz",
+					"indices": [
+						151,
+						174
+					]
+				},
+				{
+					"url": "https://t.co/HeqYI9Q3wY",
+					"expanded_url": "https://actorle.com",
+					"display_url": "actorle.com",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 269,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Framed #292\n🎥 🟥 🟥 🟩 ⬛ ⬛ ⬛\nhttps://t.co/Y0w4iqrazb\n\n#Flickle #260\n🎬🟥🟩⬜⬜⬜⬜\nhttps://t.co/IPrf5pYMnO\n\n#Watchle #2022-12-28\n🍿 💀💀💀✅\nhttps://t.co/GzhZOxGeOa\n\nhttps://t.co/7J2wRkMXrJ #61 3/8\n🟨🟨🟩 \n\nActorle 287 4/8\n⬛🟨🟨🟩\nhttps://t.co/HeqYI9Q3wY"
+	},
+	{
+		"created_at": "Wed Dec 28 12:25:25 +0000 2022",
+		"id": 1608056944501178400,
+		"id_str": "1608076653862723584",
+		"full_text": "yes, please do enlighten me. email me at smalldickenergy@getalife.com https://t.co/V8geeVvEvg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V8geeVvEvg",
+					"expanded_url": "https://twitter.com/Cobratate/status/1607677190254235648",
+					"display_url": "twitter.com/Cobratate/stat…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1006419421244678100,
+			"id_str": "1006419421244678144",
+			"name": "Greta Thunberg",
+			"screen_name": "GretaThunberg",
+			"location": "Sverige",
+			"description": "Autistic climate justice activist\nBorn at 375 ppm",
+			"url": "https://t.co/0HwowCDzNy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0HwowCDzNy",
+							"expanded_url": "http://fridaysforfuture.org",
+							"display_url": "fridaysforfuture.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5085866,
+			"friends_count": 2850,
+			"listed_count": 11898,
+			"created_at": "Tue Jun 12 06:14:23 +0000 2018",
+			"favourites_count": 17945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11661,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1459213153301053442/rL5hhpAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1459213153301053442/rL5hhpAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1006419421244678144/1559499911",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1607677190254235600,
+		"quoted_status_id_str": "1607677190254235648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/V8geeVvEvg",
+			"expanded": "https://twitter.com/Cobratate/status/1607677190254235648",
+			"display": "twitter.com/Cobratate/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 27 09:58:06 +0000 2022",
+			"id": 1607677190254235600,
+			"id_str": "1607677190254235648",
+			"full_text": "Hello @GretaThunberg \n\nI have 33 cars. \n\nMy Bugatti has a w16 8.0L quad turbo. \n\nMy TWO Ferrari 812 competizione have 6.5L v12s.\n\nThis is just the start.\n\nPlease provide your email address so I can send a complete list of my car collection and their respective enormous emissions. https://t.co/ehhOBDQyYU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GretaThunberg",
+						"name": "Greta Thunberg",
+						"id": 1006419421244678100,
+						"id_str": "1006419421244678144",
+						"indices": [
+							6,
+							20
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1607677177205596200,
+						"id_str": "1607677177205596160",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/Fk-d3_TXoAAEy1_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fk-d3_TXoAAEy1_.jpg",
+						"url": "https://t.co/ehhOBDQyYU",
+						"display_url": "pic.twitter.com/ehhOBDQyYU",
+						"expanded_url": "https://twitter.com/Cobratate/status/1607677190254235648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 666,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1170,
+								"h": 1146,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1146,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1607677177205596200,
+						"id_str": "1607677177205596160",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/Fk-d3_TXoAAEy1_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fk-d3_TXoAAEy1_.jpg",
+						"url": "https://t.co/ehhOBDQyYU",
+						"display_url": "pic.twitter.com/ehhOBDQyYU",
+						"expanded_url": "https://twitter.com/Cobratate/status/1607677190254235648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 666,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1170,
+								"h": 1146,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1146,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 333357345,
+				"id_str": "333357345",
+				"name": "Andrew Tate",
+				"screen_name": "Cobratate",
+				"location": "Dubai",
+				"description": "Light-Heavyweight Kickboxing World Champion. Escape the Matrix: https://t.co/xycLeDhfe0",
+				"url": "https://t.co/b2DF1rm9ij",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/b2DF1rm9ij",
+								"expanded_url": "http://www.cobratate.com",
+								"display_url": "cobratate.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xycLeDhfe0",
+								"expanded_url": "http://Cobratate.com",
+								"display_url": "Cobratate.com",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3418151,
+				"friends_count": 123,
+				"listed_count": 1561,
+				"created_at": "Mon Jul 11 12:15:34 +0000 2011",
+				"favourites_count": 12068,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 839,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1593669202702999554/aQ7YTs2C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1593669202702999554/aQ7YTs2C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/333357345/1668795333",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10874,
+			"favorite_count": 161591,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 335028,
+		"favorite_count": 1957360,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "yes, please do enlighten me. email me at smalldickenergy@getalife.com https://t.co/V8geeVvEvg"
+	},
+	{
 		"created_at": "Tue Dec 27 18:33:38 +0000 2022",
 		"id": 1607806930554351600,
 		"id_str": "1607806930554351616",
