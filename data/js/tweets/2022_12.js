@@ -1,6 +1,422 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 29 21:22:03 +0000 2022",
+		"id": 1608574087697424400,
+		"id_str": "1608574087697424384",
+		"full_text": "@TC_Cornesto Christ, he is and always will be a human Beaker! https://t.co/LDV8QlPIiY",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC Cornesto",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1608574068395020300,
+					"id_str": "1608574068395020291",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FlLNl7WXEAMxpEU.png",
+					"media_url_https": "https://pbs.twimg.com/media/FlLNl7WXEAMxpEU.png",
+					"url": "https://t.co/LDV8QlPIiY",
+					"display_url": "pic.twitter.com/LDV8QlPIiY",
+					"expanded_url": "https://twitter.com/mfshill/status/1608574087697424384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 220,
+							"h": 315,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 315,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 315,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1608574068395020300,
+					"id_str": "1608574068395020291",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FlLNl7WXEAMxpEU.png",
+					"media_url_https": "https://pbs.twimg.com/media/FlLNl7WXEAMxpEU.png",
+					"url": "https://t.co/LDV8QlPIiY",
+					"display_url": "pic.twitter.com/LDV8QlPIiY",
+					"expanded_url": "https://twitter.com/mfshill/status/1608574087697424384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 220,
+							"h": 315,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 315,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 315,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1608549149615480800,
+		"in_reply_to_status_id_str": "1608549149615480836",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 269,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@TC_Cornesto Christ, he is and always will be a human Beaker! https://t.co/LDV8QlPIiY"
+	},
+	{
+		"created_at": "Thu Dec 29 18:27:14 +0000 2022",
+		"id": 1608457855438360600,
+		"id_str": "1608530095441907712",
+		"full_text": "Goldie: \"the first wave of Drum and Bass music, was always loved by jazz musicians\" 💬 \n\nMusic icon Goldie gives us a history lesson about 1990s electronic music and beyond 🎶\n\nDeb Grant Meets Goldie, now available on Jazz FM https://t.co/n7EavxX0Lo 🎧 \n\n| @djdebgrant @MRGOLDIE | https://t.co/SMqiGmsAUX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "djdebgrant",
+					"name": "Deb Grant",
+					"id": 401626553,
+					"id_str": "401626553",
+					"indices": [
+						254,
+						265
+					]
+				},
+				{
+					"screen_name": "MRGOLDIE",
+					"name": "GOLDIE",
+					"id": 52339140,
+					"id_str": "52339140",
+					"indices": [
+						266,
+						275
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n7EavxX0Lo",
+					"expanded_url": "https://bit.ly/3PWbGSU",
+					"display_url": "bit.ly/3PWbGSU",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1608457559928717300,
+					"id_str": "1608457559928717312",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FlJj4HOXkAEeXLh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlJj4HOXkAEeXLh.jpg",
+					"url": "https://t.co/SMqiGmsAUX",
+					"display_url": "pic.twitter.com/SMqiGmsAUX",
+					"expanded_url": "https://twitter.com/jazzfm/status/1608457855438360577/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1608457559928717300,
+					"id_str": "1608457559928717312",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FlJj4HOXkAEeXLh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlJj4HOXkAEeXLh.jpg",
+					"url": "https://t.co/SMqiGmsAUX",
+					"display_url": "pic.twitter.com/SMqiGmsAUX",
+					"expanded_url": "https://twitter.com/jazzfm/status/1608457855438360577/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 148600,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1608457559928717312/vid/320x320/KfOaVLaLx4MkKHZq.mp4?tag=16"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1608457559928717312/vid/720x720/V9-fXQ0b8EFYURpb.mp4?tag=16"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1608457559928717312/pl/64FbToNvfwE00-R9.m3u8?tag=16&container=fmp4"
+							},
+							{
+								"bitrate": 8768000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1608457559928717312/vid/1080x1080/vB1tJPajvjLgCrrP.mp4?tag=16"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1608457559928717312/vid/540x540/YHJ3S4v2ljVepJjK.mp4?tag=16"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Deb Grant meets Goldie - The origins of Drum and Bass",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15737703,
+			"id_str": "15737703",
+			"name": "Jazz FM",
+			"screen_name": "jazzfm",
+			"location": "United Kingdom",
+			"description": "The world's greatest jazz, soul, and blues from the world's greatest artists #ListenInColour",
+			"url": "https://t.co/scZxZ8gOO2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/scZxZ8gOO2",
+							"expanded_url": "http://www.jazzfm.com",
+							"display_url": "jazzfm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57855,
+			"friends_count": 3893,
+			"listed_count": 805,
+			"created_at": "Tue Aug 05 15:57:17 +0000 2008",
+			"favourites_count": 23862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A0CF67",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1346051689439227905/6fA-gcRw_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346051689439227905/6fA-gcRw_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15737703/1669919611",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Goldie: \"the first wave of Drum and Bass music, was always loved by jazz musicians\" 💬 \n\nMusic icon Goldie gives us a history lesson about 1990s electronic music and beyond 🎶\n\nDeb Grant Meets Goldie, now available on Jazz FM https://t.co/n7EavxX0Lo 🎧 \n\n| @djdebgrant @MRGOLDIE | https://t.co/SMqiGmsAUX"
+	},
+	{
 		"created_at": "Wed Dec 28 17:32:13 +0000 2022",
 		"id": 1608153863743316000,
 		"id_str": "1608153863743315970",
