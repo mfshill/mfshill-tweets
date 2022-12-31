@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 30 17:14:58 +0000 2022",
+		"id": 1608845337980186600,
+		"id_str": "1608874295870230529",
+		"full_text": "Me Googling the number that just called instead of answering like an adult. https://t.co/qpUsrM6LAH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1608845334431531000,
+					"id_str": "1608845334431531011",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FlPETsFWAAMcphC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlPETsFWAAMcphC.jpg",
+					"url": "https://t.co/qpUsrM6LAH",
+					"display_url": "pic.twitter.com/qpUsrM6LAH",
+					"expanded_url": "https://twitter.com/NoContextBrits/status/1608845337980186625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 589,
+							"h": 466,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 589,
+							"h": 466,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 589,
+							"h": 466,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1608845334431531000,
+					"id_str": "1608845334431531011",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FlPETsFWAAMcphC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlPETsFWAAMcphC.jpg",
+					"url": "https://t.co/qpUsrM6LAH",
+					"display_url": "pic.twitter.com/qpUsrM6LAH",
+					"expanded_url": "https://twitter.com/NoContextBrits/status/1608845337980186625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 589,
+							"h": 466,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 589,
+							"h": 466,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 589,
+							"h": 466,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377572924413124600,
+			"id_str": "1377572924413124609",
+			"name": "No Context Brits",
+			"screen_name": "NoContextBrits",
+			"location": "United Kingdom",
+			"description": "A celebration of all things great about Britain. Contains sarcasm, irony and context.",
+			"url": "https://t.co/hYqXvAsDEb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hYqXvAsDEb",
+							"expanded_url": "http://instagram.com/no.context.brits",
+							"display_url": "instagram.com/no.context.bri…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1562229,
+			"friends_count": 0,
+			"listed_count": 2659,
+			"created_at": "Thu Apr 01 10:46:07 +0000 2021",
+			"favourites_count": 203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1598110410397388800/KOp7iGt2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1598110410397388800/KOp7iGt2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377572924413124609/1665588716",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1150,
+		"favorite_count": 18128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Me Googling the number that just called instead of answering like an adult. https://t.co/qpUsrM6LAH"
+	},
+	{
 		"created_at": "Thu Dec 29 21:22:03 +0000 2022",
 		"id": 1608574087697424400,
 		"id_str": "1608574087697424384",
