@@ -1,6 +1,641 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Wed Jan 04 19:20:38 +0000 2023",
+		"id": 1610717861990875100,
+		"id_str": "1610717861990875148",
+		"full_text": "@M0by_Duck bloody depressing but at least there's a lot of other original content being released. Watched 'Men' last night, pretty intriguing/disturbing and free on prime.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "M0by_Duck",
+					"name": "Tomas (M0by_duck@mastodon.social)",
+					"id": 22948138,
+					"id_str": "22948138",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1610707257863422000,
+		"in_reply_to_status_id_str": "1610707257863421972",
+		"in_reply_to_user_id": 22948138,
+		"in_reply_to_user_id_str": "22948138",
+		"in_reply_to_screen_name": "M0by_Duck",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 270,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@M0by_Duck bloody depressing but at least there's a lot of other original content being released. Watched 'Men' last night, pretty intriguing/disturbing and free on prime."
+	},
+	{
+		"created_at": "Wed Jan 04 19:18:29 +0000 2023",
+		"id": 1610288509134200800,
+		"id_str": "1610717322062315528",
+		"full_text": "And some people say the movies are dying . . . https://t.co/dyGfcHEMsv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1610288450229371000,
+					"id_str": "1610288450229370880",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/Fljk0FXWAAAUpeY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fljk0FXWAAAUpeY.jpg",
+					"url": "https://t.co/dyGfcHEMsv",
+					"display_url": "pic.twitter.com/dyGfcHEMsv",
+					"expanded_url": "https://twitter.com/dave_kehr/status/1610288509134200834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 726,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 726,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1610288450229371000,
+					"id_str": "1610288450229370880",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/Fljk0FXWAAAUpeY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fljk0FXWAAAUpeY.jpg",
+					"url": "https://t.co/dyGfcHEMsv",
+					"display_url": "pic.twitter.com/dyGfcHEMsv",
+					"expanded_url": "https://twitter.com/dave_kehr/status/1610288509134200834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 726,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 726,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2169404693,
+			"id_str": "2169404693",
+			"name": "Dave Kehr",
+			"screen_name": "dave_kehr",
+			"location": "New York City",
+			"description": "Longtime critic (Chicago Reader, Chicago Tribune, New York Times), now a curator in the Department of Film at the Museum of Modern Art. Opinions are my own.",
+			"url": "https://t.co/GPD7SztYCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GPD7SztYCb",
+							"expanded_url": "http://mo.ma/film",
+							"display_url": "mo.ma/film",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10952,
+			"friends_count": 2738,
+			"listed_count": 184,
+			"created_at": "Tue Nov 05 13:28:19 +0000 2013",
+			"favourites_count": 13801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715203159438786560/hvLeRl4I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715203159438786560/hvLeRl4I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2169404693/1459352808",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 273,
+		"favorite_count": 2931,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And some people say the movies are dying . . . https://t.co/dyGfcHEMsv"
+	},
+	{
+		"created_at": "Wed Jan 04 19:14:27 +0000 2023",
+		"id": 1610716304922775600,
+		"id_str": "1610716304922775553",
+		"full_text": "https://t.co/kxaW92Oz2v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1610716288057327600,
+					"id_str": "1610716288057327634",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Flpp7heXwBIeREk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Flpp7heXwBIeREk.jpg",
+					"url": "https://t.co/kxaW92Oz2v",
+					"display_url": "pic.twitter.com/kxaW92Oz2v",
+					"expanded_url": "https://twitter.com/mfshill/status/1610716304922775553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 968,
+							"h": 644,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 968,
+							"h": 644,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1610716288057327600,
+					"id_str": "1610716288057327634",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Flpp7heXwBIeREk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Flpp7heXwBIeREk.jpg",
+					"url": "https://t.co/kxaW92Oz2v",
+					"display_url": "pic.twitter.com/kxaW92Oz2v",
+					"expanded_url": "https://twitter.com/mfshill/status/1610716304922775553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 968,
+							"h": 644,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 968,
+							"h": 644,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 270,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/kxaW92Oz2v"
+	},
+	{
+		"created_at": "Wed Jan 04 15:57:22 +0000 2023",
+		"id": 1610659927726473200,
+		"id_str": "1610666707965874177",
+		"full_text": "Office building owners may fret that the value of their property is collapsing due to home-working and demand for greener buildings. But it's the ideal opportunity for the profession to parade its retrofitting skills, says Brian Green @RIBAJ: https://t.co/K9AabAwUHC #RIBAJournal https://t.co/6PnYcqQjHO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RIBAJournal",
+					"indices": [
+						267,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RIBAJ",
+					"name": "RIBA Journal",
+					"id": 43306320,
+					"id_str": "43306320",
+					"indices": [
+						235,
+						241
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/K9AabAwUHC",
+					"expanded_url": "http://ow.ly/rAL550M5Efj",
+					"display_url": "ow.ly/rAL550M5Efj",
+					"indices": [
+						243,
+						266
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1610659925109129200,
+					"id_str": "1610659925109129217",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Flo2qxIWQAEn0RL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Flo2qxIWQAEn0RL.jpg",
+					"url": "https://t.co/6PnYcqQjHO",
+					"display_url": "pic.twitter.com/6PnYcqQjHO",
+					"expanded_url": "https://twitter.com/RIBA/status/1610659927726473216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1610659925109129200,
+					"id_str": "1610659925109129217",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Flo2qxIWQAEn0RL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Flo2qxIWQAEn0RL.jpg",
+					"url": "https://t.co/6PnYcqQjHO",
+					"display_url": "pic.twitter.com/6PnYcqQjHO",
+					"expanded_url": "https://twitter.com/RIBA/status/1610659927726473216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16010685,
+			"id_str": "16010685",
+			"name": "RIBA",
+			"screen_name": "RIBA",
+			"location": "RIBA",
+			"description": "News, updates and insight from the Royal Institute of British Architects (RIBA) 🦁",
+			"url": "https://t.co/gkXqbQUBAr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gkXqbQUBAr",
+							"expanded_url": "http://architecture.com",
+							"display_url": "architecture.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 184470,
+			"friends_count": 12463,
+			"listed_count": 2205,
+			"created_at": "Wed Aug 27 12:12:17 +0000 2008",
+			"favourites_count": 32865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1543910385207709698/ko6JrYmd_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543910385207709698/ko6JrYmd_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16010685/1663939761",
+			"profile_link_color": "287CB8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Office building owners may fret that the value of their property is collapsing due to home-working and demand for greener buildings. But it's the ideal opportunity for the profession to parade its retrofitting skills, says Brian Green @RIBAJ: https://t.co/K9AabAwUHC #RIBAJournal https://t.co/6PnYcqQjHO"
+	},
+	{
 		"created_at": "Tue Jan 03 19:42:45 +0000 2023",
 		"id": 1610361039509397500,
 		"id_str": "1610361039509397507",
