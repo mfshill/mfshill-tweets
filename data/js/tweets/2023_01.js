@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Thu Jan 05 23:51:42 +0000 2023",
+		"id": 1611134856171520000,
+		"id_str": "1611148464435372034",
+		"full_text": "@buitengebieden This is cute ❤️ https://t.co/7TpOeapW7M",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "buitengebieden",
+					"name": "Buitengebieden",
+					"id": 1130021685351080000,
+					"id_str": "1130021685351079938",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1611134812861141000,
+					"id_str": "1611134812861140993",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1611134812861140993/pu/img/p_6xxLSNwyghd9_T.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1611134812861140993/pu/img/p_6xxLSNwyghd9_T.jpg",
+					"url": "https://t.co/7TpOeapW7M",
+					"display_url": "pic.twitter.com/7TpOeapW7M",
+					"expanded_url": "https://twitter.com/singh78986/status/1611134856171520000/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1611134812861141000,
+					"id_str": "1611134812861140993",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1611134812861140993/pu/img/p_6xxLSNwyghd9_T.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1611134812861140993/pu/img/p_6xxLSNwyghd9_T.jpg",
+					"url": "https://t.co/7TpOeapW7M",
+					"display_url": "pic.twitter.com/7TpOeapW7M",
+					"expanded_url": "https://twitter.com/singh78986/status/1611134856171520000/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							240,
+							427
+						],
+						"duration_millis": 17566,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1611134812861140993/pu/pl/vTNX_l7HoVYt93y6.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1611134812861140993/pu/vid/320x568/k7S1dMwhY-vcXYZF.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1611134812861140993/pu/vid/480x854/FDceuhqskvinzdbu.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1611121105640505300,
+		"in_reply_to_status_id_str": "1611121105640505350",
+		"in_reply_to_user_id": 1130021685351080000,
+		"in_reply_to_user_id_str": "1130021685351079938",
+		"in_reply_to_screen_name": "buitengebieden",
+		"user": {
+			"id": 744921445449371600,
+			"id_str": "744921445449371648",
+			"name": "laichil lakta",
+			"screen_name": "singh78986",
+			"location": "",
+			"description": "cat lover/ foodie/spread love wherever you go 🌼🌹🌺🥀 / The videos I share are not mine unless mentioned/",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 202,
+			"friends_count": 157,
+			"listed_count": 6,
+			"created_at": "Mon Jun 20 15:54:47 +0000 2016",
+			"favourites_count": 4038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1610098759823921152/S0pqzLDj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1610098759823921152/S0pqzLDj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744921445449371648/1667393809",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@buitengebieden This is cute ❤️ https://t.co/7TpOeapW7M"
+	},
+	{
+		"created_at": "Thu Jan 05 17:33:17 +0000 2023",
+		"id": 1611053235376164900,
+		"id_str": "1611053235376164870",
+		"full_text": "Framed #300\n🎥 🟩 ⬛ ⬛ ⬛ ⬛ ⬛\nhttps://t.co/Y0w4iqrazb\n\n#Watchle #2023-01-05\n  🍿 💀✅\n  https://t.co/GzhZOxGeOa\n\nActorle 295 2/8\n⬛🟩\nhttps://t.co/HeqYI9Q3wY\n\n#Flickle #268\n🎬⬛⬛⬛⬛⬛🟩\nhttps://t.co/IPrf5pYMnO\n\nhttps://t.co/7J2wRkMXrJ #69 8/8\n⬛⬛⬛⬛⬛⬛⬛🟩",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Watchle",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"text": "Flickle",
+					"indices": [
+						150,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0w4iqrazb",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/GzhZOxGeOa",
+					"expanded_url": "https://www.watchle.co",
+					"display_url": "watchle.co",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/HeqYI9Q3wY",
+					"expanded_url": "https://actorle.com",
+					"display_url": "actorle.com",
+					"indices": [
+						125,
+						148
+					]
+				},
+				{
+					"url": "https://t.co/IPrf5pYMnO",
+					"expanded_url": "https://flickle.app/",
+					"display_url": "flickle.app",
+					"indices": [
+						172,
+						195
+					]
+				},
+				{
+					"url": "https://t.co/7J2wRkMXrJ",
+					"expanded_url": "http://Moviedle.xyz",
+					"display_url": "Moviedle.xyz",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 271,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Framed #300\n🎥 🟩 ⬛ ⬛ ⬛ ⬛ ⬛\nhttps://t.co/Y0w4iqrazb\n\n#Watchle #2023-01-05\n  🍿 💀✅\n  https://t.co/GzhZOxGeOa\n\nActorle 295 2/8\n⬛🟩\nhttps://t.co/HeqYI9Q3wY\n\n#Flickle #268\n🎬⬛⬛⬛⬛⬛🟩\nhttps://t.co/IPrf5pYMnO\n\nhttps://t.co/7J2wRkMXrJ #69 8/8\n⬛⬛⬛⬛⬛⬛⬛🟩"
+	},
+	{
 		"created_at": "Wed Jan 04 19:20:38 +0000 2023",
 		"id": 1610717861990875100,
 		"id_str": "1610717861990875148",
