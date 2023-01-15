@@ -1,6 +1,879 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sat Jan 14 21:46:06 +0000 2023",
+		"id": 1614344665406357500,
+		"id_str": "1614378348184064005",
+		"full_text": "Seeing Mudryk join Chelsea https://t.co/GAfjpmxGti",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1614344649421869000,
+					"id_str": "1614344649421869056",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1614344649421869056/pu/img/Iln5Wvp9IKnOUWA9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1614344649421869056/pu/img/Iln5Wvp9IKnOUWA9.jpg",
+					"url": "https://t.co/GAfjpmxGti",
+					"display_url": "pic.twitter.com/GAfjpmxGti",
+					"expanded_url": "https://twitter.com/SimpsonsArsenal/status/1614344665406357505/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1614344649421869000,
+					"id_str": "1614344649421869056",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1614344649421869056/pu/img/Iln5Wvp9IKnOUWA9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1614344649421869056/pu/img/Iln5Wvp9IKnOUWA9.jpg",
+					"url": "https://t.co/GAfjpmxGti",
+					"display_url": "pic.twitter.com/GAfjpmxGti",
+					"expanded_url": "https://twitter.com/SimpsonsArsenal/status/1614344665406357505/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 6880,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1614344649421869056/pu/vid/640x480/xvQPvDl92JHd7Xjq.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1614344649421869056/pu/pl/uBH7JqaWucNn3jL2.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1614344649421869056/pu/vid/360x270/6Gbi1kiq9yz0p6A1.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1614344649421869056/pu/vid/480x360/WFdmgZ2iBSS_WRwl.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1096703520798056400,
+			"id_str": "1096703520798056450",
+			"name": "Simpsons Arsenal",
+			"screen_name": "SimpsonsArsenal",
+			"location": "London, England",
+			"description": "Just an Arsenal fan posting Simpsons quotes and gifs. Be good to each other 💛💙",
+			"url": "https://t.co/VTryhk3rkF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTryhk3rkF",
+							"expanded_url": "http://ko-fi.com/simpsonsarsenal",
+							"display_url": "ko-fi.com/simpsonsarsenal",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67778,
+			"friends_count": 104,
+			"listed_count": 499,
+			"created_at": "Sat Feb 16 09:31:09 +0000 2019",
+			"favourites_count": 8032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161285080226127874/sqXr48eC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161285080226127874/sqXr48eC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1096703520798056450/1559308826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 615,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Seeing Mudryk join Chelsea https://t.co/GAfjpmxGti"
+	},
+	{
+		"created_at": "Sat Jan 14 21:41:30 +0000 2023",
+		"id": 1614377190249857000,
+		"id_str": "1614377190249857030",
+		"full_text": "🤌🏾😘 #NowPlaying #TUNE! 'Dukwa - My Journey into Eternity' https://t.co/cS9cHcRkui",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NowPlaying",
+					"indices": [
+						4,
+						15
+					]
+				},
+				{
+					"text": "TUNE",
+					"indices": [
+						16,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cS9cHcRkui",
+					"expanded_url": "https://youtu.be/TWcQPF7C1T4",
+					"display_url": "youtu.be/TWcQPF7C1T4",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 271,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🤌🏾😘 #NowPlaying #TUNE! 'Dukwa - My Journey into Eternity' https://t.co/cS9cHcRkui"
+	},
+	{
+		"created_at": "Sat Jan 14 21:23:36 +0000 2023",
+		"id": 1614350564241948700,
+		"id_str": "1614372685865254912",
+		"full_text": "Did you ever wonder what silent film stars actually sounded like? https://t.co/9Z6WaFYAVF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1614350246120652800,
+					"id_str": "1614350246120652800",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1614350246120652800/pu/img/V-zGukUX6uM_q-wl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1614350246120652800/pu/img/V-zGukUX6uM_q-wl.jpg",
+					"url": "https://t.co/9Z6WaFYAVF",
+					"display_url": "pic.twitter.com/9Z6WaFYAVF",
+					"expanded_url": "https://twitter.com/silentmoviegifs/status/1614350564241948674/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1614350246120652800,
+					"id_str": "1614350246120652800",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1614350246120652800/pu/img/V-zGukUX6uM_q-wl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1614350246120652800/pu/img/V-zGukUX6uM_q-wl.jpg",
+					"url": "https://t.co/9Z6WaFYAVF",
+					"display_url": "pic.twitter.com/9Z6WaFYAVF",
+					"expanded_url": "https://twitter.com/silentmoviegifs/status/1614350564241948674/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 87274,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1614350246120652800/pu/vid/540x540/HNIzOvZp8kRK9XOh.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1614350246120652800/pu/vid/720x720/0Fzem88scJexGoau.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1614350246120652800/pu/vid/320x320/w7yme0tqImQTjPOv.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1614350246120652800/pu/pl/0PmlPbBoXKFesB_Q.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2993751197,
+			"id_str": "2993751197",
+			"name": "Silent Movie GIFs",
+			"screen_name": "silentmoviegifs",
+			"location": "Toronto, Ontario",
+			"description": "I like to watch silent movies, and then make gifs from them.\n\nCreated by @dmchoull",
+			"url": "https://t.co/V2Q9UwA3SL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V2Q9UwA3SL",
+							"expanded_url": "https://www.reddit.com/r/silentmoviegifs/",
+							"display_url": "reddit.com/r/silentmovieg…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 164109,
+			"friends_count": 684,
+			"listed_count": 1755,
+			"created_at": "Fri Jan 23 07:06:12 +0000 2015",
+			"favourites_count": 9665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220268712453988352/8lQKyKQj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220268712453988352/8lQKyKQj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2993751197/1579803867",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 200,
+		"favorite_count": 959,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did you ever wonder what silent film stars actually sounded like? https://t.co/9Z6WaFYAVF"
+	},
+	{
+		"created_at": "Sat Jan 14 18:59:25 +0000 2023",
+		"id": 1614336400345780200,
+		"id_str": "1614336400345780224",
+		"full_text": "https://t.co/mUZNfF1Hu5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1614336394423406600,
+					"id_str": "1614336394423406593",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FmdGZcmXkAE8KEH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmdGZcmXkAE8KEH.jpg",
+					"url": "https://t.co/mUZNfF1Hu5",
+					"display_url": "pic.twitter.com/mUZNfF1Hu5",
+					"expanded_url": "https://twitter.com/mfshill/status/1614336400345780224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1162,
+							"h": 761,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1162,
+							"h": 761,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1614336394423406600,
+					"id_str": "1614336394423406593",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FmdGZcmXkAE8KEH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmdGZcmXkAE8KEH.jpg",
+					"url": "https://t.co/mUZNfF1Hu5",
+					"display_url": "pic.twitter.com/mUZNfF1Hu5",
+					"expanded_url": "https://twitter.com/mfshill/status/1614336400345780224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1162,
+							"h": 761,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1162,
+							"h": 761,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 271,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/mUZNfF1Hu5"
+	},
+	{
+		"created_at": "Sat Jan 14 18:30:25 +0000 2023",
+		"id": 1614294559759925200,
+		"id_str": "1614329102000873474",
+		"full_text": "Omggggggggggggggggggg. PLEASE let us win tomorrow 🥹",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48047130,
+			"id_str": "48047130",
+			"name": "Nicole Holliday",
+			"screen_name": "NicoleHolliday",
+			"location": "London, England",
+			"description": "Sport and Entertainment Presenter.        Enquiries: George@blueprintsports.co.uk",
+			"url": "https://t.co/2f1LNzY0R8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2f1LNzY0R8",
+							"expanded_url": "http://Instagram.com/nicolehollidayx",
+							"display_url": "Instagram.com/nicolehollidayx",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76329,
+			"friends_count": 879,
+			"listed_count": 225,
+			"created_at": "Wed Jun 17 17:51:38 +0000 2009",
+			"favourites_count": 3969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F50E5B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556290572784107522/aJNBGkc1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556290572784107522/aJNBGkc1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48047130/1643232895",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "7D4545",
+			"profile_sidebar_fill_color": "9EFF6E",
+			"profile_text_color": "F50C79",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 552,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Omggggggggggggggggggg. PLEASE let us win tomorrow 🥹"
+	},
+	{
+		"created_at": "Sat Jan 14 17:00:48 +0000 2023",
+		"id": 1614306550427930600,
+		"id_str": "1614306550427930624",
+		"full_text": "The Melancholic Comfort of Late 90s Horror https://t.co/sdb1Rl0Jeo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sdb1Rl0Jeo",
+					"expanded_url": "https://youtu.be/FZuXVp3m0Ms",
+					"display_url": "youtu.be/FZuXVp3m0Ms",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly @Mfshill@mstdn.social",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 271,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Melancholic Comfort of Late 90s Horror https://t.co/sdb1Rl0Jeo"
+	},
+	{
 		"created_at": "Fri Jan 13 22:33:32 +0000 2023",
 		"id": 1605024648688570400,
 		"id_str": "1614027898079395840",
