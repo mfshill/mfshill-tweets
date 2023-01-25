@@ -1,6 +1,662 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 24 20:11:45 +0000 2023",
+		"id": 1617940281483198500,
+		"id_str": "1617978482176454659",
+		"full_text": "https://t.co/tQff39okh0 https://t.co/VGiei8nOqy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tQff39okh0",
+					"expanded_url": "https://twitter.com/SkyNews/status/1617936380209790988",
+					"display_url": "twitter.com/SkyNews/status…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1617940266471592000,
+					"id_str": "1617940266471591966",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FnQUGaLXEB4LAkV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnQUGaLXEB4LAkV.jpg",
+					"url": "https://t.co/VGiei8nOqy",
+					"display_url": "pic.twitter.com/VGiei8nOqy",
+					"expanded_url": "https://twitter.com/TechnicallyRon/status/1617940281483198466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 930,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 930,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1617940266471592000,
+					"id_str": "1617940266471591966",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FnQUGaLXEB4LAkV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnQUGaLXEB4LAkV.jpg",
+					"url": "https://t.co/VGiei8nOqy",
+					"display_url": "pic.twitter.com/VGiei8nOqy",
+					"expanded_url": "https://twitter.com/TechnicallyRon/status/1617940281483198466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 930,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 930,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108140114,
+			"id_str": "108140114",
+			"name": "TechnicallyRon",
+			"screen_name": "TechnicallyRon",
+			"location": "",
+			"description": "Writer etc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 179682,
+			"friends_count": 986,
+			"listed_count": 1203,
+			"created_at": "Mon Jan 25 00:18:06 +0000 2010",
+			"favourites_count": 17490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 45512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567562022417473537/Gu3XJWNM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567562022417473537/Gu3XJWNM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108140114/1603722556",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1617936380209791000,
+		"quoted_status_id_str": "1617936380209790988",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tQff39okh0",
+			"expanded": "https://twitter.com/SkyNews/status/1617936380209790988",
+			"display": "twitter.com/SkyNews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 24 17:24:27 +0000 2023",
+			"id": 1617936380209791000,
+			"id_str": "1617936380209790988",
+			"full_text": "'Nobody expected this': Scientists stunned by spiders who can regrow lost anuses https://t.co/cQyXk9fUBD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				104
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cQyXk9fUBD",
+						"expanded_url": "https://trib.al/TDTn5Eq",
+						"display_url": "trib.al/TDTn5Eq",
+						"indices": [
+							81,
+							104
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7587032,
+				"id_str": "7587032",
+				"name": "Sky News",
+				"screen_name": "SkyNews",
+				"location": "London, UK",
+				"description": "For breaking news @SkyNewsBreak. Watch live on Sky 501, Virgin Media HD 602, Freeview 233 and YouTube.\n\nDownload our app: https://t.co/B2AP8GvitH",
+				"url": "https://t.co/UuWgHECmV8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UuWgHECmV8",
+								"expanded_url": "http://news.sky.com/",
+								"display_url": "news.sky.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/B2AP8GvitH",
+								"expanded_url": "http://onelink.to/skynews",
+								"display_url": "onelink.to/skynews",
+								"indices": [
+									122,
+									145
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8324500,
+				"friends_count": 22,
+				"listed_count": 31700,
+				"created_at": "Thu Jul 19 14:42:53 +0000 2007",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 568842,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1604907328242962433/P_79at43_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1604907328242962433/P_79at43_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7587032/1664187298",
+				"profile_link_color": "385FAC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EDEDED",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 119,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 52,
+		"favorite_count": 285,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/tQff39okh0 https://t.co/VGiei8nOqy"
+	},
+	{
+		"created_at": "Tue Jan 24 20:08:17 +0000 2023",
+		"id": 1617977609115283500,
+		"id_str": "1617977609115283457",
+		"full_text": "Framed #319\n🎥 🟥 🟥 🟥 🟩 ⬛ ⬛\nhttps://t.co/Y0w4iqrIoJ\n\n#Flickle #287\n🎬🟩⬜⬜⬜⬜⬜\nhttps://t.co/IPrf5pZkdm\n\nhttps://t.co/7J2wRkNvhh #88 4/8\n⬛🟨🟨🟩\n\n#Watchle #2023-01-24\n  🍿 💀💀✅\n  https://t.co/GzhZOxGMDI\n\nActorle 314 2/8\n🟨🟩\nhttps://t.co/HeqYI9QBmw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flickle",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"text": "Watchle",
+					"indices": [
+						136,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0w4iqrIoJ",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/IPrf5pZkdm",
+					"expanded_url": "https://flickle.app/",
+					"display_url": "flickle.app",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/7J2wRkNvhh",
+					"expanded_url": "http://Moviedle.xyz",
+					"display_url": "Moviedle.xyz",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/GzhZOxGMDI",
+					"expanded_url": "https://www.watchle.co",
+					"display_url": "watchle.co",
+					"indices": [
+						167,
+						190
+					]
+				},
+				{
+					"url": "https://t.co/HeqYI9QBmw",
+					"expanded_url": "https://actorle.com",
+					"display_url": "actorle.com",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 272,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Framed #319\n🎥 🟥 🟥 🟥 🟩 ⬛ ⬛\nhttps://t.co/Y0w4iqrIoJ\n\n#Flickle #287\n🎬🟩⬜⬜⬜⬜⬜\nhttps://t.co/IPrf5pZkdm\n\nhttps://t.co/7J2wRkNvhh #88 4/8\n⬛🟨🟨🟩\n\n#Watchle #2023-01-24\n  🍿 💀💀✅\n  https://t.co/GzhZOxGMDI\n\nActorle 314 2/8\n🟨🟩\nhttps://t.co/HeqYI9QBmw"
+	},
+	{
+		"created_at": "Tue Jan 24 16:56:10 +0000 2023",
+		"id": 1617914884410179600,
+		"id_str": "1617929263008862209",
+		"full_text": "The Doomsday Clock was moved to 90 seconds to midnight today, Jan. 24, the closest it's ever been.\n\nThe Doomsday Clock is a decades-long project of the Bulletin of the Atomic Scientists featuring a clock face where midnight represents Armageddon. https://t.co/uG9vmchRXK https://t.co/IFM1gmIjjT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uG9vmchRXK",
+					"expanded_url": "https://www.usatoday.com/in-depth/news/nation/2023/01/24/doomsday-clock-2023-time-announced/11026446002/",
+					"display_url": "usatoday.com/in-depth/news/…",
+					"indices": [
+						247,
+						270
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1617914508734759000,
+					"id_str": "1617914508734758918",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1617914508734758918/pu/img/uF5mKWdgueZSjCPG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1617914508734758918/pu/img/uF5mKWdgueZSjCPG.jpg",
+					"url": "https://t.co/IFM1gmIjjT",
+					"display_url": "pic.twitter.com/IFM1gmIjjT",
+					"expanded_url": "https://twitter.com/usatgraphics/status/1617914884410179586/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1617914508734759000,
+					"id_str": "1617914508734758918",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1617914508734758918/pu/img/uF5mKWdgueZSjCPG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1617914508734758918/pu/img/uF5mKWdgueZSjCPG.jpg",
+					"url": "https://t.co/IFM1gmIjjT",
+					"display_url": "pic.twitter.com/IFM1gmIjjT",
+					"expanded_url": "https://twitter.com/usatgraphics/status/1617914884410179586/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							5,
+							4
+						],
+						"duration_millis": 20067,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1617914508734758918/pu/vid/450x360/fGVReWvdCZQQswCl.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1617914508734758918/pu/pl/900ptbR7JmQtcx_c.m3u8?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1617914508734758918/pu/vid/900x720/C5sfi9MgbW2izFC8.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1617914508734758918/pu/vid/336x270/hz9PxajpN1fOJ_rz.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 760842779765248000,
+			"id_str": "760842779765248000",
+			"name": "USA TODAY Graphics",
+			"screen_name": "usatgraphics",
+			"location": "",
+			"description": "Graphics and visuals from @USATODAY.",
+			"url": "https://t.co/eRqpsYMYrY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqpsYMYrY",
+							"expanded_url": "http://www.usatoday.com/graphics",
+							"display_url": "usatoday.com/graphics",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5299,
+			"friends_count": 15,
+			"listed_count": 151,
+			"created_at": "Wed Aug 03 14:20:29 +0000 2016",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224405231020146691/eXMS8nb__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224405231020146691/eXMS8nb__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/760842779765248000/1641593813",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1521,
+		"favorite_count": 3939,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Doomsday Clock was moved to 90 seconds to midnight today, Jan. 24, the closest it's ever been.\n\nThe Doomsday Clock is a decades-long project of the Bulletin of the Atomic Scientists featuring a clock face where midnight represents Armageddon. https://t.co/uG9vmchRXK https://t.co/IFM1gmIjjT"
+	},
+	{
 		"created_at": "Mon Jan 23 22:04:01 +0000 2023",
 		"id": 1617367050707685400,
 		"id_str": "1617644349256503298",
@@ -137,7 +793,7 @@ Grailbird.data.tweets_2023_01 =
 			"name": "Erick Lorinc",
 			"screen_name": "ErickLorinc",
 			"location": "Los Angeles, CA",
-			"description": "Lover of spooky things 🎃. Bi 🏳‍🌈. U of Miami alum. Live in Hollywood, but Chattanooga is home. (He/Him)",
+			"description": "Lover of spooky things 🎃. Bi 🏳🌈. U of Miami alum. Live in Hollywood, but Chattanooga is home. (He/Him)",
 			"url": null,
 			"entities": {
 				"description": {
