@@ -1,6 +1,767 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 27 21:57:35 +0000 2023",
+		"id": 1619092281725796400,
+		"id_str": "1619092281725796353",
+		"full_text": "@coombem1978 good performance, disappointing result",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coombem1978",
+					"name": "mattyc",
+					"id": 73145004,
+					"id_str": "73145004",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1619092171524817000,
+		"in_reply_to_status_id_str": "1619092171524816903",
+		"in_reply_to_user_id": 73145004,
+		"in_reply_to_user_id_str": "73145004",
+		"in_reply_to_screen_name": "coombem1978",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@coombem1978 good performance, disappointing result"
+	},
+	{
+		"created_at": "Fri Jan 27 21:25:14 +0000 2023",
+		"id": 1619084139877265400,
+		"id_str": "1619084139877265408",
+		"full_text": "😑 1-0 #MCIARS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCIARS",
+					"indices": [
+						6,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1619061139152998400,
+		"in_reply_to_status_id_str": "1619061139152998400",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "😑 1-0 #MCIARS"
+	},
+	{
+		"created_at": "Fri Jan 27 20:29:18 +0000 2023",
+		"id": 1619070062748639200,
+		"id_str": "1619070062748639234",
+		"full_text": "broken glow sticks https://t.co/sHmr5Tookt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sHmr5Tookt",
+					"expanded_url": "https://twitter.com/Wonderful_Ed/status/1619062446874071041",
+					"display_url": "twitter.com/Wonderful_Ed/s…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1619062446874071000,
+		"quoted_status_id_str": "1619062446874071041",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sHmr5Tookt",
+			"expanded": "https://twitter.com/Wonderful_Ed/status/1619062446874071041",
+			"display": "twitter.com/Wonderful_Ed/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 27 19:59:02 +0000 2023",
+			"id": 1619062446874071000,
+			"id_str": "1619062446874071041",
+			"full_text": "What smell reminds you of the 90s?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 181346048,
+				"id_str": "181346048",
+				"name": "Ed",
+				"screen_name": "Wonderful_Ed",
+				"location": "New York, USA 🗽",
+				"description": "I want to throw a party for the broken-hearted and turn 'em into party animals.",
+				"url": "https://t.co/2RoLkeMsk3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2RoLkeMsk3",
+								"expanded_url": "https://twitter.com/search?q=from%3ABruhitsEd_%20OR%20from%3AWonderful_Ed)%20-filter%3Areplies&s=09",
+								"display_url": "twitter.com/search?q=from%…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20718,
+				"friends_count": 3157,
+				"listed_count": 39,
+				"created_at": "Sat Aug 21 23:46:26 +0000 2010",
+				"favourites_count": 293914,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 221094,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1618017591783571456/iPeWBc2d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618017591783571456/iPeWBc2d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/181346048/1638116434",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 125,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "broken glow sticks https://t.co/sHmr5Tookt"
+	},
+	{
+		"created_at": "Fri Jan 27 20:28:38 +0000 2023",
+		"id": 1619064753900638200,
+		"id_str": "1619069896150900736",
+		"full_text": "Happy “Large boulder the size of a small boulder” Day https://t.co/qJSKOX0Xsr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qJSKOX0Xsr",
+					"expanded_url": "https://twitter.com/sheriffalert/status/1221881862244749315",
+					"display_url": "twitter.com/sheriffalert/s…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 994502112469049300,
+			"id_str": "994502112469049344",
+			"name": "mnrrntt",
+			"screen_name": "mnrrntt",
+			"location": "I’m not here",
+			"description": "How to disappear completely",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6856,
+			"friends_count": 1010,
+			"listed_count": 22,
+			"created_at": "Thu May 10 08:59:15 +0000 2018",
+			"favourites_count": 155437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1610768313537253382/BfW0KKEC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1610768313537253382/BfW0KKEC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/994502112469049344/1669458141",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1221881862244749300,
+		"quoted_status_id_str": "1221881862244749315",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qJSKOX0Xsr",
+			"expanded": "https://twitter.com/sheriffalert/status/1221881862244749315",
+			"display": "twitter.com/sheriffalert/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 27 19:45:12 +0000 2020",
+			"id": 1221881862244749300,
+			"id_str": "1221881862244749315",
+			"full_text": "Large boulder the size of a small boulder is completely blocking east-bound lane Highway 145 mm78 at Silverpick Rd. Please use caution and watch for emergency vehicles in the area. https://t.co/EVMmDf0IJu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1221881838102335500,
+						"id_str": "1221881838102335488",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/EPT_DtWXUAA2fo1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPT_DtWXUAA2fo1.jpg",
+						"url": "https://t.co/EVMmDf0IJu",
+						"display_url": "pic.twitter.com/EVMmDf0IJu",
+						"expanded_url": "https://twitter.com/SheriffAlert/status/1221881862244749315/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1221881838102335500,
+						"id_str": "1221881838102335488",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/EPT_DtWXUAA2fo1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPT_DtWXUAA2fo1.jpg",
+						"url": "https://t.co/EVMmDf0IJu",
+						"display_url": "pic.twitter.com/EVMmDf0IJu",
+						"expanded_url": "https://twitter.com/SheriffAlert/status/1221881862244749315/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2361712280,
+				"id_str": "2361712280",
+				"name": "San Miguel Sheriff",
+				"screen_name": "SheriffAlert",
+				"location": "Telluride, Colorado",
+				"description": "This is the official page of the The San Miguel Sheriff’s Office. This page is not monitored. If you have an emergency, please call 911.",
+				"url": "https://t.co/kscrf84sdN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kscrf84sdN",
+								"expanded_url": "http://sanmiguelsheriff.org",
+								"display_url": "sanmiguelsheriff.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5595,
+				"friends_count": 57,
+				"listed_count": 92,
+				"created_at": "Tue Feb 25 22:04:25 +0000 2014",
+				"favourites_count": 33,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1702,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/438442693635493888/bT4_bZBP_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/438442693635493888/bT4_bZBP_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2361712280/1445975474",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 56088,
+			"favorite_count": 299955,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy “Large boulder the size of a small boulder” Day https://t.co/qJSKOX0Xsr"
+	},
+	{
+		"created_at": "Fri Jan 27 19:53:50 +0000 2023",
+		"id": 1619061139152998400,
+		"id_str": "1619061139152998400",
+		"full_text": "#COYG! #MCIARS #FACup",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COYG",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "MCIARS",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "FACup",
+					"indices": [
+						15,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "qht",
+		"text": "#COYG! #MCIARS #FACup"
+	},
+	{
 		"created_at": "Wed Jan 25 21:44:08 +0000 2023",
 		"id": 1618364121367601200,
 		"id_str": "1618364121367601153",
