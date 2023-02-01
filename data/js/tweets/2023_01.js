@@ -1,6 +1,987 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 31 23:51:48 +0000 2023",
+		"id": 1620563001425232000,
+		"id_str": "1620570577089204224",
+		"full_text": "For younger followers / fans, the \"transfer window\" system was only introduced in 2002-03, before which any club could trade players at any point during a season up to 31 March, and restart trading from the season's end.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1620558532499103700,
+		"in_reply_to_status_id_str": "1620558532499103745",
+		"in_reply_to_user_id": 75062648,
+		"in_reply_to_user_id_str": "75062648",
+		"in_reply_to_screen_name": "sportingintel",
+		"user": {
+			"id": 75062648,
+			"id_str": "75062648",
+			"name": "Nick Harris",
+			"screen_name": "sportingintel",
+			"location": "",
+			"description": "Sportingintelligence: A perpetually sceptical attempt to make sense of sport's relationship with money. Interested in conmen & numbers. Reassuringly grumpy.",
+			"url": "https://t.co/MKLGXpWib6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MKLGXpWib6",
+							"expanded_url": "http://sportingintelligence.com",
+							"display_url": "sportingintelligence.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 136871,
+			"friends_count": 1015,
+			"listed_count": 2047,
+			"created_at": "Thu Sep 17 17:16:01 +0000 2009",
+			"favourites_count": 1306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 56720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/840698288982634496/xhAH0WLG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/840698288982634496/xhAH0WLG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/75062648/1412721430",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "For younger followers / fans, the \"transfer window\" system was only introduced in 2002-03, before which any club could trade players at any point during a season up to 31 March, and restart trading from the season's end."
+	},
+	{
+		"created_at": "Tue Jan 31 23:42:07 +0000 2023",
+		"id": 1620568138764152800,
+		"id_str": "1620568138764152832",
+		"full_text": "@eops Offerman was inspired casting.",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution @eops@mastodon.world",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1620566871274848300,
+		"in_reply_to_status_id_str": "1620566871274848259",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 272,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eops Offerman was inspired casting."
+	},
+	{
+		"created_at": "Tue Jan 31 18:30:38 +0000 2023",
+		"id": 1620311612702982100,
+		"id_str": "1620489752742080512",
+		"full_text": "Watching #TheLastOfUs \nMe: how’d they get rings!?\nInternet: https://t.co/knpODBVoy6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheLastOfUs",
+					"indices": [
+						9,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1620311539931811800,
+					"id_str": "1620311539931811841",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1620311539931811841/pu/img/lV8mKIkaEIe5sS1k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1620311539931811841/pu/img/lV8mKIkaEIe5sS1k.jpg",
+					"url": "https://t.co/knpODBVoy6",
+					"display_url": "pic.twitter.com/knpODBVoy6",
+					"expanded_url": "https://twitter.com/PhllpBerry/status/1620311612702982145/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1246,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1620311539931811800,
+					"id_str": "1620311539931811841",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1620311539931811841/pu/img/lV8mKIkaEIe5sS1k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1620311539931811841/pu/img/lV8mKIkaEIe5sS1k.jpg",
+					"url": "https://t.co/knpODBVoy6",
+					"display_url": "pic.twitter.com/knpODBVoy6",
+					"expanded_url": "https://twitter.com/PhllpBerry/status/1620311612702982145/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1246,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							288,
+							623
+						],
+						"duration_millis": 34083,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1620311539931811841/pu/vid/576x1246/PRN9ZdVpCXf3T9hU.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1620311539931811841/pu/vid/480x1038/EIYEwYuwQwQ1zgj6.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1620311539931811841/pu/pl/OigP2iWc2x_A_eFM.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1620311539931811841/pu/vid/320x692/3CBT7BiuXhtMNCVv.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23244617,
+			"id_str": "23244617",
+			"name": "Philsberry Doughboy",
+			"screen_name": "PhllpBerry",
+			"location": "Seattle",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 247,
+			"friends_count": 263,
+			"listed_count": 6,
+			"created_at": "Sat Mar 07 22:48:15 +0000 2009",
+			"favourites_count": 27130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/823284846151639040/x6qfIfGm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/823284846151639040/x6qfIfGm_normal.jpg",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123,
+		"favorite_count": 949,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watching #TheLastOfUs \nMe: how’d they get rings!?\nInternet: https://t.co/knpODBVoy6"
+	},
+	{
+		"created_at": "Tue Jan 31 18:29:23 +0000 2023",
+		"id": 1619933381072126000,
+		"id_str": "1620489435140984834",
+		"full_text": "sat down expecting an hour of grotesque fungus monsters and got the most gut wrenching love story of the decade #TheLastOfUs https://t.co/A0TrPjmK7S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheLastOfUs",
+					"indices": [
+						112,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1619933361878737000,
+					"id_str": "1619933361878736898",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1619933361878736898/pu/img/v7SndJH3legU3dhK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1619933361878736898/pu/img/v7SndJH3legU3dhK.jpg",
+					"url": "https://t.co/A0TrPjmK7S",
+					"display_url": "pic.twitter.com/A0TrPjmK7S",
+					"expanded_url": "https://twitter.com/FritterBoochie/status/1619933381072125953/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 886,
+							"h": 538,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 413,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 886,
+							"h": 538,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1619933361878737000,
+					"id_str": "1619933361878736898",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1619933361878736898/pu/img/v7SndJH3legU3dhK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1619933361878736898/pu/img/v7SndJH3legU3dhK.jpg",
+					"url": "https://t.co/A0TrPjmK7S",
+					"display_url": "pic.twitter.com/A0TrPjmK7S",
+					"expanded_url": "https://twitter.com/FritterBoochie/status/1619933381072125953/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 886,
+							"h": 538,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 413,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 886,
+							"h": 538,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							443,
+							269
+						],
+						"duration_millis": 2423,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1619933361878736898/pu/vid/592x360/xs1BrqXTzq23pnZB.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1619933361878736898/pu/vid/886x538/cDPJhiqxieUZ2UlN.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1619933361878736898/pu/vid/444x270/gGMczGoyXMBWHr-C.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1619933361878736898/pu/pl/32VL17KrWKuXwViz.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2434511388,
+			"id_str": "2434511388",
+			"name": "Binch Patrol",
+			"screen_name": "FritterBoochie",
+			"location": "",
+			"description": "homosexual in the midwest • my lactose intolerance is undiagnosed yet potent • will have a reaction image at the ready",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 932,
+			"listed_count": 3,
+			"created_at": "Tue Apr 08 22:45:35 +0000 2014",
+			"favourites_count": 16795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1603623733826097152/DfzyFyi6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1603623733826097152/DfzyFyi6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2434511388/1672292262",
+			"profile_link_color": "13A2D6",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3195,
+		"favorite_count": 21907,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "sat down expecting an hour of grotesque fungus monsters and got the most gut wrenching love story of the decade #TheLastOfUs https://t.co/A0TrPjmK7S"
+	},
+	{
+		"created_at": "Tue Jan 31 17:32:45 +0000 2023",
+		"id": 1620475183646781400,
+		"id_str": "1620475183646781441",
+		"full_text": "Framed #326\n🎥 🟥 🟩 ⬛ ⬛ ⬛ ⬛\nhttps://t.co/Y0w4iqrIoJ\n\n#Flickle #294\n🎬⬛⬛⬛🟩⬜⬜\nhttps://t.co/IPrf5pZkdm\n\n#Watchle #2023-01-31\n  🍿 💀💀💀💀✅\n  https://t.co/GzhZOxGMDI\n\nhttps://t.co/7J2wRkNvhh #95 5/8\n⬛🟨⬛🟨🟩\n\nActorle 321 3/8\n🟨🟨🟩\nhttps://t.co/HeqYI9QBmw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flickle",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"text": "Watchle",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y0w4iqrIoJ",
+					"expanded_url": "https://framed.wtf",
+					"display_url": "framed.wtf",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/IPrf5pZkdm",
+					"expanded_url": "https://flickle.app/",
+					"display_url": "flickle.app",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/GzhZOxGMDI",
+					"expanded_url": "https://www.watchle.co",
+					"display_url": "watchle.co",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/7J2wRkNvhh",
+					"expanded_url": "http://Moviedle.xyz",
+					"display_url": "Moviedle.xyz",
+					"indices": [
+						156,
+						179
+					]
+				},
+				{
+					"url": "https://t.co/HeqYI9QBmw",
+					"expanded_url": "https://actorle.com",
+					"display_url": "actorle.com",
+					"indices": [
+						215,
+						238
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 272,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Framed #326\n🎥 🟥 🟩 ⬛ ⬛ ⬛ ⬛\nhttps://t.co/Y0w4iqrIoJ\n\n#Flickle #294\n🎬⬛⬛⬛🟩⬜⬜\nhttps://t.co/IPrf5pZkdm\n\n#Watchle #2023-01-31\n  🍿 💀💀💀💀✅\n  https://t.co/GzhZOxGMDI\n\nhttps://t.co/7J2wRkNvhh #95 5/8\n⬛🟨⬛🟨🟩\n\nActorle 321 3/8\n🟨🟨🟩\nhttps://t.co/HeqYI9QBmw"
+	},
+	{
+		"created_at": "Tue Jan 31 15:12:09 +0000 2023",
+		"id": 1620182189781696500,
+		"id_str": "1620439802553434112",
+		"full_text": "Arsenal Twitter I’ll remind you one last time. \n\nThis is not Football Manager, you are not an agent or a director of football. You have zero influence over Arsenal. \n\nSit back, chill out and what will be will be. Just support the team no matter what. \n\nThanks!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128568146,
+			"id_str": "128568146",
+			"name": "Simon",
+			"screen_name": "SiTheGooner9551",
+			"location": "📍UK, Europe & The World",
+			"description": "The Arsenal | Gaming: Xbox Series X|S | Fortnite | Comic Books | TV & Film | Radio | Podcasts | Politics | Travel 🇬🇧",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6975,
+			"friends_count": 3981,
+			"listed_count": 201,
+			"created_at": "Thu Apr 01 14:16:08 +0000 2010",
+			"favourites_count": 9319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1563517754124029958/T5d0Jx85_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1563517754124029958/T5d0Jx85_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128568146/1575496864",
+			"profile_link_color": "4267B2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 299,
+		"favorite_count": 1656,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Arsenal Twitter I’ll remind you one last time. \n\nThis is not Football Manager, you are not an agent or a director of football. You have zero influence over Arsenal. \n\nSit back, chill out and what will be will be. Just support the team no matter what. \n\nThanks!"
+	},
+	{
+		"created_at": "Tue Jan 31 14:53:15 +0000 2023",
+		"id": 1619725908038017000,
+		"id_str": "1620435046074294274",
+		"full_text": "https://t.co/kGUFlJ4LpW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1619722473833889800,
+					"id_str": "1619722473833889792",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FnppAh-WAAAy3cL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnppAh-WAAAy3cL.jpg",
+					"url": "https://t.co/kGUFlJ4LpW",
+					"display_url": "pic.twitter.com/kGUFlJ4LpW",
+					"expanded_url": "https://twitter.com/ArtMemeLord/status/1619725908038017024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1528,
+							"h": 1424,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1118,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1619722473833889800,
+					"id_str": "1619722473833889792",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FnppAh-WAAAy3cL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnppAh-WAAAy3cL.jpg",
+					"url": "https://t.co/kGUFlJ4LpW",
+					"display_url": "pic.twitter.com/kGUFlJ4LpW",
+					"expanded_url": "https://twitter.com/ArtMemeLord/status/1619725908038017024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1528,
+							"h": 1424,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1118,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1315936062368297000,
+			"id_str": "1315936062368296960",
+			"name": "Art History Memes for Aesthetic Fiends",
+			"screen_name": "ArtMemeLord",
+			"location": "",
+			"description": "We like #Art, We like #Memes",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44411,
+			"friends_count": 579,
+			"listed_count": 202,
+			"created_at": "Tue Oct 13 08:43:12 +0000 2020",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1316030685258412034/RwXG6d-G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1316030685258412034/RwXG6d-G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1315936062368296960/1602581603",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7450,
+		"favorite_count": 57430,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/kGUFlJ4LpW"
+	},
+	{
 		"created_at": "Mon Jan 30 13:13:19 +0000 2023",
 		"id": 1620047505743581200,
 		"id_str": "1620047505743581184",
