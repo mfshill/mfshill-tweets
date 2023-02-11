@@ -1,6 +1,1332 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Fri Feb 10 23:26:04 +0000 2023",
+		"id": 1624187979345404000,
+		"id_str": "1624187979345403906",
+		"full_text": "@TC_Cornesto that fish got way more than it bargained for when visiting land",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC Cornesto",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1624182494986633200,
+		"in_reply_to_status_id_str": "1624182494986633221",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TC_Cornesto that fish got way more than it bargained for when visiting land"
+	},
+	{
+		"created_at": "Fri Feb 10 23:22:32 +0000 2023",
+		"id": 1624187088282259500,
+		"id_str": "1624187088282259459",
+		"full_text": "i think we can all agree that this is 1000X better than crownless Charlie https://t.co/ftqzr2rzRt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ftqzr2rzRt",
+					"expanded_url": "https://twitter.com/Number10cat/status/1624120305915396112",
+					"display_url": "twitter.com/Number10cat/st…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1624120305915396000,
+		"quoted_status_id_str": "1624120305915396112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ftqzr2rzRt",
+			"expanded": "https://twitter.com/Number10cat/status/1624120305915396112",
+			"display": "twitter.com/Number10cat/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 10 18:57:10 +0000 2023",
+			"id": 1624120305915396000,
+			"id_str": "1624120305915396112",
+			"full_text": "They should put this on stamp.\n(Photo @LightHackers) https://t.co/fp6FczTixU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				52
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LightHackers",
+						"name": "ＬＩＧＨＴ ＨＡＣＫＥＲＳ",
+						"id": 238192030,
+						"id_str": "238192030",
+						"indices": [
+							38,
+							51
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1624120298999107600,
+						"id_str": "1624120298999107584",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/FooIzpZX0AAGwRz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FooIzpZX0AAGwRz.jpg",
+						"url": "https://t.co/fp6FczTixU",
+						"display_url": "pic.twitter.com/fp6FczTixU",
+						"expanded_url": "https://twitter.com/Number10cat/status/1624120305915396112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 438,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 896,
+								"h": 1390,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 774,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1624120298999107600,
+						"id_str": "1624120298999107584",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/FooIzpZX0AAGwRz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FooIzpZX0AAGwRz.jpg",
+						"url": "https://t.co/fp6FczTixU",
+						"display_url": "pic.twitter.com/fp6FczTixU",
+						"expanded_url": "https://twitter.com/Number10cat/status/1624120305915396112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 438,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 896,
+								"h": 1390,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 774,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 252521025,
+				"id_str": "252521025",
+				"name": "Larry the Cat",
+				"screen_name": "Number10cat",
+				"location": "Westminster, London",
+				"description": "Chief Mouser to the Cabinet Office. 15 year old tabby. Living with my fifth Prime Minister. Unofficial. A subpar odyssey.",
+				"url": "https://t.co/klIpFabwzH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/klIpFabwzH",
+								"expanded_url": "https://www.buymeacoffee.com/Number10cat",
+								"display_url": "buymeacoffee.com/Number10cat",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 822052,
+				"friends_count": 148,
+				"listed_count": 2676,
+				"created_at": "Tue Feb 15 11:00:56 +0000 2011",
+				"favourites_count": 54860,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24980,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875624659357581314/FCZGd6pr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875624659357581314/FCZGd6pr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/252521025/1348178401",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2525,
+			"favorite_count": 38541,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i think we can all agree that this is 1000X better than crownless Charlie https://t.co/ftqzr2rzRt"
+	},
+	{
+		"created_at": "Fri Feb 10 22:32:22 +0000 2023",
+		"id": 1624174465486659600,
+		"id_str": "1624174465486659594",
+		"full_text": "@TheLastLeg Waste Not want Not #RubbishNames",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RubbishNames",
+					"indices": [
+						31,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheLastLeg",
+					"name": "The Last Leg",
+					"id": 951840618,
+					"id_str": "951840618",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1624171860530278400,
+		"in_reply_to_status_id_str": "1624171860530278407",
+		"in_reply_to_user_id": 951840618,
+		"in_reply_to_user_id_str": "951840618",
+		"in_reply_to_screen_name": "TheLastLeg",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TheLastLeg Waste Not want Not #RubbishNames"
+	},
+	{
+		"created_at": "Fri Feb 10 21:10:13 +0000 2023",
+		"id": 1624153791078584300,
+		"id_str": "1624153791078584321",
+		"full_text": "@Nimesh69154590 maybe not https://t.co/d03LcAIsOQ",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nimesh69154590",
+					"name": "Nimesh",
+					"id": 1358902201675038700,
+					"id_str": "1358902201675038724",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1624153784640307200,
+					"id_str": "1624153784640307200",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FoonQxIXgAATmbn.png",
+					"media_url_https": "https://pbs.twimg.com/media/FoonQxIXgAATmbn.png",
+					"url": "https://t.co/d03LcAIsOQ",
+					"display_url": "pic.twitter.com/d03LcAIsOQ",
+					"expanded_url": "https://twitter.com/mfshill/status/1624153791078584321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 420,
+							"h": 92,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 92,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 92,
+							"h": 92,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 92,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1624153784640307200,
+					"id_str": "1624153784640307200",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FoonQxIXgAATmbn.png",
+					"media_url_https": "https://pbs.twimg.com/media/FoonQxIXgAATmbn.png",
+					"url": "https://t.co/d03LcAIsOQ",
+					"display_url": "pic.twitter.com/d03LcAIsOQ",
+					"expanded_url": "https://twitter.com/mfshill/status/1624153791078584321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 420,
+							"h": 92,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 92,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 92,
+							"h": 92,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 92,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1624153596936740900,
+		"in_reply_to_status_id_str": "1624153596936740868",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Nimesh69154590 maybe not https://t.co/d03LcAIsOQ"
+	},
+	{
+		"created_at": "Fri Feb 10 21:09:27 +0000 2023",
+		"id": 1624153596936740900,
+		"id_str": "1624153596936740868",
+		"full_text": "@Nimesh69154590 can only suggest trying tomorrow, should have 10 codes but only one a day. same link",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nimesh69154590",
+					"name": "Nimesh",
+					"id": 1358902201675038700,
+					"id_str": "1358902201675038724",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1624149959992828000,
+		"in_reply_to_status_id_str": "1624149959992827925",
+		"in_reply_to_user_id": 1358902201675038700,
+		"in_reply_to_user_id_str": "1358902201675038724",
+		"in_reply_to_screen_name": "Nimesh69154590",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Nimesh69154590 can only suggest trying tomorrow, should have 10 codes but only one a day. same link"
+	},
+	{
+		"created_at": "Fri Feb 10 18:27:45 +0000 2023",
+		"id": 1624108144350593000,
+		"id_str": "1624112904738832397",
+		"full_text": "Evening https://t.co/LuWYYujmv0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1624108139120296000,
+					"id_str": "1624108139120295946",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/Fon9v2UWAAov3gs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fon9v2UWAAov3gs.jpg",
+					"url": "https://t.co/LuWYYujmv0",
+					"display_url": "pic.twitter.com/LuWYYujmv0",
+					"expanded_url": "https://twitter.com/AntRDean/status/1624108144350593042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 638,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 638,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1624108139120296000,
+					"id_str": "1624108139120295946",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/Fon9v2UWAAov3gs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fon9v2UWAAov3gs.jpg",
+					"url": "https://t.co/LuWYYujmv0",
+					"display_url": "pic.twitter.com/LuWYYujmv0",
+					"expanded_url": "https://twitter.com/AntRDean/status/1624108144350593042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 638,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 638,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 228825520,
+			"id_str": "228825520",
+			"name": "Ant, Lord Dean",
+			"screen_name": "AntRDean",
+			"location": "Twitter.",
+			"description": "Bins out on a Monday night? I’m your kind of guy. Declared to be ‘really pleasant’ by a piss doctor. I used to write music. Prolific procrastinator.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2741,
+			"friends_count": 3526,
+			"listed_count": 34,
+			"created_at": "Mon Dec 20 19:46:44 +0000 2010",
+			"favourites_count": 53727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1535972256026877953/-FZPqdPj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1535972256026877953/-FZPqdPj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/228825520/1537615804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Evening https://t.co/LuWYYujmv0"
+	},
+	{
+		"created_at": "Fri Feb 10 15:54:30 +0000 2023",
+		"id": 1623762060721938400,
+		"id_str": "1624074336465289224",
+		"full_text": "How, in less than a century, did we go from building train stations like cathedrals to building cathedrals like power plants? https://t.co/XZ3W9zwNR7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1623761520222957600,
+					"id_str": "1623761520222957572",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FojCf-TWcAQA1mp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FojCf-TWcAQA1mp.jpg",
+					"url": "https://t.co/XZ3W9zwNR7",
+					"display_url": "pic.twitter.com/XZ3W9zwNR7",
+					"expanded_url": "https://twitter.com/Culture_Crit/status/1623762060721938432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 1067,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1623761520222957600,
+					"id_str": "1623761520222957572",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FojCf-TWcAQA1mp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FojCf-TWcAQA1mp.jpg",
+					"url": "https://t.co/XZ3W9zwNR7",
+					"display_url": "pic.twitter.com/XZ3W9zwNR7",
+					"expanded_url": "https://twitter.com/Culture_Crit/status/1623762060721938432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 1067,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1623761573859758000,
+					"id_str": "1623761573859758082",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FojCjGHXEAIULzM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FojCjGHXEAIULzM.jpg",
+					"url": "https://t.co/XZ3W9zwNR7",
+					"display_url": "pic.twitter.com/XZ3W9zwNR7",
+					"expanded_url": "https://twitter.com/Culture_Crit/status/1623762060721938432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1257792281614200800,
+			"id_str": "1257792281614200834",
+			"name": "Culture Critic",
+			"screen_name": "Culture_Crit",
+			"location": "Florence, Italy",
+			"description": "Tradition is not the worship of ashes, but the preservation of fire.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255687,
+			"friends_count": 1305,
+			"listed_count": 958,
+			"created_at": "Tue May 05 22:00:32 +0000 2020",
+			"favourites_count": 16188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1595924931002486786/ffRhSilk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1595924931002486786/ffRhSilk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1257792281614200834/1668972965",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1088,
+		"favorite_count": 8975,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How, in less than a century, did we go from building train stations like cathedrals to building cathedrals like power plants? https://t.co/XZ3W9zwNR7"
+	},
+	{
+		"created_at": "Fri Feb 10 14:28:54 +0000 2023",
+		"id": 1624052797132968000,
+		"id_str": "1624052797132967944",
+		"full_text": "still some codes available. seems to be one per day. #GalaxyS23 10% off https://t.co/AECRPcHOrr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GalaxyS23",
+					"indices": [
+						53,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AECRPcHOrr",
+					"expanded_url": "https://twitter.com/mfshill/status/1623636306793201665",
+					"display_url": "twitter.com/mfshill/status…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1623636306793201700,
+		"quoted_status_id_str": "1623636306793201665",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AECRPcHOrr",
+			"expanded": "https://twitter.com/mfshill/status/1623636306793201665",
+			"display": "twitter.com/mfshill/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 09 10:53:55 +0000 2023",
+			"id": 1623636306793201700,
+			"id_str": "1623636306793201665",
+			"full_text": "#GalaxyS23 Get 10% off at #Samsung. Get 10% off when you shop at Samsung using my exclusive referral link. Limited time offer. https://t.co/gO8XIz75oA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GalaxyS23",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"text": "Samsung",
+						"indices": [
+							26,
+							34
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gO8XIz75oA",
+						"expanded_url": "https://i.soreto.com/samsung/g/VyAKJap3T",
+						"display_url": "i.soreto.com/samsung/g/VyAK…",
+						"indices": [
+							127,
+							150
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95424142,
+				"id_str": "95424142",
+				"name": "Hilly",
+				"screen_name": "mfshill",
+				"location": "Null Island",
+				"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 259,
+				"friends_count": 273,
+				"listed_count": 21,
+				"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+				"favourites_count": 1478,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 44386,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+				"profile_link_color": "9D6238",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EDE1B0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "still some codes available. seems to be one per day. #GalaxyS23 10% off https://t.co/AECRPcHOrr"
+	},
+	{
 		"created_at": "Thu Feb 09 20:14:04 +0000 2023",
 		"id": 1623770391008125000,
 		"id_str": "1623777272866938886",
