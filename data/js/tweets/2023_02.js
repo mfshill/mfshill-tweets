@@ -1,6 +1,1103 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sun Feb 12 18:30:00 +0000 2023",
+		"id": 1624838245589844000,
+		"id_str": "1624838245589843968",
+		"full_text": "TUNE! #NowPlaying Nightmares On Wax - Finer (Alex Gopher Mix)  #TheHaul https://t.co/vSKJweoxFZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NowPlaying",
+					"indices": [
+						6,
+						17
+					]
+				},
+				{
+					"text": "TheHaul",
+					"indices": [
+						63,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vSKJweoxFZ",
+					"expanded_url": "https://www.youtube.com/watch?v=UsGhfqMrnHs",
+					"display_url": "youtube.com/watch?v=UsGhfq…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TUNE! #NowPlaying Nightmares On Wax - Finer (Alex Gopher Mix)  #TheHaul https://t.co/vSKJweoxFZ"
+	},
+	{
+		"created_at": "Sun Feb 12 18:14:02 +0000 2023",
+		"id": 1624820074467979300,
+		"id_str": "1624834226657927170",
+		"full_text": "https://t.co/OejuqQp4z2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1624820070621888500,
+					"id_str": "1624820070621888514",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FoyFPt1XwAIMvIH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoyFPt1XwAIMvIH.jpg",
+					"url": "https://t.co/OejuqQp4z2",
+					"display_url": "pic.twitter.com/OejuqQp4z2",
+					"expanded_url": "https://twitter.com/SimpsonsArsenal/status/1624820074467979266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1624820070621888500,
+					"id_str": "1624820070621888514",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FoyFPt1XwAIMvIH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoyFPt1XwAIMvIH.jpg",
+					"url": "https://t.co/OejuqQp4z2",
+					"display_url": "pic.twitter.com/OejuqQp4z2",
+					"expanded_url": "https://twitter.com/SimpsonsArsenal/status/1624820074467979266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1096703520798056400,
+			"id_str": "1096703520798056450",
+			"name": "Simpsons Arsenal",
+			"screen_name": "SimpsonsArsenal",
+			"location": "London, England",
+			"description": "Just an Arsenal fan posting Simpsons quotes and gifs. Be good to each other 💛💙",
+			"url": "https://t.co/VTryhk3rkF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTryhk3rkF",
+							"expanded_url": "http://ko-fi.com/simpsonsarsenal",
+							"display_url": "ko-fi.com/simpsonsarsenal",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68508,
+			"friends_count": 106,
+			"listed_count": 511,
+			"created_at": "Sat Feb 16 09:31:09 +0000 2019",
+			"favourites_count": 8215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161285080226127874/sqXr48eC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161285080226127874/sqXr48eC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1096703520798056450/1559308826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 771,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/OejuqQp4z2"
+	},
+	{
+		"created_at": "Sun Feb 12 18:12:09 +0000 2023",
+		"id": 1624828598564577300,
+		"id_str": "1624833754349830147",
+		"full_text": "But ya liked me yesterday... https://t.co/Tm9IreAFgf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1624828595255271400,
+					"id_str": "1624828595255271424",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/FoyM_6kWYAAluuU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoyM_6kWYAAluuU.jpg",
+					"url": "https://t.co/Tm9IreAFgf",
+					"display_url": "pic.twitter.com/Tm9IreAFgf",
+					"expanded_url": "https://twitter.com/ActingTheGom/status/1624828598564577280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1624828595255271400,
+					"id_str": "1624828595255271424",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/FoyM_6kWYAAluuU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoyM_6kWYAAluuU.jpg",
+					"url": "https://t.co/Tm9IreAFgf",
+					"display_url": "pic.twitter.com/Tm9IreAFgf",
+					"expanded_url": "https://twitter.com/ActingTheGom/status/1624828598564577280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 368869405,
+			"id_str": "368869405",
+			"name": "Esterantz",
+			"screen_name": "ActingTheGom",
+			"location": "Ireland",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12732,
+			"friends_count": 5718,
+			"listed_count": 35,
+			"created_at": "Tue Sep 06 11:09:44 +0000 2011",
+			"favourites_count": 66352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1624012114787463171/R2Utkp1u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1624012114787463171/R2Utkp1u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/368869405/1651757053",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "But ya liked me yesterday... https://t.co/Tm9IreAFgf"
+	},
+	{
+		"created_at": "Sun Feb 12 16:28:18 +0000 2023",
+		"id": 1624807618379219000,
+		"id_str": "1624807618379218947",
+		"full_text": "@eops cheers buddy, 55mins and the section has been great so far. #HaulOfGold",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HaulOfGold",
+					"indices": [
+						66,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution @eops@mastodon.world",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1624807324257857500,
+		"in_reply_to_status_id_str": "1624807324257857536",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eops cheers buddy, 55mins and the section has been great so far. #HaulOfGold"
+	},
+	{
+		"created_at": "Sun Feb 12 15:49:26 +0000 2023",
+		"id": 1624797839279661000,
+		"id_str": "1624797839279661057",
+		"full_text": "@eops https://t.co/mt0Pfwiq27",
+		"truncated": false,
+		"display_text_range": [
+			5,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution @eops@mastodon.world",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1624797830975037400,
+					"id_str": "1624797830975037444",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FoxxBMsXoAQfXh9.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoxxBMsXoAQfXh9.jpg",
+					"url": "https://t.co/mt0Pfwiq27",
+					"display_url": "pic.twitter.com/mt0Pfwiq27",
+					"expanded_url": "https://twitter.com/mfshill/status/1624797839279661057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 220,
+							"h": 246,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 246,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 246,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1624797830975037400,
+					"id_str": "1624797830975037444",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FoxxBMsXoAQfXh9.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoxxBMsXoAQfXh9.jpg",
+					"url": "https://t.co/mt0Pfwiq27",
+					"display_url": "pic.twitter.com/mt0Pfwiq27",
+					"expanded_url": "https://twitter.com/mfshill/status/1624797839279661057/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 220,
+							"h": 246,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 246,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 246,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							110,
+							123
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FoxxBMsXoAQfXh9.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1624797641598021600,
+		"in_reply_to_status_id_str": "1624797641598021632",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@eops https://t.co/mt0Pfwiq27"
+	},
+	{
+		"created_at": "Sun Feb 12 15:48:10 +0000 2023",
+		"id": 1624761608135225300,
+		"id_str": "1624797519409557504",
+		"full_text": "https://t.co/LLVD4cfhO6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1624761506435932200,
+					"id_str": "1624761506435932160",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FoxP-1PXoAAHGUD.png",
+					"media_url_https": "https://pbs.twimg.com/media/FoxP-1PXoAAHGUD.png",
+					"url": "https://t.co/LLVD4cfhO6",
+					"display_url": "pic.twitter.com/LLVD4cfhO6",
+					"expanded_url": "https://twitter.com/CatWorkers/status/1624761608135225345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1624761506435932200,
+					"id_str": "1624761506435932160",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FoxP-1PXoAAHGUD.png",
+					"media_url_https": "https://pbs.twimg.com/media/FoxP-1PXoAAHGUD.png",
+					"url": "https://t.co/LLVD4cfhO6",
+					"display_url": "pic.twitter.com/LLVD4cfhO6",
+					"expanded_url": "https://twitter.com/CatWorkers/status/1624761608135225345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1328704176772288500,
+			"id_str": "1328704176772288513",
+			"name": "cats with jobs",
+			"screen_name": "CatWorkers",
+			"location": "United Kingdom",
+			"description": "good cats being workers • unionized. • mascot @JobertTheCat. Pin badges and stickers are now available for pre-order!",
+			"url": "https://t.co/FMvt3qfgYV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FMvt3qfgYV",
+							"expanded_url": "https://thecathive.com/collections/cats-with-jobs",
+							"display_url": "thecathive.com/collections/ca…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1645528,
+			"friends_count": 81,
+			"listed_count": 3931,
+			"created_at": "Tue Nov 17 14:19:02 +0000 2020",
+			"favourites_count": 8512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531787315852492800/f9XuxbM5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531787315852492800/f9XuxbM5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1328704176772288513/1606765870",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2903,
+		"favorite_count": 37169,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/LLVD4cfhO6"
+	},
+	{
+		"created_at": "Sun Feb 12 15:47:56 +0000 2023",
+		"id": 1624797458780790800,
+		"id_str": "1624797458780790784",
+		"full_text": "@eops shame there's no tracklist........",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution @eops@mastodon.world",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1624797006227988500,
+		"in_reply_to_status_id_str": "1624797006227988481",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eops shame there's no tracklist........"
+	},
+	{
+		"created_at": "Sun Feb 12 15:44:01 +0000 2023",
+		"id": 1624796474264502300,
+		"id_str": "1624796474264502277",
+		"full_text": "@eops missed this live so have just put it on, good start!",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution @eops@mastodon.world",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1624761426567897000,
+		"in_reply_to_status_id_str": "1624761426567897089",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eops missed this live so have just put it on, good start!"
+	},
+	{
 		"created_at": "Fri Feb 10 23:26:04 +0000 2023",
 		"id": 1624187979345404000,
 		"id_str": "1624187979345403906",
