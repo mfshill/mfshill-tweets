@@ -1,6 +1,508 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 13 22:20:01 +0000 2023",
+		"id": 1625169996283359200,
+		"id_str": "1625258518658916352",
+		"full_text": "Please cancel saltbaeification of food, cancel 2023 if necessary to stop this sort of thing\nhttps://t.co/omPnzIz1Oe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1625099478087741400,
+					"id_str": "1625099478087741441",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1625099478087741441/pu/img/4gL0pU7PwZHaGub8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625099478087741441/pu/img/4gL0pU7PwZHaGub8.jpg",
+					"url": "https://t.co/omPnzIz1Oe",
+					"display_url": "pic.twitter.com/omPnzIz1Oe",
+					"expanded_url": "https://twitter.com/andre_rochadel/status/1625099529883197440/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 374,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1625099529883197400,
+					"source_status_id_str": "1625099529883197440",
+					"source_user_id": 1032692932443365400,
+					"source_user_id_str": "1032692932443365376"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1625099478087741400,
+					"id_str": "1625099478087741441",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1625099478087741441/pu/img/4gL0pU7PwZHaGub8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625099478087741441/pu/img/4gL0pU7PwZHaGub8.jpg",
+					"url": "https://t.co/omPnzIz1Oe",
+					"display_url": "pic.twitter.com/omPnzIz1Oe",
+					"expanded_url": "https://twitter.com/andre_rochadel/status/1625099529883197440/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 374,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1625099529883197400,
+					"source_status_id_str": "1625099529883197440",
+					"source_user_id": 1032692932443365400,
+					"source_user_id_str": "1032692932443365376",
+					"video_info": {
+						"aspect_ratio": [
+							72,
+							131
+						],
+						"duration_millis": 17300,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1625099478087741441/pu/vid/576x1048/d4kNhZ-qJ5oQzBxt.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1625099478087741441/pu/vid/320x582/gxIrqa1PqOGlgVlp.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1625099478087741441/pu/pl/FMJas_IsOLJNpp1T.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1625099478087741441/pu/vid/480x872/kbMbCRxlm-6TZK5w.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1032692932443365400,
+							"id_str": "1032692932443365376",
+							"name": "André Rochadel",
+							"screen_name": "andre_rochadel",
+							"location": "Brasília, Brazil",
+							"description": "Opiniões Pessoais. 1° eliminado no MasterChef Profissionais 2018. Merendeiro no Metrópoles, todo dia uma receita nas minhas redes! Não sei o que é salmão.",
+							"url": "https://t.co/LisbB5ztKQ",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/LisbB5ztKQ",
+											"expanded_url": "http://Instagram.com/andre.rochadel",
+											"display_url": "Instagram.com/andre.rochadel",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 48759,
+							"friends_count": 1248,
+							"listed_count": 42,
+							"created_at": "Thu Aug 23 18:15:56 +0000 2018",
+							"favourites_count": 55302,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 61629,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1613317355878105089/BhAMTx2x_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1613317355878105089/BhAMTx2x_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1032692932443365376/1581816905",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1415360442587877400,
+			"id_str": "1415360442587877376",
+			"name": "Bo Sredni Vashtar",
+			"screen_name": "mondegreentea",
+			"location": "",
+			"description": "free jazz tweeter, it's all about the tweets I don't post //  supermarket own brand version at your favourite budget supermarket",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 489,
+			"friends_count": 3387,
+			"listed_count": 1,
+			"created_at": "Wed Jul 14 17:20:19 +0000 2021",
+			"favourites_count": 22188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1506983829906591745/mWRSvxPu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1506983829906591745/mWRSvxPu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1415360442587877376/1646247914",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please cancel saltbaeification of food, cancel 2023 if necessary to stop this sort of thing\nhttps://t.co/omPnzIz1Oe"
+	},
+	{
+		"created_at": "Mon Feb 13 18:34:17 +0000 2023",
+		"id": 1625107097695256600,
+		"id_str": "1625201710913228810",
+		"full_text": "I've always suspected that an advanced alien civilisation with the technology to travel at close to light speed across interstellar distances would arrive in Earth orbit unobserved and proceed to dispatch a fleet of small, easily detectable balloons into our atmosphere. https://t.co/OlDM2LXrOG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OlDM2LXrOG",
+					"expanded_url": "https://twitter.com/shaunwkeaveny/status/1625052327672528899",
+					"display_url": "twitter.com/shaunwkeaveny/…",
+					"indices": [
+						271,
+						294
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17939037,
+			"id_str": "17939037",
+			"name": "Brian Cox",
+			"screen_name": "ProfBrianCox",
+			"location": "Not sure anymore",
+			"description": "Professor of Particle Physics at The University of Manchester and The Royal Society Professor for Public Engagement in Science.\n@profbriancox@universeodon.com",
+			"url": "https://t.co/iy9XOPhPhK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iy9XOPhPhK",
+							"expanded_url": "http://www.briancoxlive.co.uk",
+							"display_url": "briancoxlive.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3066834,
+			"friends_count": 1016,
+			"listed_count": 14843,
+			"created_at": "Sun Dec 07 09:50:06 +0000 2008",
+			"favourites_count": 388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 31036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/750662705/IMG_2411_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/750662705/IMG_2411_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17939037/1664540973",
+			"profile_link_color": "167794",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1625052327672529000,
+		"quoted_status_id_str": "1625052327672528899",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OlDM2LXrOG",
+			"expanded": "https://twitter.com/shaunwkeaveny/status/1625052327672528899",
+			"display": "twitter.com/shaunwkeaveny/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 13 08:40:41 +0000 2023",
+			"id": 1625052327672529000,
+			"id_str": "1625052327672528899",
+			"full_text": "\"An official admitted he couldn't rule out the objects were extra-terrestrials. The object has been described by defence officials as an unmanned octagonal structure with strings attached to it.\"\nWow! Aliens use string!? Do they have blu-tak as well?:\nhttps://t.co/STihqXU5V5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/STihqXU5V5",
+						"expanded_url": "https://www.bbc.co.uk/news/world-us-canada-64620064",
+						"display_url": "bbc.co.uk/news/world-us-…",
+						"indices": [
+							252,
+							275
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 102027437,
+				"id_str": "102027437",
+				"name": "Shaun Keaveny 💙",
+				"screen_name": "shaunwkeaveny",
+				"location": "The World",
+				"description": "Get a soupçon here:   https://t.co/P7gutvaNMy… and join our weekly radio heaven, Community Garden Radio, at https://t.co/PAJ4pUE3l9",
+				"url": "https://t.co/DHjdnseJ4x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DHjdnseJ4x",
+								"expanded_url": "https://podcasts.apple.com/gb/podcast/the-line-up-with-shaun-keaveny/id1584491956",
+								"display_url": "podcasts.apple.com/gb/podcast/the…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/P7gutvaNMy",
+								"expanded_url": "http://memmo.me/gb/en/profile/",
+								"display_url": "memmo.me/gb/en/profile/",
+								"indices": [
+									22,
+									45
+								]
+							},
+							{
+								"url": "https://t.co/PAJ4pUE3l9",
+								"expanded_url": "http://patreon.com/shaunkeaveny",
+								"display_url": "patreon.com/shaunkeaveny",
+								"indices": [
+									108,
+									131
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 171581,
+				"friends_count": 12268,
+				"listed_count": 872,
+				"created_at": "Tue Jan 05 10:44:52 +0000 2010",
+				"favourites_count": 33072,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 51234,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1619116796262375425/0SAHK8eT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1619116796262375425/0SAHK8eT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/102027437/1491913858",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 82,
+			"favorite_count": 1132,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4049,
+		"favorite_count": 41223,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've always suspected that an advanced alien civilisation with the technology to travel at close to light speed across interstellar distances would arrive in Earth orbit unobserved and proceed to dispatch a fleet of small, easily detectable balloons into our atmosphere. https://t.co/OlDM2LXrOG"
+	},
+	{
 		"created_at": "Sun Feb 12 18:30:00 +0000 2023",
 		"id": 1624838245589844000,
 		"id_str": "1624838245589843968",
