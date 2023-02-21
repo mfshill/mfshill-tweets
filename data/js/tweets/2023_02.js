@@ -1,6 +1,486 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 20 17:56:07 +0000 2023",
+		"id": 1627728819804160000,
+		"id_str": "1627728819804160002",
+		"full_text": "@Dan_Draws @AStoreLike94 too good not to order one!",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dan_Draws",
+					"name": "Dan Evans",
+					"id": 376244874,
+					"id_str": "376244874",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "AStoreLike94",
+					"name": "𝔸 𝕊𝕥𝕠𝕣𝕖 𝕃𝕚𝕜𝕖 𝟡𝟜",
+					"id": 990570382846517200,
+					"id_str": "990570382846517249",
+					"indices": [
+						11,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1626190283523125200,
+		"in_reply_to_status_id_str": "1626190283523125249",
+		"in_reply_to_user_id": 376244874,
+		"in_reply_to_user_id_str": "376244874",
+		"in_reply_to_screen_name": "Dan_Draws",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 274,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Dan_Draws @AStoreLike94 too good not to order one!"
+	},
+	{
+		"created_at": "Mon Feb 20 17:49:32 +0000 2023",
+		"id": 1626190283523125200,
+		"id_str": "1627727163494391808",
+		"full_text": "North London is about to EXPLODE. I teamed up with @AStoreLike94 again to bring you something very special... \nPut yesterday's result behind you &amp; cheer yourself up with one of our SAKA x AKIRA bootleg T-Shirts. Available NOW in limited numbers.\n\nhttps://t.co/Pe0XrR6QeQ https://t.co/saFORi75tZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AStoreLike94",
+					"name": "𝔸 𝕊𝕥𝕠𝕣𝕖 𝕃𝕚𝕜𝕖 𝟡𝟜",
+					"id": 990570382846517200,
+					"id_str": "990570382846517249",
+					"indices": [
+						51,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Pe0XrR6QeQ",
+					"expanded_url": "https://bit.ly/3K7Z9Lr",
+					"display_url": "bit.ly/3K7Z9Lr",
+					"indices": [
+						251,
+						274
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1626188524264341500,
+					"id_str": "1626188524264341504",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FpFh2M6XwAA1iAh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpFh2M6XwAA1iAh.jpg",
+					"url": "https://t.co/saFORi75tZ",
+					"display_url": "pic.twitter.com/saFORi75tZ",
+					"expanded_url": "https://twitter.com/Dan_Draws/status/1626190283523125249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1626188524264341500,
+					"id_str": "1626188524264341504",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FpFh2M6XwAA1iAh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpFh2M6XwAA1iAh.jpg",
+					"url": "https://t.co/saFORi75tZ",
+					"display_url": "pic.twitter.com/saFORi75tZ",
+					"expanded_url": "https://twitter.com/Dan_Draws/status/1626190283523125249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 376244874,
+			"id_str": "376244874",
+			"name": "Dan Evans",
+			"screen_name": "Dan_Draws",
+			"location": "London",
+			"description": "illustrator -\nstudio manager @monkeypuzzleart https://t.co/G7oD8Whk7R",
+			"url": "https://t.co/qTTRNVSOau",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qTTRNVSOau",
+							"expanded_url": "http://idrawforfood.co.uk/",
+							"display_url": "idrawforfood.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/G7oD8Whk7R",
+							"expanded_url": "http://instagram.com/danxdraws",
+							"display_url": "instagram.com/danxdraws",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3670,
+			"friends_count": 619,
+			"listed_count": 52,
+			"created_at": "Mon Sep 19 15:16:33 +0000 2011",
+			"favourites_count": 15276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159596486671425537/FRCxVv22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159596486671425537/FRCxVv22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/376244874/1515346533",
+			"profile_link_color": "FF9EFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "52381F",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "North London is about to EXPLODE. I teamed up with @AStoreLike94 again to bring you something very special... \nPut yesterday's result behind you &amp; cheer yourself up with one of our SAKA x AKIRA bootleg T-Shirts. Available NOW in limited numbers.\n\nhttps://t.co/Pe0XrR6QeQ https://t.co/saFORi75tZ"
+	},
+	{
+		"created_at": "Mon Feb 20 16:00:06 +0000 2023",
+		"id": 1627699625552486400,
+		"id_str": "1627699625552486407",
+		"full_text": "Badly drawn #AFC https://t.co/wG2myWANPI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AFC",
+					"indices": [
+						12,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1627699480253309000,
+					"id_str": "1627699480253308928",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FpbADamWIAAtaKi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpbADamWIAAtaKi.jpg",
+					"url": "https://t.co/wG2myWANPI",
+					"display_url": "pic.twitter.com/wG2myWANPI",
+					"expanded_url": "https://twitter.com/mfshill/status/1627699625552486407/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1627699480253309000,
+					"id_str": "1627699480253308928",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FpbADamWIAAtaKi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpbADamWIAAtaKi.jpg",
+					"url": "https://t.co/wG2myWANPI",
+					"display_url": "pic.twitter.com/wG2myWANPI",
+					"expanded_url": "https://twitter.com/mfshill/status/1627699625552486407/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 274,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Badly drawn #AFC https://t.co/wG2myWANPI"
+	},
+	{
 		"created_at": "Sun Feb 19 22:30:20 +0000 2023",
 		"id": 1627435441908592600,
 		"id_str": "1627435441908592640",
