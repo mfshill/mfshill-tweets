@@ -1,6 +1,536 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Tue Feb 21 21:28:41 +0000 2023",
+		"id": 1628144705815863300,
+		"id_str": "1628144705815863296",
+		"full_text": "comical keeping",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 274,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "comical keeping"
+	},
+	{
+		"created_at": "Tue Feb 21 16:06:34 +0000 2023",
+		"id": 1628063641818878000,
+		"id_str": "1628063641818877953",
+		"full_text": "https://t.co/igy2S8Q9AY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1628063636282347500,
+					"id_str": "1628063636282347521",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FpgLQFhXEAEcV20.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpgLQFhXEAEcV20.jpg",
+					"url": "https://t.co/igy2S8Q9AY",
+					"display_url": "pic.twitter.com/igy2S8Q9AY",
+					"expanded_url": "https://twitter.com/mfshill/status/1628063641818877953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 441,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 1356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 779,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1628063636282347500,
+					"id_str": "1628063636282347521",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FpgLQFhXEAEcV20.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpgLQFhXEAEcV20.jpg",
+					"url": "https://t.co/igy2S8Q9AY",
+					"display_url": "pic.twitter.com/igy2S8Q9AY",
+					"expanded_url": "https://twitter.com/mfshill/status/1628063641818877953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 441,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 1356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 779,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 274,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/igy2S8Q9AY"
+	},
+	{
+		"created_at": "Tue Feb 21 12:44:57 +0000 2023",
+		"id": 1628010361659048000,
+		"id_str": "1628012901393899520",
+		"full_text": "GamesMaster, I can't get past level 3 of Sonic the Hedgehog https://t.co/PvoLU0gXxH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PvoLU0gXxH",
+					"expanded_url": "https://twitter.com/JustinWhang/status/1627903853290000385",
+					"display_url": "twitter.com/JustinWhang/st…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14524990,
+			"id_str": "14524990",
+			"name": "sqwirräl",
+			"screen_name": "sqwirral",
+			"location": "The tippity top of the mountain",
+			"description": "Now it's locked in place",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 125,
+			"friends_count": 96,
+			"listed_count": 5,
+			"created_at": "Fri Apr 25 10:56:04 +0000 2008",
+			"favourites_count": 4738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045725882751610880/KcmyNBTL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045725882751610880/KcmyNBTL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14524990/1577645448",
+			"profile_link_color": "997A2E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D6D6D6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1627903853290000400,
+		"quoted_status_id_str": "1627903853290000385",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PvoLU0gXxH",
+			"expanded": "https://twitter.com/JustinWhang/status/1627903853290000385",
+			"display": "twitter.com/JustinWhang/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 21 05:31:38 +0000 2023",
+			"id": 1627903853290000400,
+			"id_str": "1627903853290000385",
+			"full_text": "Modok looks so fucking stupid that it’s made me the most interested in watching a marvel movie that Ive been in years https://t.co/i1ko3nzP47",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1627903849598951400,
+						"id_str": "1627903849598951424",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/Fpd57RvWIAARdkM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fpd57RvWIAARdkM.jpg",
+						"url": "https://t.co/i1ko3nzP47",
+						"display_url": "pic.twitter.com/i1ko3nzP47",
+						"expanded_url": "https://twitter.com/JustinWhang/status/1627903853290000385/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 896,
+								"h": 639,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 485,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 896,
+								"h": 639,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1627903849598951400,
+						"id_str": "1627903849598951424",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/Fpd57RvWIAARdkM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fpd57RvWIAARdkM.jpg",
+						"url": "https://t.co/i1ko3nzP47",
+						"display_url": "pic.twitter.com/i1ko3nzP47",
+						"expanded_url": "https://twitter.com/JustinWhang/status/1627903853290000385/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 896,
+								"h": 639,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 485,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 896,
+								"h": 639,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 51359739,
+				"id_str": "51359739",
+				"name": "Justin Whang 🐙",
+				"screen_name": "JustinWhang",
+				"location": "NYC",
+				"description": "Not Steve Aoki. YouTube videos about pee and poo. I play guitar in a numetal band @wearejynx |https://t.co/yJnXuh9h3N use CODE: Whang | Biz: whang@moreyellow.com",
+				"url": "https://t.co/MCJ9aA1gvb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MCJ9aA1gvb",
+								"expanded_url": "http://beacons.page/whang",
+								"display_url": "beacons.page/whang",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/yJnXuh9h3N",
+								"expanded_url": "http://metapcs.com",
+								"display_url": "metapcs.com",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 300148,
+				"friends_count": 8120,
+				"listed_count": 360,
+				"created_at": "Sat Jun 27 05:43:26 +0000 2009",
+				"favourites_count": 195448,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 114772,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1393441808169029637/AlvHwzDx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1393441808169029637/AlvHwzDx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/51359739/1605071520",
+				"profile_link_color": "57B1FF",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1703,
+			"favorite_count": 49115,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "GamesMaster, I can't get past level 3 of Sonic the Hedgehog https://t.co/PvoLU0gXxH"
+	},
+	{
 		"created_at": "Mon Feb 20 17:56:07 +0000 2023",
 		"id": 1627728819804160000,
 		"id_str": "1627728819804160002",
