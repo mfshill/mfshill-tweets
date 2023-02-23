@@ -1,6 +1,552 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Wed Feb 22 19:43:17 +0000 2023",
+		"id": 1628480567745433600,
+		"id_str": "1628480567745433602",
+		"full_text": "@Jamie_Dodger_ @LewisCapaldi @JamesBlunt https://t.co/Ens7wssaHc",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jamie_Dodger_",
+					"name": "Jamie_Dodger_",
+					"id": 27925847,
+					"id_str": "27925847",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "LewisCapaldi",
+					"name": "Lewis Capaldi",
+					"id": 370290486,
+					"id_str": "370290486",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"screen_name": "JamesBlunt",
+					"name": "James Blunt",
+					"id": 82097756,
+					"id_str": "82097756",
+					"indices": [
+						29,
+						40
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1628480555204415500,
+					"id_str": "1628480555204415488",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FpmGb9iXEAA0i3X.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FpmGb9iXEAA0i3X.jpg",
+					"url": "https://t.co/Ens7wssaHc",
+					"display_url": "pic.twitter.com/Ens7wssaHc",
+					"expanded_url": "https://twitter.com/mfshill/status/1628480567745433602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1628480555204415500,
+					"id_str": "1628480555204415488",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FpmGb9iXEAA0i3X.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FpmGb9iXEAA0i3X.jpg",
+					"url": "https://t.co/Ens7wssaHc",
+					"display_url": "pic.twitter.com/Ens7wssaHc",
+					"expanded_url": "https://twitter.com/mfshill/status/1628480567745433602/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							139
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FpmGb9iXEAA0i3X.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1628480019268833300,
+		"in_reply_to_status_id_str": "1628480019268833284",
+		"in_reply_to_user_id": 27925847,
+		"in_reply_to_user_id_str": "27925847",
+		"in_reply_to_screen_name": "Jamie_Dodger_",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@Jamie_Dodger_ @LewisCapaldi @JamesBlunt https://t.co/Ens7wssaHc"
+	},
+	{
+		"created_at": "Wed Feb 22 17:27:35 +0000 2023",
+		"id": 1628446415759327200,
+		"id_str": "1628446415759327233",
+		"full_text": "googles 'drip meaning in slang' 😐 https://t.co/qWuLDxt53h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qWuLDxt53h",
+					"expanded_url": "https://twitter.com/F1/status/1628418129943572480",
+					"display_url": "twitter.com/F1/status/1628…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1628418129943572500,
+		"quoted_status_id_str": "1628418129943572480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qWuLDxt53h",
+			"expanded": "https://twitter.com/F1/status/1628418129943572480",
+			"display": "twitter.com/F1/status/1628…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 22 15:35:11 +0000 2023",
+			"id": 1628418129943572500,
+			"id_str": "1628418129943572480",
+			"full_text": "Meet the very talented individual behind @LewisHamilton's fashion drip, stylist @ericjmcneal 🤩\n\nAnd, explore the stories behind some of Hamilton's best paddock fits from 2022 👌😮‍💨\n\n#F1 @MercedesAMGF1 \n\nhttps://t.co/hvT9khp7rC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				225
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "F1",
+						"indices": [
+							181,
+							184
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LewisHamilton",
+						"name": "Lewis Hamilton",
+						"id": 213969309,
+						"id_str": "213969309",
+						"indices": [
+							41,
+							55
+						]
+					},
+					{
+						"screen_name": "ericjmcneal",
+						"name": "Eric McNeal",
+						"id": 24620680,
+						"id_str": "24620680",
+						"indices": [
+							80,
+							92
+						]
+					},
+					{
+						"screen_name": "MercedesAMGF1",
+						"name": "Mercedes-AMG PETRONAS F1 Team",
+						"id": 26235265,
+						"id_str": "26235265",
+						"indices": [
+							185,
+							199
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/hvT9khp7rC",
+						"expanded_url": "https://f1.com/HAM_Stylist_2022",
+						"display_url": "f1.com/HAM_Stylist_20…",
+						"indices": [
+							202,
+							225
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 69008563,
+				"id_str": "69008563",
+				"name": "Formula 1",
+				"screen_name": "F1",
+				"location": "",
+				"description": "Coming Soon: F1 Pre-Season Testing in Bahrain, February 23-25! 🇧🇭",
+				"url": "https://t.co/GumNgQuzik",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GumNgQuzik",
+								"expanded_url": "https://www.F1.com",
+								"display_url": "F1.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8997247,
+				"friends_count": 88,
+				"listed_count": 34543,
+				"created_at": "Wed Aug 26 15:19:37 +0000 2009",
+				"favourites_count": 5232,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 79018,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/69008563/1668959108",
+				"profile_link_color": "DC291E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "CCCCCC",
+				"profile_text_color": "222222",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 196,
+			"favorite_count": 2090,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "googles 'drip meaning in slang' 😐 https://t.co/qWuLDxt53h"
+	},
+	{
+		"created_at": "Wed Feb 22 17:21:34 +0000 2023",
+		"id": 1628444900831248400,
+		"id_str": "1628444900831248385",
+		"full_text": "curious what if anything will convince the anti-vax crowd - Unvaccinated more likely to have heart attack, stroke after COVID, study finds https://t.co/kKEgUxt6jn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kKEgUxt6jn",
+					"expanded_url": "https://arstechnica.com/?post_type=post&p=1919236",
+					"display_url": "arstechnica.com/?post_type=pos…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "curious what if anything will convince the anti-vax crowd - Unvaccinated more likely to have heart attack, stroke after COVID, study finds https://t.co/kKEgUxt6jn"
+	},
+	{
 		"created_at": "Tue Feb 21 21:28:41 +0000 2023",
 		"id": 1628144705815863300,
 		"id_str": "1628144705815863296",
