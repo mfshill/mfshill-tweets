@@ -1,6 +1,930 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sat Feb 25 22:24:19 +0000 2023",
+		"id": 1629599794099257300,
+		"id_str": "1629608255138811905",
+		"full_text": "Just @mondohoss600 making yet more history. 🤯\n\nThis is how he cleared 6.22m at the @AllStarPerche! 🚀 \n\n(Video from @FFAthletisme) \n\nhttps://t.co/Xkstknrb3h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mondohoss600",
+					"name": "Mondo Duplantis",
+					"id": 1081859330,
+					"id_str": "1081859330",
+					"indices": [
+						5,
+						18
+					]
+				},
+				{
+					"screen_name": "AllStarPerche",
+					"name": "All Star Perche by SCC",
+					"id": 4426630840,
+					"id_str": "4426630840",
+					"indices": [
+						83,
+						97
+					]
+				},
+				{
+					"screen_name": "FFAthletisme",
+					"name": "FFAthlétisme",
+					"id": 117435345,
+					"id_str": "117435345",
+					"indices": [
+						115,
+						128
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1629598570989879300,
+					"id_str": "1629598570989879298",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Fp1_ghCX0AAFFKD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fp1_ghCX0AAFFKD.jpg",
+					"url": "https://t.co/Xkstknrb3h",
+					"display_url": "pic.twitter.com/Xkstknrb3h",
+					"expanded_url": "https://twitter.com/FFAthletisme/status/1629598866696699905/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1629598866696700000,
+					"source_status_id_str": "1629598866696699905",
+					"source_user_id": 117435345,
+					"source_user_id_str": "117435345"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1629598570989879300,
+					"id_str": "1629598570989879298",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Fp1_ghCX0AAFFKD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fp1_ghCX0AAFFKD.jpg",
+					"url": "https://t.co/Xkstknrb3h",
+					"display_url": "pic.twitter.com/Xkstknrb3h",
+					"expanded_url": "https://twitter.com/FFAthletisme/status/1629598866696699905/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1629598866696700000,
+					"source_status_id_str": "1629598866696699905",
+					"source_user_id": 117435345,
+					"source_user_id_str": "117435345",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 160299,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1629598570989879298/pl/LhqR_hKq4s4_DxQt.m3u8?tag=16&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1629598570989879298/vid/1280x720/LreFlK6Q5oDCWh-D.mp4?tag=16"
+							},
+							{
+								"bitrate": 10368000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1629598570989879298/vid/1920x1080/95349iH0oPI5insk.mp4?tag=16"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1629598570989879298/vid/480x270/pJsJmKgCq0tuy4tB.mp4?tag=16"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1629598570989879298/vid/640x360/QdK2WP5NI5sGtKvy.mp4?tag=16"
+							}
+						]
+					},
+					"additional_media_info": {
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 117435345,
+							"id_str": "117435345",
+							"name": "FFAthlétisme",
+							"screen_name": "FFAthletisme",
+							"location": "",
+							"description": "🎽 Compte officiel de la Fédération Française d'Athlétisme\n💻 https://t.co/KtNZwzVvmV\n📸 https://t.co/EsBkKDAzAc\n▶ https://t.co/ihZ2t8taLo",
+							"url": "https://t.co/mAyLMQn4v3",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/mAyLMQn4v3",
+											"expanded_url": "https://www.athle.fr",
+											"display_url": "athle.fr",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/KtNZwzVvmV",
+											"expanded_url": "http://facebook.com/FFAthletisme",
+											"display_url": "facebook.com/FFAthletisme",
+											"indices": [
+												60,
+												83
+											]
+										},
+										{
+											"url": "https://t.co/EsBkKDAzAc",
+											"expanded_url": "http://instagram.com/ffathletisme",
+											"display_url": "instagram.com/ffathletisme",
+											"indices": [
+												86,
+												109
+											]
+										},
+										{
+											"url": "https://t.co/ihZ2t8taLo",
+											"expanded_url": "http://youtube.com/ffathletisme",
+											"display_url": "youtube.com/ffathletisme",
+											"indices": [
+												112,
+												135
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 103384,
+							"friends_count": 372,
+							"listed_count": 456,
+							"created_at": "Thu Feb 25 15:15:31 +0000 2010",
+							"favourites_count": 3118,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 29352,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1014488916274053120/u7ORIXkf_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014488916274053120/u7ORIXkf_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/117435345/1676919340",
+							"profile_link_color": "133351",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "FFFFFF",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 50580846,
+			"id_str": "50580846",
+			"name": "European Athletics",
+			"screen_name": "EuroAthletics",
+			"location": "Lausanne, Switzerland",
+			"description": "The official Twitter account of European Athletics! Follow us on the road to #Istanbul2023 from 2-5 March!",
+			"url": "https://t.co/0gKBLy74N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0gKBLy74N0",
+							"expanded_url": "https://youtube.com/@EuropeanAthletics",
+							"display_url": "youtube.com/@EuropeanAthle…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 146337,
+			"friends_count": 3697,
+			"listed_count": 785,
+			"created_at": "Thu Jun 25 07:25:42 +0000 2009",
+			"favourites_count": 2521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1348960208719142913/2mezPM9R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1348960208719142913/2mezPM9R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/50580846/1675348805",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 312,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just @mondohoss600 making yet more history. 🤯\n\nThis is how he cleared 6.22m at the @AllStarPerche! 🚀 \n\n(Video from @FFAthletisme) \n\nhttps://t.co/Xkstknrb3h"
+	},
+	{
+		"created_at": "Sat Feb 25 19:43:14 +0000 2023",
+		"id": 1625540492908806100,
+		"id_str": "1629567717815513090",
+		"full_text": "No matter what disappointment awaits Spurs this season, fans can console themselves at our centre...\n\n🔞18+ BeGambleAware https://t.co/v9YwvCT3m9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1625537198291394600,
+					"id_str": "1625537198291394566",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1625537198291394566/pu/img/5fmovGoGNMUr5FEo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625537198291394566/pu/img/5fmovGoGNMUr5FEo.jpg",
+					"url": "https://t.co/v9YwvCT3m9",
+					"display_url": "pic.twitter.com/v9YwvCT3m9",
+					"expanded_url": "https://twitter.com/paddypower/status/1625540492908806168/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1625537198291394600,
+					"id_str": "1625537198291394566",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1625537198291394566/pu/img/5fmovGoGNMUr5FEo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625537198291394566/pu/img/5fmovGoGNMUr5FEo.jpg",
+					"url": "https://t.co/v9YwvCT3m9",
+					"display_url": "pic.twitter.com/v9YwvCT3m9",
+					"expanded_url": "https://twitter.com/paddypower/status/1625540492908806168/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 128240,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1625537198291394566/pu/pl/UdGzJr-rT6Zwpans.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1625537198291394566/pu/vid/1280x720/jzlYXPDPbPpx99EC.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1625537198291394566/pu/vid/480x270/e6mRm39oHiyitB5m.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1625537198291394566/pu/vid/640x360/gL6x_3Pmo0Jeiw1H.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14387275,
+			"id_str": "14387275",
+			"name": "Paddy Power",
+			"screen_name": "paddypower",
+			"location": "",
+			"description": "Love Football. Intimately. @AskPaddyPower for queries. Instagram: paddypowerofficial. Followers must be 18+. https://t.co/oNBOCmRHkd",
+			"url": "https://t.co/6KfND0cGmj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6KfND0cGmj",
+							"expanded_url": "http://news.paddypower.com",
+							"display_url": "news.paddypower.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oNBOCmRHkd",
+							"expanded_url": "http://begambleaware.org",
+							"display_url": "begambleaware.org",
+							"indices": [
+								109,
+								132
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 699800,
+			"friends_count": 2289,
+			"listed_count": 2414,
+			"created_at": "Mon Apr 14 16:36:55 +0000 2008",
+			"favourites_count": 14412,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 293013,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "006600",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964533060942299136/XCPfJNxf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964533060942299136/XCPfJNxf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14387275/1666883393",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 748,
+		"favorite_count": 3855,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No matter what disappointment awaits Spurs this season, fans can console themselves at our centre...\n\n🔞18+ BeGambleAware https://t.co/v9YwvCT3m9"
+	},
+	{
+		"created_at": "Sat Feb 25 18:58:29 +0000 2023",
+		"id": 1629556457963155500,
+		"id_str": "1629556457963155456",
+		"full_text": "@coombem1978 I'll take 3 points but it would be nice to have a more comfortable win",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coombem1978",
+					"name": "mattyc",
+					"id": 73145004,
+					"id_str": "73145004",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1629554541870841900,
+		"in_reply_to_status_id_str": "1629554541870841858",
+		"in_reply_to_user_id": 73145004,
+		"in_reply_to_user_id_str": "73145004",
+		"in_reply_to_screen_name": "coombem1978",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@coombem1978 I'll take 3 points but it would be nice to have a more comfortable win"
+	},
+	{
+		"created_at": "Sat Feb 25 16:05:51 +0000 2023",
+		"id": 1629513012833931300,
+		"id_str": "1629513012833931268",
+		"full_text": "GABI!! but that doesn't look good. 0-1 #LIEARS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIEARS",
+					"indices": [
+						39,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1629504013094797300,
+		"in_reply_to_status_id_str": "1629504013094797314",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "GABI!! but that doesn't look good. 0-1 #LIEARS"
+	},
+	{
+		"created_at": "Sat Feb 25 15:30:06 +0000 2023",
+		"id": 1629504013094797300,
+		"id_str": "1629504013094797314",
+		"full_text": "Sneaky but ultimately a bit dumb by White 0-0 #LEIARS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LEIARS",
+					"indices": [
+						46,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1629503538354172000,
+		"in_reply_to_status_id_str": "1629503538354171906",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Sneaky but ultimately a bit dumb by White 0-0 #LEIARS"
+	},
+	{
+		"created_at": "Sat Feb 25 15:28:12 +0000 2023",
+		"id": 1629503538354172000,
+		"id_str": "1629503538354171906",
+		"full_text": "TROSSARD!!! 0-1 #LEIARS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LEIARS",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1629495552487325700,
+		"in_reply_to_status_id_str": "1629495552487325696",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 273,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "TROSSARD!!! 0-1 #LEIARS"
+	},
+	{
 		"created_at": "Fri Feb 24 21:59:20 +0000 2023",
 		"id": 1629239581534036000,
 		"id_str": "1629239581534035969",
