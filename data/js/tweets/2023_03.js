@@ -1,6 +1,466 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Fri Mar 10 18:45:41 +0000 2023",
+		"id": 1634263358772748300,
+		"id_str": "1634264277807669256",
+		"full_text": "Nigel Farage turning up to present Match of the Day tomorrow night https://t.co/90SH5T372E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1634263352711979000,
+					"id_str": "1634263352711979012",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Fq4R3E_WIAQ7PTs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fq4R3E_WIAQ7PTs.jpg",
+					"url": "https://t.co/90SH5T372E",
+					"display_url": "pic.twitter.com/90SH5T372E",
+					"expanded_url": "https://twitter.com/SimpsonsArsenal/status/1634263358772748329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1634263352711979000,
+					"id_str": "1634263352711979012",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Fq4R3E_WIAQ7PTs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fq4R3E_WIAQ7PTs.jpg",
+					"url": "https://t.co/90SH5T372E",
+					"display_url": "pic.twitter.com/90SH5T372E",
+					"expanded_url": "https://twitter.com/SimpsonsArsenal/status/1634263358772748329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1096703520798056400,
+			"id_str": "1096703520798056450",
+			"name": "Simpsons Arsenal",
+			"screen_name": "SimpsonsArsenal",
+			"location": "London, England",
+			"description": "Just an Arsenal fan posting Simpsons quotes and gifs. Be good to each other 💛💙",
+			"url": "https://t.co/VTryhk3rkF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTryhk3rkF",
+							"expanded_url": "http://ko-fi.com/simpsonsarsenal",
+							"display_url": "ko-fi.com/simpsonsarsenal",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69019,
+			"friends_count": 107,
+			"listed_count": 526,
+			"created_at": "Sat Feb 16 09:31:09 +0000 2019",
+			"favourites_count": 8861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161285080226127874/sqXr48eC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161285080226127874/sqXr48eC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1096703520798056450/1559308826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 426,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nigel Farage turning up to present Match of the Day tomorrow night https://t.co/90SH5T372E"
+	},
+	{
+		"created_at": "Fri Mar 10 18:05:45 +0000 2023",
+		"id": 1634253959861772300,
+		"id_str": "1634254229417381889",
+		"full_text": "Gary Lineker, drag shows, David Attenborough, Charlie Stayt...\n\nSorta feels like the end-cancel-culture-brigade were the real cancel-culture-brigade. But what do I know?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17616581,
+			"id_str": "17616581",
+			"name": "Chris Ward 🇺🇦🇺🇦🇺🇦 @chrisward@tech.lgbt",
+			"screen_name": "christopherward",
+			"location": "Schöneberg, Berlin",
+			"description": "gAyDHD. Android EM. Chair @ld_bln. Tempelhofer Feld Crow Queen #thfbleibt #BLM #TLM. Views my own. 👬 @joshuagladwin. Mastodon: @chrisward@tech.lgbt",
+			"url": "https://t.co/fzFU8Z78xn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fzFU8Z78xn",
+							"expanded_url": "https://www.chrisward.de",
+							"display_url": "chrisward.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7104,
+			"friends_count": 5547,
+			"listed_count": 103,
+			"created_at": "Tue Nov 25 10:11:43 +0000 2008",
+			"favourites_count": 30012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 55763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530211295760367617/gQQor_Kq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530211295760367617/gQQor_Kq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17616581/1629381439",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Gary Lineker, drag shows, David Attenborough, Charlie Stayt...\n\nSorta feels like the end-cancel-culture-brigade were the real cancel-culture-brigade. But what do I know?"
+	},
+	{
+		"created_at": "Fri Mar 10 17:30:04 +0000 2023",
+		"id": 1634242626365866000,
+		"id_str": "1634245249081167872",
+		"full_text": "To TRUCKLE is to act timidly or obsequiously, or to yield subserviently to pressure, especially from an unworthy or questionable source.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2239350253,
+			"id_str": "2239350253",
+			"name": "Haggard Hawks 🦅📚 Words | Language | Etymology",
+			"screen_name": "HaggardHawks",
+			"location": "HH HQ, Newcastle UK",
+			"description": "Obscure words, etymological tales, language trivia | Books available here: https://t.co/5k8NBYQc6y | Tweets by @PaulAnthJones | Artwork by @bread_and_ink",
+			"url": "https://t.co/gM878CqE8G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gM878CqE8G",
+							"expanded_url": "http://haggardhawks.com",
+							"display_url": "haggardhawks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5k8NBYQc6y",
+							"expanded_url": "http://haggardhawks.com/books",
+							"display_url": "haggardhawks.com/books",
+							"indices": [
+								75,
+								98
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 95670,
+			"friends_count": 3189,
+			"listed_count": 1135,
+			"created_at": "Tue Dec 10 15:28:11 +0000 2013",
+			"favourites_count": 26832,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1610981843398017024/mLMJfxgb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1610981843398017024/mLMJfxgb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2239350253/1665326442",
+			"profile_link_color": "0B3861",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "To TRUCKLE is to act timidly or obsequiously, or to yield subserviently to pressure, especially from an unworthy or questionable source."
+	},
+	{
+		"created_at": "Fri Mar 10 17:28:08 +0000 2023",
+		"id": 1634243318723821600,
+		"id_str": "1634244761560453121",
+		"full_text": "Everybody knows what Match of the Day means to me, but I’ve told the BBC I won’t be doing it tomorrow. Solidarity.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 410811457,
+			"id_str": "410811457",
+			"name": "Ian Wright",
+			"screen_name": "IanWright0",
+			"location": "London, England",
+			"description": "Twitter where strangers can become friends. @adidasfootball | @wrightyshouse |  @carverpr | 📩 info@squadsm.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2255766,
+			"friends_count": 2215,
+			"listed_count": 4660,
+			"created_at": "Sat Nov 12 16:09:46 +0000 2011",
+			"favourites_count": 12053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "010101",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550514508757598208/fQQswT4K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550514508757598208/fQQswT4K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/410811457/1573239614",
+			"profile_link_color": "942D98",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "333333",
+			"profile_text_color": "CCCCCC",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55547,
+		"favorite_count": 479689,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Everybody knows what Match of the Day means to me, but I’ve told the BBC I won’t be doing it tomorrow. Solidarity."
+	},
+	{
 		"created_at": "Thu Mar 09 23:16:50 +0000 2023",
 		"id": 1633970126369312800,
 		"id_str": "1633970126369312768",
