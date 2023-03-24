@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Fri Mar 24 00:14:28 +0000 2023",
+		"id": 1639058059749392400,
+		"id_str": "1639058059749392384",
+		"full_text": "🥇 https://t.co/Mm5yhLJ73f https://t.co/chv6WKVSs1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mm5yhLJ73f",
+					"expanded_url": "https://twitter.com/verified/status/1639029459557679104",
+					"display_url": "twitter.com/verified/statu…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1639057969059864600,
+					"id_str": "1639057969059864577",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr8aiewWIAESYFV.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fr8aiewWIAESYFV.png",
+					"url": "https://t.co/chv6WKVSs1",
+					"display_url": "pic.twitter.com/chv6WKVSs1",
+					"expanded_url": "https://twitter.com/mfshill/status/1639058059749392384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 598,
+							"h": 289,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 598,
+							"h": 289,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 598,
+							"h": 289,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1639057969059864600,
+					"id_str": "1639057969059864577",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr8aiewWIAESYFV.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fr8aiewWIAESYFV.png",
+					"url": "https://t.co/chv6WKVSs1",
+					"display_url": "pic.twitter.com/chv6WKVSs1",
+					"expanded_url": "https://twitter.com/mfshill/status/1639058059749392384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 598,
+							"h": 289,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 598,
+							"h": 289,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 598,
+							"h": 289,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 275,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1639029459557679000,
+		"quoted_status_id_str": "1639029459557679104",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Mm5yhLJ73f",
+			"expanded": "https://twitter.com/verified/status/1639029459557679104",
+			"display": "twitter.com/verified/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 23 22:20:49 +0000 2023",
+			"id": 1639029459557679000,
+			"id_str": "1639029459557679104",
+			"full_text": "On April 1st, we will begin winding down our legacy verified program and removing legacy verified checkmarks. To keep your blue checkmark on Twitter, individuals can sign up for Twitter Blue here: https://t.co/gzpCcwOpLp \n\nOrganizations can sign up for https://t.co/RlN5BbuGA3… https://t.co/wXLBdREzx9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				301
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gzpCcwOpLp",
+						"expanded_url": "https://twitter.com/i/twitter_blue_sign_up",
+						"display_url": "twitter.com/i/twitter_blue…",
+						"indices": [
+							197,
+							220
+						]
+					},
+					{
+						"url": "https://t.co/RlN5BbuGA3",
+						"expanded_url": "https://twitter.com/i/en/verifiedorganizations/apply",
+						"display_url": "twitter.com/i/en/verifiedo…",
+						"indices": [
+							253,
+							276
+						]
+					},
+					{
+						"url": "https://t.co/wXLBdREzx9",
+						"expanded_url": "https://twitter.com/i/web/status/1639029459557679104",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							278,
+							301
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63796828,
+				"id_str": "63796828",
+				"name": "Twitter Verified",
+				"screen_name": "verified",
+				"location": "San Francisco",
+				"description": "The blue checkmark is now included in @TwitterBlue. Subscribe now to get yours!",
+				"url": "https://t.co/lycVhDnGI9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lycVhDnGI9",
+								"expanded_url": "https://twitter.com/i/twitter_blue_sign_up",
+								"display_url": "twitter.com/i/twitter_blue…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4191584,
+				"friends_count": 419415,
+				"listed_count": 9133,
+				"created_at": "Fri Aug 07 18:41:45 +0000 2009",
+				"favourites_count": 534,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2500,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1354533298685566983/2mZQ3Lpt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354533298685566983/2mZQ3Lpt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63796828/1611793989",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 808,
+			"favorite_count": 2152,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "🥇 https://t.co/Mm5yhLJ73f https://t.co/chv6WKVSs1"
+	},
+	{
+		"created_at": "Thu Mar 23 23:05:29 +0000 2023",
+		"id": 1638938369827934200,
+		"id_str": "1639040701093801986",
+		"full_text": "THIS IS THE BEST THING EVER 😂 https://t.co/cHzZOJIym9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1638938294787383300,
+					"id_str": "1638938294787383303",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1638938294787383303/pu/img/GUCDTaMWPAuK8hRi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1638938294787383303/pu/img/GUCDTaMWPAuK8hRi.jpg",
+					"url": "https://t.co/cHzZOJIym9",
+					"display_url": "pic.twitter.com/cHzZOJIym9",
+					"expanded_url": "https://twitter.com/ScottPughsley/status/1638938369827934208/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1638938294787383300,
+					"id_str": "1638938294787383303",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1638938294787383303/pu/img/GUCDTaMWPAuK8hRi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1638938294787383303/pu/img/GUCDTaMWPAuK8hRi.jpg",
+					"url": "https://t.co/cHzZOJIym9",
+					"display_url": "pic.twitter.com/cHzZOJIym9",
+					"expanded_url": "https://twitter.com/ScottPughsley/status/1638938369827934208/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 32800,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1638938294787383303/pu/vid/320x568/kHIbXVghkDqEGG0Y.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1638938294787383303/pu/vid/576x1024/0l14DBwFhr427H2R.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1638938294787383303/pu/pl/kDsW9BZCw4ndYN9l.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1638938294787383303/pu/vid/480x852/_s0rR93uo9_1m8Ap.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 846404615969083400,
+			"id_str": "846404615969083392",
+			"name": "Mr Pughsley🌍📚🌳",
+			"screen_name": "ScottPughsley",
+			"location": "Liverpool, England",
+			"description": "AP SEND T&L | Geographer | Dad of 5 | Lover of food | Gif Addict | NASENco | Happily Married | Property Enthusiast | Typo Purveyor | Satire and/or Sarcasm",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38619,
+			"friends_count": 15425,
+			"listed_count": 49,
+			"created_at": "Mon Mar 27 16:52:40 +0000 2017",
+			"favourites_count": 104349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1565098015114891266/ftr4PoVM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1565098015114891266/ftr4PoVM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/846404615969083392/1655666777",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 1020,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THIS IS THE BEST THING EVER 😂 https://t.co/cHzZOJIym9"
+	},
+	{
 		"created_at": "Mon Mar 20 19:26:35 +0000 2023",
 		"id": 1637898448702783500,
 		"id_str": "1637898448702783500",
