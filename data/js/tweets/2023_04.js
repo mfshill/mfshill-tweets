@@ -1,6 +1,741 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 06 21:27:30 +0000 2023",
+		"id": 1644089470168211500,
+		"id_str": "1644089470168211456",
+		"full_text": "@TC_Cornesto ignore it",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TC_Cornesto",
+					"name": "TC Cornesto",
+					"id": 19991214,
+					"id_str": "19991214",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1644088577968738300,
+		"in_reply_to_status_id_str": "1644088577968738305",
+		"in_reply_to_user_id": 19991214,
+		"in_reply_to_user_id_str": "19991214",
+		"in_reply_to_screen_name": "TC_Cornesto",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 275,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TC_Cornesto ignore it"
+	},
+	{
+		"created_at": "Thu Apr 06 17:09:16 +0000 2023",
+		"id": 1644024487245914000,
+		"id_str": "1644024487245914129",
+		"full_text": "@eops @djdebgrant https://t.co/MT3dqV28uS",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution @eops@mastodon.world",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "djdebgrant",
+					"name": "Deb Grant",
+					"id": 401626553,
+					"id_str": "401626553",
+					"indices": [
+						6,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1644024479754887200,
+					"id_str": "1644024479754887175",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FtC_jc3WIAcaEV1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FtC_jc3WIAcaEV1.jpg",
+					"url": "https://t.co/MT3dqV28uS",
+					"display_url": "pic.twitter.com/MT3dqV28uS",
+					"expanded_url": "https://twitter.com/mfshill/status/1644024487245914129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 478,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 478,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 478,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1644024479754887200,
+					"id_str": "1644024479754887175",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FtC_jc3WIAcaEV1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FtC_jc3WIAcaEV1.jpg",
+					"url": "https://t.co/MT3dqV28uS",
+					"display_url": "pic.twitter.com/MT3dqV28uS",
+					"expanded_url": "https://twitter.com/mfshill/status/1644024487245914129/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 478,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 478,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 478,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							240,
+							239
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FtC_jc3WIAcaEV1.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1644023809324753000,
+		"in_reply_to_status_id_str": "1644023809324752927",
+		"in_reply_to_user_id": 20243240,
+		"in_reply_to_user_id_str": "20243240",
+		"in_reply_to_screen_name": "eops",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 275,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@eops @djdebgrant https://t.co/MT3dqV28uS"
+	},
+	{
+		"created_at": "Thu Apr 06 17:03:12 +0000 2023",
+		"id": 1644022960267600000,
+		"id_str": "1644022960267599876",
+		"full_text": "well done @eops and @djdebgrant getting to FIFTY episodes! 🥳 This was another informative and entertaining pod, looking forward to the next. https://t.co/eav3bi0I0X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution @eops@mastodon.world",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"screen_name": "djdebgrant",
+					"name": "Deb Grant",
+					"id": 401626553,
+					"id_str": "401626553",
+					"indices": [
+						20,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eav3bi0I0X",
+					"expanded_url": "https://twitter.com/WhatGoesPod/status/1643886840141828101",
+					"display_url": "twitter.com/WhatGoesPod/st…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 275,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1643886840141828000,
+		"quoted_status_id_str": "1643886840141828101",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eav3bi0I0X",
+			"expanded": "https://twitter.com/WhatGoesPod/status/1643886840141828101",
+			"display": "twitter.com/WhatGoesPod/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 06 08:02:19 +0000 2023",
+			"id": 1643886840141828000,
+			"id_str": "1643886840141828101",
+			"full_text": "What Goes Around Podcast is back with its 50th episode! To kick off the new series we speak to Jason Williamson of @sleafordmods We review 2 excellent books: The great @johnrobb77 talks Goth &amp; @WesleyDoyleUK looks at Some Bizarre Records. S4E1 is out now \nhttps://t.co/xJsfGomdNG https://t.co/e8xV7VGIb7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				283
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sleafordmods",
+						"name": "Sleaford Mods",
+						"id": 23674486,
+						"id_str": "23674486",
+						"indices": [
+							115,
+							128
+						]
+					},
+					{
+						"screen_name": "johnrobb77",
+						"name": "john robb",
+						"id": 21263059,
+						"id_str": "21263059",
+						"indices": [
+							168,
+							179
+						]
+					},
+					{
+						"screen_name": "WesleyDoyleUK",
+						"name": "Wesley Doyle",
+						"id": 82059433,
+						"id_str": "82059433",
+						"indices": [
+							197,
+							211
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xJsfGomdNG",
+						"expanded_url": "https://open.spotify.com/episode/0eTsrngxJZ7HgZi7nSmqtb?si=ij45AeNhSsSFhMTdWwzrgQ",
+						"display_url": "open.spotify.com/episode/0eTsrn…",
+						"indices": [
+							260,
+							283
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1643886828804534300,
+						"id_str": "1643886828804534277",
+						"indices": [
+							284,
+							307
+						],
+						"media_url": "http://pbs.twimg.com/media/FtBCXHHWcAU5WJp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtBCXHHWcAU5WJp.jpg",
+						"url": "https://t.co/e8xV7VGIb7",
+						"display_url": "pic.twitter.com/e8xV7VGIb7",
+						"expanded_url": "https://twitter.com/WhatGoesPod/status/1643886840141828101/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1643886828804534300,
+						"id_str": "1643886828804534277",
+						"indices": [
+							284,
+							307
+						],
+						"media_url": "http://pbs.twimg.com/media/FtBCXHHWcAU5WJp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtBCXHHWcAU5WJp.jpg",
+						"url": "https://t.co/e8xV7VGIb7",
+						"display_url": "pic.twitter.com/e8xV7VGIb7",
+						"expanded_url": "https://twitter.com/WhatGoesPod/status/1643886840141828101/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1643886831673417700,
+						"id_str": "1643886831673417734",
+						"indices": [
+							284,
+							307
+						],
+						"media_url": "http://pbs.twimg.com/media/FtBCXRzWIAY7k3n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtBCXRzWIAY7k3n.jpg",
+						"url": "https://t.co/e8xV7VGIb7",
+						"display_url": "pic.twitter.com/e8xV7VGIb7",
+						"expanded_url": "https://twitter.com/WhatGoesPod/status/1643886840141828101/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 864,
+								"h": 536,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 864,
+								"h": 536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 422,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1643886834546614300,
+						"id_str": "1643886834546614272",
+						"indices": [
+							284,
+							307
+						],
+						"media_url": "http://pbs.twimg.com/media/FtBCXcgXoAAo8uB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtBCXcgXoAAo8uB.jpg",
+						"url": "https://t.co/e8xV7VGIb7",
+						"display_url": "pic.twitter.com/e8xV7VGIb7",
+						"expanded_url": "https://twitter.com/WhatGoesPod/status/1643886840141828101/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 513,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 513,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 513,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1643886837633540000,
+						"id_str": "1643886837633540099",
+						"indices": [
+							284,
+							307
+						],
+						"media_url": "http://pbs.twimg.com/media/FtBCXoAWYAMPQMb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtBCXoAWYAMPQMb.jpg",
+						"url": "https://t.co/e8xV7VGIb7",
+						"display_url": "pic.twitter.com/e8xV7VGIb7",
+						"expanded_url": "https://twitter.com/WhatGoesPod/status/1643886840141828101/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1125,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1093127491911331800,
+				"id_str": "1093127491911331842",
+				"name": "WhatGoesPod",
+				"screen_name": "WhatGoesPod",
+				"location": "LDN",
+				"description": "What goes around? A podcast more concerned with music lovers than music makers. “The whole thing is very jolly” \nMiranda Sawyer, The Observer.",
+				"url": "https://t.co/4tvBzBDkpm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4tvBzBDkpm",
+								"expanded_url": "http://www.anchor.fm/what-goes-around",
+								"display_url": "anchor.fm/what-goes-arou…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1165,
+				"friends_count": 1330,
+				"listed_count": 9,
+				"created_at": "Wed Feb 06 12:41:18 +0000 2019",
+				"favourites_count": 2559,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2608,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1172962837649661952/QZhxSZAD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172962837649661952/QZhxSZAD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093127491911331842/1568491113",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "well done @eops and @djdebgrant getting to FIFTY episodes! 🥳 This was another informative and entertaining pod, looking forward to the next. https://t.co/eav3bi0I0X"
+	},
+	{
 		"created_at": "Wed Apr 05 22:25:40 +0000 2023",
 		"id": 1643154945896579000,
 		"id_str": "1643741721723912192",
