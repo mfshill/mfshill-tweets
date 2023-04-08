@@ -1,6 +1,545 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 07 21:18:58 +0000 2023",
+		"id": 1644449710780870700,
+		"id_str": "1644449710780870656",
+		"full_text": "@bostonmarathon @MaurtenOfficial hey guys n gals, how are drinks being offered on the course, bottles/cups/pouches/those weird seaweed bag things? i ask as it may dictate if i take a flask with me",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bostonmarathon",
+					"name": "Boston Marathon",
+					"id": 111037335,
+					"id_str": "111037335",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "MaurtenOfficial",
+					"name": "Maurten",
+					"id": 715126917389754400,
+					"id_str": "715126917389754368",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1644346955546411000,
+		"in_reply_to_status_id_str": "1644346955546411011",
+		"in_reply_to_user_id": 111037335,
+		"in_reply_to_user_id_str": "111037335",
+		"in_reply_to_screen_name": "bostonmarathon",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 275,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bostonmarathon @MaurtenOfficial hey guys n gals, how are drinks being offered on the course, bottles/cups/pouches/those weird seaweed bag things? i ask as it may dictate if i take a flask with me"
+	},
+	{
+		"created_at": "Fri Apr 07 21:16:27 +0000 2023",
+		"id": 1644303254279319600,
+		"id_str": "1644449078246293505",
+		"full_text": "@sirjamesofcots He is currently finishing the last movie of his directorial career https://t.co/0vBqDeql6n",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sirjamesofcots",
+					"name": "James Cotter",
+					"id": 594472823,
+					"id_str": "594472823",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1644303248277352400,
+					"id_str": "1644303248277352456",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FtG9F6iXsAgxVY7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtG9F6iXsAgxVY7.jpg",
+					"url": "https://t.co/0vBqDeql6n",
+					"display_url": "pic.twitter.com/0vBqDeql6n",
+					"expanded_url": "https://twitter.com/dylan_redmond/status/1644303254279319552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1644303248277352400,
+					"id_str": "1644303248277352456",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FtG9F6iXsAgxVY7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtG9F6iXsAgxVY7.jpg",
+					"url": "https://t.co/0vBqDeql6n",
+					"display_url": "pic.twitter.com/0vBqDeql6n",
+					"expanded_url": "https://twitter.com/dylan_redmond/status/1644303254279319552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1644249393648869400,
+		"in_reply_to_status_id_str": "1644249393648869377",
+		"in_reply_to_user_id": 594472823,
+		"in_reply_to_user_id_str": "594472823",
+		"in_reply_to_screen_name": "sirjamesofcots",
+		"user": {
+			"id": 336653133,
+			"id_str": "336653133",
+			"name": "dylan redmond",
+			"screen_name": "dylan_redmond",
+			"location": "Ireland",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 650,
+			"listed_count": 0,
+			"created_at": "Sat Jul 16 17:28:14 +0000 2011",
+			"favourites_count": 3747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1545555036637388801/X_0qs_FW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1545555036637388801/X_0qs_FW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/336653133/1594476555",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@sirjamesofcots He is currently finishing the last movie of his directorial career https://t.co/0vBqDeql6n"
+	},
+	{
+		"created_at": "Fri Apr 07 21:16:11 +0000 2023",
+		"id": 1644449013599436800,
+		"id_str": "1644449013599436803",
+		"full_text": "the last one! 😅 https://t.co/ZxapjGWFUG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZxapjGWFUG",
+					"expanded_url": "https://twitter.com/sirjamesofcots/status/1644249393648869377",
+					"display_url": "twitter.com/sirjamesofcots…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 275,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1644249393648869400,
+		"quoted_status_id_str": "1644249393648869377",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZxapjGWFUG",
+			"expanded": "https://twitter.com/sirjamesofcots/status/1644249393648869377",
+			"display": "twitter.com/sirjamesofcots…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 07 08:02:58 +0000 2023",
+			"id": 1644249393648869400,
+			"id_str": "1644249393648869377",
+			"full_text": "Jesus. The most painted man in history. And dudes loved painting him as a baby.  I present to you, the most bizarre Baby Jesuses in art history (I could find in 5 minutes):\n\n1: Male Pattern Baldness &amp; Soul Patch Jesus.\nSeen here ordering 2 Budweisers. https://t.co/aG9cfbJAVi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				255
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1644242571030327300,
+						"id_str": "1644242571030327296",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/media/FtGF6CLWcAAMCeb.png",
+						"media_url_https": "https://pbs.twimg.com/media/FtGF6CLWcAAMCeb.png",
+						"url": "https://t.co/aG9cfbJAVi",
+						"display_url": "pic.twitter.com/aG9cfbJAVi",
+						"expanded_url": "https://twitter.com/sirjamesofcots/status/1644249393648869377/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 586,
+								"h": 594,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 586,
+								"h": 594,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 586,
+								"h": 594,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1644242571030327300,
+						"id_str": "1644242571030327296",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/media/FtGF6CLWcAAMCeb.png",
+						"media_url_https": "https://pbs.twimg.com/media/FtGF6CLWcAAMCeb.png",
+						"url": "https://t.co/aG9cfbJAVi",
+						"display_url": "pic.twitter.com/aG9cfbJAVi",
+						"expanded_url": "https://twitter.com/sirjamesofcots/status/1644249393648869377/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 586,
+								"h": 594,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 586,
+								"h": 594,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 586,
+								"h": 594,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 594472823,
+				"id_str": "594472823",
+				"name": "James Cotter",
+				"screen_name": "sirjamesofcots",
+				"location": "",
+				"description": "RTS, Broadcast, IFTA & Taekwondo white-belt winning comedy writer/director.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2970,
+				"friends_count": 1594,
+				"listed_count": 8,
+				"created_at": "Wed May 30 09:59:26 +0000 2012",
+				"favourites_count": 6816,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5422,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1476917484561342475/hmZ3rNJ-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476917484561342475/hmZ3rNJ-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/594472823/1661443779",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 289,
+			"favorite_count": 1659,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the last one! 😅 https://t.co/ZxapjGWFUG"
+	},
+	{
 		"created_at": "Thu Apr 06 21:27:30 +0000 2023",
 		"id": 1644089470168211500,
 		"id_str": "1644089470168211456",
