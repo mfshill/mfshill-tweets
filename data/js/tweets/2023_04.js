@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 12 20:31:42 +0000 2023",
+		"id": 1646239035113996300,
+		"id_str": "1646249755440291840",
+		"full_text": "Truss mounts full-on attack on POTUS (whilst massacring the English language). She’s either in the pay of malign interests or lacking in the most basic common sense, wisdom &amp; intelligence. That she was PM for even 10 minutes let alone Foreign Secretary, “hell” even an MP is 😭… https://t.co/7d448lrdrX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7d448lrdrX",
+					"expanded_url": "https://twitter.com/skynews/status/1646174457667493889",
+					"display_url": "twitter.com/skynews/status…",
+					"indices": [
+						282,
+						305
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 864030687120281600,
+			"id_str": "864030687120281602",
+			"name": "Jessica Simor KC",
+			"screen_name": "JMPSimor",
+			"location": "London, England",
+			"description": "Admin/Regulatory, H Rights, energy, environment. Vis. Prof @LSELaw @GoldsmithsLaw, fellow @BinghamCentre @GlobalPartnersD @justicehq @Robertsbridge VMO",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192563,
+			"friends_count": 5524,
+			"listed_count": 966,
+			"created_at": "Mon May 15 08:12:23 +0000 2017",
+			"favourites_count": 36014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 41823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928974470861217792/BpfOxTvB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928974470861217792/BpfOxTvB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/864030687120281602/1646926058",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1646174457667494000,
+		"quoted_status_id_str": "1646174457667493889",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7d448lrdrX",
+			"expanded": "https://twitter.com/skynews/status/1646174457667493889",
+			"display": "twitter.com/skynews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 12 15:32:29 +0000 2023",
+			"id": 1646174457667494000,
+			"id_str": "1646174457667493889",
+			"full_text": "Liz Truss says a new economic model is taking over and it is focused on 'redistributionism, stagnation and woke culture' pushed by the \"anti-growth movement\" and \"socialists in environmental clothing\"\n\nhttps://t.co/WUnquWvHqf \n\n📺 Sky 501 and YouTube https://t.co/us4DBg07Oz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				249
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WUnquWvHqf",
+						"expanded_url": "https://trib.al/ecixuwi",
+						"display_url": "trib.al/ecixuwi",
+						"indices": [
+							202,
+							225
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1646174215333093400,
+						"id_str": "1646174215333093377",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/Fthi8VvWcAQrtVN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fthi8VvWcAQrtVN.jpg",
+						"url": "https://t.co/us4DBg07Oz",
+						"display_url": "pic.twitter.com/us4DBg07Oz",
+						"expanded_url": "https://twitter.com/SkyNews/status/1646174457667493889/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1646174215333093400,
+						"id_str": "1646174215333093377",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/Fthi8VvWcAQrtVN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fthi8VvWcAQrtVN.jpg",
+						"url": "https://t.co/us4DBg07Oz",
+						"display_url": "pic.twitter.com/us4DBg07Oz",
+						"expanded_url": "https://twitter.com/SkyNews/status/1646174457667493889/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 177003,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1646174215333093377/vid/480x270/ktBWupDQZohstt4R.mp4?tag=16"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1646174215333093377/vid/640x360/2v0g1DLm57gye8Ev.mp4?tag=16"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1646174215333093377/vid/1280x720/oMIMp9t8J-1ipLVL.mp4?tag=16"
+								},
+								{
+									"bitrate": 10368000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1646174215333093377/vid/1920x1080/gxzN-Rm_Zak98KOc.mp4?tag=16"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1646174215333093377/pl/ReAP1AKRH5_xr2bY.m3u8?tag=16&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://news.sky.com/"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7587032,
+				"id_str": "7587032",
+				"name": "Sky News",
+				"screen_name": "SkyNews",
+				"location": "London, UK",
+				"description": "For breaking news @SkyNewsBreak. Watch live on Sky 501, Virgin Media HD 602, Freeview 233 and YouTube.\n\nDownload our app: https://t.co/B2AP8GvitH",
+				"url": "https://t.co/UuWgHECmV8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UuWgHECmV8",
+								"expanded_url": "http://news.sky.com/",
+								"display_url": "news.sky.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/B2AP8GvitH",
+								"expanded_url": "http://onelink.to/skynews",
+								"display_url": "onelink.to/skynews",
+								"indices": [
+									122,
+									145
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8387396,
+				"friends_count": 22,
+				"listed_count": 32281,
+				"created_at": "Thu Jul 19 14:42:53 +0000 2007",
+				"favourites_count": 5,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 584621,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1604907328242962433/P_79at43_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1604907328242962433/P_79at43_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7587032/1664187298",
+				"profile_link_color": "385FAC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EDEDED",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 347,
+			"favorite_count": 1463,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 378,
+		"favorite_count": 2140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Truss mounts full-on attack on POTUS (whilst massacring the English language). She’s either in the pay of malign interests or lacking in the most basic common sense, wisdom &amp; intelligence. That she was PM for even 10 minutes let alone Foreign Secretary, “hell” even an MP is 😭… https://t.co/7d448lrdrX"
+	},
+	{
 		"created_at": "Tue Apr 11 21:17:02 +0000 2023",
 		"id": 1645898778677739500,
 		"id_str": "1645898778677739520",
