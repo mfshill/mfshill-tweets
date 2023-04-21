@@ -1,6 +1,1600 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 20 21:42:31 +0000 2023",
+		"id": 1649137492593897500,
+		"id_str": "1649166681439195136",
+		"full_text": "Dystopia Warning: Royal Edition\n\nMy interpretation of the recent history of the Royal Family and a rare insight into the traditions of the Coronation.\n\nI’m going to avoid Paris for a bit, just to be on the safe side 🚗 https://t.co/E0qqBsglr3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1649136831189926000,
+					"id_str": "1649136831189925888",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1649136831189925888/img/8zy7vDId3GjTg4ZG.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1649136831189925888/img/8zy7vDId3GjTg4ZG.jpg",
+					"url": "https://t.co/E0qqBsglr3",
+					"display_url": "pic.twitter.com/E0qqBsglr3",
+					"expanded_url": "https://twitter.com/supertanskiii/status/1649137492593897490/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 809,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1602,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1649136831189926000,
+					"id_str": "1649136831189925888",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1649136831189925888/img/8zy7vDId3GjTg4ZG.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1649136831189925888/img/8zy7vDId3GjTg4ZG.jpg",
+					"url": "https://t.co/E0qqBsglr3",
+					"display_url": "pic.twitter.com/E0qqBsglr3",
+					"expanded_url": "https://twitter.com/supertanskiii/status/1649137492593897490/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 809,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1602,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							60,
+							89
+						],
+						"duration_millis": 196585,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1649136831189925888/vid/720x1068/AmGbP1GV8vInX0wT.mp4?tag=16"
+							},
+							{
+								"bitrate": 10368000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1649136831189925888/vid/1080x1602/irrGFabbnpR7LbfU.mp4?tag=16"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1649136831189925888/vid/480x712/FYDge_mbGgdnso1o.mp4?tag=16"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1649136831189925888/pl/36X8VXy7C8Ub8hzl.m3u8?tag=16&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1649136831189925888/vid/320x474/AUDGiCGwDU4FiN3O.mp4?tag=16"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2732180892,
+			"id_str": "2732180892",
+			"name": "Supertanskiii",
+			"screen_name": "supertanskiii",
+			"location": "Essex",
+			"description": "Political Commentary & Satire. Like the Tories? You’ll hate me. Sweary Dystopia warner. Photographer. Labour voter. You can sub/shout a coffee here👇🏼",
+			"url": "https://t.co/W72DqkQ4p2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W72DqkQ4p2",
+							"expanded_url": "https://ko-fi.com/supertanskiii",
+							"display_url": "ko-fi.com/supertanskiii",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 152715,
+			"friends_count": 6478,
+			"listed_count": 409,
+			"created_at": "Thu Aug 14 16:49:20 +0000 2014",
+			"favourites_count": 130624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1623313219786866690/bdp9HBxm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1623313219786866690/bdp9HBxm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2732180892/1601741537",
+			"profile_link_color": "A400B3",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 305,
+		"favorite_count": 1288,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dystopia Warning: Royal Edition\n\nMy interpretation of the recent history of the Royal Family and a rare insight into the traditions of the Coronation.\n\nI’m going to avoid Paris for a bit, just to be on the safe side 🚗 https://t.co/E0qqBsglr3"
+	},
+	{
+		"created_at": "Thu Apr 20 21:26:27 +0000 2023",
+		"id": 1649162636825710600,
+		"id_str": "1649162636825710594",
+		"full_text": "comedy gold https://t.co/8barWGBFuO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8barWGBFuO",
+					"expanded_url": "https://twitter.com/btsportfootball/status/1649152083726069798",
+					"display_url": "twitter.com/btsportfootbal…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1649162348094017500,
+		"in_reply_to_status_id_str": "1649162348094017538",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 277,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1649152083726069800,
+		"quoted_status_id_str": "1649152083726069798",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8barWGBFuO",
+			"expanded": "https://twitter.com/btsportfootball/status/1649152083726069798",
+			"display": "twitter.com/btsportfootbal…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 20 20:44:31 +0000 2023",
+			"id": 1649152083726069800,
+			"id_str": "1649152083726069798",
+			"full_text": "A terrible night for Man Utd only gets worse...\n\nDavid De Gea will not want to watch this game back 😬\n\n#UEL https://t.co/z9iiPlCDZE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UEL",
+						"indices": [
+							103,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1649151921649774600,
+						"id_str": "1649151921649774603",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/FuL2-bqWcAYH1ZH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuL2-bqWcAYH1ZH.jpg",
+						"url": "https://t.co/z9iiPlCDZE",
+						"display_url": "pic.twitter.com/z9iiPlCDZE",
+						"expanded_url": "https://twitter.com/btsportfootball/status/1649152083726069798/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1649151921649774600,
+						"id_str": "1649151921649774603",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/FuL2-bqWcAYH1ZH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuL2-bqWcAYH1ZH.jpg",
+						"url": "https://t.co/z9iiPlCDZE",
+						"display_url": "pic.twitter.com/z9iiPlCDZE",
+						"expanded_url": "https://twitter.com/btsportfootball/status/1649152083726069798/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 89098,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1649151921649774603/vid/640x360/9S2dkW2vn3riKLpE.mp4?tag=16"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1649151921649774603/pl/gTphPOwBgpwgI8zg.m3u8?tag=16&container=fmp4"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1649151921649774603/vid/480x270/C3FX2aACeWmxXabZ.mp4?tag=16"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1649151921649774603/vid/1280x720/LUD4rlflnd27yNwC.mp4?tag=16"
+								},
+								{
+									"bitrate": 10368000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1649151921649774603/vid/1920x1080/tCbzUwe2JscLKs9I.mp4?tag=16"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Watch the Europa League live on BT Sport",
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2319121626,
+				"id_str": "2319121626",
+				"name": "Football on BT Sport",
+				"screen_name": "btsportfootball",
+				"location": "",
+				"description": "The home of football on BT Sport",
+				"url": "https://t.co/USxmnaWwY5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/USxmnaWwY5",
+								"expanded_url": "https://www.bt.com/sport/football",
+								"display_url": "bt.com/sport/football",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1900185,
+				"friends_count": 525,
+				"listed_count": 4612,
+				"created_at": "Thu Jan 30 15:49:13 +0000 2014",
+				"favourites_count": 3893,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 75533,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1587029380139831298/B10e2Nv__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587029380139831298/B10e2Nv__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2319121626/1679139427",
+				"profile_link_color": "00A0D6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 228,
+			"favorite_count": 1792,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "comedy gold https://t.co/8barWGBFuO"
+	},
+	{
+		"created_at": "Thu Apr 20 21:25:18 +0000 2023",
+		"id": 1649162348094017500,
+		"id_str": "1649162348094017538",
+		"full_text": "https://t.co/rTAp0qtkbw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rTAp0qtkbw",
+					"expanded_url": "https://twitter.com/btsportfootball/status/1649143711731707930",
+					"display_url": "twitter.com/btsportfootbal…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1649162291923779600,
+		"in_reply_to_status_id_str": "1649162291923779586",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 277,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1649143711731708000,
+		"quoted_status_id_str": "1649143711731707930",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rTAp0qtkbw",
+			"expanded": "https://twitter.com/btsportfootball/status/1649143711731707930",
+			"display": "twitter.com/btsportfootbal…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 20 20:11:15 +0000 2023",
+			"id": 1649143711731708000,
+			"id_str": "1649143711731707930",
+			"full_text": "Disaster for Man Utd, as Sevilla strike immediately in the second half through Loic Bade! 💥\n\nHis header loops over David De Gea and the away side have it all to do now!\n\n#UEL https://t.co/mhOtanEPoJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UEL",
+						"indices": [
+							170,
+							174
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1649143576649953300,
+						"id_str": "1649143576649953299",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/FuLvYNkWcAwsNnW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuLvYNkWcAwsNnW.jpg",
+						"url": "https://t.co/mhOtanEPoJ",
+						"display_url": "pic.twitter.com/mhOtanEPoJ",
+						"expanded_url": "https://twitter.com/btsportfootball/status/1649143711731707930/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1649143576649953300,
+						"id_str": "1649143576649953299",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/FuLvYNkWcAwsNnW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuLvYNkWcAwsNnW.jpg",
+						"url": "https://t.co/mhOtanEPoJ",
+						"display_url": "pic.twitter.com/mhOtanEPoJ",
+						"expanded_url": "https://twitter.com/btsportfootball/status/1649143711731707930/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 70623,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1649143576649953299/vid/480x270/0PiJ1ToW04V5SBIC.mp4?tag=16"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1649143576649953299/vid/1280x720/m3vjB73JViyanYhE.mp4?tag=16"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1649143576649953299/pl/75-AgEIKJ7fEgMf6.m3u8?tag=16&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1649143576649953299/vid/640x360/AUkiYR3aw6EuQSzO.mp4?tag=16"
+								},
+								{
+									"bitrate": 10368000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1649143576649953299/vid/1920x1080/LD9rwUfThBsGo9WT.mp4?tag=16"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Watch the Europa League live on BT Sport",
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2319121626,
+				"id_str": "2319121626",
+				"name": "Football on BT Sport",
+				"screen_name": "btsportfootball",
+				"location": "",
+				"description": "The home of football on BT Sport",
+				"url": "https://t.co/USxmnaWwY5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/USxmnaWwY5",
+								"expanded_url": "https://www.bt.com/sport/football",
+								"display_url": "bt.com/sport/football",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1900185,
+				"friends_count": 525,
+				"listed_count": 4612,
+				"created_at": "Thu Jan 30 15:49:13 +0000 2014",
+				"favourites_count": 3893,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 75533,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1587029380139831298/B10e2Nv__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587029380139831298/B10e2Nv__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2319121626/1679139427",
+				"profile_link_color": "00A0D6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 499,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/rTAp0qtkbw"
+	},
+	{
+		"created_at": "Thu Apr 20 21:25:05 +0000 2023",
+		"id": 1649162291923779600,
+		"id_str": "1649162291923779586",
+		"full_text": "https://t.co/nVJQPYeoBW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nVJQPYeoBW",
+					"expanded_url": "https://twitter.com/btsport/status/1649135486315687941",
+					"display_url": "twitter.com/btsport/status…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1649161510336229400,
+		"in_reply_to_status_id_str": "1649161510336229376",
+		"in_reply_to_user_id": 95424142,
+		"in_reply_to_user_id_str": "95424142",
+		"in_reply_to_screen_name": "mfshill",
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 277,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1649135486315688000,
+		"quoted_status_id_str": "1649135486315687941",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nVJQPYeoBW",
+			"expanded": "https://twitter.com/btsport/status/1649135486315687941",
+			"display": "twitter.com/btsport/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 20 19:38:34 +0000 2023",
+			"id": 1649135486315688000,
+			"id_str": "1649135486315687941",
+			"full_text": "Who was at fault here? \n\nDavid de Gea or Harry Maguire...\n\n📹 @btsportfootball \n\nhttps://t.co/bxeAERep9Y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				103
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "btsportfootball",
+						"name": "Football on BT Sport",
+						"id": 2319121626,
+						"id_str": "2319121626",
+						"indices": [
+							61,
+							77
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1649128650497749000,
+						"id_str": "1649128650497748995",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/FuLhzlLWYAAL4Jo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuLhzlLWYAAL4Jo.jpg",
+						"url": "https://t.co/bxeAERep9Y",
+						"display_url": "pic.twitter.com/bxeAERep9Y",
+						"expanded_url": "https://twitter.com/btsportfootball/status/1649128797453574145/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1649128797453574100,
+						"source_status_id_str": "1649128797453574145",
+						"source_user_id": 2319121626,
+						"source_user_id_str": "2319121626"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1649128650497749000,
+						"id_str": "1649128650497748995",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/FuLhzlLWYAAL4Jo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuLhzlLWYAAL4Jo.jpg",
+						"url": "https://t.co/bxeAERep9Y",
+						"display_url": "pic.twitter.com/bxeAERep9Y",
+						"expanded_url": "https://twitter.com/btsportfootball/status/1649128797453574145/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1649128797453574100,
+						"source_status_id_str": "1649128797453574145",
+						"source_user_id": 2319121626,
+						"source_user_id_str": "2319121626",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 78538,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1649128650497748995/pl/4HW3iBSbkoq_stZZ.m3u8?tag=16&container=fmp4"
+								},
+								{
+									"bitrate": 10368000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1649128650497748995/vid/1920x1080/YColI_uMyAVMY-Ll.mp4?tag=16"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1649128650497748995/vid/1280x720/8ziUasfauYN9234M.mp4?tag=16"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1649128650497748995/vid/640x360/naqzEBTPWcnNxmUv.mp4?tag=16"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1649128650497748995/vid/480x270/UXSKRuR3jUnGUatI.mp4?tag=16"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Watch the Europa League live on BT Sport",
+							"monetizable": false,
+							"source_user": {
+								"id": 2319121626,
+								"id_str": "2319121626",
+								"name": "Football on BT Sport",
+								"screen_name": "btsportfootball",
+								"location": "",
+								"description": "The home of football on BT Sport",
+								"url": "https://t.co/USxmnaWwY5",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/USxmnaWwY5",
+												"expanded_url": "https://www.bt.com/sport/football",
+												"display_url": "bt.com/sport/football",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1900185,
+								"friends_count": 525,
+								"listed_count": 4612,
+								"created_at": "Thu Jan 30 15:49:13 +0000 2014",
+								"favourites_count": 3893,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 75533,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "FFFFFF",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1587029380139831298/B10e2Nv__normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587029380139831298/B10e2Nv__normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2319121626/1679139427",
+								"profile_link_color": "00A0D6",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 124189302,
+				"id_str": "124189302",
+				"name": "BT Sport",
+				"screen_name": "btsport",
+				"location": "Be There",
+				"description": "@btsportfootball ⚽️ @btsportrugby 🏉 @btsportboxing 👊 @btsportufc 💥 @btsportwwe 🙌 @btsportmotogp 🏍 @btsportcricket 🏏 @btsportscore 🏟",
+				"url": "https://t.co/gL4p6Bjvrb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gL4p6Bjvrb",
+								"expanded_url": "http://bt.com/sport/box-office",
+								"display_url": "bt.com/sport/box-offi…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1034292,
+				"friends_count": 531,
+				"listed_count": 2485,
+				"created_at": "Thu Mar 18 15:08:06 +0000 2010",
+				"favourites_count": 2982,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 44091,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1587029296903749633/yGViIylY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587029296903749633/yGViIylY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189302/1679139556",
+				"profile_link_color": "6400AA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 270,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/nVJQPYeoBW"
+	},
+	{
+		"created_at": "Thu Apr 20 21:21:58 +0000 2023",
+		"id": 1649161510336229400,
+		"id_str": "1649161510336229376",
+		"full_text": "#spursy @eops https://t.co/buOpxweHYi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "spursy",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eops",
+					"name": "BlackWaxSolution @eops@mastodon.world",
+					"id": 20243240,
+					"id_str": "20243240",
+					"indices": [
+						8,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/buOpxweHYi",
+					"expanded_url": "https://twitter.com/btsportfootball/status/1649155783647477773",
+					"display_url": "twitter.com/btsportfootbal…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 277,
+			"listed_count": 22,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1649155783647477800,
+		"quoted_status_id_str": "1649155783647477773",
+		"quoted_status_permalink": {
+			"url": "https://t.co/buOpxweHYi",
+			"expanded": "https://twitter.com/btsportfootball/status/1649155783647477773",
+			"display": "twitter.com/btsportfootbal…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 20 20:59:13 +0000 2023",
+			"id": 1649155783647477800,
+			"id_str": "1649155783647477773",
+			"full_text": "Man Utd bow out of the Europa League against Sevilla ❌\n\n@RobbieSavage8 pulls no punches in his post-match assessment... 🗣️\n\n#UEL https://t.co/GoD7ysJsSj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UEL",
+						"indices": [
+							124,
+							128
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RobbieSavage8",
+						"name": "Robbie Savage",
+						"id": 118739566,
+						"id_str": "118739566",
+						"indices": [
+							56,
+							70
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1649155612310216700,
+						"id_str": "1649155612310216706",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/FuL6VbIXwA4iO0B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuL6VbIXwA4iO0B.jpg",
+						"url": "https://t.co/GoD7ysJsSj",
+						"display_url": "pic.twitter.com/GoD7ysJsSj",
+						"expanded_url": "https://twitter.com/btsportfootball/status/1649155783647477773/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1649155612310216700,
+						"id_str": "1649155612310216706",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/FuL6VbIXwA4iO0B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuL6VbIXwA4iO0B.jpg",
+						"url": "https://t.co/GoD7ysJsSj",
+						"display_url": "pic.twitter.com/GoD7ysJsSj",
+						"expanded_url": "https://twitter.com/btsportfootball/status/1649155783647477773/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 98676,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1649155612310216706/vid/480x270/yWZwqBiNA8OzgITN.mp4?tag=16"
+								},
+								{
+									"bitrate": 10368000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1649155612310216706/vid/1920x1080/fV8dePHXklxlqSEP.mp4?tag=16"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1649155612310216706/pl/maPZcwJwbHuqhQmm.m3u8?tag=16&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1649155612310216706/vid/1280x720/VmGHlanOJZxbiAXR.mp4?tag=16"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1649155612310216706/vid/640x360/8M_BI3CNLZfpfoiS.mp4?tag=16"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Watch the Europa League live on BT Sport",
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2319121626,
+				"id_str": "2319121626",
+				"name": "Football on BT Sport",
+				"screen_name": "btsportfootball",
+				"location": "",
+				"description": "The home of football on BT Sport",
+				"url": "https://t.co/USxmnaWwY5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/USxmnaWwY5",
+								"expanded_url": "https://www.bt.com/sport/football",
+								"display_url": "bt.com/sport/football",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1900185,
+				"friends_count": 525,
+				"listed_count": 4612,
+				"created_at": "Thu Jan 30 15:49:13 +0000 2014",
+				"favourites_count": 3893,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 75533,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1587029380139831298/B10e2Nv__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587029380139831298/B10e2Nv__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2319121626/1679139427",
+				"profile_link_color": "00A0D6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 343,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "#spursy @eops https://t.co/buOpxweHYi"
+	},
+	{
 		"created_at": "Wed Apr 19 23:02:45 +0000 2023",
 		"id": 1648824484281954300,
 		"id_str": "1648824484281954311",
