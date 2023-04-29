@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 28 18:53:58 +0000 2023",
+		"id": 1652023367036223500,
+		"id_str": "1652023367036223530",
+		"full_text": "fantastic thread https://t.co/DAPBVBilwE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DAPBVBilwE",
+					"expanded_url": "https://twitter.com/Shamsdale/status/1651979012321755139",
+					"display_url": "twitter.com/Shamsdale/stat…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 275,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1651979012321755100,
+		"quoted_status_id_str": "1651979012321755139",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DAPBVBilwE",
+			"expanded": "https://twitter.com/Shamsdale/status/1651979012321755139",
+			"display": "twitter.com/Shamsdale/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 28 15:57:43 +0000 2023",
+			"id": 1651979012321755100,
+			"id_str": "1651979012321755139",
+			"full_text": "🧵 So Other Clubs Want to Talk About Arsenal “Bottling” the Premier League, a thread: https://t.co/5fKuW0dzO1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				84
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1651979008936910800,
+						"id_str": "1651979008936910855",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/Fu0CJ_QWIAc21cA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fu0CJ_QWIAc21cA.jpg",
+						"url": "https://t.co/5fKuW0dzO1",
+						"display_url": "pic.twitter.com/5fKuW0dzO1",
+						"expanded_url": "https://twitter.com/Shamsdale/status/1651979012321755139/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 748,
+								"h": 372,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 748,
+								"h": 372,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 338,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1651979008936910800,
+						"id_str": "1651979008936910855",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/Fu0CJ_QWIAc21cA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fu0CJ_QWIAc21cA.jpg",
+						"url": "https://t.co/5fKuW0dzO1",
+						"display_url": "pic.twitter.com/5fKuW0dzO1",
+						"expanded_url": "https://twitter.com/Shamsdale/status/1651979012321755139/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 748,
+								"h": 372,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 748,
+								"h": 372,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 338,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 290268907,
+				"id_str": "290268907",
+				"name": "St. Totteringsham",
+				"screen_name": "Shamsdale",
+				"location": "Area Zero, Paldea",
+				"description": "Iced latte connoisseur. Didn’t cost £55 million either. ✍🏽 for https://t.co/1FfWL976hi and @DailyAFC. 🎙 for @ThisWeekArsenal.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1FfWL976hi",
+								"expanded_url": "http://ltarsenal.com",
+								"display_url": "ltarsenal.com",
+								"indices": [
+									63,
+									86
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4825,
+				"friends_count": 570,
+				"listed_count": 72,
+				"created_at": "Sat Apr 30 00:55:46 +0000 2011",
+				"favourites_count": 21261,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 48113,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "85A98F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1563621392494592001/CtqfCxXx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1563621392494592001/CtqfCxXx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/290268907/1658093167",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "0E1C1C",
+				"profile_text_color": "4A7971",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1135,
+			"favorite_count": 6781,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "fantastic thread https://t.co/DAPBVBilwE"
+	},
+	{
 		"created_at": "Thu Apr 27 20:54:27 +0000 2023",
 		"id": 1651691298909298700,
 		"id_str": "1651691298909298696",
