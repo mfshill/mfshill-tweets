@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sat Apr 29 20:09:52 +0000 2023",
+		"id": 1652404856164950000,
+		"id_str": "1652404856164950020",
+		"full_text": "absolutely fantastic bit of cello playing. really challenging concerto to master. Brannon Cho and the Helsinki Philharmonic Orchestra\n\nProkofiev Sinfonia Concertante in E minor op. 125 https://t.co/ZRCdUa4wri",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZRCdUa4wri",
+					"expanded_url": "https://youtu.be/-rQyZYPvVew",
+					"display_url": "youtu.be/-rQyZYPvVew",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 275,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "absolutely fantastic bit of cello playing. really challenging concerto to master. Brannon Cho and the Helsinki Philharmonic Orchestra\n\nProkofiev Sinfonia Concertante in E minor op. 125 https://t.co/ZRCdUa4wri"
+	},
+	{
+		"created_at": "Sat Apr 29 20:03:07 +0000 2023",
+		"id": 1652403156565872600,
+		"id_str": "1652403156565872640",
+		"full_text": "An ominous heating event is unfolding in the oceans \nhttps://t.co/cIS5ZTSLBh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cIS5ZTSLBh",
+					"expanded_url": "https://arstechnica.com/science/2023/04/an-ominous-heating-event-is-unfolding-in-the-oceans/",
+					"display_url": "arstechnica.com/science/2023/0…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 275,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541909736030969858/cJoSXXWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1590002835",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An ominous heating event is unfolding in the oceans \nhttps://t.co/cIS5ZTSLBh"
+	},
+	{
+		"created_at": "Sat Apr 29 16:44:32 +0000 2023",
+		"id": 1652349552463061000,
+		"id_str": "1652353180406087680",
+		"full_text": "Last year, a @SciImmunology review highlighted the benefits of morning vaccination compared with afternoon/evening vaccination in humans. \n\nLearn more: https://t.co/nI5xPxQo3V #DayOfImmunology https://t.co/qWZtzeSjz5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DayOfImmunology",
+					"indices": [
+						176,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SciImmunology",
+					"name": "Science Immunology",
+					"id": 4002598402,
+					"id_str": "4002598402",
+					"indices": [
+						13,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nI5xPxQo3V",
+					"expanded_url": "https://scim.ag/2qh",
+					"display_url": "scim.ag/2qh",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1652349548642041900,
+					"id_str": "1652349548642041859",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/Fu5TKPOWAAMpXYQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fu5TKPOWAAMpXYQ.jpg",
+					"url": "https://t.co/qWZtzeSjz5",
+					"display_url": "pic.twitter.com/qWZtzeSjz5",
+					"expanded_url": "https://twitter.com/ScienceMagazine/status/1652349552463060992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1025,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1749,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 581,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1652349548642041900,
+					"id_str": "1652349548642041859",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/Fu5TKPOWAAMpXYQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fu5TKPOWAAMpXYQ.jpg",
+					"url": "https://t.co/qWZtzeSjz5",
+					"display_url": "pic.twitter.com/qWZtzeSjz5",
+					"expanded_url": "https://twitter.com/ScienceMagazine/status/1652349552463060992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1025,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1749,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 581,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.falcon.io\" rel=\"nofollow\">Brandwatch</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 32372834,
+			"id_str": "32372834",
+			"name": "Science Magazine",
+			"screen_name": "ScienceMagazine",
+			"location": "Washington, DC & Cambridge, UK",
+			"description": "The world's leading outlet for cutting-edge research in all areas of science. Follow @NewsfromScience for stories from our news team.",
+			"url": "https://t.co/2Xer0gk0P7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2Xer0gk0P7",
+							"expanded_url": "https://www.science.org/",
+							"display_url": "science.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3453994,
+			"friends_count": 486,
+			"listed_count": 19924,
+			"created_at": "Fri Apr 17 11:37:12 +0000 2009",
+			"favourites_count": 2219,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D32C2F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001918231752429568/wUNPvDdW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001918231752429568/wUNPvDdW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/32372834/1644344573",
+			"profile_link_color": "D32C2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0EAEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 198,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last year, a @SciImmunology review highlighted the benefits of morning vaccination compared with afternoon/evening vaccination in humans. \n\nLearn more: https://t.co/nI5xPxQo3V #DayOfImmunology https://t.co/qWZtzeSjz5"
+	},
+	{
 		"created_at": "Fri Apr 28 18:53:58 +0000 2023",
 		"id": 1652023367036223500,
 		"id_str": "1652023367036223530",
