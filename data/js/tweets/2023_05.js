@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Sun May 21 21:13:56 +0000 2023",
+		"id": 1660024353335935000,
+		"id_str": "1660393512754376704",
+		"full_text": "https://t.co/9fSB6WNoXo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1660024235006279700,
+					"id_str": "1660024235006279687",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1660024235006279687/img/9sW2PhcbsiZvHunx.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1660024235006279687/img/9sW2PhcbsiZvHunx.jpg",
+					"url": "https://t.co/9fSB6WNoXo",
+					"display_url": "pic.twitter.com/9fSB6WNoXo",
+					"expanded_url": "https://twitter.com/HumansNoContext/status/1660024353335934978/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1660024235006279700,
+					"id_str": "1660024235006279687",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1660024235006279687/img/9sW2PhcbsiZvHunx.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1660024235006279687/img/9sW2PhcbsiZvHunx.jpg",
+					"url": "https://t.co/9fSB6WNoXo",
+					"display_url": "pic.twitter.com/9fSB6WNoXo",
+					"expanded_url": "https://twitter.com/HumansNoContext/status/1660024353335934978/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 180934,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1660024235006279687/pl/mZHBB4DQDFyiJ5Vw.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1660024235006279687/vid/480x600/OrtWD06g6tC7efoA.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1660024235006279687/vid/320x400/OTyJpd8xd_1r8vy8.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1660024235006279687/vid/576x720/uFIwvBEA9gmD1ddI.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 855300206086168600,
+			"id_str": "855300206086168576",
+			"name": "NO CONTEXT HUMANS 👤",
+			"screen_name": "HumansNoContext",
+			"location": "",
+			"description": "Making your day brighter. Follow for daily smiles! 😄contact@humansnocontext.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4011439,
+			"friends_count": 0,
+			"listed_count": 7723,
+			"created_at": "Fri Apr 21 06:00:34 +0000 2017",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1596084569341677572/5wtqshRu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1596084569341677572/5wtqshRu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/855300206086168576/1676648132",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50524,
+		"favorite_count": 317777,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/9fSB6WNoXo"
+	},
+	{
 		"created_at": "Sat May 20 17:31:31 +0000 2023",
 		"id": 1659975150937297000,
 		"id_str": "1659975150937296899",
