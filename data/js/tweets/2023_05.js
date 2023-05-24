@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Tue May 23 21:44:44 +0000 2023",
+		"id": 1661126036745076700,
+		"id_str": "1661126036745076737",
+		"full_text": "John Wick: Chapter 4, nearly three hours, 169 MINUTES! to be exact of tedium. Never been so bored watching an action movie. 4/10 is being generous \n https://t.co/7wlHtpjxJb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7wlHtpjxJb",
+					"expanded_url": "https://www.imdb.com/title/tt10366206/",
+					"display_url": "imdb.com/title/tt103662…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 278,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1657508767703920642/_2KCJqf0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1657508767703920642/_2KCJqf0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1682883569",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "John Wick: Chapter 4, nearly three hours, 169 MINUTES! to be exact of tedium. Never been so bored watching an action movie. 4/10 is being generous \n https://t.co/7wlHtpjxJb"
+	},
+	{
+		"created_at": "Tue May 23 19:38:01 +0000 2023",
+		"id": 1660962127698428000,
+		"id_str": "1661094149322317835",
+		"full_text": "In the early 70s, Stanley Kubrick felt he’d been left behind in certain genres. The Exorcist was a huge success in 1973 so Kubrick was keen on horror. He said he wanted to make, “the world’s scariest movie that would play upon nightmare fears of the audience.”\n\n2/34 https://t.co/MDIRGAfF12",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1660959356483936300,
+					"id_str": "1660959356483936258",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FwzpvA2WIAIaVZF.png",
+					"media_url_https": "https://pbs.twimg.com/media/FwzpvA2WIAIaVZF.png",
+					"url": "https://t.co/MDIRGAfF12",
+					"display_url": "pic.twitter.com/MDIRGAfF12",
+					"expanded_url": "https://twitter.com/ATRightMovies/status/1660962127698427907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 855,
+							"h": 571,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 855,
+							"h": 571,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1660959356483936300,
+					"id_str": "1660959356483936258",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FwzpvA2WIAIaVZF.png",
+					"media_url_https": "https://pbs.twimg.com/media/FwzpvA2WIAIaVZF.png",
+					"url": "https://t.co/MDIRGAfF12",
+					"display_url": "pic.twitter.com/MDIRGAfF12",
+					"expanded_url": "https://twitter.com/ATRightMovies/status/1660962127698427907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 855,
+							"h": 571,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 855,
+							"h": 571,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1660959365057110000,
+					"id_str": "1660959365057110018",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FwzpvgyWYAID-A2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwzpvgyWYAID-A2.jpg",
+					"url": "https://t.co/MDIRGAfF12",
+					"display_url": "pic.twitter.com/MDIRGAfF12",
+					"expanded_url": "https://twitter.com/ATRightMovies/status/1660962127698427907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 604,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1067,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1660962125588705300,
+		"in_reply_to_status_id_str": "1660962125588705280",
+		"in_reply_to_user_id": 1419688307529818000,
+		"in_reply_to_user_id_str": "1419688307529818116",
+		"in_reply_to_screen_name": "ATRightMovies",
+		"user": {
+			"id": 1419688307529818000,
+			"id_str": "1419688307529818116",
+			"name": "All The Right Movies",
+			"screen_name": "ATRightMovies",
+			"location": "UK",
+			"description": "Twitter's best account on classic and hit films. To support what we do, please subscribe 😁",
+			"url": "https://t.co/dARf0l6WCR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dARf0l6WCR",
+							"expanded_url": "https://alltherightmovies.com",
+							"display_url": "alltherightmovies.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 336928,
+			"friends_count": 125,
+			"listed_count": 1612,
+			"created_at": "Mon Jul 26 15:59:01 +0000 2021",
+			"favourites_count": 15501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437108005611376640/csYpL-HY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437108005611376640/csYpL-HY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1419688307529818116/1639799822",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 1381,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the early 70s, Stanley Kubrick felt he’d been left behind in certain genres. The Exorcist was a huge success in 1973 so Kubrick was keen on horror. He said he wanted to make, “the world’s scariest movie that would play upon nightmare fears of the audience.”\n\n2/34 https://t.co/MDIRGAfF12"
+	},
+	{
 		"created_at": "Sun May 21 21:13:56 +0000 2023",
 		"id": 1660024353335935000,
 		"id_str": "1660393512754376704",
