@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Sat May 27 19:13:56 +0000 2023",
+		"id": 1662537640053293000,
+		"id_str": "1662537640053293057",
+		"full_text": "why do we follow orbs?! https://t.co/5aDsjjB4hD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5aDsjjB4hD",
+					"expanded_url": "https://twitter.com/Orbinho/status/1662537165526499332",
+					"display_url": "twitter.com/Orbinho/status…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 278,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1657508767703920642/_2KCJqf0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1657508767703920642/_2KCJqf0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1682883569",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1662537165526499300,
+		"quoted_status_id_str": "1662537165526499332",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5aDsjjB4hD",
+			"expanded": "https://twitter.com/Orbinho/status/1662537165526499332",
+			"display": "twitter.com/Orbinho/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 27 19:12:03 +0000 2023",
+			"id": 1662537165526499300,
+			"id_str": "1662537165526499332",
+			"full_text": "Arsenal have won none, drawn six and lost four of the last 10 trips to Kenilworth Road in all competitions.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60026651,
+				"id_str": "60026651",
+				"name": "Orbinho",
+				"screen_name": "Orbinho",
+				"location": "London",
+				"description": "Arsenal facts. Head of Opta Data Editorial since the end of the 20th Century. Creator of @OptaJoe Trying to convince people to use data better.",
+				"url": "https://t.co/tp2WFgdPlv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tp2WFgdPlv",
+								"expanded_url": "https://www.statsperform.com/",
+								"display_url": "statsperform.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 137460,
+				"friends_count": 405,
+				"listed_count": 2309,
+				"created_at": "Sat Jul 25 09:55:31 +0000 2009",
+				"favourites_count": 1229,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 38995,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/588984322130083840/bc56JV5r_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/588984322130083840/bc56JV5r_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/60026651/1356111874",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 140,
+			"favorite_count": 1283,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "why do we follow orbs?! https://t.co/5aDsjjB4hD"
+	},
+	{
+		"created_at": "Sat May 27 18:20:41 +0000 2023",
+		"id": 1662524238987665400,
+		"id_str": "1662524238987665408",
+		"full_text": "NHS data breach: trusts shared patient details with Facebook without consent https://t.co/Mabdmv7aS9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mabdmv7aS9",
+					"expanded_url": "https://www.theguardian.com/society/2023/may/27/nhs-data-breach-trusts-shared-patient-details-with-facebook-meta-without-consent",
+					"display_url": "theguardian.com/society/2023/m…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 278,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1657508767703920642/_2KCJqf0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1657508767703920642/_2KCJqf0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1682883569",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NHS data breach: trusts shared patient details with Facebook without consent https://t.co/Mabdmv7aS9"
+	},
+	{
+		"created_at": "Sat May 27 16:10:04 +0000 2023",
+		"id": 1662491368936071200,
+		"id_str": "1662491368936071180",
+		"full_text": "what an end to the #Giro! gutted for Geraint but Roglič absolutely smashed that time trial.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Giro",
+					"indices": [
+						19,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 278,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1657508767703920642/_2KCJqf0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1657508767703920642/_2KCJqf0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1682883569",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "what an end to the #Giro! gutted for Geraint but Roglič absolutely smashed that time trial."
+	},
+	{
 		"created_at": "Thu May 25 21:28:49 +0000 2023",
 		"id": 1661846809512124400,
 		"id_str": "1661846809512124419",
