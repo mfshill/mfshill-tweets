@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Wed Jun 07 20:58:44 +0000 2023",
+		"id": 1666548524329103400,
+		"id_str": "1666550282296107010",
+		"full_text": "https://t.co/yxxGId3gFN https://t.co/OgyFlmdoZU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yxxGId3gFN",
+					"expanded_url": "https://twitter.com/sbnation/status/1666439708199604225",
+					"display_url": "twitter.com/sbnation/statu…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1666548518973055000,
+					"id_str": "1666548518973054977",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FyDFDFpXoAEapES.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyDFDFpXoAEapES.jpg",
+					"url": "https://t.co/OgyFlmdoZU",
+					"display_url": "pic.twitter.com/OgyFlmdoZU",
+					"expanded_url": "https://twitter.com/B4TTL3S/status/1666548524329103361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 585,
+							"h": 351,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 585,
+							"h": 351,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 585,
+							"h": 351,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1666548518973055000,
+					"id_str": "1666548518973054977",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FyDFDFpXoAEapES.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyDFDFpXoAEapES.jpg",
+					"url": "https://t.co/OgyFlmdoZU",
+					"display_url": "pic.twitter.com/OgyFlmdoZU",
+					"expanded_url": "https://twitter.com/B4TTL3S/status/1666548524329103361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 585,
+							"h": 351,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 585,
+							"h": 351,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 585,
+							"h": 351,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 856911434860699600,
+			"id_str": "856911434860699648",
+			"name": "battles",
+			"screen_name": "B4TTL3S",
+			"location": "",
+			"description": "still writing letters to the families of the deceased",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6229,
+			"friends_count": 526,
+			"listed_count": 7,
+			"created_at": "Tue Apr 25 16:43:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1661707720221773827/OZr9FaPd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1661707720221773827/OZr9FaPd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/856911434860699648/1685103041",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1666439708199604200,
+		"quoted_status_id_str": "1666439708199604225",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yxxGId3gFN",
+			"expanded": "https://twitter.com/sbnation/status/1666439708199604225",
+			"display": "twitter.com/sbnation/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 07 13:39:22 +0000 2023",
+			"id": 1666439708199604200,
+			"id_str": "1666439708199604225",
+			"full_text": "Is Baby Gronk the new Drip King, or is he just getting rizzed up by Livvy? https://t.co/Wr9akbufrP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Wr9akbufrP",
+						"expanded_url": "https://trib.al/MEJSa9C",
+						"display_url": "trib.al/MEJSa9C",
+						"indices": [
+							75,
+							98
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16745015,
+				"id_str": "16745015",
+				"name": "SB Nation",
+				"screen_name": "SBNation",
+				"location": "",
+				"description": "the S stands for sports and the B stands for blogs",
+				"url": "https://t.co/KRpCNmLw68",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KRpCNmLw68",
+								"expanded_url": "http://sbnation.com",
+								"display_url": "sbnation.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 300679,
+				"friends_count": 1065,
+				"listed_count": 4691,
+				"created_at": "Tue Oct 14 20:17:11 +0000 2008",
+				"favourites_count": 9249,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 319240,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BBB8B7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1144296456939016193/ztr7g6Iy_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144296456939016193/ztr7g6Iy_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16745015/1648143892",
+				"profile_link_color": "C52126",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E4E4E4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 56,
+			"favorite_count": 256,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/yxxGId3gFN https://t.co/OgyFlmdoZU"
+	},
+	{
 		"created_at": "Tue Jun 06 11:44:30 +0000 2023",
 		"id": 1666048414407073800,
 		"id_str": "1666048414407073795",
