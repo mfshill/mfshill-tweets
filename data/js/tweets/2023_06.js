@@ -1,6 +1,549 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Thu Jun 08 18:37:16 +0000 2023",
+		"id": 1666859826750664700,
+		"id_str": "1666877066594091009",
+		"full_text": "Tour de France: Unchained 🎞️\n\nThe eight part @netflix series focuses on last year's @LeTour, and the stars of the series are all on @Strava!  Get a front row seat for the Tour de France 2023 today by following the key characters of the Netflix show: https://t.co/yhttMZMeJb https://t.co/05xwqJrIRl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "netflix",
+					"name": "Netflix",
+					"id": 16573941,
+					"id_str": "16573941",
+					"indices": [
+						45,
+						53
+					]
+				},
+				{
+					"screen_name": "LeTour",
+					"name": "Tour de France™",
+					"id": 153403071,
+					"id_str": "153403071",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"screen_name": "Strava",
+					"name": "Strava",
+					"id": 42924530,
+					"id_str": "42924530",
+					"indices": [
+						132,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yhttMZMeJb",
+					"expanded_url": "https://www.strava.com/clubs/231407/posts/24494725",
+					"display_url": "strava.com/clubs/231407/p…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1666859824280219600,
+					"id_str": "1666859824280219651",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FyHgLcSXsAMx0IN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyHgLcSXsAMx0IN.jpg",
+					"url": "https://t.co/05xwqJrIRl",
+					"display_url": "pic.twitter.com/05xwqJrIRl",
+					"expanded_url": "https://twitter.com/Strava/status/1666859826750664725/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1666859824280219600,
+					"id_str": "1666859824280219651",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FyHgLcSXsAMx0IN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyHgLcSXsAMx0IN.jpg",
+					"url": "https://t.co/05xwqJrIRl",
+					"display_url": "pic.twitter.com/05xwqJrIRl",
+					"expanded_url": "https://twitter.com/Strava/status/1666859826750664725/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42924530,
+			"id_str": "42924530",
+			"name": "Strava",
+			"screen_name": "Strava",
+			"location": "San Francisco, California",
+			"description": "Record. Sweat. Share. Kudos.",
+			"url": "https://t.co/89NZ57dSxE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/89NZ57dSxE",
+							"expanded_url": "http://www.strava.com",
+							"display_url": "strava.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 223679,
+			"friends_count": 1219,
+			"listed_count": 2400,
+			"created_at": "Wed May 27 17:02:36 +0000 2009",
+			"favourites_count": 8376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/900411562250256384/ALkwa0jf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/900411562250256384/ALkwa0jf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42924530/1589836688",
+			"profile_link_color": "FC4C02",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCF9F9",
+			"profile_text_color": "474747",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 294,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tour de France: Unchained 🎞️\n\nThe eight part @netflix series focuses on last year's @LeTour, and the stars of the series are all on @Strava!  Get a front row seat for the Tour de France 2023 today by following the key characters of the Netflix show: https://t.co/yhttMZMeJb https://t.co/05xwqJrIRl"
+	},
+	{
+		"created_at": "Thu Jun 08 15:20:13 +0000 2023",
+		"id": 1666827476218044400,
+		"id_str": "1666827476218044416",
+		"full_text": "will be watching #TDFUnchained later! https://t.co/vD8McvWpzj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TDFUnchained",
+					"indices": [
+						17,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vD8McvWpzj",
+					"expanded_url": "https://twitter.com/GeraintThomas86/status/1666805778588778497",
+					"display_url": "twitter.com/GeraintThomas8…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424142,
+			"id_str": "95424142",
+			"name": "Hilly",
+			"screen_name": "mfshill",
+			"location": "Null Island",
+			"description": "\"Força, Equilibri, Valor y Seny\" (Strength, balance, courage & common sense)\n\"vei lomani\" (work together; love one another)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 280,
+			"listed_count": 21,
+			"created_at": "Tue Dec 08 13:51:57 +0000 2009",
+			"favourites_count": 1551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1666532187955503109/g4q8kRmz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1666532187955503109/g4q8kRmz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424142/1686167395",
+			"profile_link_color": "9D6238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDE1B0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1666805778588778500,
+		"quoted_status_id_str": "1666805778588778497",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vD8McvWpzj",
+			"expanded": "https://twitter.com/GeraintThomas86/status/1666805778588778497",
+			"display": "twitter.com/GeraintThomas8…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 08 13:54:00 +0000 2023",
+			"id": 1666805778588778500,
+			"id_str": "1666805778588778497",
+			"full_text": "Enjoy #TDFUnchained everyone. Cheers Sa 👍 https://t.co/w7xVtbNlxn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				41
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TDFUnchained",
+						"indices": [
+							6,
+							19
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1666805771500396500,
+						"id_str": "1666805771500396544",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/FyGvBJ_aIAAFCiD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FyGvBJ_aIAAFCiD.jpg",
+						"url": "https://t.co/w7xVtbNlxn",
+						"display_url": "pic.twitter.com/w7xVtbNlxn",
+						"expanded_url": "https://twitter.com/GeraintThomas86/status/1666805778588778497/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1416,
+								"h": 1416,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1666805771500396500,
+						"id_str": "1666805771500396544",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/FyGvBJ_aIAAFCiD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FyGvBJ_aIAAFCiD.jpg",
+						"url": "https://t.co/w7xVtbNlxn",
+						"display_url": "pic.twitter.com/w7xVtbNlxn",
+						"expanded_url": "https://twitter.com/GeraintThomas86/status/1666805778588778497/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1416,
+								"h": 1416,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1666805771433296000,
+						"id_str": "1666805771433295874",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/FyGvBJvaQAIw5T_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FyGvBJvaQAIw5T_.jpg",
+						"url": "https://t.co/w7xVtbNlxn",
+						"display_url": "pic.twitter.com/w7xVtbNlxn",
+						"expanded_url": "https://twitter.com/GeraintThomas86/status/1666805778588778497/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1416,
+								"h": 1416,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 155320577,
+				"id_str": "155320577",
+				"name": "Geraint Thomas",
+				"screen_name": "GeraintThomas86",
+				"location": "",
+				"description": "Winner TdF 2018. Double Olympic Gold Medallist. Commonwealth Games Road Champ. 3x World Champ. All enquiries: info@rocketsports.co.uk",
+				"url": "https://t.co/NIoR0wRQkl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NIoR0wRQkl",
+								"expanded_url": "http://linktr.ee/geraintthomas86",
+								"display_url": "linktr.ee/geraintthomas86",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 517339,
+				"friends_count": 640,
+				"listed_count": 5130,
+				"created_at": "Sun Jun 13 20:19:52 +0000 2010",
+				"favourites_count": 308,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6064,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1518601828149116930/kw8PjuL4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1518601828149116930/kw8PjuL4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/155320577/1355158444",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 158,
+			"favorite_count": 3357,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "will be watching #TDFUnchained later! https://t.co/vD8McvWpzj"
+	},
+	{
 		"created_at": "Wed Jun 07 20:58:44 +0000 2023",
 		"id": 1666548524329103400,
 		"id_str": "1666550282296107010",
